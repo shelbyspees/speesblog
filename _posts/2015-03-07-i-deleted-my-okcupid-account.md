@@ -56,4 +56,4 @@ I don't want to enumerate the qualities I'd like in a boyfriend. Listing all of 
 
 I'm not perfect. I have a lot to improve on my end. Apparently I don't even like myself that much, so why should I expect other people to like me? But none of that really matters. I can't expect Prince Charming to come sweep me off my feet and make everything happy. (Plus I prefer Hook anyway. Or Graham. #sadcrush #OnceUponATime)
 
-Becca told me the other day that I should date myself. If I treated myself as well as I treat whatever guy is flavor of the week, or as well as I wish he treated me, I think I'd be a little more content.
+Becca told me the other day that I should date myself. If I treated myself as well as I treat whatever guy is flavor of the week, or as well as I wish he treated me, I think I'd be a little more content.s
