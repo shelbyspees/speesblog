@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Test"
-date:   2015-03-09 00:16:53
-categories: blah
 ---
 
 Testing 1, 2, 3.
