@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: "Book Review: The 7 Habits of Highly Effective People"
 ---
 
