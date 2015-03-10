@@ -1,6 +1,6 @@
 ---
-layout: post
-title: The Leadership Challenge: First Lead Yourself
+layout: "post"
+title: "The Leadership Challenge: First Lead Yourself"
 ---
 I left my tablet charging at work. Had to crack open an [actual physical book](http://www.amazon.com/The-Leadership-Challenge-4th-Edition/dp/0787984922) to read before bed.
 
