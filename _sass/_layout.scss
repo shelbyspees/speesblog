@@ -10,6 +10,13 @@
     position: relative;
 }
 
+.header-cont {
+    width:100%;
+    position:fixed;
+    top:0px;
+}
+
+
 .site-title {
     font-size: 26px;
     line-height: 56px;
@@ -163,6 +170,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    margin: 70px auto;
 }
 
 .page-heading {
