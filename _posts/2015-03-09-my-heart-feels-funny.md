@@ -16,9 +16,7 @@ Talking about the worst case scenario will jinx it, but not being prepared for t
 
 ---
 
-I'm just not ready to lose her yet.
-
-She looks so young. When she told me about the cancer I could just see it in her face. She needs me, and I need her.
+I'm just not ready to lose her yet. When she told me about the cancer I could just see it in her face. She needs me, and I need her.
 
 I'm a crappy daughter. The best I could do was buy her flowers and watch TV with her. Sure, I'll buy groceries and make sure the house stays clean while she recovers. But I'm not really there for her, emotionally.
 
