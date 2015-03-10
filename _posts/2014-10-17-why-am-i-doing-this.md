@@ -2,7 +2,6 @@
 layout: post
 title: Why am I doing this?
 ---
-
 "I want to get good at this." But why?
 
 I've always liked computers. I'm smart. I should do smart things with computers. There's a talent shortage in the tech industry. We need more women in tech. It makes good money. There are plenty of jobs.

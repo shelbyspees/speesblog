@@ -2,7 +2,6 @@
 layout: post
 title: Biggest Weakness
 ---
-
 It's taken me a long time to figure this out. I've been doing a lot of introspection over the past year or so and this question always stumped me. But recently I've been struggling with my internal motivation and my willpower. It's a huge mental block for me.
 
 My biggest weakness is that I'm not motivated by my own success. I will bend over backwards to do nice things for people, to put a smile on someone else's face. If someone needs me, I'm there. I'm a team player, I'm positive and cheerful. I'm quick and smart. But I honestly don't want to try to improve myself.

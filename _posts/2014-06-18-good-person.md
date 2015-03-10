@@ -2,7 +2,6 @@
 layout: post
 title: Do you consider yourself a good person?
 ---
-
 What is a good person? Everybody is multi-faceted, everyone has good behavior and bad behavior. My moral compass is somewhere along the lines of, "Do no harm." But I break this on a daily basis.
 
 How much harm do I do when I drive to work instead of riding my bike? How bad is it when I eat normal meat instead of buying it from a local, sustainable, free-range sources? What about the plastic cup I just threw out, or the extra-long shower I took earlier?

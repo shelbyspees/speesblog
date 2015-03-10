@@ -2,7 +2,6 @@
 layout: post
 title: I have so many thoughts
 ---
-
 I'm so tired but I can't turn off my brain.
 
 This time last year I was obsessing over [The 7 Habits of Highly Effective People](http://www.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1413354191&sr=8-1&keywords=7+habits+of+highly+effective+people).

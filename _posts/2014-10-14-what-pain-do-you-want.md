@@ -2,7 +2,6 @@
 layout: post
 title: What pain do you want in your life?
 ---
-
 [Mark Manson wrote](http://markmanson.net/question) an insightful article over there on his blog.
 
 >I was in love with the result — the image of me on stage, people cheering, me rocking out, pouring my heart into what I’m playing — but I wasn’t in love with the process.

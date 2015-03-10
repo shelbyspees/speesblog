@@ -2,6 +2,9 @@
 layout: post
 title: Book Review: The 7 Habits of Highly Effective People
 ---
+
+[**The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change**](http://smile.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1423798461&sr=8-1&keywords=7+habits) by Stephen R. Covey
+
 1. Be Proactive
 2. Begin with the End in Mind
 3. Put First Things First
@@ -90,7 +93,7 @@ Of course not every student needed or wanted advice, but most were there to impr
 
 Here's an example of the repercussions of not following this guideline in the field of software:
 
-
+[image]
 
 Understanding the market, understanding customer needs, that's what builds a legacy. Understanding stakeholders and constituents is what helps the most people. Understanding your loved ones gives you the most influence, and it gives you the ability to wield that influence like a paintbrush rather than a club.
 

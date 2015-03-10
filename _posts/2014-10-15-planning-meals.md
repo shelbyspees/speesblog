@@ -2,7 +2,6 @@
 layout: post
 title: Planning Meals
 ---
-
 I used to have a problem with binge eating disorder. I suppose I still do. I'm in remission? Or something.
 
 Lately I haven't had much of an appetite. This is not unhealthy in itself. It's nice that I don't associate a mild hunger pang with crushing despair at this point.

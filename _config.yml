@@ -1,6 +1,6 @@
 # Site settings
 title: speesblog
-email: shelbyspees@gmail.com
+email: speesbag@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Under construction.
 baseurl: "/speesblog" # the subpath of your site, e.g. /blog/
