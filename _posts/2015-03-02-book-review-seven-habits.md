@@ -53,7 +53,7 @@ Habit 2 was about the bird's-eye view of how you want your life to be. Habit 3 i
 
 Putting first things first is about doing the things that are available to you now to get you closer to your Habit 2 Self. The Urgency vs. Importance metric is super useful to understand here.
 
-
+[image]
 
 These are just some token examples, but I want you to notice Quadrant II. Exercise, meditation, stretching, studying--the things I'm most likely to put off.
 
