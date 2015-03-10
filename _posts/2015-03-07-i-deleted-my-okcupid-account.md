@@ -2,6 +2,9 @@
 layout: post
 title: I deleted my OkCupid account
 ---
+
+###It is done
+
 After nearly four years, hundreds of messages, dozens of first dates, quite a few crushes, and zero meaningful relationships, I decided to delete my OkCupid account.
 
 I met some really cool people. I met some really cute guys. Never met any creepers, although occasionally I'd get some weird messages from dudes twice my age.
@@ -18,9 +21,11 @@ Annoying, but it wasn't hard to filter out those messages to find decent ones. I
 
 Or at least that's what I tell myself. Maybe all of this was an exercise in narcissism. I spent more time looking at my own profile and questions than all the other profiles put together. It felt how MySpace felt back in high school, but now with online shopping for cute boys. (So, exactly the same.)
 
-So it's entirely possible that each first date was just for my own entertainment. I love talking about myself (if you couldn't tell already) and on dates I could talk about myself while my ego was being stroked by male attention. 
+So it's entirely possible that each first date was just for my own entertainment. I love talking about myself (if you couldn't tell already) and on dates I could talk about myself while my ego was being stroked by male attention. And I'd usually get free food--although I always offered to pay. Twice. That's my protocol. If you insist after I ask "Are you sure?" then you get to enjoy whatever pleasure paying for me brings you.
 
 ---
+
+###Advice
 
 I really wanted to resist the advice and nagging I'd get from older women. I mean, what did my mom know about dating? She married her high school sweetheart! She'd say, "You can't give them everything right away. They have to work for it."
 
@@ -34,6 +39,8 @@ I guess now I can get a reputation by posting this but I honestly don't care. Th
 
 ---
 
+###Stigma
+
 Meeting people online does have a stigma, though. I got over it eventually. This past year when people asked me where I met my latest interest I'd say, "The internet. That's where I meet all of them." And it was true.
 
 I mean, how are you supposed to meet people around here? I can't date coworkers, I have nothing in common with most people who live here. It's not like I (or any of my friends) can afford to go out to bars and clubs. And if we do go out, there's no guarantee that any of the people there will be remotely cool, let alone people I want to meet. And while some people talk to strangers, the kinds of people I click with the most tend to be least likely to welcome being approached by/approaching randoms. 
@@ -43,6 +50,8 @@ OkCupid was great because it filtered out everyone I had nothing in common with.
 But I've gotten in cars with strangers, gone to strangers' houses the first time I met them, gotten drunk with people before even learning their last name. When I tell people this they look at me like I'm crazy, but isn't my date in just as much danger as I am? Aren't I just as much of a threat? I mean, sure, men and women possess different anatomical features. But pharmacology has evened the playing field. It's 2015, people! Women can be creeps just as easily as men.
 
 ---
+
+###The Goal
 
 So the real question is this: **What was I looking for?**
 
@@ -56,4 +65,4 @@ I don't want to enumerate the qualities I'd like in a boyfriend. Listing all of 
 
 I'm not perfect. I have a lot to improve on my end. Apparently I don't even like myself that much, so why should I expect other people to like me? But none of that really matters. I can't expect Prince Charming to come sweep me off my feet and make everything happy. (Plus I prefer Hook anyway. Or Graham. #sadcrush #OnceUponATime)
 
-Becca told me the other day that I should date myself. If I treated myself as well as I treat whatever guy is flavor of the week, or as well as I wish he treated me, I think I'd be a little more content.s
+Becca told me the other day that I should date myself. If I treated myself as well as I treat whatever guy is flavor of the week, or as well as I wish he treated me, I think I'd be a little more content.
