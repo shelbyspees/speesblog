@@ -12,7 +12,13 @@ permalink: /reading/
 
 ###Working in Software
 
+![Facts and Fallacies of Software Engineering]({{ site.url }}/assets/facts-and-fallacies.jpg)
+
+<img src="./assets/facts-and-fallacies.jpg"/>
+
 [Facts and Fallacies of Software Engineering](http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert-ebook/dp/B001TKD4RG/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-2&qid=1424666218) by Robert L. Glass
+
+![Code Complete, 2nd Ed.]({{ site.url }}/assets/codecomplete2.jpg)
 
 [*Code Complete, 2nd Ed.*](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?ie=UTF8&qid=1424467980&sr=8-1&keywords=code+complete) by Steve McConnell
 
