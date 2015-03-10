@@ -16,15 +16,15 @@ permalink: /reading/
 
 [Facts and Fallacies of Software Engineering](http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert-ebook/dp/B001TKD4RG/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-2&qid=1424666218) by Robert L. Glass
 
-<img src="{{ site.url }}/assets/codecomplete2.jpg)=" alt="Code Complete, 2nd Ed."/>
+<img src="{{ site.url }}/assets/codecomplete2.jpg)" alt="Code Complete, 2nd Ed."/>
 
 [*Code Complete, 2nd Ed.*](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?ie=UTF8&qid=1424467980&sr=8-1&keywords=code+complete) by Steve McConnell
 
-<img src="{{ site.url }}/assets/thepragmaticprogrammer.jpg)=" alt="The Pragmatic Programmer"/>
+<img src="{{ site.url }}/assets/thepragmaticprogrammer.jpg)" alt="The Pragmatic Programmer"/>
 
 [*The Pragmatic Programmer: From Journeyman to Master*](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=pd_bxgy_b_img_y) by Andrew Hunt
 
-<img src="{{ site.url }}/assets/technicalleader.jpg)=" alt="Becoming a Technical Leader"/>
+<img src="{{ site.url }}/assets/technicalleader.jpg)" alt="Becoming a Technical Leader"/>
 
 [**Becoming a Technical Leader**](http://smile.amazon.com/gp/product/B004J4VV3I/ref=kinw_myk_ro_title) by Gerald Weinberg
 
