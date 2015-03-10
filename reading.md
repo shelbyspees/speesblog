@@ -3,9 +3,17 @@ layout: page
 title: Reading
 permalink: /reading/
 ---
+
+####Jump to:
+
+* [Semi-Technical Reads](#technical)
+* [Working in Software](#career)
+* [Self-Improvement and Social Psychology](#psych)
+* [Health and Fitness](#health)
+
 ---
 
-##Semi-Technical Reads
+<h2 id="technical">Semi-Technical Reads</h2>
 
 ---
 
@@ -53,7 +61,7 @@ We're using this for my algorithms class this spring.
 
 ---
 
-##Working in Software
+<h2 id="career">Working in Software</h2>
 
 ---
 <img src="{{ site.url }}/assets/facts-and-fallacies.jpg" alt="Facts and Fallacies of Software Engineering"/>
@@ -147,7 +155,7 @@ Great read, lots to discuss here. I'm a big fan of the growth mindset promoted i
 
 ---
 
-##Self-Improvement and Social Psychology
+<h2 id="psych">Self-Improvement and Social Psychology</h2>
 
 ---
 
@@ -255,7 +263,7 @@ Check out my [book review here.](http://shelbyspees.github.io/speesblog/2015/03/
 
 ---
 
-##Health and Fitness
+<h2 id="health">Health and Fitness</h2>
 
 ---
 
