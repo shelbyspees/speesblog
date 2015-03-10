@@ -7,6 +7,12 @@ permalink: /reading/
 
 ##Semi-Technical Reads
 
+![TCP/IP For Dummies]({{ site.url }}/assets/tcp-ip.jpg)
+
+[TCP/IP For Dummies](http://smile.amazon.com/TCP-IP-Dummies-Candace-Leiden-ebook/dp/B002MZUPUG/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-6&qid=1425965841)
+
+<i class="fa fa-refresh"></i> In Progress
+
 ---
 
 <img src="{{ site.url }}/assets/javascriptthegoodparts.jpg" alt="JavaScript: The Good Parts"/>
