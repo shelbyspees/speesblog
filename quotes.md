@@ -4,7 +4,7 @@ title: Quotes
 permalink: /quotes/
 ---
 
->"Life's most persistent and urgent question is, 'What are you doing for others?'"  
+>"Life's most persistent and urgent question is, 'What are you doing for others?'"    
 >-- Martin Luther King, Jr.
 
 [twitter url="https://twitter.com/speesbag/status/530379159168512000"]
