@@ -3,8 +3,6 @@ layout: post
 title: I deleted my OkCupid account
 ---
 
-###It is done
-
 After nearly four years, hundreds of messages, dozens of first dates, quite a few crushes, and zero meaningful relationships, I decided to delete my OkCupid account.
 
 I met some really cool people. I met some really cute guys. Never met any creepers, although occasionally I'd get some weird messages from dudes twice my age.
