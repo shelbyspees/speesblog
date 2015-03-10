@@ -12,9 +12,7 @@ permalink: /reading/
 
 ###Working in Software
 
-![Facts and Fallacies of Software Engineering]({{ site.url }}/assets/facts-and-fallacies.jpg)
-
-<img src="./assets/facts-and-fallacies.jpg"/>
+<img src="{{ site.url }}/assets/facts-and-fallacies.jpg" alt="Facts and Fallacies of Software Engineering"/>
 
 [Facts and Fallacies of Software Engineering](http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert-ebook/dp/B001TKD4RG/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-2&qid=1424666218) by Robert L. Glass
 
