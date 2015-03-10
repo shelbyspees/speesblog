@@ -2,7 +2,6 @@
 layout: post
 title: Book Review: The 7 Habits of Highly Effective People
 ---
-
 [**The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change**](http://smile.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1423798461&sr=8-1&keywords=7+habits) by Stephen R. Covey
 
 1. Be Proactive
