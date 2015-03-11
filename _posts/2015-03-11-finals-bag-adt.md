@@ -38,7 +38,7 @@ The binary search tree really shines when it comes to the bag's `contains` funct
 
 Basically, computers can't understanding non-arbitrary things. Computers are fast and stupid, while humans are slow and smart. Humans can narrow down a bunch of data by semantic category, for example ("Well, all of these words over here are baby names, so I won't find any Britney Spears songs there."). Computers will never be able to natively attribute meaning to data, which is why we have [JSON files](), for example.
 
-To touch on a much broader topic, this is why self-writing software is still many years away. While [Google's video-game playing AI]() might learn really quickly, it won't be able to handle the ever-changing needs of software stakeholders. At the end of the day, software is a tool to solve [human problems]({{ site.url }}/2015/03/01/read-the-humanities.html), so
+To touch on a much broader topic, this is why self-writing software is still many years away. While [Google's video-game playing AI]() might learn really quickly, it won't be able to handle the ever-changing needs of software stakeholders. At the end of the day, software is a tool to solve [human problems]({% post_url 2015-03-01-read-the-humanities %}), so
 
 Anyway, binary search tree. So if you want to make it significantly quicker for your program to find a specific chunk of data in your bag, make it easy for the computer to narrow it down on computer terms. We'll use integers as an example, because it's really easy for both humans and computers to compare integers.
 
