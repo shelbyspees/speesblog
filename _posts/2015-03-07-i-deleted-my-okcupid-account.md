@@ -21,9 +21,7 @@ Or at least that's what I tell myself. Maybe all of this was an exercise in narc
 
 So it's entirely possible that each first date was just for my own entertainment. I love talking about myself (if you couldn't tell already) and on dates I could talk about myself while my ego was being stroked by male attention. And I'd usually get free food--although I always offered to pay. Twice. That's my protocol. If you insist after I ask "Are you sure?" then you get to enjoy whatever pleasure paying for me brings you.
 
----
-
-###Advice
+<h3 class="anchor" id="advice">Advice</h3>
 
 I really wanted to resist the advice and nagging I'd get from older women. I mean, what did my mom know about dating? She married her high school sweetheart! She'd say, "You can't give them everything right away. They have to work for it."
 
@@ -35,9 +33,7 @@ Back during my senior year at UCSB, my mom once told me that if I kept going out
 
 I guess now I can get a reputation by posting this but I honestly don't care. There's absolutely nothing wrong with enjoying the company of good-looking young men. 
 
----
-
-###Stigma
+<h3 class="anchor" id="stigma">Stigma</h3>
 
 Meeting people online does have a stigma, though. I got over it eventually. This past year when people asked me where I met my latest interest I'd say, "The internet. That's where I meet all of them." And it was true.
 
@@ -47,9 +43,7 @@ OkCupid was great because it filtered out everyone I had nothing in common with.
 
 But I've gotten in cars with strangers, gone to strangers' houses the first time I met them, gotten drunk with people before even learning their last name. When I tell people this they look at me like I'm crazy, but isn't my date in just as much danger as I am? Aren't I just as much of a threat? I mean, sure, men and women possess different anatomical features. But pharmacology has evened the playing field. It's 2015, people! Women can be creeps just as easily as men.
 
----
-
-###The Goal
+<h3 class="anchor" id="the-goal">The Goal</h3>
 
 So the real question is this: **What was I looking for?**
 
@@ -61,6 +55,6 @@ Are my standards just really high? My friends say the opposite. It's so rare tha
 
 I don't want to enumerate the qualities I'd like in a boyfriend. Listing all of them is a waste of time. But is it too much to ask for a little emotional intelligence? When I think about all the ways guys have been stupid with me, lack of emotional intelligence is the common denominator.
 
-I'm not perfect. I have a lot to improve on my end. Apparently I don't even like myself that much, so why should I expect other people to like me? But none of that really matters. I can't expect Prince Charming to come sweep me off my feet and make everything happy. (Plus I prefer Hook anyway. Or Graham. #sadcrush #OnceUponATime)
+I'm not perfect. I have a lot to improve on my end. Apparently I don't even like myself that much, so why should I expect other people to like me? But none of that really matters. I can't wait for Prince Charming to come sweep me off my feet and make everything happy. (Plus I prefer Hook anyway. Or Graham. #sadcrush #OnceUponATime)
 
 Becca told me the other day that I should date myself. If I treated myself as well as I treat whatever guy is flavor of the week, or as well as I wish he treated me, I think I'd be a little more content.

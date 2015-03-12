@@ -10,9 +10,7 @@ I'm reposting this because it's a great article that's impossible to read on the
 
 ---
 
-####Read the Humanities
-
-######by Keith Braithwaite
+####"Read the Humanities" by Keith Braithwaite
 
 In all but the smallest development project people work with people. In all but the most abstracted field of research people write software for people to support them in some goal of theirs. People write software with people for people. It's a people business. Unfortunately what is taught to programmers too often equips them very poorly to deal with people they work for and with. Luckily there is an entire field of study that can help.
 
