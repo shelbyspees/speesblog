@@ -10,3 +10,6 @@ github_username:  shelbyspees
 
 # Build settings
 markdown: kramdown
+
+categories:
+- data_structures
