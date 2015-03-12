@@ -4,6 +4,8 @@ title: Reading
 permalink: /reading/
 ---
 
+Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon.
+
 ####Jump to:
 
 * [Semi-Technical Reads](#technical)
