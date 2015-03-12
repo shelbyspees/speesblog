@@ -11,8 +11,6 @@ permalink: /reading/
 * [Self-Improvement and Social Psychology](#psych)
 * [Health and Fitness](#health)
 
----
-
 <h2 id="technical" class="anchor">Semi-Technical Reads</h2>
 
 ---
@@ -58,8 +56,6 @@ Gotta learn it somehow.
 <i class="fa fa-refresh"></i> In Progress
 
 We're using this for my algorithms class this spring.
-
----
 
 <h2 id="career" class="anchor">Working in Software</h2>
 
@@ -147,8 +143,6 @@ Great read, lots to discuss here. I'm a big fan of the growth mindset promoted i
 <i class="fa fa-refresh"></i> In Progress
 
 Reads more like a story than a career advice book.
-
----
 
 <h2 id="psych" class="anchor">Self-Improvement and Social Psychology</h2>
 
@@ -249,8 +243,6 @@ Check out my [book review here.](http://shelbyspees.github.io/speesblog/2015/03/
 [Solving the Procrastination Puzzle: A Concise Guide to Strategies for Change](http://www.amazon.com/Solving-Procrastination-Puzzle-Concise-Strategies-ebook/dp/B00DGZKJ3Y/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20) by Timothy A. Pychyl ([check out his podcast](http://iprocrastinate.libsyn.com/))
 
 <i class="fa fa-ellipsis-h"></i> *Not Started*
-
----
 
 <h2 id="health" class="anchor">Health and Fitness</h2>
 

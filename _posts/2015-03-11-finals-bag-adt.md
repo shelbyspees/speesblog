@@ -98,7 +98,7 @@ And the `getGrade` function would look kind of like this:
 //precondition: studID is in the list
 struct Student * getStudentbyID(struct BST studList, int studID) {
 	struct Student * student = (struct Student *) malloc(sizeof(student));
-	struct Student
+	struct Student //something something
 }
 {% endhighlight %}
 
