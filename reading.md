@@ -244,14 +244,6 @@ Check out my [book review here.](http://shelbyspees.github.io/speesblog/2015/03/
 
 ---
 
-<img src="{{ site.url }}/assets/manssearchformeaning.jpg" alt="Man's Search for Meaning"/>
-
-[Man's Search for Meaning](http://smile.amazon.com/gp/product/B009U9S6FI/ref=kinw_myk_ro_title) by Viktor E. Frankl
-
-<i class="fa fa-ellipsis-h"></i> *Not Started*
-
----
-
 <img src="{{ site.url }}/assets/solvingtheprocrastinationpuzzle.jpg" alt="Solving the Procrastination Puzzle"/>
 
 [Solving the Procrastination Puzzle: A Concise Guide to Strategies for Change](http://www.amazon.com/Solving-Procrastination-Puzzle-Concise-Strategies-ebook/dp/B00DGZKJ3Y/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20) by Timothy A. Pychyl ([check out his podcast](http://iprocrastinate.libsyn.com/))
