@@ -2,7 +2,9 @@
 layout: "post"
 title: "Model the Way: Clarify Values"
 ---
-This is the first post in a series meant to summarize the principles of *[The Leadership Challenge](http://www.amazon.com/Leadership-Challenge-4th-James-Kouzes/dp/0787984914/ref=tmm_hrd_title_0?_encoding=UTF8&sr=8-2&qid=1415953746)* through direct quotations from the book. This is a personal project meant purely for educational purposes, and if any toes have been stepped on feel free to reach out to me on Twitter.
+This is the first post in a series meant to summarize the principles of *[The Leadership Challenge](http://www.amazon.com/Leadership-Challenge-4th-James-Kouzes/dp/0787984914/ref=tmm_hrd_title_0?_encoding=UTF8&sr=8-2&qid=1415953746)* through direct quotations from the book. 
+
+This is a personal project meant purely for educational purposes, and if any toes have been stepped on feel free to reach out to me on Twitter.
 
 ###Clarify Values
 
