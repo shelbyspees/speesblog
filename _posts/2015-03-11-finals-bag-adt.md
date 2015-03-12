@@ -26,10 +26,13 @@ Type-A personalities might go through the list and organize it by food group, or
 
 That's how I think of a bag, more or less. Nitpickers might criticize that items that have been crossed off the list are different from items that have been removed, but who pays that much attention to their grocery list? If you're at the store and realize that a bag of almonds is too expensive, you'll cross it off whether you buy it or not.
 
-###Dynamic Array Bag
+<h3 class="anchor" id="dynarr-bag">Dynamic Array Bag</h3>
 
+[coming soon]
 
-###Linked List Bag
+<h3 class="anchor" id="ll-bag">Linked List Bag</h3>
+
+[coming soon]
 
 
 <h3 class="anchor" id="bst-bag">Binary Search Tree Bag</h3>
@@ -102,3 +105,5 @@ struct Student * getStudentbyID(struct BST studList, int studID) {
 Here's an example of a binary search tree with reasonably small integer values at each node:
 
 <img class="wide" src="{{ site.url }}/assets/comp/bst.png"/>
+
+[more to come]
