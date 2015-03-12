@@ -84,20 +84,13 @@ I have a great set of best practices checklists that were derived from this book
 
 ---
 
-<img src="{{ site.url }}/assets/thepragmaticprogrammer.jpg" alt="The Pragmatic Programmer"/>
-
-[The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=pd_bxgy_b_img_y) by Andrew Hunt
-
-<i class="fa fa-ellipsis-h"></i> *Not Started*
-
----
-
 <img src="{{ site.url }}/assets/technicalleader.jpg" alt="Becoming a Technical Leader"/>
 
 [Becoming a Technical Leader](http://smile.amazon.com/gp/product/B004J4VV3I/ref=kinw_myk_ro_title) by Gerald Weinberg 
 
 <i class="fa fa-check-square-o"></i> **Completed**
 
+Applicable in any field.
 
 ---
 
@@ -153,6 +146,8 @@ Great read, lots to discuss here. I'm a big fan of the growth mindset promoted i
 
 <i class="fa fa-refresh"></i> In Progress
 
+Reads more like a story than a career advice book.
+
 ---
 
 <h2 id="psych" class="anchor">Self-Improvement and Social Psychology</h2>
@@ -162,6 +157,8 @@ Great read, lots to discuss here. I'm a big fan of the growth mindset promoted i
 <img src="{{ site.url }}/assets/jonkabat-zinn.jpg" alt="Jon Kabat-Zinn"/>
 
 ####Jon Kabat-Zinn
+
+I love the way he talks.
 
 [Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness](http://www.amazon.com/Full-Catastrophe-Living-Wisdom-Illness/dp/0385303122/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20) by Jon Kabat-Zinn ([audiobook](http://www.amazon.com/Full-Catastrophe-Living-Wisdom-Illness/dp/B00115MP3S/ref=tmm_aud_swatch_0?_encoding=UTF8&sr=&qid=)) <i class="fa fa-check-square-o"></i> **Completed**
 
