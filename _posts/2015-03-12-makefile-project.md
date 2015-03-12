@@ -6,7 +6,7 @@ category: tools
 
 Nearly six months later, I finally figured out how to compile and run my homework in Eclipse.
 
-I'm talking about [this whole mess]({{ site.url }}{% post_url 2015-03-07-i-deleted-my-okcupid-account %}) where I thought it was an issue with my version of GCC or clang or something.
+I'm talking about [this whole mess]({{ site.url }}{% post_url 2015-02-22-iterate-faster %}) where I thought it was an issue with my version of GCC or clang or something.
 
 I hate this configuration stuff.
 
