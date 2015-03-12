@@ -84,6 +84,13 @@ Well, let's look at a more full tree to understand the purpose of this better.
 
 Obviously the computer doesn't see any of this, it's just an arbitrary categorization (like masculine and feminine in Romance languages). But it helps us define ways to organize the data.
 
+Circled in yellow is the `root` node, currently holding the value `42`. All of the values of the ***left children*** of the `root` (highlighted in blue) are less than `42` and all of the values of the ***right children*** (highlighted in red) are greater than `42`.
+
+Isn't that neat? Even as you go down the subtree, the values of the left children of each node is less than the value at the node, and all the values of the right children are greater.
+
+<img class="wide" src="{{ site.url }}/assets/comp/bst-sub-colors.png"/>
+
+
 
 {% highlight c %}
 {% endhighlight %}
