@@ -181,7 +181,13 @@ Say I wanted to add the value `55` to my tree after quickly learning it wasn't t
 
 <img class="wide" src="{{ site.url }}/assets/comp/bst-add-colors.png"/>
 
-The tree will always be sorted, but it won't always be balanced. Let's go back to our sorted array:
+- right at `42`
+- right at `50`
+- left at `90`
+- left at `75`
+- no more children, create new node 
+
+The tree will always be sorted, but unfortunately it won't always be balanced. Let's go back to our sorted array more a more extreme illustration:
 
     sortedArray = [1, 10, 15, 16, 17, 19, 30, 
     	42, 43, 45, 47, 50, 75, 90, 101] //count is 15
@@ -195,4 +201,7 @@ for (i = 0; i < count; i++) {
 {% endhighlight %}
 
 We would end up with a tree that looks like this:
+
+<img class="wide" src="{{ site.url }}/assets/comp/bst-unbalanced.png"/>
+
 
