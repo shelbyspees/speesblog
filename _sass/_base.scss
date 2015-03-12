@@ -43,6 +43,10 @@ img {
     vertical-align: middle;
 }
 
+img.wide {
+    max-width: 100%;
+}
+
 .TextWrapRight {
     float: right;
     margin: 10px;
