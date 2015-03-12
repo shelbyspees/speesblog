@@ -80,6 +80,8 @@ Wait a second, computers don't have `left` and `right`. What could this possibly
 
 Well, let's look at a more full tree to understand the purpose of this better.
 
+<h3 class="anchor" id="contains">contains()</h3>
+
 <img class="wide" src="{{ site.url }}/assets/comp/bst-colors.png"/>
 
 Obviously the computer doesn't see any of this, it's just an arbitrary categorization (like masculine and feminine in Romance languages). But it helps us define ways to organize the data.
@@ -117,6 +119,49 @@ This is especially efficient when looking for a value not contained in the data,
     [75] //less than 75, but 75 has no children
 
 So in this case `contains(55)` would tell us "Nope, not in here."
+
+Here's the implementation of the `contains` function. We use a special `compare(a, b)` function to handle comparing things that aren't simple, like objects. The programmer using our BST can write their own `compare` function depending on the type of data they want to use.
+
+{% highlight c %}
+contains()
+	pass in pointer to tree and value to be found
+	point current node to tree->root
+
+	while (current != NULL) {
+		if value to be found == current->value
+			return 1 //success! found it
+
+		else 
+			if value to be found < cur->val,
+				point current node to left child 
+			else //value to be found > cur->val
+				point current node to right child 
+	}
+	else if current is NULL
+	return 0 //does not contain
+{% endhighlight %}
+
+{% highlight c %}
+//return 1 if tree contains val, else return 0
+int containsBST(struct BST * tree, TYPE val) {
+	struct Node * cur = tree->root;
+	assert(cur != NULL); //successfully allocated
+
+	while (cur != NULL) {
+		if ( 0 == compare(val, cur->val) ) //val == cur->val
+			return 1; //success! found it
+
+		if ( -1 == compare(val, cur->val) ) {
+			cur = cur->left; //val < cur->val, go left
+		} else {
+			cur = cur->right; //val > cur->val, go right
+		}
+	}
+	return 0;
+}
+{% endhighlight %}
+
+<h3 class="anchor" id="add">add()</h3>
 
 So how to we keep the list sorted as we `add` and `remove` values? The short answer is: **recursion**.
 
@@ -187,7 +232,7 @@ Say I wanted to add the value `55` to my tree after quickly learning it wasn't t
 - left at `75`
 - no more children, create new node 
 
-The tree will always be sorted, but unfortunately it won't always be balanced. Let's go back to our sorted array more a more extreme illustration:
+The tree will always be sorted, but unfortunately it won't always be balanced. Let's go back to our sorted array for a more extreme illustration:
 
     sortedArray = [1, 10, 15, 16, 17, 19, 30, 
     	42, 43, 45, 47, 50, 75, 90, 101] //count is 15
@@ -204,4 +249,44 @@ We would end up with a tree that looks like this:
 
 <img class="wide" src="{{ site.url }}/assets/comp/bst-unbalanced.png"/>
 
+Completely unbalanced. In this case, the `contains` function is no different from that of a dynamic array or linked list. You lose all the benefit of the binary search tree but you keep all the hassle of the recursive comparisons.
+
+<h3 class="anchor" id="remove">remove()</h3>
+
+`remove` is similar to `add`
+
+{% highlight c %}
+//remove val from tree
+void removeBST(struct BST *tree, TYPE val) {
+	if (containsBST(tree, val)) {
+		tree->root = _removeNode(tree->root, val);
+		tree->count--;
+	}
+}
+{% endhighlight %}
+
+Like the `_addNode` function, the `_removeNode` function calls itself recursively, but to save trouble it checks that the value is contained in the tree first.
+
+{% highlight c %}
+//recursive helper function to remove a node from the tree
+struct Node *_removeNode(struct Node * cur, TYPE val) {
+	struct Node * temp;
+	if ( 0 == compare(val, cur->val) ) { //success! found val
+		if (cur->right == 0) {
+			temp = cur->left;
+			free(cur);
+			return temp;
+		}
+		cur->val = _leftMost(cur->right);
+		cur->right = _removeLeftMost(cur->right);
+	}
+	else if ( -1 == compare(val, cur->val) )
+		cur->left = _removeNode(cur->left, val); //val < cur->val, go left
+	else
+		cur->right = _removeNode(cur->right,val); //val > cur->val, go right
+	return cur;
+}
+{% endhighlight %}
+
+Oh man, this one is hard. I'm gonna have to break it down a lot more.
 
