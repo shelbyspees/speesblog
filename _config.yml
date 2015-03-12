@@ -2,7 +2,7 @@
 title: speesblog
 email: speesbag@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Under construction.
+  My publicly-viewable external brain. I don't pretend to be an expert on anything. I'm just really vain.
 baseurl: "/speesblog" # the subpath of your site, e.g. /blog/
 url: "http://shelbyspees.github.io/speesblog" # the base hostname & protocol for your site
 twitter_username: speesbag
@@ -10,6 +10,3 @@ github_username:  shelbyspees
 
 # Build settings
 markdown: kramdown
-
-categories:
-- data_structures
