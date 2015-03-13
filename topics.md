@@ -3,9 +3,18 @@ layout: page
 title: Topics
 ---
 
+<ul>
+  {% assign categories_list = site.categories %}
+  {% include JB/categories_list %}
+</ul>
+
 ####Learning
 
 - [What every computer science major should know]({{ site.url }}{% post_url 2015-03-12-computer-science-major %}#cs-major)
+
+####Best Practices
+
+- []()
 
 ####Data Structures
 

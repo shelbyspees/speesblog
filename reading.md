@@ -110,11 +110,15 @@ The classic. [Check out his blog.](http://www.joelonsoftware.com/)
 
 <img src="{{ site.url }}/assets/joel_on_software.jpg" alt="Joel on Software"/>
 
-[Joel on Software](http://smile.amazon.com/gp/product/B001NRNIMG/ref=kinw_myk_ro_title) by Joel Spolsky <i class="fa fa-check-square-o"></i> **Completed**
+[Joel on Software](http://smile.amazon.com/gp/product/B001NRNIMG/ref=kinw_myk_ro_title) by Joel Spolsky 
+
+<i class="fa fa-check-square-o"></i> **Completed**
 
 <img src="{{ site.url }}/assets/smartandgetsthingsdone.jpg" alt="Smart and Gets Things Done"/>
 
-[Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent](http://smile.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/ref=asap_bc?ie=UTF8) by Joel Spolsky <i class="fa fa-check-square-o"></i> **Completed**
+[Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent](http://smile.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/ref=asap_bc?ie=UTF8) by Joel Spolsky 
+
+<i class="fa fa-check-square-o"></i> **Completed**
 
 ---
 
@@ -126,11 +130,15 @@ Super insightful. [Check out his blog.](http://blog.codinghorror.com/)
 
 <img src="{{ site.url }}/assets/effectiveprogramming.png" alt="Effective Programming"/>
 
-[Effective Programming: More Than Writing Code](http://smile.amazon.com/gp/product/B008HUMTO0/ref=kinw_myk_ro_title) by Jeff Atwood <i class="fa fa-check-square-o"></i> **Completed**
+[Effective Programming: More Than Writing Code](http://smile.amazon.com/gp/product/B008HUMTO0/ref=kinw_myk_ro_title) by Jeff Atwood 
+
+<i class="fa fa-check-square-o"></i> **Completed**
 
 <img src="{{ site.url }}/assets/howtostopsucking.png" alt="How to Stop Sucking and Be Awesome Instead"/>
 
-[How to Stop Sucking and Be Awesome Instead](http://smile.amazon.com/gp/product/B00BU3KPQU/ref=kinw_myk_ro_title) by Jeff Atwood <i class="fa fa-check-square-o"></i> **Completed**
+[How to Stop Sucking and Be Awesome Instead](http://smile.amazon.com/gp/product/B00BU3KPQU/ref=kinw_myk_ro_title) by Jeff Atwood 
+
+<i class="fa fa-check-square-o"></i> **Completed**
 
 ---
 
@@ -170,7 +178,9 @@ I love the way he talks. Hugely influential in provoking mainstream awareness of
 
 <img src="{{ site.url }}/assets/fullcatastropheliving.jpg" alt="Full Catastrophe Living"/>
 
-[Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness](http://www.amazon.com/Full-Catastrophe-Living-Wisdom-Illness/dp/0385303122/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20) by Jon Kabat-Zinn ([audiobook](http://www.amazon.com/Full-Catastrophe-Living-Wisdom-Illness/dp/B00115MP3S/ref=tmm_aud_swatch_0?_encoding=UTF8&sr=&qid=)) <i class="fa fa-check-square-o"></i> **Completed**
+[Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness](http://www.amazon.com/Full-Catastrophe-Living-Wisdom-Illness/dp/0385303122/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20) by Jon Kabat-Zinn ([audiobook](http://www.amazon.com/Full-Catastrophe-Living-Wisdom-Illness/dp/B00115MP3S/ref=tmm_aud_swatch_0?_encoding=UTF8&sr=&qid=)) 
+
+<i class="fa fa-check-square-o"></i> **Completed**
 
 <img src="{{ site.url }}/assets/whereveryougo.jpg" alt="Wherever You Go, There You Are"/>
 
@@ -206,11 +216,15 @@ I like Dale Carnegie because his writing smacks you upside the head and asks, "W
 
 <img src="{{ site.url }}/assets/howtowinfriends.jpg" alt="How to Win Friends & Influence People"/>
 
-[How to Win Friends & Influence People](http://smile.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_1?ie=UTF8&qid=1423798589&sr=8-1&keywords=how+to+win+friends+and+influence+people) by Dale Carnegie <i class="fa fa-check-square-o"></i> **Completed**
+[How to Win Friends & Influence People](http://smile.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_1?ie=UTF8&qid=1423798589&sr=8-1&keywords=how+to+win+friends+and+influence+people) by Dale Carnegie 
+
+<i class="fa fa-check-square-o"></i> **Completed**
 
 <img src="{{ site.url }}/assets/howtostopworrying.jpg" alt="How to Stop Worrying and Start Living"/>
 
-[How to Stop Worrying and Start Living](http://smile.amazon.com/How-Stop-Worrying-Start-Living-ebook/dp/B003WIYCCY/ref=pd_sim_kstore_1?ie=UTF8&refRID=10NZZDZZJ7ZCE437W329) by Dale Carnegie <i class="fa fa-refresh"></i> In Progress
+[How to Stop Worrying and Start Living](http://smile.amazon.com/How-Stop-Worrying-Start-Living-ebook/dp/B003WIYCCY/ref=pd_sim_kstore_1?ie=UTF8&refRID=10NZZDZZJ7ZCE437W329) by Dale Carnegie 
+
+ <i class="fa fa-refresh"></i> In Progress
 
 ---
 
