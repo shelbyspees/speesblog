@@ -3,6 +3,10 @@ layout: page
 title: Topics
 ---
 
+####Learning
+
+- [What every computer science major should know]({{ site.url }}{% post_url 2015-03-12-computer-science-major %}#cs-major)
+
 ####Data Structures
 
 - [Bag ADT]({{ site.url }}{% post_url 2015-03-11-finals-bag-adt %})

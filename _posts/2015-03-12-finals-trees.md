@@ -44,12 +44,14 @@ For now, we don't really care about the overall height of any particular node in
 
 The AVL tree is going to be locally (normal) balanced and globally unbalanced.
 
-First, we're going to measure the height of `NULL` nodes as `-1`. See how I added a `NULL` node in the empty spot below:
+First, we're going to measure the height of `NULL` nodes as `-1`. See how I added a `NULL` node in the empty spot below in grey:
 
 <img class="wide" src="{{ site.url }}/assets/comp/tree-null-height.png"/>
 
-The tree is still balanced.
+The above tree is still balanced because there are no sibling nodes with height difference greater than one.
 
 So what's an example of an *height-unbalanced* tree? 
 
 <img class="wide" src="{{ site.url }}/assets/comp/tree-unbalanced-height.png"/>
+
+The teal node has a right child node with a height of `1`, and a `NULL` value where the right child would be, with an imagined height of `-1`.
