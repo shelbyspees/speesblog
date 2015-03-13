@@ -108,7 +108,7 @@ Great read, lots to discuss here. I'm a big fan of the growth mindset promoted i
 
 The classic. [Check out his blog.](http://www.joelonsoftware.com/)
 
-<img src="{{ site.url }}/assets/joelonsoftware.jpeg" alt="Joel on Software"/>
+<img src="{{ site.url }}/assets/joelonsoftware.jpg" alt="Joel on Software"/>
 
 [Joel on Software](http://smile.amazon.com/gp/product/B001NRNIMG/ref=kinw_myk_ro_title) by Joel Spolsky <i class="fa fa-check-square-o"></i> **Completed**
 
