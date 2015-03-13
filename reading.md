@@ -191,6 +191,16 @@ Check out my [book review here.](http://shelbyspees.github.io/speesblog/2015/03/
 
 ---
 
+<img src="{{ site.url }}/assets/emotional-intelligence.jpg" alt="Emotional Intelligence"/>
+
+[Working with Emotional Intelligence](http://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman-ebook/dp/B000JMKTN2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1426226654) by Daniel Goleman
+
+<i class="fa fa-refresh"></i> In Progress
+
+I won this book in a raffle. It's right up my alley. Book review coming soon.
+
+---
+
 <img src="{{ site.url }}/assets/womenomics.png" alt="Womenomics"/>
 
 [Womenomics](http://smile.amazon.com/gp/product/B002BD2V0G/ref=kinw_myk_ro_title) by Katty Kay and Claire Shipman
