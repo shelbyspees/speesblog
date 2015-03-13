@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Iterate Faster
+category: "tools"
 ---
 I've read two of [Joel](http://www.joelonsoftware.com/AboutMe.html)'s books and two of [Jeff](http://blog.codinghorror.com/about-me/)'s books, plus various posts they've written that haven't been sold for money. And I've read posts from all over the internet about the software industry. I soak it up like a microfiber cloth.
 

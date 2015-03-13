@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I deleted my OkCupid account
+category: personal
 ---
 
 After nearly four years, hundreds of messages, dozens of first dates, quite a few crushes, and zero meaningful relationships, I decided to delete my OkCupid account.

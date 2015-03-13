@@ -3,7 +3,8 @@ title: speesblog
 email: speesbag@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My publicly-viewable brain.<br/>
-  I don't pretend to be an expert on anything, I'm just really vain. Purely for educational/
+  I don't pretend to be an expert on anything, <br/>
+  I'm just really vain. Purely for educational/
   entertainment purposes.
 baseurl: "/speesblog" # the subpath of your site, e.g. /blog/
 url: "http://shelbyspees.github.io/speesblog" # the base hostname & protocol for your site
