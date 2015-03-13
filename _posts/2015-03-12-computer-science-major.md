@@ -145,7 +145,7 @@ I have ten classes left to take after this quarter:
 - CS 362 Software Engineering II
 - CS 372 Intro to Computer Networks
 - CS 344 Operating Systems
-- CS 496 Mobile and Cloud Software Development (prereqs: CS 344)
+- CS 496 Mobile and Cloud Software Development (prereq: CS 344)
 - CS 419 Software Projects (prereqs: CS 275 & CS 496)
 
 If I take three classes a quarter (two classes during summer) I can do something like this:

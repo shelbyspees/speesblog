@@ -107,3 +107,5 @@ Here's an example of a binary search tree with reasonably small integer values a
 <img class="wide" src="{{ site.url }}/assets/comp/bst.png"/>
 
 [more to come]
+
+<h3 class="anchor" id="avltree-bag>AVL Tree Bag</h3>
