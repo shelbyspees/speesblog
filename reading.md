@@ -124,11 +124,11 @@ The classic. [Check out his blog.](http://www.joelonsoftware.com/)
 
 Super insightful. [Check out his blog.](http://blog.codinghorror.com/)
 
-<img src="{{ site.url }}/assets/effectiveprogramming.jpeg" alt="Effective Programming"/>
+<img src="{{ site.url }}/assets/effectiveprogramming.png" alt="Effective Programming"/>
 
 [Effective Programming: More Than Writing Code](http://smile.amazon.com/gp/product/B008HUMTO0/ref=kinw_myk_ro_title) by Jeff Atwood <i class="fa fa-check-square-o"></i> **Completed**
 
-<img src="{{ site.url }}/assets/howtostopsucking.jpeg" alt="How to Stop Sucking and Be Awesome Instead"/>
+<img src="{{ site.url }}/assets/howtostopsucking.png" alt="How to Stop Sucking and Be Awesome Instead"/>
 
 [How to Stop Sucking and Be Awesome Instead](http://smile.amazon.com/gp/product/B00BU3KPQU/ref=kinw_myk_ro_title) by Jeff Atwood <i class="fa fa-check-square-o"></i> **Completed**
 
