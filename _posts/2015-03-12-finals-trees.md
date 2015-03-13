@@ -36,4 +36,20 @@ What I'm going to try to understand right now is the height-balancing aspect of 
 
 I labeled the **height** for each node in the above tree. You can see that it's neither *full* nor *complete*, but it is indeed <a href="#" class="tooltip-bottom" data-tooltip="Each node has two children.">*binary*</a>.
 
-We measure the *height* of each node by starting from the bottom and counting up. All *leaf* nodes will have a height of `0`. 
+We measure the *height* of each node by starting from the bottom and counting up. All *leaf* nodes will have a height of `0`. Then count up to the next node. You can't do it exactly sequentially because you might end up with the wrong height for the root node. Look at the brown dotted lines to see the path I followed, and try to get the pattern.
+
+**The height of a particular node is counted using the *longest* path to a leaf node.**
+
+For now, we don't really care about the overall height of any particular node in a tree. For the AVL tree we only care about the *difference* in height each node has with its parent and child.
+
+The AVL tree is going to be locally (normal) balanced and globally unbalanced.
+
+First, we're going to measure the height of `NULL` nodes as `-1`. See how I added a `NULL` node in the empty spot below:
+
+<img class="wide" src="{{ site.url }}/assets/comp/tree-null-height.png"/>
+
+The tree is still balanced.
+
+So what's an example of an *height-unbalanced* tree? 
+
+<img class="wide" src="{{ site.url }}/assets/comp/tree-unbalanced-height.png"/>
