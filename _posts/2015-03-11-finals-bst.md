@@ -175,7 +175,7 @@ int containsBST(struct BST * tree, TYPE val) {
 
 <h3 class="anchor" id="add">add()</h3>
 
-So how to we keep the list sorted as we `add` and `remove` values? The short answer is: **recursion**.
+So how to we keep the tree sorted as we `add` and `remove` values? The short answer is: **recursion**.
 
 On the outside, our `add` function looks like this:
 
