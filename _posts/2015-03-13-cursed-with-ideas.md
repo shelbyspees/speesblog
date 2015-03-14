@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cursed With Ideas
-category: 
+category: musings
 ---
 
 Of course I can't get anything done sitting in a hospital waiting room with daytime television blaring in the background. But as soon as I get in bed in my dark, quiet room the ideas start flowing.
