@@ -35,7 +35,7 @@ Gotta learn it somehow.
 
 ---
 
-<img src="{{ site.url }}/assets/ruby_on_rails_tutorial.jpg" alt="Ruby on Rails Tutorial"/>
+<img src="{{ site.url }}/assets/ruby_on_rails_tutorial.png" alt="Ruby on Rails Tutorial"/>
 
 [Ruby on Rails Tutorial](https://www.railstutorial.org/book) by Michael Hartl
 
