@@ -35,6 +35,14 @@ Gotta learn it somehow.
 
 ---
 
+<img src="{{ site.url }}/assets/ruby_on_rails_tutorial.jpg" alt="Ruby on Rails Tutorial"/>
+
+[Ruby on Rails Tutorial](https://www.railstutorial.org/book) by Michael Hartl
+
+<i class="fa fa-refresh"></i> In Progress
+
+---
+
 <img src="{{ site.url }}/assets/code.jpg" alt="Code"/>
 
 [Code](http://smile.amazon.com/Code-Developer-Practices-Charles-Petzold-ebook/dp/B00JDMPOK2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1423800084&sr=1-1&keywords=code) by Charles Petzold
