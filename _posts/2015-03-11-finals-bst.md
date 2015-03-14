@@ -88,6 +88,12 @@ Well, let's look at a more full tree to understand the purpose of this better.
 
 
 
+
+
+
+
+
+
 <h3 class="anchor" id="contains">contains()</h3>
 
 <img class="wide" src="{{ site.url }}/assets/comp/bst-colors.png"/>
@@ -168,6 +174,13 @@ int containsBST(struct BST * tree, TYPE val) {
 	return 0;
 }
 {% endhighlight %}
+
+
+
+
+
+
+
 
 
 
@@ -262,6 +275,12 @@ We would end up with a tree that looks like this:
 <img class="wide" src="{{ site.url }}/assets/comp/bst-unbalanced.png"/>
 
 Completely unbalanced. In this case, the `contains` function is no different from that of a dynamic array or linked list. You lose all the benefit of the binary search tree but you keep all the hassle of the recursive comparisons.
+
+
+
+
+
+
 
 
 

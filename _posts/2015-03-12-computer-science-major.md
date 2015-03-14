@@ -16,6 +16,12 @@ I think this blog is motivating me to absorb information, too. I mean, what's th
 
 I'll list the topics here for my own reference.
 
+
+
+
+
+
+
 <h3 class="anchor" id="cs-major">What every computer science major should know</h3>
 
 [Source](http://matt.might.net/articles/what-cs-majors-should-know/) 
@@ -56,6 +62,15 @@ I'll list the topics here for my own reference.
 - Artificial intelligence
 - Machine learning
 - Databases
+
+
+
+
+
+
+
+
+
 
 
 <h3 class="anchor" id="my-thinking">My Thinking</h3>
@@ -104,6 +119,14 @@ Topics I'm not going to worry about until I have everything else down:
 - Graphics and simulation
 
 I feel like if I have working knowledge of everything on the list besides these last three, I can call myself a real software engineer.
+
+
+
+
+
+
+
+
 
 
 <h3 class="anchor" id="coursework">Coursework</h3>

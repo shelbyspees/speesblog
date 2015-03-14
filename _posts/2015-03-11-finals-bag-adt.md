@@ -26,13 +26,34 @@ Type-A personalities might go through the list and organize it by food group, or
 
 That's how I think of a bag, more or less. Nitpickers might criticize that items that have been crossed off the list are different from items that have been removed, but who pays that much attention to their grocery list? If you're at the store and realize that a bag of almonds is too expensive, you'll cross it off whether you buy it or not.
 
+
+
+
+
+
+
+
 <h3 class="anchor" id="dynarr-bag">Dynamic Array Bag</h3>
 
 [coming soon]
 
+
+
+
+
+
+
+
 <h3 class="anchor" id="ll-bag">Linked List Bag</h3>
 
 [coming soon]
+
+
+
+
+
+
+
 
 
 <h3 class="anchor" id="bst-bag">Binary Search Tree Bag</h3>
@@ -108,4 +129,16 @@ Here's an example of a binary search tree with reasonably small integer values a
 
 [more to come]
 
-<h3 class="anchor" id="avltree-bag>AVL Tree Bag</h3>
+
+
+
+
+
+
+
+
+<h3 class="anchor" id="avltree-bag">AVL Tree Bag</h3>
+
+As discussed in the [implementation]() of the binary search tree, we lose the O(log(n)) `contains` functionality when the tree isn't balanced. We can resolve that issue by using a self-balancing tree.
+
+Another kind of binary tree that we can think about is a complete binary tree.
