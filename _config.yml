@@ -9,6 +9,7 @@ url: "http://shelbyspees.github.io/speesblog" # the base hostname & protocol for
 twitter_username: speesbag
 github_username:  shelbyspees
 instagram_username: speesbag
+timezone: US/Pacific
 
 # Build settings
 markdown: kramdown

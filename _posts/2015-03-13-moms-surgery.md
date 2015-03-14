@@ -2,6 +2,7 @@
 layout: post
 title: "Mom's Surgery"
 category: personal
+date: 2015-03-13 11:00:00 -0800
 ---
 
 I'm in the waiting room at Kaiser West LA.
