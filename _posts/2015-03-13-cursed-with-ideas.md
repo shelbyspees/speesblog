@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cursed With Ideas
+title: Cursed with Ideas
 category: musings
 date: 2015-03-13 23:00:00 -0800
 ---
@@ -15,9 +15,14 @@ In the dark of the night, I'm doomed to be attacked by my thoughts.
 
 Things to do:
 
+
+
+
+
+
 ####<i class="fa fa-square-o"></i> Fix Reading page so that each book has the cover image on the left and the information on the right, like this:
 
-![TCP/IP For Dummies]({{ site.url }}/assets/comp/reading.png)
+<img class="wide" src="{{ site.url }}/assets/comp/reading.png"/>
 
 This is going to involve a lot of steps I think, unless I want to rewrite the entire page in pure HTML:
 
@@ -34,6 +39,37 @@ This is going to involve a lot of steps I think, unless I want to rewrite the en
 
 It's 1:42am. I have my data structures final in ~32 hours. Two huge assignments due in 46 hours. Ugh tomorrow is going to suck.
 
+
+
+
+
+
 ####<i class="fa fa-square-o"></i> Super neat DS&A tutorial web app project
 
 This is way over my head at this point, but I like the idea and I'll learn a lot of cool stuff in the process.
+
+Features:
+
+- Interactive UI (think [Duolingo](https://www.duolingo.com/) or [RegExr](http://www.regexr.com/))
+- Straightforward explanations of benefits and applications of each data structure/algorithm aimed at first-year CS students or self-taught programmers
+- Replace walls of text with visualizations and tooltips
+- IDE experience with debugger-like walkthrough of each function with parallel animation
+- 
+- Animated visualizations to demonstrate logic
+	- E.g. Using color gradients to visually represent numerical values. An array should look like a [paint chip](http://sugarluxeblog.com/wp-content/uploads/2009/01/paint-chips.jpg) after it's been sorted, with the numerical values there to verify correct sorting
+	- Step-by-step animations. Imagine having arrows there to show adding or removing a value from a linked list, or percolating up and down a heap. Basically like the Blue's Clues of CS.
+- (Eventually?) user accounts to save progress, like codecademy, etc.
+
+Things I'll have to learn:
+
+- Building a web app from the ground up
+- How to make a web-based IDE. Ouch
+- Animated visualizations (probably using a tool like [this](https://animatron.com/))
+- How to make the animation and IDE features responsive
+- Data structures
+- Algorithms
+- C implementation of DS&A
+- C++ implementation of DS&A
+- Java implementation of DS&A
+
+I'm also thinking of adding grammar lessons in the languages I know. Once a teacher, always a teacher, amirite?

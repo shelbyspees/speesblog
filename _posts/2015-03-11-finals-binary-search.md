@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finals: Binary Search"
+title: "Binary Search"
 category: "data_structures"
 ---
 

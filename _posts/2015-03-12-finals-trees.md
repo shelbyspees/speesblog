@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finals: Trees"
+title: "Trees"
 category: data_structures
 ---
 
@@ -40,9 +40,11 @@ We measure the *height* of each node by starting from the bottom and counting up
 
 **The height of a particular node is counted using the *longest* path to a leaf node.**
 
-For now, we don't really care about the overall height of any particular node in a tree. For the AVL tree we only care about the *difference* in height each node has with its parent and child.
+For the AVL tree we mostly care about the *difference* in height each node has with its sibling.
 
 The AVL tree is going to be locally (normal) balanced and globally unbalanced.
+
+[illustration showing local balance vs. global balance]
 
 First, we're going to measure the height of `NULL` nodes as `-1`. See how I added a `NULL` node in the empty spot below in grey:
 
@@ -54,4 +56,6 @@ So what's an example of an *height-unbalanced* tree?
 
 <img class="wide" src="{{ site.url }}/assets/comp/tree-unbalanced-height.png"/>
 
-The teal node has a right child node with a height of `1`, and a `NULL` value where the right child would be, with an imagined height of `-1`.
+The teal node has a right child node with a height of `1`, and a `NULL` value where the right child would be, with an imagined height of `-1`. You also notice that the pink and teal nodes have a height difference greater than one, and this is expected because the teal node's children are unbalanced.
+
+It's best to look for unbalanced nodes down in the leaves because that's where it's easiest to rotate.

@@ -65,7 +65,18 @@ Gotta learn it somehow.
 
 <i class="fa fa-refresh"></i> In Progress
 
-We're using this for my algorithms class this spring.
+We're using this for my algorithms class this spring. My god, it's huge.
+
+
+
+
+
+
+
+
+
+
+
 
 <h2 id="career" class="anchor">Working in Software</h2>
 
@@ -96,7 +107,7 @@ I have a great set of best practices checklists that were derived from this book
 
 <i class="fa fa-check-square-o"></i> **Completed**
 
-Applicable in any field.
+Applicable in any field. Book review coming soon-ish.
 
 ---
 
@@ -173,6 +184,18 @@ Super insightful. [Check out his blog.](http://blog.codinghorror.com/)
 <i class="fa fa-refresh"></i> In Progress
 
 Reads more like a story than a career advice book.
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2 id="psych" class="anchor">Self-Improvement and Social Psychology</h2>
 
@@ -300,6 +323,17 @@ I liked this book because it discussed how promoting workplace equality for wome
 [Solving the Procrastination Puzzle: A Concise Guide to Strategies for Change](http://www.amazon.com/Solving-Procrastination-Puzzle-Concise-Strategies-ebook/dp/B00DGZKJ3Y/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20) by Timothy A. Pychyl ([check out his podcast](http://iprocrastinate.libsyn.com/))
 
 <i class="fa fa-ellipsis-h"></i> *Not Started*
+
+
+
+
+
+
+
+
+
+
+
 
 <h2 id="health" class="anchor">Health and Fitness</h2>
 

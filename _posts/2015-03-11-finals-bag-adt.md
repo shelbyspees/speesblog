@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finals: Bag Abstract Data Type"
+title: "Bag Abstract Data Type"
 category: "data_structures"
 ---
 

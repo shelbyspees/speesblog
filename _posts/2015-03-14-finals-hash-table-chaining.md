@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AVL Tree"
+title: Hash Table Chaining
 category: "data_structures"
 ---
 
