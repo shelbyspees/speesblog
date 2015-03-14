@@ -2,7 +2,7 @@
 layout: post
 title: Cursed with Ideas
 category: musings
-date: 2015-03-13 23:00:00 -0800
+date: 2015-03-13 23:00:00
 ---
 
 Of course I can't get anything done sitting in a hospital waiting room with daytime television blaring in the background. But as soon as I get in bed in my dark, quiet room the ideas start flowing.
