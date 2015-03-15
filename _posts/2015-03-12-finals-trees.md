@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trees"
+title: "Trees Overview"
 category: data_structures
 ---
 

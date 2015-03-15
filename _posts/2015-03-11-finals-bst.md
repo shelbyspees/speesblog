@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Binary Search Tree"
+title: "Binary Search Tree Implementation"
 category: "data_structures"
 ---
 

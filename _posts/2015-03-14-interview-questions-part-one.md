@@ -16,6 +16,9 @@ I answer interview questions for fun anyway, so I might as well make some posts 
 
 >What is your greatest weakness?
 
+[Answered]({{ site.url }}{% post_url 2014-10-18-biggest-weakness %}) in a very introspective, not-quite-professional way. I'll probably update my answer at some point.
+
+
 <br/>
 
 >What do you consider to be your greatest achievement to date?

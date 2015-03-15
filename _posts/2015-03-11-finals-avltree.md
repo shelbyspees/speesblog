@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AVL Tree"
+title: "AVL Tree Implementation"
 category: "data_structures"
 ---
 
