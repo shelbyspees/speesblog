@@ -90,6 +90,10 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 <br>
 
+| <img src="{{ site.url }}/assets/97-things.jpg" alt="Coders At Work"/> | [**97 Things Every Programmer Should KNow**](http://smile.amazon.com/gp/product/B002RHN7RM/ref=kinw_myk_ro_title) <br><i class="fa fa-refresh"></i> In Progress | 
+
+<br>
+
 | <img src="{{ site.url }}/assets/leanin.jpg" alt="Lean In"/> | [**Lean In: Women, Work, and the Will to Lead**](http://smile.amazon.com/gp/product/B009LMTDL0/ref=kinw_myk_ro_title) by Sheryl Sandberg<br><i class="fa fa-check-square-o"></i> **Completed** | 
 
 <br>
