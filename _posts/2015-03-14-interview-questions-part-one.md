@@ -24,6 +24,14 @@ I answer interview questions for fun anyway, so I might as well make some posts 
 
 >Where do you see yourself in five years time?
 
+I want to be a software engineer at a small- to mid-sized software company, where software is the profit center. I'm not sure if I'll be living in the Bay Area, NYC, or the Pacific Northwest, but I imagine I'd enjoy living in any of those areas since each of them has a good number of young people and a strong tech scene. My lifestyle should include great food, beer, yoga, gym, and a job I love. I'm holding my breath for that one-bedroom apartment, and I definitely want to commute via public transit.
+
+Although I don't always imagine myself in a leadership role, I think as I build my technical skills and become involved in some interesting projects I'll start shouldering some leadership responsibilities. I definitely want to have ownership over some aspect of the product, and I want to be considered a subject-matter expert in whatever I'm specializing in when I get there.
+
+I'm not sure at what point I'll be experienced enough to make architecture decisions, but that's definitely something I want to do someday. My current team lead was brought on because of his architecture design expertise, and I really admire that about him. 
+
+I also want to get involved in the open source community. I'd like to be known as a consistent contributor to the people working those projects. Open source work is actually really great for me because I care more about quality and process than about profit. I'm also a big fan of sharing my ideas publicly and building an online presence, as evidenced by this blog. Plus I think I can learn a lot about best practices from the more successful open source projects out there.
+
 <br/>
 
 

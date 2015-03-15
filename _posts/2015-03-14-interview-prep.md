@@ -74,7 +74,7 @@ Also, it's less about answering the question word-for-word and more about lettin
 
 <h3 class="anchor" id="facts-about-company">Facts about the company, your interviewer, and the department/team/project</h3>
 
-These are the things you should have learned when you researched the company:
+These are some of the things you should have learned when you researched the company:
 
 - Products
 - Market share
@@ -84,7 +84,7 @@ These are the things you should have learned when you researched the company:
 
 You don't have to write down all of them, but they're good question-fodder.
 
-How in-depth you research will depend on the kind of job you're applying for. Interns and entry-level applicants may find the
+How in-depth you research will depend on the kind of job you're applying for. Interns and entry-level applicants may find the business details to be a little over their heads, if only because they've never thought about it before.
 
 
 
@@ -97,7 +97,7 @@ How in-depth you research will depend on the kind of job you're applying for. In
 
 <h3 class="anchor" id="questions-to-ask">Questions to ask</h3>
 
-I've actually had interviews where the interviewer forgot to ask me if I had any questions. And I came prepared with questions.
+I've actually had interviews where the interviewers forgot to ask me if I had any questions. And I came prepared with questions. They were super embarrassed when I asked if it was ok to ask a question. It was cute.
 
 Depending on the interview you may not have time for many questions, but it's always good to come with extras. Usually if the interviewer does a good job of introducing themselves, talking about the company, and explaining the position, a lot of your questions will be answered. But you should have a couple more. Make sure they're appropriate to the position you're applying for and your areas of expertise.
 
@@ -147,13 +147,6 @@ I usually ask this one last.
 I like asking this question because usually if the interviewer likes you, they'll give the reasons why they like you to cushion anything potentially negative they might say. By doing this, they remind themselves of all the good things about you as the interview comes to a close while also giving you a chance to improve any negative perceptions they might have or fill them in on something you failed to mention.
 
 This question also shows that you try to be aware of your shortcomings. Interviewers love modest job applicants, especially for entry-level positions. Plus, asking for feedback actually shows more confidence than strutting around like the king of the jungle.
-
-
-
-
-
-
-
 
 
 
