@@ -39,3 +39,7 @@ I know I'm doing something wrong. But I can't bring myself to edit the files dir
 But yeah. That whole process is such a huge pain, and it seriously breaks up my train of thought when I'm trying to fix the code. I'm lucky the assignments I'm doing are really tiny. Because it's not like I'd ever encounter impediments like this in the real world, right?
 
 ...Right?
+
+---
+
+Update: [I figured it out.]({{ site.url }}{% post_url 2015-03-12-makefile-project %})

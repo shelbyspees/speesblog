@@ -10,13 +10,13 @@ I wonder if my response to this question would fly in an interview.
 
 Cutting my hair short has been the best single decision I ever made. Anyone who knows me has heard it a dozen times. Better than going to college, better than picking up the violin, better than learning French or Japanese--mostly because those were less decisions and more opportunities. But cutting my hair, that was a decision. Such a stupid change, but it's had such a huge impact on my confidence. 
 
-I always envied boys growing up, they didn't have to worry about how their hair looked every day. They could run and play and move around without dark strands of dead skin cells flying into their eyes or sticking to their chapstick. From the age of 10 I knew I wanted to go boy-short.
+I always envied boys growing up. They didn't have to worry about how their hair looked every day. They could run and play and move around without dark strands of dead skin cells flying into their eyes or sticking to their chapstick. From the age of 10 I knew I wanted to go boy-short. My mom never let me.
 
 My long, thick hair didn't cooperate no matter what I did. When I hit puberty, it decided to turn frizzy and wavy. If I tried blow-drying it, I'd look like this (but you know, significantly less confident. And with horrible skin):
 
 <img class="wide" src="http://blog.lokikoki.pl/wp-content/uploads/2010/11/frizzy-h.jpg"/>
 
-In 11th grade I'd wake up at 4:45am to shower, blow dry, flat iron, get dressed, do makeup, and then leave for school at 6:30am. I have no idea how I took seven APs in high school and graduated with a 3.92 GPA while doing all of this. Also, two orchestras.
+In 11th grade I'd wake up at 4:45am every day to shower, blow dry, flat iron, get dressed, do makeup, and then leave for school at 6:30am. I have no idea how I took seven APs in high school and graduated with a 3.92 GPA while doing all of this. Plus I was concertmaster of two orchestras, like a crazy woman. (Okay, yeah, humblebrag.)
 
 In 12th grade I switched to wearing it wavy/curly, but it would take six different products to keep it looking decent all day. I tried everything on the market, and luckily I had my mom to subsidize my investments in the beauty industry. The amount of money she must have spent... I can't even fathom.
 
@@ -26,7 +26,7 @@ In school I wore it in a ponytail or a bun every day. If I tried wearing it down
 
 In my third year of college I studied abroad in Bordeaux, France for a semester. It had been probably twelve years since I started wishing for boy-short hair. 
 
-Unlike most study abroad experiences you hear about, mine wasn't a dream-come-true. The culture shock, loneliness, and various events in my life caused mental health to go down the drain, and my schoolwork was suffering because of it. My long-distance boyfriend at the time was pulling away and I needed a change. I asked my roommate for moral support and we went to the salon on November 2nd, 2010.
+Unlike most study abroad experiences you hear about, mine wasn't a dream-come-true. Culture shock, loneliness, and various unfortunate events in my life caused my mental health to go down the drain, and my schoolwork was suffering because of it. My long-distance boyfriend at the time was pulling away and I needed a change. I asked my roommate for moral support and we went to the salon on November 2nd, 2010.
 
 Within three cuts I knew I had made the right decision. Instead of making my face look chubby like I had expected, my pixie framed it in a really flattering way. This was a huge improvement over wearing it back in a ponytail.
 

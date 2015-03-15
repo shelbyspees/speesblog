@@ -6,9 +6,17 @@ category: "job_hunting"
 
 I answer interview questions for fun anyway, so I might as well make some posts with them.
 
+<br/>
+
 >What is the best decision you ever made? How did you make it?
 
 [Answered]({{ site.url }}{% post_url 2015-03-14-the-best-decision %}) in another post, although I'm not sure I'd say it in an interview.
+
+<br/>
+
+>What is your greatest weakness?
+
+<br/>
 
 >What do you consider to be your greatest achievement to date?
 
