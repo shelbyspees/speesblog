@@ -20,7 +20,9 @@ Things to do:
 
 
 
-<h3 class="anchor" id="reading-page"><i class="fa fa-square-o"></i> Fix Reading page</h3>
+<h3 class="anchor" id="reading-page"><i class="fa fa-check-square-o"></i> Fix Reading page</h3>
+
+--> Update: I ended up doing it the cheap Markdown way using tables and a bit of CSS to adjust the cell width site-wide. Eventually I'll do it the proper automated way.
 
 Fix Reading page so that each book has the cover image on the left and the information on the right, like this:
 
