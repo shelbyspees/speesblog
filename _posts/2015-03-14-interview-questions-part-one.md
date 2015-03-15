@@ -4,7 +4,7 @@ title: "Interview Questions: Part I"
 category: "job_hunting"
 ---
 
-*[In progress.]* I answer interview questions for fun anyway, so I might as well make some posts with them.
+I answer interview questions for fun anyway, so I might as well make some posts with them.
 
 <br/>
 
