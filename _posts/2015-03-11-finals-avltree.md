@@ -4,6 +4,8 @@ title: "AVL Tree Implementation"
 category: "data_structures"
 ---
 
+Words here
+
 {% highlight c %}
 struct AVLNode {
 	void * val;
@@ -125,7 +127,9 @@ struct AVLNode *_rotateLeft(struct AVLNode *cur) {
 
 	return newTop;
 }
+{% endhighlight %}
 
+{% highlight c %}
 struct AVLNode *_rotateRight(struct AVLNode *cur) {
 	struct AVLNode *newTop;
 
@@ -138,7 +142,4 @@ struct AVLNode *_rotateRight(struct AVLNode *cur) {
 
 	return newTop;
 }
-{% endhighlight %}
-
-{% highlight c %}
 {% endhighlight %}
