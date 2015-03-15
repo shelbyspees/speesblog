@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What pain do you want in your life?
+category: mindfulness
 ---
 [Mark Manson wrote](http://markmanson.net/question) an insightful article over there on his blog.
 

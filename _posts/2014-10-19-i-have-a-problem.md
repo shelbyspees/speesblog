@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I have a problem
+category:
 ---
 Why do I avoid? Surely it's not that I'm trying to prove how well I can do with the smallest amount of effort. But that's the way I've been doing things for like, ten years. 
 

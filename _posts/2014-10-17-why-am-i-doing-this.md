@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why am I doing this?
+category: musings
 ---
 "I want to get good at this." But why?
 

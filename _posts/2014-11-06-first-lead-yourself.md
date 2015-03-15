@@ -1,7 +1,9 @@
 ---
 layout: "post"
 title: "The Leadership Challenge: First Lead Yourself"
+category: leadership
 ---
+
 I left my tablet charging at work. Had to crack open an [actual physical book](http://www.amazon.com/The-Leadership-Challenge-4th-Edition/dp/0787984922) to read before bed.
 
 Learning to lead is about discovering what you care about and value.

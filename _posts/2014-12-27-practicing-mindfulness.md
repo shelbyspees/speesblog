@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Practicing Mindfulness
+category: mindfulness
 ---
 "My mind is mine." No one else has access. Mind is the most private domain as the center of one's personality.
 

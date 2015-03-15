@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Productive
-category: personal
+category: 
 ---
 
 Wow I've never used the Evernote Android tablet app to write a note before. I could easily use this to write in bed or on a bike at the gym.
@@ -14,7 +14,7 @@ Lately at the gym I've been hanging out in the sauna. I realized that it's not p
 
 So last night I laid out my gym clothes and this morning I actually woke up at 6:00am, an hour before my alarm.
 
-I let myself curl up in my blankets for an hour, reading twitter before my alarm went off. And then I got up, had some coffee, changed my clothes, and headed out the door.
+I let myself curl up in my blankets for an hour, reading Twitter before my alarm went off. And then I got up, had some coffee, changed my clothes, and headed out the door.
 
 I wanted to cry. Oh man. I'm a huge wuss in 60F weather.
 

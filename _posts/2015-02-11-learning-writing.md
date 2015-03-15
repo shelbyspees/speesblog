@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning. Writing.
+category: learning
 ---
 There's so much to learn.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Biggest Weakness
+category: musings
 ---
 It's taken me a long time to figure this out. I've been doing a lot of introspection over the past year or so and this question always stumped me. But recently I've been struggling with my internal motivation and my willpower. It's a huge mental block for me.
 

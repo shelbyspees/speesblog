@@ -2,6 +2,7 @@
 layout: post
 title: Read the Humanities
 author: Originally by Keith Braithwaite
+category: best_practices
 ---
 
 I'm reposting this because it's a great article that's impossible to read on the source website.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I have so many thoughts
+category:
 ---
 I'm so tired but I can't turn off my brain.
 

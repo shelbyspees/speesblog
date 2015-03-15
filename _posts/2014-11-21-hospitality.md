@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hospitality
+category:
 ---
 Last week when I was feeling really down, I met this amazingly hot guy. 
 

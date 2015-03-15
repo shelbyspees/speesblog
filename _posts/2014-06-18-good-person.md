@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do you consider yourself a good person?
+category: musings
 ---
 What is a good person? Everybody is multi-faceted, everyone has good behavior and bad behavior. My moral compass is somewhere along the lines of, "Do no harm." But I break this on a daily basis.
 

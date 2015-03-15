@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Heart Feels Funny
+category: personal
 ---
 My anxiety has been through the roof the past few weeks. I don't like making excuses for myself but it's been very hard to focus.
 

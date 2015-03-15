@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Backpacking
+category: travel
 ---
 I haven't posted in a couple days. I'm pretty concerned about my school performance. 
 

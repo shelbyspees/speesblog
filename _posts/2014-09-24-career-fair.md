@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Career Fair
+category:
 ---
 I went to a career fair today and it was awesome. It made me realize how much I've learned about careers in the real world since my time at UCSB.
 

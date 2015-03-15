@@ -6,9 +6,9 @@ category: musings
 
 I wonder if my response to this question would fly in an interview.
 
->####What is the best decision you ever made? How did you make it?
+>What is the best decision you ever made? How did you make it?
 
-Anyone who knows me has heard that cutting my hair short has been the best single decision I ever made. Better than going to college, better than picking up the violin, better than learning French or Japanese--mostly because those were less decisions and more opportunities. But cutting my hair, that was a decision. Such a stupid change, but it's had such a huge impact on my confidence. 
+Cutting my hair short has been the best single decision I ever made. Anyone who knows me has heard it a dozen times. Better than going to college, better than picking up the violin, better than learning French or Japanese--mostly because those were less decisions and more opportunities. But cutting my hair, that was a decision. Such a stupid change, but it's had such a huge impact on my confidence. 
 
 I always envied boys growing up, they didn't have to worry about how their hair looked every day. They could run and play and move around without dark strands of dead skin cells flying into their eyes or sticking to their chapstick. From the age of 10 I knew I wanted to go boy-short.
 
@@ -24,13 +24,13 @@ I dreaded any occasion where I'd be expected to look remotely nice. Blow drying 
 
 In school I wore it in a ponytail or a bun every day. If I tried wearing it down for some reason, it'd be back up in a ponytail within the hour. No matter how good my outfit looked, I'd look like a schlub because of my hair.
 
-In my third year of college I studied abroad in Bordeaux, France for a semester. It had been about ten years since I started wishing for boy-short hair. 
+In my third year of college I studied abroad in Bordeaux, France for a semester. It had been probably twelve years since I started wishing for boy-short hair. 
 
-Unlike most study abroad experiences you hear about, mine wasn't a dream-come-true. My mental health went down the drain and my schoolwork was suffering. My long-distance boyfriend at the time was pulling away and I needed a change. I asked my roommate for moral support and we went to the salon on November 2nd, 2010.
+Unlike most study abroad experiences you hear about, mine wasn't a dream-come-true. The culture shock, loneliness, and various events in my life caused mental health to go down the drain, and my schoolwork was suffering because of it. My long-distance boyfriend at the time was pulling away and I needed a change. I asked my roommate for moral support and we went to the salon on November 2nd, 2010.
 
 Within three cuts I knew I had made the right decision. Instead of making my face look chubby like I had expected, my pixie framed it in a really flattering way. This was a huge improvement over wearing it back in a ponytail.
 
-Cutting my hair off gave me an extra hour+ every day to do whatever I wanted. I felt like I could finally wear cute outfits without worrying that my hair was ruining the look. Actually, because I didn't have to take so much time to do my hair, it was finally ok to take a few minutes to think about my outfit.
+Cutting my hair off gave me an extra hour+ every day to do whatever I wanted. I felt like I could finally wear cute outfits without worrying that my hair was ruining the look. Actually, since I didn't have to take so much time to do my hair, it finally felt acceptable to spend a few minutes thinking about my outfit.
 
 People who know me in person know that my thing now is that I *need* to wear earrings every day. I feel naked without them. I have a huge collection of cute earrings, which makes me a shit minimalist. But earrings last forever and they're 100% reusable, plus they take up so little space that it's barely noticable.
 
