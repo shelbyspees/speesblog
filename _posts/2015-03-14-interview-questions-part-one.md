@@ -4,7 +4,7 @@ title: "Interview Questions: Part I"
 category: "job_hunting"
 ---
 
-I answer interview questions for fun anyway, so I might as well make some posts with them.
+*[In progress.]* I answer interview questions for fun anyway, so I might as well make some posts with them.
 
 <br/>
 
@@ -21,9 +21,6 @@ I answer interview questions for fun anyway, so I might as well make some posts 
 
 <br/>
 
->What do you consider to be your greatest achievement to date?
-
-<br/>
 
 >Where do you see yourself in five years time?
 

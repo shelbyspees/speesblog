@@ -20,7 +20,9 @@ Things to do:
 
 
 
-####<i class="fa fa-square-o"></i> Fix Reading page so that each book has the cover image on the left and the information on the right, like this:
+<h3 class="anchor" id="reading-page"><i class="fa fa-square-o"></i> Fix Reading page</h3>
+
+Fix Reading page so that each book has the cover image on the left and the information on the right, like this:
 
 <img class="wide" src="{{ site.url }}/assets/comp/reading.png"/>
 
@@ -43,8 +45,7 @@ It's 1:42am. I have my data structures final in ~32 hours. Two huge assignments 
 
 
 
-
-####<i class="fa fa-square-o"></i> Super neat DS&A tutorial web app project
+<h3 class="anchor" id="d-s-and-a"><i class="fa fa-square-o"></i> Super neat DS&A tutorial web app project</h3>
 
 This is way over my head at this point, but I like the idea and I'll learn a lot of cool stuff in the process.
 
@@ -73,3 +74,25 @@ Things I'll have to learn:
 - Java implementation of DS&A
 
 I'm also thinking of adding grammar lessons in the languages I know. Once a teacher, always a teacher, amirite?
+
+
+
+
+
+
+
+
+
+
+<h3 class="anchor" id="job-hunting"><i class="fa fa-square-o"></i> Posts on job hunting</h3>
+
+I've read, saved, retweeted, analyzed dozens of articles on the job application process, from writing your LinkedIn header to deciding on what to wear the day of the interview. I don't want all that knowledge to go to waste. Plus what better way to procrastinate than to summarize the articles I methodically collected while--you guessed it--procrastinating.
+
+- Job application advice posts
+	- Cover letter
+	- Resume
+	- [Interview prep]({{ site.url }}{% post_url 2015-03-14-interview-prep %})
+	- Career fair prep
+- musings: Employment is a relationship
+- Respond to common interview questions
+	- [Part I]({{ site.url }}{% post_url 2015-03-14-interview-questions-part-one %})
