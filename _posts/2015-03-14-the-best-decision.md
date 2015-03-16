@@ -30,6 +30,8 @@ Unlike most study abroad experiences you hear about, mine wasn't a dream-come-tr
 
 Within three cuts I knew I had made the right decision. Instead of making my face look chubby like I had expected, my pixie framed it in a really flattering way. This was a huge improvement over wearing it back in a ponytail.
 
+<img class="wide" src="{{ site.url }}/assets/haircut-selfie.png"/>
+
 Cutting my hair off gave me an extra hour+ every day to do whatever I wanted. I felt like I could finally wear cute outfits without worrying that my hair was ruining the look. Actually, since I didn't have to take so much time to do my hair, it finally felt acceptable to spend a few minutes thinking about my outfit.
 
 People who know me in person know that my thing now is that I *need* to wear earrings every day. I feel naked without them. I have a huge collection of cute earrings, which makes me a shit minimalist. But earrings last forever and they're 100% reusable, plus they take up so little space that it's barely noticable.

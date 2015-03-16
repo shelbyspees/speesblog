@@ -45,7 +45,7 @@ While picking up clothes to wash, you might find yourself throwing out the trash
 
 Related activities have a domino effect when you start checking them off. It won't happen every time, and it probably won't happen the first time when you're the most stressed out about all this, but if you just keep showing up, keep working toward those tiny self-regulatory wins, it'll get easier.
 
-This is exactly Habits 1 and 3 from [*The 7 Habits*]({{ site.url }}{% post_url 2015-03-02-book-review-seven-habits %}). Ideally you'll reach a point where following those two habits is natural. Do what's in front of you, do what you said you were going to do, and don't flake. I'm guessing you'll find that once it's easy to show up, everything else doesn't seem as distressingly hard.
+This is exactly Habits 1 and 3 from [*The 7 Habits*]({{ site.url }}{% post_url 2015-03-02-book-review-seven-habits %}). Ideally you'll reach a point where following those two habits is natural. Do what's in front of you, do what you said you were going to do, and don't flake. Particularly on yourself. I'm guessing you'll find that once it's easy to show up, everything else doesn't seem as distressingly hard.
 
 ---
 
