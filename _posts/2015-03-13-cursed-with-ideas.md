@@ -9,18 +9,17 @@ Of course I can't get anything done sitting in a hospital waiting room with dayt
 
 In the dark of the night, I'm doomed to be attacked by my thoughts.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Ocm8QdNR_d8" frameborder="0" allowfullscreen></iframe>
-
-(Yeah I've been listening to the *Anastasia* soundtrack on my commute. I had forgotten how great/cheesy the music is.)
-
-Things to do:
-
+<figure class="center" style="display: table;">
+	<iframe width="420" height="315" style="padding-bottom: 5px;" src="https://www.youtube.com/embed/Ocm8QdNR_d8" frameborder="0" allowfullscreen></iframe>
+	<figcaption class="bottom">(Yeah I've been listening to the *Anastasia* soundtrack on my commute. I had forgotten how great/cheesy the music is.)</figcaption>
+</figure>
 
 
 
 
+<h2 class="anchor">Things to do:</h2>
 
-<h3 class="anchor" id="reading-page"><i class="fa fa-check-square-o"></i> Fix Reading page</h3>
+<h3 id="reading-page"><i class="fa fa-check-square-o"></i> Fix Reading page</h3>
 
 --> Update: I ended up doing it the cheap Markdown way using tables and a bit of CSS to adjust the cell width site-wide. Eventually I'll do it the proper automated way.
 
