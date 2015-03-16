@@ -14,7 +14,7 @@ I always envied boys growing up. They didn't have to worry about how their hair 
 
 My long, thick hair didn't cooperate no matter what I did. When I hit puberty, it decided to turn frizzy and wavy. If I tried blow-drying it, I'd look like this (but you know, significantly less confident. And with horrible skin):
 
-<img class="wide" src="http://blog.lokikoki.pl/wp-content/uploads/2010/11/frizzy-h.jpg"/>
+<img class="center" src="http://blog.lokikoki.pl/wp-content/uploads/2010/11/frizzy-h.jpg"/>
 
 In 11th grade I'd wake up at 4:45am every day to shower, blow dry, flat iron, get dressed, do makeup, and then leave for school at 6:30am. I have no idea how I took seven APs in high school and graduated with a 3.92 GPA while doing all of this. Plus I was concertmaster of two orchestras, like a crazy woman. (Okay, yeah, humblebrag.)
 
@@ -30,12 +30,15 @@ Unlike most study abroad experiences you hear about, mine wasn't a dream-come-tr
 
 Within three cuts I knew I had made the right decision. Instead of making my face look chubby like I had expected, my pixie framed it in a really flattering way. This was a huge improvement over wearing it back in a ponytail.
 
-<img class="wide" src="{{ site.url }}/assets/haircut-selfie.jpg"/>
+<figure class="wrapLeft">
+	<img class="wide" style="padding-bottom: 5px;" src="{{ site.url }}/assets/haircut-selfie.jpg"/>
+    <figcaption>The day I cut my hair.<br>I spent two hours taking selfies like this.</figcaption>
+</figure>
 
 Cutting my hair off gave me an extra hour+ every day to do whatever I wanted. I felt like I could finally wear cute outfits without worrying that my hair was ruining the look. Actually, since I didn't have to take so much time to do my hair, it finally felt acceptable to spend a few minutes thinking about my outfit.
 
 People who know me in person know that my thing now is that I *need* to wear earrings every day. I feel naked without them. I have a huge collection of cute earrings, which makes me a shit minimalist. But earrings last forever and they're 100% reusable, plus they take up so little space that it's barely noticable.
 
-I guarantee the best way to receive regular compliments is to get a cute pixie cut and start wearing cute earrings. Once I got four compliments on my earrings in a one-hour period. And I've never spent much more than $10 on a pair.
+<br><br><br>I guarantee the best way to receive regular compliments is to get a cute pixie cut and start wearing cute earrings. Once I got four compliments on my earrings in a one-hour period. And I've never spent much more than $10 on a pair.
 
 Maybe it's superficial. Maybe it's vain. I don't really care. I'm always going to judge my own appearance more harshly than I'll judge anyone else's appearance. If looking good makes it easier for me to get through life, it's not wasted effort. It's self-care.
