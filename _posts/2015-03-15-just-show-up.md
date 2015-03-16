@@ -16,7 +16,7 @@ Seems pretty obvious. I've known this the entire past two months when my depress
 
 When you're depressed, you end up making a habit of disappointing yourself. "I don't feel good, I don't think I'm going to go to the gym." or "Maybe I'll just have ice cream instead of cooking dinner." You flake on your friends and commitments, but that stems from repeatedly flaking on yourself. You stop seeing yourself as important or trustworthy. 
 
-As I mentioned in my review of [*The 7 Habits*]({% post_url 2015-03-02-book-review-seven-habits %}), I really like the idea of integrity: doing what you said you were gonna do when you said you were gonna do it. It's simple and applicable to anybody and any part of your life. Building and maintaining integrity is a constant uphill battle, but after a while you'll strengthen those calves and glutes and the climb doesn't seem so tough any more.
+As I mentioned in my [review of *The 7 Habits*]({{ site.url }}{% post_url 2015-03-02-book-review-seven-habits %}), I really like the idea of integrity: doing what you said you were gonna do when you said you were gonna do it. It's simple and applicable to anybody and any part of your life. Building and maintaining integrity is a constant uphill battle, but after a while you'll strengthen those calves and glutes and the climb doesn't seem so tough any more.
 
 Tiny self-control wins are how you build integrity with yourself. You can't go from zero to perfect in one day, so don't promise yourself that. Make tiny promises, especially ones that involve self-care, and keep them. Even if it's something boring like, "I'm going to wash my hair today." Sometimes that's all you can manage.
 
