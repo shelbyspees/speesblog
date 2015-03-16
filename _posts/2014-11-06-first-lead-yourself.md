@@ -21,3 +21,5 @@ Learning to lead is about discovering what you care about and value.
 * How prepared am I to handle the complex problems that now confront my organization?
 * What are my beliefs about how people ought to conduct the affairs of our organization?
 * Where do I think the organization ought to be headed over the next ten years?
+
+These are great topics for future blog posts.

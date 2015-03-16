@@ -171,7 +171,7 @@ I'll make a separate post about interview outfits.
 
 Watch this Amy Cuddy TED talk:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ks-_Mh1QhMc" frameborder="0" allowfullscreen></iframe>
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/Ks-_Mh1QhMc" frameborder="0" allowfullscreen></iframe>
 
 Use some of the techniques to boost your testosterone before the interview. I know I struggle with posture, so I try to take up more space in my every day life in order to make a habit of sitting up straighter.
 
@@ -179,4 +179,4 @@ Consider lifting weights the night before. I always stand up straighter and walk
 
 Sing in the shower to warm up your voice and put you in a good mood. I swear, it's important. This one is always a good energy boost:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/ZSS5dEeMX64" frameborder="0" allowfullscreen></iframe>
+<iframe class="center" width="420" height="315" src="https://www.youtube.com/embed/ZSS5dEeMX64" frameborder="0" allowfullscreen></iframe>
