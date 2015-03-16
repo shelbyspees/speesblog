@@ -52,7 +52,7 @@ The word "End" and the funeral exercise for this Habit are a bit misleading. I w
 
 Habit 2 was about the bird's-eye view of how you want your life to be. Habit 3 is about what happens on the ground.
 
-Putting first things first is about doing the things that are available to you now to get you closer to your Habit 2 Self. The Urgency vs. Importance metric is super useful to understand here.
+Putting first things first is about doing the things that are available to you now to get you closer to your Habit 2 Self. The Urgency vs. Importance matrix is super useful to understand here.
 
 <img class="wide" src="{{ site.url }}/assets/comp/urgency-importance.png"/>
 

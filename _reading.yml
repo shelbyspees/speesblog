@@ -1,0 +1,8 @@
+book:
+	title:
+	author:
+	link:
+	image:
+	description: > # this means to ignore newlines until "status:"
+	status:
+
