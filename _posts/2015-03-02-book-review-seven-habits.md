@@ -24,7 +24,7 @@ The thing about this book is that it intellectualizes and jargonizes the basics 
 
 The first three Habits are internal. Covey discusses the importance of transcending interpersonal dependence and reaching independence with help from the first three Habits. This section of the book really spoke to me.
 
-<h3 id="habit1">Habit 1: Be Proactive</h3>
+<h3 class="anchor" id="habit1">Habit 1: Be Proactive</h3>
 
 The first Habit is at the top of the list for a reason. Nothing you want in life is going to come about unless you take action. It's the foundation of every other Habit on the list.
 
@@ -38,7 +38,7 @@ But we have such a hard time with it. Maybe we're good for a while, but then we 
 
 We will screw up. We will go off balance. It's important to take the steps necessary to regain that balance and maintain those streaks.
 
-<h3 id="habit2">Habit 2: Begin with the End in Mind</h3>
+<h3 class="anchor" id="habit2">Habit 2: Begin with the End in Mind</h3>
 
 I think I've been imagining my own funeral since I was a kid, but it definitely became more vivid after trying the exercises in this chapter. You're supposed to imagine what you want people to say about you at your eulogy. The idea is that the person your loved ones describe at your eulogy is the person you want yourself to be.
 
@@ -46,7 +46,7 @@ Since my family and friends say nice things about me all the time, I had to dig 
 
 The word "End" and the funeral exercise for this Habit are a bit misleading. I won't really care what happens once I'm dead; I'll be dead. But I know there's a better version of myself that I'm capable of being. That motivates me.
 
-<h3 id="habit3">Habit 3: Put First Things First</h3>
+<h3 class="anchor" id="habit3">Habit 3: Put First Things First</h3>
 
 "But... you just told me to begin with the *end*. Now I'm supposed to start with what's *first*??" Yes.
 
@@ -54,7 +54,7 @@ Habit 2 was about the bird's-eye view of how you want your life to be. Habit 3 i
 
 Putting first things first is about doing the things that are available to you now to get you closer to your Habit 2 Self. The Urgency vs. Importance metric is super useful to understand here.
 
-[image]
+<img class="wide" src="{{ site.url }}/assets/comp/urgency-importance.png"/>
 
 These are just some token examples, but I want you to notice Quadrant II. Exercise, meditation, stretching, studying--the things I'm most likely to put off.
 
@@ -68,7 +68,7 @@ The "first" in Put First Things First is to take advantage of the opportunities 
 
 The next three Habits are external. Social. These have always been harder for me to wrap my head around than the first three. I'm just too introspective, I guess.
 
-<h3 id="habit4">Habit 4: Think Win/Win</h3>
+<h3 class="anchor" id="habit4">Habit 4: Think Win/Win</h3>
 
 So cliché, right? Everybody knows about compromise.
 
@@ -78,7 +78,7 @@ In mainstream understanding, "Win/Win" means I get a little of what I wanted and
 
 You've probably heard of this as being "creative" or "thinking outside the box." Those are important attitudes to have when interacting with others. 
 
-<h3 id="habit5">Habit 5: Seek First to Understand, then to be Understood</h3>
+<h3 class="anchor" id="habit5">Habit 5: Seek First to Understand, then to be Understood</h3>
 
 This Habit changed my entire perspective as an educator, and I think it'll have rippling effects throughout my entire career.
 
@@ -94,7 +94,7 @@ Of course not every student needed or wanted advice, but most were there to impr
 
 Here's an example of the repercussions of not following this guideline in the field of software:
 
-[image]
+<img class="wide" src="{{ site.url }}/assets/comp/soft-comic.png"/>
 
 Understanding the market, understanding customer needs, that's what builds a legacy. Understanding stakeholders and constituents is what helps the most people. Understanding your loved ones gives you the most influence, and it gives you the ability to wield that influence like a paintbrush rather than a club.
 
@@ -102,7 +102,7 @@ Listen. Ask questions. Ask for clarification. Paraphrase back to them. All of th
 
 Don't just wait for your chance to speak. Chances are you may have something different to say once you truly understand what the other person is talking about.
 
-<h3 id="habit6">Habit 6: Synergize</h3>
+<h3 class="anchor" id="habit6">Habit 6: Synergize</h3>
 
 Oh, that word. The most [jargony](http://en.wikipedia.org/wiki/Synergy) of them all. What the heck does it mean?
 
@@ -122,7 +122,7 @@ The problem with this Habit is that it's not something you can just do. But it c
 
 ---
 
-<h3 id="habit7">Habit 7: Sharpen the Saw</h3>
+<h3 class="anchor" id="habit7">Habit 7: Sharpen the Saw</h3>
 
 The final Habit on the list is a nice package for all the other Habits to reside in. Sharpening the saw is about paying attention to the little things so you don't waste your time going in the wrong direction.
 
