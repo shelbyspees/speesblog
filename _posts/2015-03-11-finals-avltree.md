@@ -9,35 +9,84 @@ Words here
 {% highlight c %}
 struct AVLNode {
 	void * val;
-	struct AVLNode *left; //left child
-	struct AVLNode *right; //right child
+	struct AVLNode * left; //left child
+	struct AVLNode * right; //right child
+
+	//this is the difference between a BST and an AVL tree
 	int height;
 };
 
-struct AVLTree { //Height-Balanced Binary Search Tree
+//Height-Balanced Binary Search Tree
+struct AVLTree {
 	struct AVLNode *root;
 	int count;
 };
 {% endhighlight %}
 
+###height()
+
+{% highlight c %}
+int _height(struct AVLNode * cur) {
+	if (cur == NULL)
+		return -1;
+	return cur->height;
+}
+
+void _setHeight(struct AVLNode * cur) {
+	int leftHeight = _height(cur->left);
+	int rightHeight = _height(cur->right);
+	if (leftHeight < rightHeight)
+		cur->height = rightHeight + 1;
+	else
+		cur->height = leftHeight + 1;
+}
+{% endhighlight %}
+
 The initialization for the AVL tree is exactly the same as for the binary search tree
+
+###contains()
+
+`contains` is also the same for both types of trees.
+
+Note that we're using a weird `comparator typedef` to handle the pointer names.
+
+{% highlight c %}
+typedef int (* comparator) (void * left, void * right);
+{% endhighlight %}
+
+{% highlight c %}
+int containsAVLTree(struct AVLTree * tree, void * val, comparator compare) {
+	struct AVLNode * cur;
+	cur = tree->root;
+
+	while (cur != NULL) {
+		if ((* compare)(cur->val, val) == 0)
+			return 1; //found it
+		else if ((* compare)(val, cur->val) < 0)
+			cur = cur->left;
+		else
+			cur = cur->right;
+	}
+	return 0; //does not contain val
+}
+{% endhighlight %}
 
 ###add()
 
 {% highlight c %}
-void addAVLTree(struct AVLTree *tree, void * val, comparator compare) {
+void addAVLTree(struct AVLTree * tree, void * val, comparator compare) {
 	tree->root = _addNode(tree->root, val, compare); //call the recursive helper function
 	tree->count++;
 }
 {% endhighlight %}
 
 {% highlight c %}
-struct AVLNode *_addNode(struct AVLNode *cur, void * val, comparator compare) {
-	struct AVLNode *newNode;
+struct AVLNode * _addNode(struct AVLNode * cur, void * val, comparator compare) {
+	struct AVLNode * newNode;
 	if (cur == NULL) //base case
 			{
 		//create a new one and return it
-		newNode = (struct AVLNode *) malloc(sizeof(struct AVLNode));
+		newNode = (struct AVLNode *) malloc(sizeof(newNode));
 		assert(newNode != NULL);
 		newNode->left = newNode->right = NULL;
 		newNode->val = val;
@@ -55,29 +104,10 @@ struct AVLNode *_addNode(struct AVLNode *cur, void * val, comparator compare) {
 }
 {% endhighlight %}
 
-###contains()
-
-{% highlight c %}
-int containsAVLTree(struct AVLTree *tree, void * val, comparator compare) {
-	struct AVLNode *cur;
-	cur = tree->root;
-
-	while (cur != NULL) {
-		if ((*compare)(cur->val, val) == 0)
-			return 1; //found it
-		else if ((*compare)(val, cur->val) < 0)
-			cur = cur->left;
-		else
-			cur = cur->right;
-	}
-	return 0; //does not contain val
-}
-{% endhighlight %}
-
 ###remove()
 
 {% highlight c %}
-void removeAVLTree(struct AVLTree *tree, void * val, comparator compare) {
+void removeAVLTree(struct AVLTree * tree, void * val, comparator compare) {
 	if (containsAVLTree(tree, val, compare)) {
 		tree->root = _removeNode(tree->root, val, compare);
 		tree->count--;
@@ -90,31 +120,39 @@ void removeAVLTree(struct AVLTree *tree, void * val, comparator compare) {
 {% highlight c %}
 //utility function to compute the balance factor of a node
 //computed as right - left
-int _bf(struct AVLNode *cur) {
+int _bf(struct AVLNode * cur) {
 	return _height(cur->right) - _height(cur->left);
 }
 
 //utility function to balance a node
-struct AVLNode *_balance(struct AVLNode *cur) {
-	//compute the balance factor for the node
+struct AVLNode * _balance(struct AVLNode * cur) {
+	//current balance factor
 	int cbf = _bf(cur);
-	if (cbf < -1) { //cur is heavy on the left
-		if (_bf(cur->left) > 0) //check for double rotation. ie. is the leftChild heavy on the right
-			cur->left = _rotateLeft(cur->left); //yes, left child was heavy on right, so rotate child left first
-		return _rotateRight(cur); //rotate cur to the right
-	} else if (cbf > 1) {
-		if (_bf(cur->right) < 0)
+
+	if(cbf < -1) { //cur is heavy on the left
+		if( _bf(cur->left) > 0 ) { //is left child heavy on the right?
+			//double rotation
+			//rotate left child first
+			cur->left = _rotateLeft(cur->left);
+		}
+		return _rotateRight(cur);
+	}
+	else if (cbf > 1) { //cur is heavy on the right
+		if ( _bf(cur->right < 0) ) { //is right child heavy on the left?
+			//double rotation
+			//rotate right child first
 			cur->right = _rotateRight(cur->right);
+		}
 		return _rotateLeft(cur);
 	}
-	//once rotation is done, we must set the heights appropriately
+
 	_setHeight(cur);
 	return cur;
 }
 {% endhighlight %}
 
 {% highlight c %}
-struct AVLNode *_rotateLeft(struct AVLNode *cur) {
+struct AVLNode * _rotateLeft(struct AVLNode *cur) {
 
 	struct AVLNode *newTop;
 
@@ -130,8 +168,8 @@ struct AVLNode *_rotateLeft(struct AVLNode *cur) {
 {% endhighlight %}
 
 {% highlight c %}
-struct AVLNode *_rotateRight(struct AVLNode *cur) {
-	struct AVLNode *newTop;
+struct AVLNode * _rotateRight(struct AVLNode *cur) {
+	struct AVLNode * newTop;
 
 	newTop = cur->left;
 	cur->left = newTop->right;

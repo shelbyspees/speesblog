@@ -90,7 +90,7 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 <br>
 
-| <img src="{{ site.url }}/assets/97-things.jpg" alt="Coders At Work"/> | [**97 Things Every Programmer Should KNow**](http://smile.amazon.com/gp/product/B002RHN7RM/ref=kinw_myk_ro_title) <br><i class="fa fa-refresh"></i> In Progress | 
+| <img src="{{ site.url }}/assets/97-things.jpg" alt="Coders At Work"/> | [**97 Things Every Programmer Should Know**](http://smile.amazon.com/gp/product/B002RHN7RM/ref=kinw_myk_ro_title) <br><i class="fa fa-refresh"></i> In Progress | 
 
 <br>
 
