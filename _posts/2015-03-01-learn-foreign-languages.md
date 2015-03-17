@@ -2,7 +2,7 @@
 layout: post
 title: Learn Foreign Languages
 author: Originally by Klaus Marquardt
-category: best_practices
+category: learning
 ---
 
 Yeah I'm just reposting articles on topics I like. What are you going to do about it?

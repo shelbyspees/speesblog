@@ -2,7 +2,7 @@
 layout: post
 title: The Guru Myth
 author: Originally by Ryan Brush
-category: best_practices
+category: leadership
 ---
 
 Another great article, reposted.

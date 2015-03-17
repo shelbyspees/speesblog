@@ -2,7 +2,7 @@
 layout: post
 title: Continuous Learning
 author: Originally by Clint Shank
-category: best_practices
+category: learning
 ---
 
 Reposted from 97 Things.
