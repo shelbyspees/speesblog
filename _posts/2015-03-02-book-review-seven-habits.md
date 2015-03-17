@@ -4,7 +4,7 @@ title: "Book Review: The 7 Habits of Highly Effective People"
 category: mindfulness
 ---
 
-Years ago I read [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](http://smile.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1423798461&sr=8-1&keywords=7+habits) by Stephen R. Covey, listed as follows:
+Years ago I read [<i class="fa fa-book"></i> *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change*](http://smile.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1423798461&sr=8-1&keywords=7+habits) by Stephen R. Covey, listed as follows:
 
 1. [Be Proactive](#habit1)
 2. [Begin with the End in Mind](#habit2)

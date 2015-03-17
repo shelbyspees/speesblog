@@ -5,9 +5,9 @@ author: Originally by Keith Braithwaite
 category: best_practices
 ---
 
-I'm reposting this because it's a great article that's impossible to read on the source website.
+Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Know*](http://smile.amazon.com/gp/product/B002RHN7RM/ref=kinw_myk_ro_title).
 
-[Source](http://programmer.97things.oreilly.com/wiki/index.php/Read_the_Humanities)
+[<i class="fa fa-list-alt"></i> Source](http://programmer.97things.oreilly.com/wiki/index.php/Read_the_Humanities)
 
 ---
 

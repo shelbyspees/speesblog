@@ -5,9 +5,9 @@ author: Originally by Ryan Brush
 category: leadership
 ---
 
-Another great article, reposted.
+Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Know*](http://smile.amazon.com/gp/product/B002RHN7RM/ref=kinw_myk_ro_title).
 
-[Source](http://programmer.97things.oreilly.com/wiki/index.php/The_Guru_Myth)
+[<i class="fa fa-list-alt"></i> Source](http://programmer.97things.oreilly.com/wiki/index.php/The_Guru_Myth)
 
 ---
 

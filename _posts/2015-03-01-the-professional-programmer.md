@@ -5,9 +5,9 @@ author: Originally by Uncle Bob
 category: best_practices
 ---
 
-Yet another great article, reposted.
+Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Know*](http://smile.amazon.com/gp/product/B002RHN7RM/ref=kinw_myk_ro_title).
 
-[Source](http://programmer.97things.oreilly.com/wiki/index.php/The_Professional_Programmer)
+[<i class="fa fa-list-alt"></i> Source](http://programmer.97things.oreilly.com/wiki/index.php/The_Professional_Programmer)
 
 ---
 

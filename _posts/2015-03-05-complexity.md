@@ -4,7 +4,7 @@ title: Complexity
 category: best_practices
 ---
 
-This is an excerpt from a book called *[Facts and Fallacies of Software Engineering](http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert-ebook/dp/B001TKD4RG/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-2&qid=1424666218)* by Robert L. Glass. This section really stood out, and it does a good job of combining a lot of the points in the book.
+This is an excerpt from a book called [<i class="fa fa-book"></i> *Facts and Fallacies of Software Engineering*](http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert-ebook/dp/B001TKD4RG/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-2&qid=1424666218) by Robert L. Glass. This section really stood out, and it does a good job of combining a lot of the points in the book.
 
 I can't believe this book was published in the 90s. I guess hardware and software change, but people don't change at all.
 

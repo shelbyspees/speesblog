@@ -4,14 +4,14 @@ title: Enjoy the Struggle
 category: learning
 ---
 
-I'm reading [*Apprenticeship Patterns*](http://chimera.labs.oreilly.com/books/1234000001813/index.html) by David H. Hoover and Adewale Oshineye. I love that it's available to read for free online. It really captures the mindset that makes certain learners significantly more successful than the majority.
+I'm reading [<i class="fa fa-book"></i> *Apprenticeship Patterns*](http://chimera.labs.oreilly.com/books/1234000001813/index.html) by David H. Hoover and Adewale Oshineye. I love that it's available to read for free online. It really captures the mindset that makes certain learners significantly more successful than the majority.
 
 In chapter 3, ["The Long Road,"](http://chimera.labs.oreilly.com/books/1234000001813/ch03.html#the_long_road) there's a great quote about embracing the journey to build that knowledge:
 
 >For every step you take toward mastery, your destination moves two steps further away. Embrace mastery as a lifelong endeavor. Learn to love the journey.  
 >--George Leonard, Mastery
 
-This quote touches on quite a few clichés we've all encountered. ["You don't know what you don't know,"](http://googleblog.blogspot.com/2014/09/you-dont-know-what-you-dont-know-how.html) and as you start learning about the things you don't know, you find yourself facing this endless chasm of knowledge. To those who collect knowledge, it's overwhelming to think of all the things you'll never be able to wrap your head around. [(An example I encountered recently.)](http://waitbutwhy.com/2014/05/fermi-paradox.html)
+This quote touches on quite a few clichés we've all encountered. [<i class="fa fa-list-alt"></i> "You don't know what you don't know,"](http://googleblog.blogspot.com/2014/09/you-dont-know-what-you-dont-know-how.html) and as you start learning about the things you don't know, you find yourself facing this endless chasm of knowledge. To those who collect knowledge, it's overwhelming to think of all the things you'll never be able to wrap your head around. [(<i class="fa fa-list-alt"></i> An example I encountered recently.)](http://waitbutwhy.com/2014/05/fermi-paradox.html)
 
 You can't let your confidence depend on being smart and knowledgeable. Not only is it impossible to be knowledgable about everything, but we're going to continue to encounter new things to learn every day. Especially in software. Even if the buzzwords being dropped are just a slight deviation from whatever web framework is flavor-of-the-week, you're still not going to know what they mean the first time you hear them.
 
@@ -21,7 +21,7 @@ Further, pretending to know things that you don't only slows you down. While I u
 
 Don't let your confidence depend on feeling smart. Your confidence should be fueled by your efforts.
 
-As you get comfortable with not knowing, you'll find yourself getting better at asking [smart questions](http://www.catb.org/esr/faqs/smart-questions.html). Actually, the real experts [ask the most questions](http://blog.codinghorror.com/are-you-an-expert/):
+As you get comfortable with not knowing, you'll find yourself getting better at asking [<i class="fa fa-list-alt"></i> smart questions](http://www.catb.org/esr/faqs/smart-questions.html). Actually, the real experts [<i class="fa fa-list-alt"></i> ask the most questions](http://blog.codinghorror.com/are-you-an-expert/):
 
 >Being an expert isn't telling other people what you know. It's understanding what questions to ask, and flexibly applying your knowledge to the specific situation at hand. Being an expert means providing sensible, highly contextual direction.
 
@@ -36,7 +36,7 @@ I have another way of phrasing this, and it's been something that's come up a lo
 
 {% highlight c %}
 10: PRINT "What's that?"  
-20: PRINT "You can do that??"  
+20: PRINT "You can DO that??"  
 30: PRINT "Oh that's easy."  
 40: GOTO  10 
 {% endhighlight %}
@@ -51,9 +51,9 @@ Of course, we're human. And I'm expecting anyone bothering to read this is proba
 >**Solution**  
 >Pull back, then launch forward like a stone from a catapult. Retreat briefly into your competence to regain your composure. Take some time to build something that you know how to build. Then use that experience to recognize how far you’ve come and how much you are currently capable of.
 
-I do this all the time. That's what this blog is about. This is why I read books like [*Working with Emotional Intelligence*](http://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman-ebook/dp/B000JMKTN2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1426551915) and random linguistics textbooks to procrastinate my schoolwork. When I'm overwhelmed by the hard stuff I'm trying to understand, retreating into what I'm good at helps me build my confidence, which in turn allows me to climb back on that learning horse for a while longer.
+I do this all the time. That's what this blog is about. This is why I read books like [<i class="fa fa-book"></i> *Working with Emotional Intelligence*](http://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman-ebook/dp/B000JMKTN2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1426551915) and random linguistics textbooks to procrastinate my schoolwork. When I'm overwhelmed by the hard stuff I'm trying to understand, retreating into what I'm good at helps me build my confidence, which in turn allows me to climb back on that learning horse for a while longer.
 
-As long as you're careful not to let yourself plateau, it's okay or even good to enjoy that competence for a while. That way you can brace yourself for that next bout of learning. According to Gerald Weinberg in his book [Becoming a Technical Leader](http://www.amazon.com/Becoming-Technical-Leader-Gerald-Weinberg-ebook/dp/B004J4VV3I/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1426553246), skill growth basically looks like this:
+As long as you're careful not to let yourself plateau, it's okay or even good to enjoy that competence for a while. That way you can brace yourself for that next bout of learning. According to Gerald Weinberg in his book [<i class="fa fa-book"></i> *Becoming a Technical Leader*](http://www.amazon.com/Becoming-Technical-Leader-Gerald-Weinberg-ebook/dp/B004J4VV3I/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1426553246), skill growth basically looks like this:
 
 <img class="center" src="{{ site.url }}/assets/comp/skill1.png"/>
 

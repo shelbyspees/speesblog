@@ -6,7 +6,7 @@ category: learning
 
 Computer science is a huge, never-ending field.
 
-A long time ago I saved [this ginormous article](http://matt.might.net/articles/what-cs-majors-should-know/) listing all of the topics a CS major should have working knowledge of. Previously, I found it intimidating, but now after working at a software company for a few months and understanding how any software product depends on nearly every topic mentioned in the article, I'm gaining motivation to learn all these things.
+A long time ago I saved [<i class="fa fa-list-alt"></i> this ginormous article](http://matt.might.net/articles/what-cs-majors-should-know/) listing all of the topics a CS major should have working knowledge of. Previously, I found it intimidating, but now after working at a software company for a few months and understanding how any software product depends on nearly every topic mentioned in the article, I'm gaining motivation to learn all these things.
 
 This is part of the reason why I'm not in a rush to graduate. I guess each quarter I put off graduating is another three months without a full-time developer salary, but I don't want to just be a Joe Schmoe developer. I want to be the person others ask to solve their problems.
 
