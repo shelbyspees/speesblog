@@ -53,6 +53,16 @@ Of course, we're human. And I'm expecting anyone bothering to read this is proba
 
 I do this all the time. That's what this blog is about. This is why I read books like [*Working with Emotional Intelligence*](http://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman-ebook/dp/B000JMKTN2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1426551915) and random linguistics textbooks to procrastinate my schoolwork. When I'm overwhelmed by the hard stuff I'm trying to understand, retreating into what I'm good at helps me build my confidence, which in turn allows me to climb back on that learning horse for a while longer.
 
-It all comes down to being self-aware. Know your goal (a.k.a. ["begin with the end in mind"]()), and adjust when you're not following whatever path will get you there. Accept that there will always be things you're ignorant of, but don't make that an excuse for encouraging ignorance. Do your best to continuously absorb information. I mean, I've learned a ton just from living on reddit for the past five years.
+As long as you're careful not to let yourself plateau, it's okay or even good to enjoy that competence for a while. That way you can brace yourself for that next bout of learning. According to Gerald Weinberg in his book [Becoming a Technical Leader](http://www.amazon.com/Becoming-Technical-Leader-Gerald-Weinberg-ebook/dp/B004J4VV3I/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1426553246), skill growth basically looks like this:
+
+<img class="center" src="{{ site.url }}/assets/comp/skill1.png"/>
+
+Your competence is in the low slopes of the plateau, and significant growth only comes after a period of struggle. You have to allow for a lower quality of work while you're learning, but once you acquire the skill your effectiveness will jump quite a bit. That is, until your competence in that plateaus.
+
+Worry not, I highly doubt you could ever run out of things to learn.
+
+So my advice is to learn to enjoy those little dips in your effectiveness. Those little dips are investments in your future abilities. You can't cut down a tree if you're endlessly [sharpening the saw](), but trying to cut with a dull blade is nonsensical.
+
+It all comes down to being self-aware. Know your goal (a.k.a. ["begin with the end in mind"]({{ site.url }}{% post_url 2015-03-02-book-review-seven-habits %}#habit2)), and adjust when you're not following whatever path will get you there. Accept that there will always be things you're ignorant of, but don't make that an excuse for encouraging ignorance. Do your best to continuously absorb information. I mean, I've learned a ton just from living on reddit for the past five years.
 
 Above all, maintain that self-awareness. Awareness is always the first step.
