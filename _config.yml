@@ -13,7 +13,6 @@ timezone: -0800
 
 # Build settings
 markdown: kramdown
-highlighter: Pygments
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
