@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enjoy the Struggle
-category: mindfulness
+category: learning
 ---
 
 I'm reading [*Apprenticeship Patterns*](http://chimera.labs.oreilly.com/books/1234000001813/index.html) by David H. Hoover and Adewale Oshineye. I love that it's available to read for free online. It really captures the mindset that makes certain learners significantly more successful than the majority.
