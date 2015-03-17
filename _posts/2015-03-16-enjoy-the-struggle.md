@@ -61,7 +61,7 @@ Your competence is in the low slopes of the plateau, and significant growth only
 
 Worry not, I highly doubt you could ever run out of things to learn.
 
-So my advice is to learn to enjoy those little dips in your productivity. Each one is an investment in your future success. You can't cut down a tree if you're endlessly [sharpening the saw]({{ site.url }}{% post_url 2015-03-02-book-review-seven-habits %}#habit7), but trying to cut with a dull blade is nonsensical.
+So my advice is to learn to enjoy those little dips in your productivity. Each one is an investment in your future success. You'll cut down a tree if you don't stop [sharpening the saw]({{ site.url }}{% post_url 2015-03-02-book-review-seven-habits %}#habit7), but trying to cut with a dull blade is nonsensical. There needs to be a balance between learning and doing.
 
 It all comes down to being self-aware. Know your goal (a.k.a. ["begin with the end in mind"]({{ site.url }}{% post_url 2015-03-02-book-review-seven-habits %}#habit2)), and adjust when you're not following whatever path will get you there. Accept that there will always be things you're ignorant of, but don't make that an excuse for encouraging ignorance. Do your best to continuously absorb information. I mean, I've learned a ton just from living on reddit for the past five years.
 

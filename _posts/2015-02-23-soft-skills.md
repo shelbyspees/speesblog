@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soft Skills
-category: best_practices
+category: learning
 ---
 This is so relevant for me right now:
 
