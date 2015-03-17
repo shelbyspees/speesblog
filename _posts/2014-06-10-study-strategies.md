@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Study Strategies
-category: best_practices
+category: learning
 ---
 
 I pulled this from a [Time article](http://ideas.time.com/2013/10/08/the-key-to-learning-knowing-how-learning-works/?iid=op-main-lead) a while back. Great advice for students and learners of all ages.
