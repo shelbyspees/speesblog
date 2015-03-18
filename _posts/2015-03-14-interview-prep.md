@@ -132,6 +132,12 @@ Some people don't approve of this question, but it'll tell you if there's anythi
 
 More generally, it'll give you a opportunity to address each aspect of the position that you're qualified for. They say, "Well we're looking for someone with XYZ experience" and you say, "Well as you know, I've worked on several XYZ projects."
 
+**What is the most challenging aspect of this position?**
+
+**How are employees evaluated?**
+
+**How does overtime work at this company?**
+
 ***How do you like it here?***
 
 Hopefully they give you a mini-history of their time at the company. From here you can ask why they chose this company and any other questions that come up.

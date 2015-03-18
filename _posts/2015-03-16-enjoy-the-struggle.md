@@ -11,7 +11,7 @@ In chapter 3, ["The Long Road,"](http://chimera.labs.oreilly.com/books/123400000
 >For every step you take toward mastery, your destination moves two steps further away. Embrace mastery as a lifelong endeavor. Learn to love the journey.  
 >--George Leonard, Mastery
 
-This quote touches on quite a few clichés we've all encountered. [<i class="fa fa-list-alt"></i> "You don't know what you don't know,"](http://googleblog.blogspot.com/2014/09/you-dont-know-what-you-dont-know-how.html) and as you start learning about the things you don't know, you find yourself facing this endless chasm of knowledge. To those who collect knowledge, it's overwhelming to think of all the things you'll never be able to wrap your head around. [(<i class="fa fa-list-alt"></i> An example I encountered recently.)](http://waitbutwhy.com/2014/05/fermi-paradox.html)
+This quote touches on quite a few clichés we've all encountered. [<i class="fa fa-list-alt"></i> "You don't know what you don't know,"](http://googleblog.blogspot.com/2014/09/you-dont-know-what-you-dont-know-how.html) and as you start learning about the things you don't know you find yourself facing this endless chasm of knowledge. To those who collect knowledge, it's overwhelming to think of all the things you'll never be able to wrap your head around. [(<i class="fa fa-list-alt"></i> An example I encountered recently.)](http://waitbutwhy.com/2014/05/fermi-paradox.html)
 
 You can't let your confidence depend on being smart and knowledgeable. Not only is it impossible to be knowledgable about everything, but we're going to continue to encounter new things to learn every day. Especially in software. Even if the buzzwords being dropped are just a slight deviation from whatever web framework is flavor-of-the-week, you're still not going to know what they mean the first time you hear them.
 
@@ -61,7 +61,7 @@ Your competence is in the low slopes of the plateau, and significant growth only
 
 Worry not, I highly doubt you could ever run out of things to learn.
 
-So my advice is to learn to enjoy those little dips in your productivity. Each one is an investment in your future success. You'll cut down a tree if you don't stop [sharpening the saw]({{ site.url }}{% post_url 2015-03-02-book-review-seven-habits %}#habit7), but trying to cut with a dull blade is nonsensical. There needs to be a balance between learning and doing.
+So my advice is to learn to enjoy those little dips in your productivity. Each one is an investment in your future success. You'll never cut down a tree if you don't stop [sharpening the saw]({{ site.url }}{% post_url 2015-03-02-book-review-seven-habits %}#habit7), but trying to cut with a dull blade is nonsensical. There needs to be a balance between learning and doing.
 
 It all comes down to being self-aware. Know your goal (a.k.a. ["begin with the end in mind"]({{ site.url }}{% post_url 2015-03-02-book-review-seven-habits %}#habit2)), and adjust when you're not following whatever path will get you there. Accept that there will always be things you're ignorant of, but don't make that an excuse for encouraging ignorance. Do your best to continuously absorb information. I mean, I've learned a ton just from living on reddit for the past five years.
 
