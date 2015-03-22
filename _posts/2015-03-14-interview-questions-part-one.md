@@ -8,13 +8,13 @@ I answer interview questions for fun anyway, so I might as well make some posts 
 
 <br/>
 
->What is the best decision you ever made? How did you make it?
+***What is the best decision you ever made? How did you make it?***
 
 [Answered]({{ site.url }}{% post_url 2015-03-14-the-best-decision %}) in another post, although I'm not sure I'd say it in an interview.
 
 <br/>
 
->What is your greatest weakness?
+***What is your greatest weakness?***
 
 [Answered]({{ site.url }}{% post_url 2014-10-18-biggest-weakness %}) in a very introspective, not-quite-professional way. I'll probably update my answer at some point.
 
@@ -22,7 +22,7 @@ I answer interview questions for fun anyway, so I might as well make some posts 
 <br/>
 
 
->Where do you see yourself in five years time?
+***Where do you see yourself in five years time?***
 
 I want to be a software engineer at a small- to mid-sized software company, where software is the profit center. I'm not sure if I'll be living in the Bay Area, NYC, or the Pacific Northwest, but I imagine I'd enjoy living in any of those areas since each of them has a good number of young people and a strong tech scene. My lifestyle should include great food, beer, yoga, gym, and a job I love. I'm holding my breath for that one-bedroom apartment, and I definitely want to commute via public transit.
 
@@ -36,7 +36,7 @@ I also want to get involved in the open source community. I'd like to be known a
 
 
 
->Tell me about a time when you demonstrated good written communication skills.
+***Tell me about a time when you demonstrated good written communication skills.***
 
 Copy editing the menu at Pizza Cookery.
 
@@ -46,7 +46,7 @@ This blog.
 
 <br/>
 
->Tell me about a time when you demonstrated good oral communication skills.
+***Tell me about a time when you demonstrated good oral communication skills.***
 
 Sometimes in a meeting or another group setting, when one person is trying to ask a question or make a point and I can sense that the other person isn't quite understanding it, I'll try to gently clarify for both parties. It looks kind of like this:
 
