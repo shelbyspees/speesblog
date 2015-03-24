@@ -14,7 +14,7 @@ I've been applying to internships around Santa Monica, but I know my car won't s
 
 On the other hand, I can't afford to live anywhere walkable. At least I'm not paying rent right now. I had started to save up some money but then my school put a hold on my account. That meant I couldn't register for classes until I paid off my account balance. (Not my student loan balance, just the few thousand dollars my loans won't cover each term.) So now I'm registered for spring but my bank account looks pitiful.
 
-So that's what happened to the money I was earning
+So that's what happened to the money I was earning in order to save up enough to move out.
 
 Should I work as a server to save up to move? Sure, if I want my grades and mental health to take a nosedive. A few shifts here and there works great for spending money, but working enough to be able to move by summer would destroy me.
 

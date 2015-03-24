@@ -4,11 +4,15 @@ title: The Emotional Competence Framework
 category: mindfulness
 ---
 
-Pulled directly from [<i class="fa fa-book"></i> *Working with Emotional Intelligence*]() by Daniel Goleman.
+Pulled directly from [<i class="fa fa-book"></i> *Working with Emotional Intelligence*](http://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman-ebook/dp/B000JMKTN2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1427167026) by Daniel Goleman.
 
----
 
-###Personal Competence
+
+
+
+
+<h3 class="anchor" id="personal">Personal Competence</h3>
+
 These competencies determine how we manage ourselves.
 
 ####Self-Awareness
@@ -35,9 +39,14 @@ Emotional tendencies that guide or facilitate reaching goals. (Chapter 6)
 * ***Initiative:*** Readiness to act on opportunities
 * ***Optimism:*** Persistence in pursuing goals despite obstacles and setbacks
 
----
 
-###Social Competence
+
+
+
+
+
+<h3 class="anchor" id="social">Social Competence</h3>
+
 These competencies determine how we handle relationships.
 
 ####Empathy
@@ -59,5 +68,3 @@ Adeptness at inducing desirable responses in others. (Chapters 8 and 9)
 * ***Building bonds:*** Nurturing instrumental relationships
 * ***Collaboration and cooperation:*** Working with others toward shared goals
 * ***Team capabilities:*** Creating group synergy in pursuing collective goals
-
----
