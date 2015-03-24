@@ -20,6 +20,8 @@ It's time for that to change. I'm introducing a resume formula that anyone can i
 
 [Don't include](#dont-include)
 
+[Examples](#examples)
+
 
 <h2 class="anchor" id="header">Header</h2>
 
@@ -248,3 +250,13 @@ I usually do this section in a table of some sort. This way it's easy to line th
 - Hobbies/Other interests
 - A second page
 	- If [Gayle Laakmann McDowell](http://www.gayle.com/resume/) can fit all of her killer experience on one page, so can you.
+
+
+
+
+
+
+
+<h2 class="anchor" id="examples">Examples</h2>
+
+<img class="wide" src="{{ site.url }}/assets/files/lines.png"/>
