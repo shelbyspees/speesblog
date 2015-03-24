@@ -10,6 +10,10 @@ It's ridiculous. Talented people are completely underselling themselves with the
 
 It's time for that to change. I'm introducing a resume formula that anyone can implement to improve their job hunting effectiveness. It's geared mostly toward people in technical fields, but I hope anyone can pull something useful out of my explanations.
 
+The most important thing to remember about resumes is this:
+
+***The resume and cover letter are to get you an interview. The interview is to get you the job.***
+
 
 >[Header](#header)  
 >[<s>Objective</s>](#objective)  
@@ -259,4 +263,10 @@ I usually do this section in a table of some sort. This way it's easy to line th
 
 <h2 class="anchor" id="examples">Examples</h2>
 
+This first example helped me get the interview for my first internship. I wrote it about three months after I started my CS degree. I had a lot of cool experience that totally didn't relate to the positions I was applying for, so I made a section called "Activities" where I briefly summarized each one. Basically, it showed that I'd been busy.
+
 <img class="wide" src="{{ site.url }}/assets/files/lines.png"/>
+
+This next resume, along with a heartfelt cover letter, got me to the first round of the Google Speech Evaluator 
+
+<img class="wide" src="{{ site.url }}/assets/files/june.png"/>
