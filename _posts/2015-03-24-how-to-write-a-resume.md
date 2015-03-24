@@ -14,6 +14,7 @@ The most important thing to remember about resumes is this:
 
 ***The resume and cover letter are to get you an interview. The interview is to get you the job.***
 
+Jump to:
 
 >[Header](#header)  
 >[<s>Objective</s>](#objective)  
@@ -21,10 +22,9 @@ The most important thing to remember about resumes is this:
 >[Education](#education)  
 >[Experience](#experience)  
 >[Skills](#skills)  
-
-[Don't include](#dont-include)
-
-[Examples](#examples)
+>
+>[Don't include](#dont-include)  
+>[Examples](#examples)
 
 
 <h2 class="anchor" id="header">Header</h2>
@@ -265,8 +265,12 @@ I usually do this section in a table of some sort. This way it's easy to line th
 
 This first example helped me get the interview for my first internship. I wrote it about three months after I started my CS degree. I had a lot of cool experience that totally didn't relate to the positions I was applying for, so I made a section called "Activities" where I briefly summarized each one. Basically, it showed that I'd been busy.
 
-<img class="wide" src="{{ site.url }}/assets/files/lines.png"/>
+<img class="center" src="{{ site.url }}/assets/files/lines.png"/>
 
-This next resume, along with a heartfelt cover letter, got me to the first round of the Google Speech Evaluator 
+This next resume, along with a heartfelt cover letter, got me to the first round of the Google Speech Evaluator application where I got to take a phonetic transcription test. I think I took too long on the test, but the hiring manager was really nice.
 
-<img class="wide" src="{{ site.url }}/assets/files/june.png"/>
+<img class="center" src="{{ site.url }}/assets/files/june.png"/>
+
+This is my most recent resume.
+
+<img class="center" src="{{ site.url }}/assets/files/march.png"/>
