@@ -4,7 +4,7 @@ title: Reinvent the Wheel Often
 author: Originally by Jason P. Sage
 category: learning
 ---
-Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Know*](http://smile.amazon.com/gp/product/B002RHN7RM/ref=kinw_myk_ro_title).
+Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Know*](http://www.amazon.com/Things-Every-Programmer-Should-Know-ebook/dp/B0039OVIAK/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=8-1&amp;qid=1427176231).
 
 [<i class="fa fa-list-alt"></i> Source](http://programmer.97things.oreilly.com/wiki/index.php/Reinvent_the_Wheel_Often)
 
