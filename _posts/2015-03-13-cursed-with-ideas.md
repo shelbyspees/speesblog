@@ -56,7 +56,6 @@ Features:
 - Straightforward explanations of benefits and applications of each data structure/algorithm aimed at first-year CS students or self-taught programmers
 - Replace walls of text with visualizations and tooltips
 - IDE experience with debugger-like walkthrough of each function with parallel animation
-- 
 - Animated visualizations to demonstrate logic
 	- E.g. Using color gradients to visually represent numerical values. An array should look like a [paint chip](http://sugarluxeblog.com/wp-content/uploads/2009/01/paint-chips.jpg) after it's been sorted, with the numerical values there to verify correct sorting
 	- Step-by-step animations. Imagine having arrows there to show adding or removing a value from a linked list, or percolating up and down a heap. Basically like the Blue's Clues of CS.

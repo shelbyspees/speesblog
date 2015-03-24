@@ -51,7 +51,7 @@ I probably don't need my external hard drive since my Dropbox can hold a ton of 
 - Green military jacket? (unfortunately it totally shows armpit stains)
 - Regular bra (1)
 - Sports bras (2)
-- Travel socks
+- Warm socks for flights, etc.
 
 I can always buy more shirts, and I'll probably see shirts in Europe that I'll want anyway.
 
@@ -70,6 +70,7 @@ I can always buy more shirts, and I'll probably see shirts in Europe that I'll w
 - Travel wallet
 - Daily wallet
 - Jewelry + travel jewelry box
+- Travel neck pillow?
 
 **Toiletries**
 

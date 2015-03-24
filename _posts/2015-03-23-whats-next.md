@@ -22,4 +22,8 @@ It's almost April and most Bay Area internships are filling up. Plus there's no 
 
 LA requires a car. SD requires a car. The Bay requires a car. The central coast requires a car unless I live biking distance from my job, and I'm not sure I want to live in a small town again.
 
-I could move to Portland or Seattle. Maybe. I don't know if I'm ready to leave all my family and friends to move out of state to work on some random CRUD app.
+I could move to Portland or Seattle. Maybe. I don't know if I'm ready to leave all my family and friends to move out of state to work on some random CRUD app. I can do that here.
+
+---
+
+Update: I'm getting an A in Data Structures! Which means I'm pretty sure my GPA won't fall below a 3.5! Hooray #Astudent hell yeah
