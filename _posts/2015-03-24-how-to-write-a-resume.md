@@ -267,10 +267,30 @@ This first example helped me get the interview for my first internship. I wrote 
 
 <img class="center" src="{{ site.url }}/assets/files/lines.png"/>
 
-This next resume, along with a heartfelt cover letter, got me to the first round of the Google Speech Evaluator application where I got to take a phonetic transcription test. I think I took too long on the test, but the hiring manager was really nice.
+<br>
+
+This next resume, along with a heartfelt cover letter, got me to the first round of the Google Speech Evaluator application last summer for which I got to take a neat phonetic transcription test. I think I took too long on the test, but the hiring manager was really nice.
 
 <img class="center" src="{{ site.url }}/assets/files/june.png"/>
 
-This is my most recent resume.
+<br>
+
+This is my most recent resume. I still don't have any useful skills or decent projects, but at least it's readable.
 
 <img class="center" src="{{ site.url }}/assets/files/march.png"/>
+
+<br>
+
+
+
+
+
+
+
+
+
+<h2 class="anchor" id="format">Format</h2>
+
+How to use tables to improve resume format:
+
+<img class="center" src="{{ site.url }}/assets/files/tables.png"/>
