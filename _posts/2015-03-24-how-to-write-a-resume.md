@@ -8,13 +8,12 @@ I'm so sick of seeing crappy resumes.
 
 It's ridiculous. Talented people are completely underselling themselves with their weak bullets and off-centered formatting.
 
-<aside>Testing 1 2 3</aside>
-
 It's time for that to change. I'm introducing a resume formula that anyone can implement to improve their job hunting effectiveness. It's geared mostly toward people in technical fields, but I hope anyone can pull something useful out of my explanations.
 
 The most important thing to remember about resumes is this:
 
-***The resume and cover letter are to get you an interview. The interview is to get you the job.***
+***The resume and cover letter are to get you an interview.  
+The interview is to get you the job.***
 
 Jump to:
 
@@ -79,20 +78,20 @@ You may come across a situation where it makes sense to include a summary. That'
 
 Include:
 
-- Simple description of your current situation
+- **Simple description of your current situation**
 	- "Third-year computer science student"
 	- "Full-stack LAMP developer"
 	- "Software architect with 15 years of experience"
-- Most important skills (if not clear from above)
+- **Most important skills (if not clear from above)**
 	- "Android application development"
 	- "AngularJS and NodeJS"
 	- "automated testing in Ruby"
-- "seeking"
-- Kind of job you're looking for
+- **"seeking"**
+- **Kind of job you're looking for**
 	- "Software Developer Intern position"
-- Locations you're interested in
+- **Locations you're interested in**
 	- "in the greater Los Angeles area."
-- Dates and Availability
+- **Dates and Availability**
 	- "Available from May 1st, 2015."
 
 Those last two points are the main reason why you'd include a summary, as opposed to not putting anything, since most of the time your resume will be sent in response to a particular job posting. If you're posting your resume on a job board for recruiters to come find you, the summary will help them match positions to your needs.
@@ -112,12 +111,12 @@ If you're a student or recent graduate (<1 year after graduation), education goe
 
 Order of importance:
 
-1. Degree and major
-2. Graduation date
-3. School (only include city and state if not obvious from school name)
+1. **Degree and major**
+2. **Graduation date**
+3. **School** (only include city and state if not obvious from school name)
 	- "University of California, Santa Barbara, Santa Barbara, CA" is redundant and a waste of space
-4. GPA
-5. Minors and emphases
+4. **GPA**
+5. Minors and emphases, if applicable
 
 >**Bachelor of Science, Computer Science**, December 2016 (expected)  
 >University of XYZ, City, ST  
@@ -140,10 +139,10 @@ Definitely the most important section of your resume. Don't screw this up.
 
 Order of importance:
 
-1. Job title
-2. Start and end dates (Month, Year)
-3. Company, City, ST
-4. Job description
+1. **Job title**
+2. **Start and end dates** (Month, Year)
+3. **Company**, City, ST
+4. **Job description**
 
 But don't think the job description is unimportant. It's all about accomplishments.
 
@@ -182,7 +181,7 @@ Here's the anatomy of a job description bullet:
 
 ####Things to avoid:
 
-- Unprovable soft skill buzzwords
+- **Unprovable soft skill buzzwords**
 	- Best of breed
 	- Go-getter
 	- Think outside of the box
@@ -193,7 +192,7 @@ Here's the anatomy of a job description bullet:
 	- Hard worker
 	- Strategic thinker
 	- Detail-oriented
-- Job duties that could be taken for granted
+- **Job duties that could be taken for granted**
 	- Fixing bugs, writing documentation, greeting customers
 	- Everything needs to be explained in terms of its benefit to the business
 
