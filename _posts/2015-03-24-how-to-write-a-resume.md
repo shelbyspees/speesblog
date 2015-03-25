@@ -8,6 +8,8 @@ I'm so sick of seeing crappy resumes.
 
 It's ridiculous. Talented people are completely underselling themselves with their weak bullets and off-centered formatting.
 
+<aside>Testing 1 2 3</aside>
+
 It's time for that to change. I'm introducing a resume formula that anyone can implement to improve their job hunting effectiveness. It's geared mostly toward people in technical fields, but I hope anyone can pull something useful out of my explanations.
 
 The most important thing to remember about resumes is this:
