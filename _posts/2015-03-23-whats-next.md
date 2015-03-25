@@ -27,3 +27,6 @@ I could move to Portland or Seattle. Maybe. I don't know if I'm ready to leave a
 ---
 
 Update: I'm getting an A in Data Structures! Which means I'm pretty sure my GPA won't fall below a 3.5! Hooray #Astudent hell yeah
+
+<blockquote class="twitter-tweet" lang="en"><p>Yay I don&#39;t fail! <a href="http://t.co/lkiB8mx2b9">pic.twitter.com/lkiB8mx2b9</a></p>&mdash; yblehS (@speesbag) <a href="https://twitter.com/speesbag/status/580472672741625856">March 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

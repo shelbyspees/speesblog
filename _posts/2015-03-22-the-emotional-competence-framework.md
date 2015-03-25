@@ -11,7 +11,7 @@ Pulled directly from [<i class="fa fa-book"></i> *Working with Emotional Intelli
 
 
 
-<h3 class="anchor" id="personal">Personal Competence</h3>
+<h2 class="anchor" id="personal">Personal Competence</h2>
 
 These competencies determine how we manage ourselves.
 
@@ -45,7 +45,7 @@ Emotional tendencies that guide or facilitate reaching goals. (Chapter 6)
 
 
 
-<h3 class="anchor" id="social">Social Competence</h3>
+<h2 class="anchor" id="social">Social Competence</h2>
 
 These competencies determine how we handle relationships.
 

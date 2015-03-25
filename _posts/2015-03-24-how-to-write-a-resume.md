@@ -24,7 +24,8 @@ Jump to:
 >[Skills](#skills)  
 >
 >[Don't include](#dont-include)  
->[Examples](#examples)
+>[Examples](#examples)   
+>[Format](#format)
 
 
 <h2 class="anchor" id="header">Header</h2>
@@ -32,6 +33,7 @@ Jump to:
 The header should always contain the following:
 
 - First and last name
+- Desired job title, if applicable
 - Phone number
 - Email
 
@@ -45,9 +47,9 @@ Do not include:
 - Home address
 - Mailing address
 
->**First Last**  
->firstlast@email.com  
->(999) 999-9999 
+>**First Last:** Full-Stack Rails Engineer  
+>firstlast@email.com   
+>(999) 999-9999   
 >firstlast.github.io [OR] linkedin.com/in/firstlast
 
 
@@ -93,7 +95,7 @@ Include:
 
 Those last two points are the main reason why you'd include a summary, as opposed to not putting anything, since most of the time your resume will be sent in response to a particular job posting. If you're posting your resume on a job board for recruiters to come find you, the summary will help them match positions to your needs.
 
->Third-year computer science student experienced with Android application development seeking Software Developer Intern position in the greater Los Angeles area for Summer 2015. Available full-time from May 1st.
+>Third-year computer science student experienced with Android application development seeking Software Developer Intern position for summer 2015 in the greater Los Angeles area. Available full-time from May 1st.
 
 ---
 
@@ -208,7 +210,7 @@ This section is usually geared more toward students and new grads, since experie
 >- Bullet  
 >- Bullet
 
-Bullets should be similar to those under Experience but probably shorter and more name-dropping of technologies.
+Bullets should be similar to those under Experience but probably shorter and with more name-dropping of technologies.
 
 For example:
 
@@ -249,9 +251,11 @@ I usually do this section in a table of some sort. This way it's easy to line th
 
 - Objective
 - "References available upon request"
-	- If they want references, they'll ask whether or not you decide to waste space on your resume stating this
+	- If they want references, they'll ask for references whether or not you decide to waste space on your resume stating this
 - Physical address
+	- Traditional small businesses might care about this, but most large companies (especially technology companies) won't. They're not going to send you snail-mail. The space is better off being used for something else.
 - Hobbies/Other interests
+	- Just listing your hobbies is pointless. There's no way to prove how often you practice karate or play guitar. If you're really interested in something, make it into a neat project.
 - A second page
 	- If [Gayle Laakmann McDowell](http://www.gayle.com/resume/) can fit all of her killer experience on one page, so can you.
 
@@ -291,6 +295,6 @@ This is my most recent resume. I still don't have any useful skills or decent pr
 
 <h2 class="anchor" id="format">Format</h2>
 
-How to use tables to improve resume format:
+Here's an example of how to use tables to improve resume format. Note that the content here can use a lot more detail, and I changed some of the wording to anonymize this example so it might not make perfect sense.
 
 <img class="center" src="{{ site.url }}/assets/files/tables.png"/>
