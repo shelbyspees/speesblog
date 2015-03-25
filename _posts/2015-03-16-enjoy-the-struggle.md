@@ -17,7 +17,7 @@ You can't let your confidence depend on being smart and knowledgeable. Not only 
 
 And dropping buzzwords isn't what makes you good.
 
-Further, pretending to know things that you don't only slows you down. While I understand that it's insanely difficult to ask the right kinds of questions when first encountering a new subject, especially when you're interacting with experts, it's important to dig for information. 
+Further, pretending to know things that you don't only slows you down. While I understand that it's insanely difficult to ask the right kinds of questions when first encountering a new subject, especially while interacting with experts, it's important to dig for information. 
 
 Don't let your confidence depend on feeling smart. Your confidence should be fueled by your efforts.
 
@@ -43,7 +43,7 @@ I have another way of phrasing this, and it's been something that's come up a lo
 
 No, pure knowledge isn't separates the wheat from the chaff in any industry, or in any aspect of life. The difference is attitude. As shown in my crappy Visual BASIC loop (I've never written a line of BASIC in my life), it's a never-ending cycle. The second you understand something, it introduces you to ten more things you've never heard of. It's incredibly easy to get overwhelmed, but the best learners and the real experts thrive on it.
 
-Of course, we're human. And I'm expecting anyone bothering to read this is probably a huge nerd. We love being smart and we love showing other people that we're smart. We hate being dumb in front of other people, especially other smart people we admire. That's why I do recommend that you [retreat into competence](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#retreat_into_competence), as discussed in chapter 2 of *Apprenticeship Patterns*:
+Of course, we're human. And I expect anyone bothering to read this to be a huge nerd. We love being smart and we love showing other people that we're smart. We hate being dumb in front of other people, especially other smart people we admire. That's why I do recommend that you [retreat into competence](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#retreat_into_competence), as discussed in chapter 2 of *Apprenticeship Patterns*:
 
 >**Problem**  
 >As you are introduced to the vast reaches of your ignorance you are overwhelmed.

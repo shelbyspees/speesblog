@@ -64,7 +64,7 @@ Everything in this image is a part of `tree`.
 
 `tree` exists, and it points to `root`, but `root` is actually nothing? How is that possible? Well, `root` is just the variable name for the memory location. There doesn't have to be anything at that memory location. 
 
-Think of it like an empty lot. There's a building at 55 Main St. and a building at 59 Main St., but 57 Main St. can still be an empty lot. If you try to send mail there, it'll bounce back. In computer terms, that's called a `segmentation fault`, and we really don't like those.
+Think of it like an empty lot. There's a building at 55 Main St. and a building at 59 Main St., but 57 Main St. can still be an empty lot. If you try to send mail there, it'll bounce back. In computer terms that's called a `segmentation fault`, and we really don't like those.
 
 So now we have a value and we want to add it to the tree. The value is added in the form of a node, and in this case, it's going to become the root node. Say we add a node with the value `17`. (I won't discuss [applications of the BST]({{ site.url }}{% post_url 2015-03-11-finals-bag-adt %}#bst-bag) here, but assume we have a good reason for doing so.)
 
