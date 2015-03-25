@@ -19,6 +19,8 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    background-image: url("assets/background.jpg");
+
 }
 
 
@@ -215,6 +217,7 @@ pre {
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;
+    padding: 0 40px 2px 40px;
 
     @include media-query($on-laptop) {
         max-width: -webkit-calc(800px - (#{$spacing-unit}));
@@ -222,6 +225,11 @@ pre {
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
+}
+
+.vert-line {
+    border-right: solid 1px #bbb;
+
 }
 
 

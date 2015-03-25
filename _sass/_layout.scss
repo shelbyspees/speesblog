@@ -172,9 +172,16 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-    margin: 70px auto;
-    background-image: url("assets/background.jpg");
+    margin: 70px auto; 
 
+    border-left: solid 1px #bbb;
+    border-right: solid 1px #bbb;
+    border-bottom: solid 1px #999;
+    position: relative;
+    box-shadow: 0 0 40px rgba(71, 51, 31, 0.2);
+    max-width: 640px;
+    padding-right: 160px;
+    border-top: solid 1px #bbb;
 }
 
 .anchor {
