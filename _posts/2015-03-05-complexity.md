@@ -18,33 +18,45 @@ This is one of my favorite facts. It is a favorite because it is so little known
 
 It explains a lot of the other facts in this book, as well.
 
-* Why are people so important?
-	- Because it takes considerable intelligence and skill to overcome complexity.
-* Why is estimation so difficult?
-	- Because our solutions are so much more complicated than our problems appear to be.
-* Why is reuse-in-the-large unsuccessful?
-	- Because complexity magnifies diversity.
-* Why is there a requirements explosion (as we move from requirements to design, explicit
-requirements explode into the hugely more numerous implicit requirements necessary to produce a workable design)?
-	- Because we are moving from the 25 percent part of the world to the 100 percent part.
-* Why are there so many different correct approaches to designing the solution to a problem?
-	- Because the solution space is so complex.
-* Why do the best designers use iterative, heuristic approaches?
-	- Because there are seldom any simple and obvious design solutions.
-* Why is design seldom optimized?
-	- Because optimization is nearly impossible in the face of significant complexity.
-* Why is 100 percent test coverage rarely possible and, in any case, insufficient?
-	- Because of the enormous number of paths in most programs and because software complexity leads to errors that coverage cannot trap.
-* Why are inspections the most effective and efficient error removal approach?
-	- Because it takes a human to filter through all that complexity to spot errors.
-* Why is software maintenance such a time consumer?
-	- Because it is seldom possible to determine at the outset all the ramifications of a problem solution.
-* Why is "understanding the existing product" the most dominant and difficult task of software maintenance?
-	- Because there are so many possible correct solution approaches to solving any one problem.
-* Why does software have so many errors?
-	- Because it is so difficult to get it right the first time.
-* Why do software researchers resort to advocacy?
-	- Perhaps because, in the world of complex software, it is too difficult to perform the desperately needed evaluative research that ought to precede advocacy.
+*Why are people so important?*  
+Because it takes considerable intelligence and skill to overcome complexity.
+
+*Why is estimation so difficult?*  
+Because our solutions are so much more complicated than our problems appear to be.
+
+*Why is reuse-in-the-large unsuccessful?*  
+Because complexity magnifies diversity.
+
+*Why is there a requirements explosion (as we move from requirements to design, explicit
+requirements explode into the hugely more numerous implicit requirements necessary to produce a workable design)?*  
+Because we are moving from the 25 percent part of the world to the 100 percent part.
+
+*Why are there so many different correct approaches to designing the solution to a problem?*  
+Because the solution space is so complex.
+
+*Why do the best designers use iterative, heuristic approaches?*  
+Because there are seldom any simple and obvious design solutions.
+
+*Why is design seldom optimized?*  
+Because optimization is nearly impossible in the face of significant complexity.
+
+*Why is 100 percent test coverage rarely possible and, in any case, insufficient?*  
+Because of the enormous number of paths in most programs and because software complexity leads to errors that coverage cannot trap.
+
+*Why are inspections the most effective and efficient error removal approach?*  
+Because it takes a human to filter through all that complexity to spot errors.
+
+*Why is software maintenance such a time consumer?*  
+Because it is seldom possible to determine at the outset all the ramifications of a problem solution.
+
+*Why is "understanding the existing product" the most dominant and difficult task of software maintenance?*  
+Because there are so many possible correct solution approaches to solving any one problem.
+
+*Why does software have so many errors?*  
+Because it is so difficult to get it right the first time.
+
+*Why do software researchers resort to advocacy?*  
+Perhaps because, in the world of complex software, it is too difficult to perform the desperately needed evaluative research that ought to precede advocacy.
 
 Wow! It wasn't until I began constructing this list that I really realized how important this one fact is. If you remember nothing else from reading this book, remember this: 
 
