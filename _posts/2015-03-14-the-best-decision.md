@@ -39,6 +39,6 @@ Cutting my hair off gave me an extra hour+ every day to do whatever I wanted. I 
 
 People who know me in person know that my thing now is that I *need* to wear earrings every day. I feel naked without them. I have a huge collection of cute earrings, which makes me a shit minimalist. But earrings last forever and they're 100% reusable, plus they take up so little space that it's barely noticable.
 
-I guarantee the best way to receive regular compliments is to get a cute pixie cut and start wearing cute earrings. Once I got four compliments on my earrings in a one-hour period. And I've never spent much more than $10 on a pair.
+I guarantee the best way to receive regular compliments is to get a cute pixie cut and start wearing cute earrings. One time I got four compliments on my earrings in a one-hour period. And I've never spent much more than $10 on a pair.
 
 Maybe it's superficial. Maybe it's vain. I don't really care. I'm always going to judge my own appearance more harshly than I'll judge anyone else's appearance. If looking good makes it easier for me to get through life, it's not wasted effort. It's self-care.

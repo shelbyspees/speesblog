@@ -39,7 +39,9 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 | <img src="{{ site.url }}/assets/algorithms.jpg" alt="Introduction to Algorithms, 3rd Ed."/> | [**Introduction to Algorithms, 3rd Ed.**](http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1424666330&sr=8-1&keywords=intro+to+algorithms)<br>by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein<br><i class="fa fa-refresh"></i> In Progress<br><br>We're using this for my algorithms class this spring. My god, it's huge. |
 
+<br>
 
+| <img src="{{ site.url }}/assets/algo-design.jpg" alt="The Algorithm Design Manual"/> | [**The Algorithm Design Manual**](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena-ebook/dp/B00B8139Z8/ref=sr_1_1_twi_2_kin?ie=UTF8&qid=1427655079&sr=8-1&keywords=the+algorithm+design+manual)<br>by Steven Skiena <br><i class="fa fa-ellipsis-h"></i> *Owned, Not Started* |
 
 
 
