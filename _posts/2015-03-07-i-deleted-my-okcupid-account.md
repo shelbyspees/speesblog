@@ -38,7 +38,7 @@ I guess now I can get a reputation by posting this but I honestly don't care. Th
 
 Meeting people online does have a stigma, though. I got over it eventually. This past year when people asked me where I met my latest interest I'd say, "The internet. That's where I meet all of them." And it was true.
 
-I mean, how are you supposed to meet people around here? I can't date coworkers, I have nothing in common with most people who live here. It's not like I (or any of my friends) can afford to go out to bars and clubs. And if we do go out, there's no guarantee that any of the people there will be remotely cool, let alone people I want to meet. And while some people talk to strangers, the kinds of people I click with the most tend to be least likely to welcome being approached by/approaching randoms. 
+I mean, how are you supposed to meet people around here? I can't date coworkers, I have nothing in common with most people who live here. It's not like I (or any of my friends) can afford to go out to bars and clubs. And if we do go out, there's no guarantee that any of the people there will be remotely cool, let alone people I want to meet. And while some people talk to strangers, the kinds of people I click with the most tend to be the least likely to welcome being approached by/approaching randoms. 
 
 OkCupid was great because it filtered out everyone I had nothing in common with. Of course, that meant I got matched with super nerdy guys. Nerdy guys love me, but I don't always love them. I wanted someone with more dynamic interests than getting high and throwing XBOX parties in suburbia.
 

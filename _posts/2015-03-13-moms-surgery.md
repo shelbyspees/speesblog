@@ -19,6 +19,6 @@ What was I gonna complain about next? I forgot, the TV distracted me.
 
 The surgeon said that everything went smoothly, which is great news considering how difficult a procedure it was. We're going to have to wait a couple weeks on the pathology labs.
 
-My mom felt like crap when she came out of anesthesia, but the nurses said she was ok to go home so luckily we didn't stay long. It's pretty amazing that you can remove an entire bodily system in less than eight hours. I mean we checked in at 6:30am and started driving home at 2:30pm. I love modern medicine.
+My mom felt like crap when she came out of anesthesia, but the nurses said she was ok to go home so luckily we didn't have to stay long. It's pretty amazing that you can remove an entire bodily system in less than eight hours. I mean we checked in at 6:30am and started driving home at 2:30pm. I love modern medicine.
 
 I was talking to my aunt about this actually. I can't wrap my head around the idea that you would want to live in a previous era in history. My mom just got operated on by a robot! We're living in the future!
