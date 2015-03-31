@@ -4,7 +4,7 @@ title: Reading
 permalink: /reading/
 ---
 
-Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon.
+Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon. In no particular order.
 
 ####Jump to:
 
@@ -96,10 +96,6 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 <br>
 
-| <img src="{{ site.url }}/assets/leanin.jpg" alt="Lean In"/> | [**Lean In: Women, Work, and the Will to Lead**](http://smile.amazon.com/gp/product/B009LMTDL0/ref=kinw_myk_ro_title)<br>by Sheryl Sandberg<br><i class="fa fa-check-square-o"></i> **Completed** | 
-
-<br>
-
 | <img src="{{ site.url }}/assets/behindcloseddoors.png" alt="Behind Closed Doors"/> | [**Behind Closed Doors: Secrets of Great Management**](http://smile.amazon.com/gp/product/B00A4OA6UQ/ref=kinw_myk_ro_title)<br>by Johanna Rothman and Esther Derby<br><i class="fa fa-refresh"></i> In Progress<br><br>Reads more like a story than a career advice book. | 
 
 
@@ -143,6 +139,10 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 <br>
 
 | <img src="{{ site.url }}/assets/emotional-intelligence.jpg" alt="Emotional Intelligence"/> | [**Working with Emotional Intelligence**](http://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman-ebook/dp/B000JMKTN2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1426226654)<br>by Daniel Goleman<br><i class="fa fa-refresh"></i> In Progress<br><br>I won this book in a raffle. It's right up my alley. Book review coming soon. | 
+
+<br>
+
+| <img src="{{ site.url }}/assets/leanin.jpg" alt="Lean In"/> | [**Lean In: Women, Work, and the Will to Lead**](http://smile.amazon.com/gp/product/B009LMTDL0/ref=kinw_myk_ro_title)<br>by Sheryl Sandberg<br><i class="fa fa-check-square-o"></i> **Completed** | 
 
 <br>
 
