@@ -170,7 +170,7 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 <br>
 
-| <img src="{{ site.url }}/assets/solvingtheprocrastinationpuzzle.jpg" alt="Solving the Procrastination Puzzle"/> | [**Solving the Procrastination Puzzle: A Concise Guide to Strategies for Change**](http://www.amazon.com/Solving-Procrastination-Puzzle-Concise-Strategies-ebook/dp/B00DGZKJ3Y/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20)<br>by Timothy A. Pychyl ([check out his podcast](http://iprocrastinate.libsyn.com/))<br><i class="fa fa-ellipsis-h"></i> *Owned, Not Started* | 
+| <img src="{{ site.url }}/assets/solvingtheprocrastinationpuzzle.jpg" alt="Solving the Procrastination Puzzle"/> | [**Solving the Procrastination Puzzle: A Concise Guide to Strategies for Change**](http://www.amazon.com/Solving-Procrastination-Puzzle-Concise-Strategies-ebook/dp/B00DGZKJ3Y/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20)<br>by Timothy A. Pychyl ([check out his podcast](http://iprocrastinate.libsyn.com/))<br><i class="fa fa-check-square-o"></i> **Completed** | 
 
 
 
