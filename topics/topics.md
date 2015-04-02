@@ -2,6 +2,7 @@
 layout: page
 title: Topics
 group: navigation
+permalink: /topics/
 ---
 {% include JB/setup %}
 
