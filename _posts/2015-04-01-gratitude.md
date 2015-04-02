@@ -18,7 +18,7 @@ I'm grateful to have the opportunity to improve my station in life through educa
 
 I'm grateful to have my amazing friends. They love me and they don't get sick of me. I'm grateful they put up with my bullshit. I'm grateful they don't feel like they're putting up with anything.
 
-I'm grateful my family supports me even when I'm not going well. I'm grateful they support my crazy adventures and career changes.
+I'm grateful my family supports me even when I'm not doing well. I'm grateful they support my crazy adventures and career changes.
 
 I'm grateful to have two wonderful dogs to hug and cuddle and run around with.
 
@@ -28,7 +28,7 @@ I'm grateful for my dad's quirky interests. They've made for some great stories.
 
 I grateful to have so much to live for. I'm grateful to have so much potential. I'm grateful to have had so much success in my life so far. I'm grateful for the ever-present opportunities. I've never been without a myriad of great opportunities at my disposal.
 
-I'm grateful for the air I breathe, the sun I soak, the feeling of being alive. Lying out to tan reminded me of how much I love the sun. The sun's warmth on my skin is one of the best parts of being alive. I've been without it for too long.
+I'm grateful for the air I breathe, the sun I soak, the feeling of being alive. Lying out to tan the past few days reminded me of how much I love the sun. The sun's warmth on my skin is one of the best parts of being alive. I've been without it for too long.
 
 I'm grateful for the infrastructure and logistic solutions people in the past century have developed to bring me coconut water in a can, along with all the other goods I take for granted. I'm grateful for air conditioning and grocery stores and international shipping, even if I bemoan their impact on the environment. I'm grateful for my first-world problems. Wait, I'm not sure it works that way.
 
