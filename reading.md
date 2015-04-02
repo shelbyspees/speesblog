@@ -37,7 +37,7 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 <br>
 
-| <img src="{{ site.url }}/assets/algorithms.jpg" alt="Introduction to Algorithms, 3rd Ed."/> | [**Introduction to Algorithms, 3rd Ed.**](http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1424666330&sr=8-1&keywords=intro+to+algorithms)<br>by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein<br><i class="fa fa-refresh"></i> In Progress<br><br>We're using this for my algorithms class this spring. My god, it's huge. |
+| <img src="{{ site.url }}/assets/algorithms.jpg" alt="Introduction to Algorithms, 3rd Ed."/> | [**Introduction to Algorithms, 3rd Ed.**](http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1424666330&sr=8-1&keywords=intro+to+algorithms)<br>by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein<br><i class="fa fa-refresh"></i> In Progress |
 
 <br>
 
