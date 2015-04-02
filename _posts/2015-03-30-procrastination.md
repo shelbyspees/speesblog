@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Procrastination
-category: reading
+category: mindfulness
 ---
 
 Today I finished [<i class="fa fa-book"></i> *Solving the Procrastination Puzzle*](http://www.amazon.com/Solving-Procrastination-Puzzle-Concise-Strategies/dp/B00JGAY5II/ref=tmm_aud_swatch_0?_encoding=UTF8&sr=8-1&qid=1427829996) (the audiobook) by Tim Pychyl, and now I'm going through the text version to really dig out those actionable nuggets. 
