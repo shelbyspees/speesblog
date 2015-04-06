@@ -68,7 +68,7 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 <br>
 
-| <img src="{{ site.url }}/assets/apprenticeshippatterns.jpg" alt="Apprenticeship Patterns"/> | [**Apprenticeship Patterns**](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman-ebook/dp/B002RMSZ7E/ref=tmm_kin_title_0?_encoding=UTF8&sr=&qid=)<br>by Dave Hoover and Adewale Oshineye<br><i class="fa fa-refresh"></i> In Progress<br><br>Great read, lots to discuss here. I'm a big fan of the growth mindset promoted in this O'Reilly advice tome. [Read it for free.](http://chimera.labs.oreilly.com/books/1234000001813/index.html) | 
+| <img src="{{ site.url }}/assets/apprenticeshippatterns.jpg" alt="Apprenticeship Patterns"/> | [**Apprenticeship Patterns**](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman-ebook/dp/B002RMSZ7E/ref=tmm_kin_title_0?_encoding=UTF8&sr=&qid=)<br>by Dave Hoover and Adewale Oshineye<br><i class="fa fa-check-square-o"></i> **Completed**<br><br>Great read, lots to discuss here. I'm a big fan of the growth mindset promoted in this O'Reilly advice tome. [Read it for free.](http://chimera.labs.oreilly.com/books/1234000001813/index.html) | 
 
 <br>
 

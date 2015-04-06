@@ -4,7 +4,9 @@ title: "AVL Tree Implementation"
 category: "data_structures"
 ---
 
-Words here
+Work in progress.
+
+This one's hard cause of the height-balancing thing. But someday soon I'll have a beautifully-composed breakdown of how to implement this data structure. That's my goal for all of these.
 
 {% highlight c %}
 struct AVLNode {
