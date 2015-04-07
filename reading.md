@@ -4,9 +4,7 @@ title: Reading
 permalink: /reading/
 ---
 
-Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon. In no particular order.
-
-####Jump to:
+<aside><p>Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon. In no particular order.</p></aside>
 
 * [Semi-Technical Reads](#technical)
 * [Working in Software](#career)
