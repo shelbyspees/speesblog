@@ -165,8 +165,10 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 | <img src="{{ site.url }}/assets/mindset.jpg" alt="Mindset"/> | [**Mindset: The New Psychology of Success**](http://smile.amazon.com/gp/product/B000FCKPHG/ref=kinw_myk_ro_title)<br>by Carol Dweck<br><i class="fa fa-check-square-o"></i> **Completed** | 
 
-<br>
+<aside name="mindset" style="top: 9300px;"><p>I want to reread this one soon.</p></aside>
 
+
+<br>3
 | <img src="{{ site.url }}/assets/thepowerofhabit.jpg" alt="The Power of Habit"/> | [**The Power of Habit: Why We Do What We Do in Life and Business**](http://smile.amazon.com/gp/product/B0055PGUYU/ref=kinw_myk_ro_title)<br>by Charles Duhigg <br><i class="fa fa-check-square-o"></i> **Completed** | 
 
 <br>
