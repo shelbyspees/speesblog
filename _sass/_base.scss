@@ -173,11 +173,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #3AB6A5;
+    color: $brand-color;
     text-decoration: none;
 
     &:visited {
-        color: darken(#3AB6A5, 10%);
+        color: darken($brand-color, 10%);
     }
 
     &:hover {
