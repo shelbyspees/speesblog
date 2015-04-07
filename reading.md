@@ -45,7 +45,7 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 <br>
 
-| <img src="{{ site.url }}/assets/progit.jpg" alt="Pro Git"/> | [**Pro Git**](http://git-scm.com/book/en/v2)<br>by Scott Chacon and Ben Straub<br><i class="fa fa-refresh"></i> In Progress |
+| <img src="{{ site.url }}/assets/progit.png" alt="Pro Git"/> | [**Pro Git**](http://git-scm.com/book/en/v2)<br>by Scott Chacon and Ben Straub<br><i class="fa fa-refresh"></i> In Progress |
 
 
 
