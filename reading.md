@@ -43,6 +43,11 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 | <img src="{{ site.url }}/assets/algo-design.jpg" alt="The Algorithm Design Manual"/> | [**The Algorithm Design Manual**](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena-ebook/dp/B00B8139Z8/ref=sr_1_1_twi_2_kin?ie=UTF8&qid=1427655079&sr=8-1&keywords=the+algorithm+design+manual)<br>by Steven Skiena <br><i class="fa fa-ellipsis-h"></i> *Owned, Not Started* |
 
+<br>
+
+| <img src="{{ site.url }}/assets/progit.jpg" alt="Pro Git"/> | [**Pro Git**](http://git-scm.com/book/en/v2)<br>by Scott Chacon and Ben Straub<br><i class="fa fa-refresh"></i> In Progress |
+
+
 
 
 
