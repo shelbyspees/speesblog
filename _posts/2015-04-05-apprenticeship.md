@@ -65,7 +65,7 @@ I'm attempting to do this with my coursework in a way that won't get me kicked o
 
 <br><br>
 
-These patterns are less relevant right this second but I might as well categorize them like I did the others.
+These last patterns are less relevant right this second but I might as well categorize them like I did the others.
 
 <h2 class="" id="motivation">Motivation</h2>
 
