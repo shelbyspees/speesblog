@@ -6,9 +6,9 @@ category: learning
 
 I've been reading and making notes on [<i class="fa fa-book"></i> *Apprenticeship Patterns*](http://chimera.labs.oreilly.com/books/1234000001813/index.html) by Dave Hoover and Adewale Oshineye.
 
-When I read books like this, there are several ways I can approach it. Sometimes I'll just read the book straight through, but I'll usually highlight and make notes as I read. I'm doing that right now with [<i class="fa fa-book"></i> *Working with Emotional Intelligence*](). 
+When I read books like this, there are several ways I can approach it. Sometimes I'll just read the book straight through, but I'll usually highlight and make notes as I read. I'm doing that right now with [<i class="fa fa-book"></i> *Working with Emotional Intelligence*](http://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman-ebook/dp/B000JMKTN2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1426226654). 
 
-Another way I'll approach a book is by breaking it down into an outline or summary. You can see how I did that with [my post on <i class="fa fa-book"></i> *Solving the Procrastination Puzzle*]() as well as my [book review on <i class="fa fa-book"></i> *The 7 Habits of Highly Effective People*](). This is also a useful way to approach my reading for school.
+Another way I'll approach a book is by breaking it down into an outline or summary. You can see how I did that with [my post on <i class="fa fa-book"></i> *Solving the Procrastination Puzzle*](http://shelbyspees.github.io/speesblog/mindfulness/2015/03/30/procrastination.html) as well as my [book review on <i class="fa fa-book"></i> *The 7 Habits of Highly Effective People*](http://shelbyspees.github.io/speesblog/mindfulness/2015/03/02/book-review-seven-habits.html). This is also a useful way to approach my reading for school.
 
 My favorite way, the most time-consuming, is to treat it like a workbook. Most of these non-fiction self-improvement books I read have questions or exercises for each chapter. I have a whole notebook in Evernote dedicated to all the questions in [<i class="fa fa-book"></i> *Becoming a Technical Leader*](http://smile.amazon.com/gp/product/B004J4VV3I/ref=kinw_myk_ro_title), pictured below.
 
