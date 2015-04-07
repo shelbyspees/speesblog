@@ -58,7 +58,7 @@ A few patterns on this topic:
 - Share What You Learn
 - Learn How You Fail
 
-
+I'm attempting to do this with my coursework in a way that won't get me kicked out of school. Unfortunately I'm a starter and not quite a finisher so I end up with a lot of half-written explanations. I'm hoping to get those beautifully completed sooner than later.
 
 
 
