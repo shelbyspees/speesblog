@@ -1,11 +1,12 @@
 ---
 layout: post
-title: How to Cover Letter
-category: job hunting
-published: false
+title: "How to Cover Letter"
+category: job_hunting
 ---
 
-Here's how I write my cover letters. I won't claim that it's the best way, but it's the way I write them after spending the past four years reading every job application advice article I came across. I spent a lot of time at Career Services. You should see my Evernote.
+Here's how I write my cover letters. 
+
+I won't claim that it's the best way, but it's the way I write them after spending the past four years reading every job application advice article I came across. I spent a lot of time at Career Services. You should see my Evernote.
 
 >Dear [hiring manager],
 >

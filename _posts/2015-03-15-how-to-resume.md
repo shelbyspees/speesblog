@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to Resume
-category: job hunting
-published: false
-
+title: "How to Resume"
+category: job_hunting
 ---
+
+Copied from some advice I wrote out for a job-seeker.
 
 >**Name**, etc.
 >
