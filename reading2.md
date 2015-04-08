@@ -18,7 +18,7 @@ permalink: /reading2/
   <tr>
   	<td></td>
     <td>
-    	<a href="{{ book.link }}">
+    	<a href={{ book.link }}>
     		<b>{{ book.title }}</b>
     	</a>
     {% if book.author %}
