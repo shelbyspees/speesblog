@@ -90,4 +90,12 @@ And it didn't work. When I open up my reading page I get this:
 
 <img class="wide" src="{{ site.url }}/assets/comp/nil-read.png"/>
 
-Which is Ruby for "`site.in_progress` is returning `NIL`, you dummy. I don't know what the heck you're trying to reference here but I'm pretty sure it doesn't exist."
+Which is Ruby for "`site.in_progress` is returning `nil`, you dummy. I don't know what the heck you're trying to reference here but I'm pretty sure it doesn't exist."
+
+I mean I know it doesn't make sense for the In Progress icon to be a global variable in `site` but I just wanted to get it working first before organizing it logically, the right way. But it didn't work. Doesn't matter what kinds of quotation marks I use or how many curly braces I try, my .yml file doesn't want to read from my other .yml file.
+
+Ughh.
+
+So I decided to write this post while it was all fresh in my mind. It's 4:00am right now and I wanted to sleep at like 9:00pm and my sleep schedule is totally on its head.
+
+I might just have to manually enter the HTML for each status icon. Maybe I'll ask on Stack Overflow.
