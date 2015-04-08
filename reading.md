@@ -14,6 +14,32 @@ permalink: /reading/
 <h2 id="technical" class="anchor">Semi-Technical Reads</h2>
 
 ---
+ul>
+{% for book in site.data.reading %}
+  <li>
+    <a href="https://github.com/{{ member.github }}">
+      {{ member.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+{% for book in site.data.reading %}
+<table class="minimum">
+  <tr>
+  	<td><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
+    <td><a href="{{ book.link }}"><b>{{ book.title }}<b/></a>
+    {% if book.author %}<br>by {{ book.author }}{% endif %}
+    <br>{{ book.status }}
+    {% if book.description %}<br>{{ book.description }}{% endif %}
+    </td>
+  </tr>
+</table>
+{% endfor %}
+
+[**TCP/IP For Dummies**](http://smile.amazon.com/TCP-IP-Dummies-Candace-Leiden-ebook/dp/B002MZUPUG/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-6&qid=1425965841)<br><i class="fa fa-refresh"></i> In Progress<br><br>Gotta learn it somehow. |
+
+---
 
 | ![TCP/IP For Dummies]({{ site.url }}/assets/tcp-ip.jpg) | [**TCP/IP For Dummies**](http://smile.amazon.com/TCP-IP-Dummies-Candace-Leiden-ebook/dp/B002MZUPUG/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-6&qid=1425965841)<br><i class="fa fa-refresh"></i> In Progress<br><br>Gotta learn it somehow. |
 
