@@ -13,7 +13,7 @@ Because of this, Instagram is my new Facebook.
 
 Millenials are a generation guilty of [crafting our public image](http://waitbutwhy.com/2013/09/why-generation-y-yuppies-are-unhappy.html). Everyone's heard the cliché about the blooper reel vs. the production edit. Instagram is the airbrushed, Oscar-nominated production edit. Wait, no, it's the advertisement. The best-of everyone's daily mediocrity.
 
-So not only did I go to high school with a bunch of hot rich geniuses, but I also get to see their best-of airbrushed beauty/success on Instagram. And while I do lots of cool stuff too, I'm really bad at remembering to post it.
+So not only did I go to high school with a bunch of hot rich geniuses, I also get to see their best-of airbrushed beauty/success on Instagram. And while I do lots of cool stuff too, I'm really bad at remembering to post it.
 
 Why do I still use it then? Because I'm just as guilty as everyone else. I have to craft my public image. I have the same urge to keep up appearances. I'm certainly capable of refraining from comparing myself to the beautiful geniuses I went to high school with, but at a certain level [I crave the shame, the envy](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html).
 

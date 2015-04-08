@@ -35,7 +35,7 @@
   link: "http://smile.amazon.com/gp/product/B001NRNIMG/ref=kinw_myk_ro_title"
   image: /assets/joel_on_software.jpg
   description: >
-    "Joel's <a href="http://www.joelonsoftware.com/">blog</a> is a classic."
+    Joel's <a href="http://www.joelonsoftware.com/">blog</a> is a classic.
   status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
 
 - title: "Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"
@@ -50,7 +50,7 @@
   link: "http://smile.amazon.com/gp/product/B008HUMTO0/ref=kinw_myk_ro_title"
   image: /assets/effectiveprogramming.png
   description: >
-    "Check out his <a href="http://blog.codinghorror.com/">blog</a>."
+    Check out his <a href="http://blog.codinghorror.com/">blog</a>.
   status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
 
 - title: How to Stop Sucking and Be Awesome Instead

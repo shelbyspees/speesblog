@@ -4,7 +4,9 @@ title: "What's next?"
 category:
 ---
 
-So my internship ends on Friday. It was kind of short notice but I'm fine with that. I didn't feel comfortable making plans until I knew my mom's situation anyway. Stage 1A, best-case scenario all around. We're really glad.
+So my internship ends on Friday. It was kind of short notice but I'm fine with that. 
+
+I didn't feel comfortable making plans until I knew my mom's situation anyway. Stage 1A, best-case scenario all around. We're really glad.
 
 She still feels crappy from the surgery so it's good that I'll be able to spend some time with her during her recovery. It's a chance for me to get a tan, learn AngularJS, and think about where I want to be six months from now.
 

@@ -42,7 +42,7 @@
   status: <i class="fa fa-refresh"></i> In Progress
 
 - title: The Algorithm Design Manual
-  author: Steven Skiena
+  author: Steven S. Skiena
   link: "http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena-ebook/dp/B00B8139Z8/ref=sr_1_1_twi_2_kin?ie=UTF8&qid=1427655079&sr=8-1&keywords=the+algorithm+design+manual"
   image: /assets/algo-design.jpg
   description: >
@@ -53,4 +53,5 @@
   link: "http://git-scm.com/book/en/v2"
   image: /assets/progit.png
   description: >
+    Take a look at the <a href="https://github.com/shelbyspees/cs290_notes/wiki/Pro-Git-notes">notes</a> I made for my Web Development class.
   status: <i class="fa fa-refresh"></i> In Progress

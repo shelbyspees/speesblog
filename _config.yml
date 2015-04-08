@@ -11,13 +11,6 @@ github_username:  shelbyspees
 instagram_username: speesbag
 timezone: -0800
 
-
-completed: <i class="fa fa-check-square-o"></i> <b>Completed</b> 
-in_progress: <i class="fa fa-refresh"></i> In Progress
-not_started: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
-owned: <i class="fa fa-ellipsis-h"></i> <em>Owned, Not Started</em>
-
-
 # Build settings
 markdown: kramdown
 

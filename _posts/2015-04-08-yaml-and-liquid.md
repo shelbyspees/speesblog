@@ -14,7 +14,7 @@ Before this I had each book with the following attributes:
 - status
 - description
 
-Set up in this ugly Frankenstein's monster of Markdown and HTML table formatting:
+set up in this Frankenstein's monster of Markdown and HTML table formatting:
 
 <aside>It was finals, ok? It's not like I had anything better to do.</aside>
 
