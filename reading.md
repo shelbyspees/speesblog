@@ -19,9 +19,9 @@ permalink: /reading/
 <h2 id="technical" class="anchor">Semi-Technical Reads</h2>
 
 {% for book in site.data.tech %}
-<table class="minimum">
+<table>
   <tr>
-  	<td><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
+  	<td class="minimum"><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
     <td>
     	<a href="{{ book.link }}">
     		<b>{{ book.title }}</b>
@@ -48,9 +48,9 @@ permalink: /reading/
 <h2 id="career" class="anchor">Working in Software</h2>
 
 {% for book in site.data.software %}
-<table class="minimum">
+<table>
   <tr>
-    <td><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
+    <td class="minimum"><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
     <td>
         <a href="{{ book.link }}">
             <b>{{ book.title }}</b>
@@ -78,9 +78,9 @@ permalink: /reading/
 <h2 id="psych" class="anchor">Self-Improvement and Social Psychology</h2>
 
 {% for book in site.data.psych %}
-<table class="minimum">
+<table>
   <tr>
-    <td><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
+    <td class="minimum"><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
     <td>
         <a href="{{ book.link }}">
             <b>{{ book.title }}</b>
