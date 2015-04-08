@@ -16,7 +16,7 @@ permalink: /reading2/
 {% for book in site.data.reading %}
 <table class="minimum">
   <tr>
-  	<td><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
+  	<td></td>
     <td>
     	<a href="{{ book.link }}">
     		<b>{{ book.title }}</b>
