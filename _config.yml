@@ -5,7 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   My publicly-viewable brain.<br/>
   Purely for educational/entertainment purposes.
 baseurl: "/speesblog" # the subpath of your site, e.g. /blog/
-url: "http://shelbyspees.github.io/speesblog" # the base hostname & protocol for your site
+url: "http://shelbyspees.me/speesblog/" # the base hostname & protocol for your site
+portfolio_url: "http://shelbyspees.me/"
 twitter_username: speesbag
 github_username:  shelbyspees
 instagram_username: speesbag
@@ -41,7 +42,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://shelbyspees.github.io/speesblog
+  BASE_PATH : http://shelbyspees.me/speesblog
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
