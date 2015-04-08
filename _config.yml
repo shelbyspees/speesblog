@@ -8,8 +8,11 @@ baseurl: "/speesblog" # the subpath of your site, e.g. /blog/
 url: "http://shelbyspees.me/speesblog/" # the base hostname & protocol for your site
 portfolio_url: "http://shelbyspees.me/"
 twitter_username: speesbag
+twitter_url: https://twitter.com/speesbag/
 github_username:  shelbyspees
+github_url: https://github.com/shelbyspees/
 instagram_username: speesbag
+instagram_url: https://instagram.com/speesbag/
 timezone: -0800
 
 # Build settings
