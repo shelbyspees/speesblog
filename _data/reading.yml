@@ -2,7 +2,7 @@
   author:
   link: http://smile.amazon.com/TCP-IP-Dummies-Candace-Leiden-ebook/dp/B002MZUPUG/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-6&qid=1425965841
   image: /assets/tcp-ip.jpg
-  description: > # this means to ignore newlines until "status:"
+  description: >
     Gotta learn it somehow.
   status: <i class="fa fa-refresh"></i> In Progress
 
@@ -10,5 +10,5 @@
   author: Douglas Crockford
   link: http://smile.amazon.com/gp/product/B0026OR2ZY/ref=kinw_myk_ro_title
   image: /assets/javascriptthegoodparts.jpg
-  description: 
+  description: >
   status: <i class="fa fa-refresh"></i> In Progress
