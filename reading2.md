@@ -17,13 +17,14 @@ permalink: /reading2/
 <table class="minimum">
   <tr>
   	<td><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
-    <td><a href="{{ book.link }}"><b>{{ book.title }}<b/></a>
+    <td>
+    	<a href="{{ book.link }}">
+    		<b>{{ book.title }}</b>
+    	</a>
     {% if book.author %}<br>by {{ book.author }}{% endif %}
     <br>{{ book.status }}
-    {% if book.description %}<br>{{ book.description }}{% endif %}
+    {% if book.description %}<br><br>{{ book.description }}{% endif %}
     </td>
   </tr>
 </table>
 {% endfor %}
-
----

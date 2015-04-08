@@ -5,3 +5,10 @@
   description: > # this means to ignore newlines until "status:"
     Gotta learn it somehow.
   status: <i class="fa fa-refresh"></i> In Progress
+
+- title: JavaScript: The Good Parts
+  author: Douglas Crockford
+  link: http://smile.amazon.com/gp/product/B0026OR2ZY/ref=kinw_myk_ro_title
+  image: /assets/javascriptthegoodparts.jpg
+  description: 
+  status: <i class="fa fa-refresh"></i> In Progress
