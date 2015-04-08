@@ -32,3 +32,10 @@ permalink: /reading2/
   </tr>
 </table>
 {% endfor %}
+
+{% for book in site.data.reading %}
+<ul>
+	<li>{{ book.title }}
+	<li> by {{ book.author }}
+</ul>
+{% endfor %}
