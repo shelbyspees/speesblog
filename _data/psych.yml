@@ -26,7 +26,7 @@
   link: "http://smile.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1423798461&sr=8-1&keywords=7+habits"
   image: /assets/sevenhabits.jpg
   description: >
-    Check out my <a href="http://shelbyspees.github.io/speesblog/2015/03/02/book-review-seven-habits.html">book review here.</a>
+    Check out my <a href="{{ site.url }}{% post_url 2015-03-02-seven-habits %}">book review here.</a>
   status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
 
 - title: How to Win Friends & Influence People
