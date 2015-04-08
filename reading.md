@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reading2
-permalink: /reading2/
+title: Reading
+permalink: /reading/
 ---
 
 * [Semi-Technical Reads](#technical)

@@ -4,7 +4,7 @@
   image: /assets/tcp-ip.jpg
   description: >
     Gotta learn it somehow.
-  status: { site.status.in_progress }
+  status: { site.in_progress }
 
 - title: "JavaScript: The Good Parts"
   author: Douglas Crockford
