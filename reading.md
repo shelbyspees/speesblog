@@ -4,12 +4,12 @@ title: Reading
 permalink: /reading/
 ---
 
+<aside><p>Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon. In no particular order.</p></aside>
+
 * [Semi-Technical Reads](#technical)
 * [Working in Software](#career)
 * [Self-Improvement and Social Psychology](#psych)
 * [Health and Fitness](#health)
-
-<aside><p>Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon. In no particular order.</p></aside>
 
 
 
@@ -98,3 +98,19 @@ permalink: /reading/
 
 <br>
 {% endfor %}
+
+
+
+
+
+
+
+<h2 id="health" class="anchor">Health and Fitness</h2>
+
+Starting Strength
+
+Ultramarathon Runner
+
+Born to Run
+
+Mindless Eating: Why We Eat More Than We Think
