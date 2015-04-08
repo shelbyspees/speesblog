@@ -11,6 +11,11 @@ permalink: /reading/
 
 <aside><p>Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon. In no particular order.</p></aside>
 
+
+
+
+
+
 <h2 id="technical" class="anchor">Semi-Technical Reads</h2>
 
 {% for book in site.data.tech %}
@@ -27,6 +32,65 @@ permalink: /reading/
     <br>{{ book.status }}
     {% if book.description %}
     	<br><br>{{ book.description }}
+    {% endif %}
+    </td>
+  </tr>
+</table>
+
+<br>
+{% endfor %}
+
+
+
+
+
+
+<h2 id="career" class="anchor">Working in Software</h2>
+
+{% for book in site.data.software %}
+<table class="minimum">
+  <tr>
+    <td><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
+    <td>
+        <a href="{{ book.link }}">
+            <b>{{ book.title }}</b>
+        </a>
+    {% if book.author %}
+        <br>by {{ book.author }}
+    {% endif %}
+    <br>{{ book.status }}
+    {% if book.description %}
+        <br><br>{{ book.description }}
+    {% endif %}
+    </td>
+  </tr>
+</table>
+
+<br>
+{% endfor %}
+
+
+
+
+
+
+
+<h2 id="psych" class="anchor">Self-Improvement and Social Psychology</h2>
+
+{% for book in site.data.psych %}
+<table class="minimum">
+  <tr>
+    <td><img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/></td>
+    <td>
+        <a href="{{ book.link }}">
+            <b>{{ book.title }}</b>
+        </a>
+    {% if book.author %}
+        <br>by {{ book.author }}
+    {% endif %}
+    <br>{{ book.status }}
+    {% if book.description %}
+        <br><br>{{ book.description }}
     {% endif %}
     </td>
   </tr>

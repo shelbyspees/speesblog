@@ -1,0 +1,83 @@
+- title: Facts and Fallacies of Software Engineering
+  author: Robert L. Glass
+  link: "http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert-ebook/dp/B001TKD4RG/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-2&qid=1424666218"
+  image: /assets/facts-and-fallacies.jpg
+  description: >
+    This old-school classic really hits the nail on the head with its fifty-five facts and ten fallacies. Book review coming soon.
+  status: <i class="fa fa-refresh"></i> In Progress
+
+- title: Code Complete, 2nd Ed.
+  author: Steve McConnell
+  link: "http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?ie=UTF8&qid=1424467980&sr=8-1&keywords=code+complete"
+  image: /assets/codecomplete2.jpg
+  description: >
+    I have a great set of best practices checklists that were derived from this book, can't wait to read it in full.
+  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
+
+- title: Becoming a Technical Leader
+  author: Gerald Weinberg
+  link: "http://smile.amazon.com/gp/product/B004J4VV3I/ref=kinw_myk_ro_title"
+  image: /assets/technicalleader.jpg
+  description: >
+    Applicable in any field. Book review coming soon-ish.
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: Apprenticeship Patterns
+  author: Dave Hoover and Adewale Oshineye
+  link: "http://chimera.labs.oreilly.com/books/1234000001813/index.html"
+  image: /assets/apprenticeshippatterns.jpg
+  description: >
+    Great read, lots to discuss here. I'm a big fan of the growth mindset promoted in this O'Reilly advice tome.
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: Joel on Software
+  author: Joel Spolsky
+  link: "http://smile.amazon.com/gp/product/B001NRNIMG/ref=kinw_myk_ro_title"
+  image: /assets/joel_on_software.jpg
+  description: >
+    "Joel's <a href="http://www.joelonsoftware.com/">blog</a> is a classic."
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"
+  author: Joel Spolsky
+  link: "http://smile.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/ref=asap_bc?ie=UTF8"
+  image: /assets/smartandgetsthingsdone.jpg
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "Effective Programming: More Than Writing Code"
+  author: Jeff Atwood
+  link: "http://smile.amazon.com/gp/product/B008HUMTO0/ref=kinw_myk_ro_title"
+  image: /assets/effectiveprogramming.png
+  description: >
+    "Check out his <a href="http://blog.codinghorror.com/">blog</a>."
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: How to Stop Sucking and Be Awesome Instead
+  author: Jeff Atwood
+  link: "http://smile.amazon.com/gp/product/B00BU3KPQU/ref=kinw_myk_ro_title"
+  image: /assets/howtostopsucking.png
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: Coders At Work
+  author: Peter Seibel
+  link: "http://smile.amazon.com/gp/product/B002RHN7RM/ref=kinw_myk_ro_title"
+  image: /assets/codersatwork.jpg
+  description:
+  status: <i class="fa fa-refresh"></i> In Progress
+
+- title: 97 Things Every Programmer Should Know
+  author:
+  link: http://smile.amazon.com/gp/product/B002RHN7RM/ref=kinw_myk_ro_title
+  image: /assets/97-things.jpg
+  description:
+  status: <i class="fa fa-refresh"></i> In Progress
+
+- title: "Behind Closed Doors: Secrets of Great Management"
+  author: Johanna Rothman and Esther Derby
+  link: "http://smile.amazon.com/gp/product/B00A4OA6UQ/ref=kinw_myk_ro_title"
+  image: /assets/behindcloseddoors.png
+  description: >
+    Reads more like a story than a career advice book.
+  status: <i class="fa fa-refresh"></i> In Progress

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yaml and Liquid
+title: YAML and Liquid
 ---
 
 I finally got around to trying to automate the population of my Reading page with the books on my list. 
@@ -58,7 +58,7 @@ It took me a while to shake out the initial bugs--mostly issues with too many or
 
 <aside top="1950px">I'm having so much trouble formatting the code in this post. It's great that Liquid still plugs in variables if I want them formatted like code, but that means it's significantly harder to get my point across here.</aside>
 
-The main issue in that above photograph was that I needed quotes here around the double curly braces for `book.link` as well as around the link in my YAML file. 
+The main issue in that above photograph was that I needed quotes here around the double curly braces for `book.link` as well as around the URL in my YAML file. 
 
 I soon realized that I wouldn't be able to automate the section headers this way, and I didn't really want to at this point (someday I'll actually learn JavaScript, I promise) so I decided to separate out each section on my reading page:
 
