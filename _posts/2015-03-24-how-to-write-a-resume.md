@@ -64,7 +64,8 @@ Do not include:
 
 <s>Objective: To obtain a position in which I can utilize my skills...</s>
 
-No. Stop. Don't include an objective. Instead, write a [great cover letter]().
+No. Stop. Don't include an objective. Instead, write a [great cover letter]({{ site.url }}{% post_url 2015-03-15-how-to-cover-letter %}
+).
 
 You may come across a situation where it makes sense to include a summary. That's different.
 
