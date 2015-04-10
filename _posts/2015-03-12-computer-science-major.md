@@ -136,7 +136,7 @@ It's nice to have exposure to different topics but that's not how I'm going to b
 
 I mean, we learn best through immersion. If I dive in and just try to absorb everything, I'll learn a lot in the process.
 
-That's why I'm so lucky at my current internship. I should talk to my QA lead and the QA manager about my goals while I'm working there. Seeing the applications of all these hazy topics to solve actual problems in real softare makes it stick a lot better. 
+That's why I'm so lucky at my current internship. I should talk to my QA lead and the QA manager about my goals while I'm working there. Seeing the applications of all these hazy topics to solve actual problems in real software makes it stick a lot better. 
 
 But what if I sink? I don't want to overwhelm myself.
 
