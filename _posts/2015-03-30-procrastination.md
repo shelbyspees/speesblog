@@ -10,7 +10,7 @@ It's a short listen/read but Pychyl does a great job of packing these condensed 
 
 <h2 class="anchor" id="title">Solving The Procrastination Puzzle</h2>
 
-**<i class="fa fa-star"></i> All procrastination is delay, but not all delay is procrastination.**
+###<i class="fa fa-star"></i> All procrastination is delay, but not all delay is procrastination.
 
 <i class="fa fa-long-arrow-right"></i> Procrastination is *needless voluntary delay*
 
@@ -22,7 +22,7 @@ It's a short listen/read but Pychyl does a great job of packing these condensed 
 
 <br>
 
-**<i class="fa fa-star"></i> Procrastination is failing to get on with life itself.**
+###<i class="fa fa-star"></i> Procrastination is failing to get on with life itself.
 
 <i class="fa fa-long-arrow-right"></i> People who score high in self-reports of procrastination also self-report lower achievement overall, more negative feelings, and even significantly more health problems.
 
@@ -35,7 +35,7 @@ It's a short listen/read but Pychyl does a great job of packing these condensed 
 
 <br>
 
-**<i class="fa fa-star"></i> I won't give in to feel good. Feeling good now comes at a cost.**
+###<i class="fa fa-star"></i> I won't give in to feel good. Feeling good now comes at a cost.
 
 <i class="fa fa-long-arrow-right"></i> We want to feel good now and we will do whatever it takes for immediate mood repair, usually at the expense of long-term goals.
 
@@ -57,7 +57,7 @@ The above if-then statement is called an [*implementation intention*](https://ww
 
 <br>
 
-**<i class="fa fa-star"></i> I won't feel more like doing it tomorrow.**
+###<i class="fa fa-star"></i> I won't feel more like doing it tomorrow.
 
 <i class="fa fa-long-arrow-right"></i> We have a bias when we predict future mood (affective) states in relation to positive or negative events.
 
@@ -75,7 +75,7 @@ The above if-then statement is called an [*implementation intention*](https://ww
 
 <br>
 
-**<i class="fa fa-star"></i> I need to be aware of my rationalizations.**
+###<i class="fa fa-star"></i> I need to be aware of my rationalizations.
 
 <i class="fa fa-long-arrow-right"></i> Tendency to:
 
