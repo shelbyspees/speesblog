@@ -19,7 +19,7 @@ set up in this Frankenstein's monster of Markdown and HTML table formatting:
 <aside>It was finals, ok? It's not like I had anything better to do.</aside>
 
 {% highlight html %}
-| <img src="{{ site.url }}/assets/joel_on_software.jpg" alt="Joel on Software"/> | [**Joel on Software**](http://smile.amazon.com/gp/product/B001NRNIMG/ref=kinw_myk_ro_title)<br>by Joel Spolsky<br><i class="fa fa-check-square-o"></i> **Completed** |
+| <img src="/assets/joel_on_software.jpg" alt="Joel on Software"/> | [**Joel on Software**](http://smile.amazon.com/gp/product/B001NRNIMG/ref=kinw_myk_ro_title)<br>by Joel Spolsky<br><i class="fa fa-check-square-o"></i> **Completed** |
 {% endhighlight %}
 
 Luckily Sublime wraps my text for me so it's not quite that impossible to read, but the moment I started doing this I knew I'd have to automate it one day.
