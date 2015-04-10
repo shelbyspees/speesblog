@@ -70,9 +70,32 @@ These last patterns are less relevant right this second but I might as well cate
 
 <h2 class="" id="motivation">Motivation</h2>
 
+- Unleash Your Enthusiasm
+- Sustainable Motivations
+- Nurture Your Passion
+- Find Mentors
+- Kindred Spirits
+- Rubbing Elbows
 
 
+<h2 class="anchor" id="skill-building">Skill Building</h2>
 
+- The White Belt
+- The Deep End
+- Expand Your Bandwidth
+- Use the Source
+- Create Feedback Loops
+- Reading List
+- Read Constantly
+- Study the Classics
+- Dig Deeper
+- Familiar Tools
 
 
 <h2 class="anchor" id="career-decisions">Career Decisions</h2>
+
+- Craft Over Art
+- Draw Your Own Map
+- Use Your Title
+- Stay in the Trenches
+- A Different Road
