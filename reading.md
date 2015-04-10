@@ -4,7 +4,7 @@ title: Reading
 permalink: /reading/
 ---
 
-<aside><p>Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon. In no particular order.</p><p>Check out the <a href="{{ site.url }}best_practices/2015/04/10/best-of.html">Best Of</a> post I wrote listing articles I've enjoyed.</p></aside>
+<aside><p>Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon. In no particular order.</p><p>Check out the <a href="{{ site.url }}/best_practices/2015/04/10/best-of.html">Best Of</a> post I wrote listing articles I've enjoyed.</p></aside>
 
 * [Semi-Technical Reads](#technical)
 * [Working in Software](#career)
