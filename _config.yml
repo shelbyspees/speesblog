@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   My publicly-viewable brain.<br/>
   Purely for educational/entertainment purposes.
 baseurl: "/speesblog" # the subpath of your site, e.g. /blog/
-url: "http://shelbyspees.me/speesblog/" # the base hostname & protocol for your site
+url: "http://shelbyspees.me/speesblog" # the base hostname & protocol for your site
 portfolio_url: "http://shelbyspees.me/"
 twitter_username: speesbag
 twitter_url: https://twitter.com/speesbag/

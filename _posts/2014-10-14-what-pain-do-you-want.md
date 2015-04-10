@@ -15,6 +15,6 @@ When my bingeing was bad and my brain closely associated hunger with despair, it
 
 Back to my point. If I really cared about being healthy and feeling good about my body, I'd put the effort in to planning my meals, buying groceries, preparing food every day. We're supposed to cook every day, just like we're supposed to exercise and socialize and learn and sleep every day.
 
-This is what Steven Covey referred to as "sharpening the saw," the 7th habit in [The 7 Habits](http://www.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1413354191&sr=8-1&keywords=7+habits+of+highly+effective+people). It's also related to the 3rd habit, "put first things first," which teaches a variety of time management that aligns with urgent and non-urgent goals.
+This is what Stephen Covey referred to as "sharpening the saw," the 7th habit in [The 7 Habits](http://www.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1413354191&sr=8-1&keywords=7+habits+of+highly+effective+people). It's also related to the 3rd habit, "put first things first," which teaches a variety of time management that aligns with urgent and non-urgent goals.
 
 The easy stuff doesn't build character. And the hard stuff isn't even that hard. 
