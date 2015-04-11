@@ -50,7 +50,7 @@
   image: /assets/emotional-intelligence.jpg
   description: >
     I won this book in a raffle. It's right up my alley. Book review coming soon.
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
 
 - title: "Lean In: Women, Work, and the Will to Lead"
   author: Sheryl Sandberg

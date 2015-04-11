@@ -6,7 +6,7 @@ category: mindfulness
 
 I recently won a copy of [<i class="fa fa-book"></i> *Working with Emotional Intelligence*](http://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman-ebook/dp/B000JMKTN2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1427167026) by Daniel Goleman in a raffle. I never win anything. Ever. It was awesome.
 
-The book is great so far. I'm almost done with chapter 6, which is the last chapter in the second on self-mastery. 
+The book is great so far. I'm almost done with chapter 6, which is the last chapter in the section on self-mastery. 
 
 Here are some quotes from the book and I don't know, some comments I wrote surrounding the quotes.
 
