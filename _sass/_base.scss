@@ -21,6 +21,16 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+aside {
+
+  color: $grey-color;
+  padding: 10px 10px;
+  background: lighten($grey-color-light, 5%);
+  border: solid 1px $grey-color-light;
+  border-bottom: solid 1px $grey-color-light;
+  border-radius: 3px;
+}
+
 @media only screen and (min-width: 800px) {
   aside {
     border: none;
