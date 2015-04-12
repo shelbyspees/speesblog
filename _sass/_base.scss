@@ -21,17 +21,23 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-aside {
-  font-size: $small-font-size;
-  color: $grey-color;
-  position: absolute;
-  width: 240px;
-  right: 30px;
-  padding: 0;
-  background: none;  
-  padding-left: 22px;
-  border-radius: 0;
-  border-left: solid 8px $grey-color-light;
+@media only screen and (min-width: 800px) {
+  aside {
+    border: none;
+
+    font-size: $small-font-size;
+    color: $grey-color;
+    position: absolute;
+    width: 240px;
+    right: 30px;
+    padding: 0;
+    background: none;  
+    padding-left: 22px;
+    border-radius: 0;
+    border-left: solid 8px $grey-color-light;
+    aside p, aside li {
+        font: 14px/20px "Source Sans Pro", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif; }
+  }
 }
 
 aside h2 {

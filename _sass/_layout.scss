@@ -181,9 +181,14 @@
     position: relative;
     box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
     max-width: 640px;
-    padding-right: 300px;
     border-top: solid 1px #bbb;
     background-color: $background-color;
+}
+
+@media only screen and (min-width: 800px) {
+  .page-content {
+    padding-right: 300px; 
+  }
 }
 
 .anchor {
