@@ -27,7 +27,7 @@ Chapter 3 is the interview with Douglas Crockford, author of [<i class="fa fa-bo
 >
 >**Crockford:** <mark>I think of myself as a writer</mark>. Sometimes I write in English and sometimes I write in JavaScript.
 >
->It all comes down to communication and the structures that you  use in order to facilitate that communication. Human language and computer languages work very differently in many ways, but <mark>ultimately I judge a computer program by its ability to communicate with a human who reads that program<mark>. So at that level, they're not that different.
+>It all comes down to communication and the structures that you  use in order to facilitate that communication. Human language and computer languages work very differently in many ways, but <mark>ultimately I judge a computer program by its ability to communicate with a human who reads that program</mark>. So at that level, they're not that different.
 
 Joel Spolsky made a similar point when [giving advice to college students](http://www.joelonsoftware.com/articles/CollegeAdvice.html) and Jeff Atwood [has admitted](http://blog.codinghorror.com/how-to-write-without-writing/) that his motivation for starting Stack Overflow was to trick people into becoming better communicators. Jeff has even repeated the following quote from Joel in multiple blog posts on Coding Horror:
 
