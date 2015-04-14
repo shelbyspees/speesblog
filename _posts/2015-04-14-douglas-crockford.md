@@ -35,6 +35,10 @@ Joel Spolsky made a similar point when [giving advice to college students](http:
 >  
 > --- <cite>Joel Spolsky, <a href="http://www.joelonsoftware.com/articles/CollegeAdvice.html">"Advice for Computer Science College Students"</a></cite>
 
+It's clear that a few influential professionals think that programming is very close to writing. When people ask me about my studies, I tell them that computers are very stupid and they don't understand nuance. My job as a programmer is to break down into very specific steps what I want the computer to do, in terms that the computer will understand. Programmers are computer whisperers. We boss computers around.
+
+While that's all well and good, computers don't buy your product. People do. If you want your project to be a positive force for the people involved, you have to make it so that it's understandable by people. I'm including every layer of human that your software touches until it reaches the end user: you, your team, QA, management, sales, support, the user, you again when you go back to do maintenance.
+
 
 
 
@@ -47,6 +51,13 @@ Joel Spolsky made a similar point when [giving advice to college students](http:
 >
 >I mentioned I wanted to have the hiring requirement that they had to have read Knuth and I couldn't do that because I couldn't find enough people who had. The other thing I wanted was that they be really literate in whatever language they write to other humans. <mark>I want people who can write, because we spend a lot of time writing to each other</mark>. We're writing email or documentation. We're writing plans. We're writing specifications. I want to know that the people on my team are capable of doing that, and that turns out to be a really difficult skill. So I would actually rather see people start as English majors than as math majors to get into programming. 
 
+Why is literacy important? Reading is learning. Writing is teaching, as I pointed out above. Any project you work on will involve other humans. Unfortunately we haven't perfected telepathy quite yet, which means you're going to have to open your mouth and talk at some point or at least type out a few words. The more effective you get at this important job requirement the more smoothly your projects will go.
+
+
+
+
+
+
 
 
 <h2 class="anchor" id="hiring">On Hiring</h2>
@@ -58,6 +69,14 @@ Joel Spolsky made a similar point when [giving advice to college students](http:
 >**Seibel:** And what are you looking for?
 >
 >**Crockford:** I'm looking for quality of presentation. I want to see what he thinks is something he's proud of. I want to see evidence that in fact he is the author of the thing that he's defending. I find that it much more effective than asking them to solve puzzles or trivia questions. I see all that kind of stuff as useless. But <mark>how effectively they can communicate, that's a skill that I'm hiring for</mark>.
+
+This point struck a chord with me since I religiously follow [/r/cscareerquestions](http://www.reddit.com/r/cscareerquestions) and the subreddit constantly discussed how to prepare for technical interviews. Should we have to practice dozens of [algorithms problems](http://www.careercup.com/page?pid=algorithm-interview-questions) in order to show that we're qualified for a job?
+
+While I think there's absolutely a place for the current trend of having candidates whiteboard-code a solution
+to a difficult problem, Crockford gives a nice solution to a gap I've noticed when I hear about the hiring process. 
+
+Non-technical interviewers ask behavioral questions to judge the candidate's personality and work style. Technical interviewers ask coding questions to test the candidate's technical knowledge. Shouldn't the candidate's prospective team have a chance to judge the candidate on both their technical knowledge and their softer traits (personality, communication, presentation skills)?
+
 
 
 
