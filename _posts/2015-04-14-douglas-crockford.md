@@ -7,7 +7,7 @@ category: best_practices
 I've been (slowly) reading Peter Seibel's [<i class="fa fa-book"></i> *Coders at Work*](http://www.codersatwork.com/).
 
 <aside>
-<ul style="padding: 0">
+<ul class="aside-list">
 	<li><a href="#roles">On Roles</a></li>
 	<li><a href="#literacy">On Literacy</a></li>
 	<li><a href="#hiring">On Hiring</a></li>
@@ -29,11 +29,11 @@ Chapter 3 is the interview with Douglas Crockford, author of [<i class="fa fa-bo
 >
 >It all comes down to communication and the structures that you  use in order to facilitate that communication. Human language and computer languages work very differently in many ways, but <mark>ultimately I judge a computer program by its ability to communicate with a human who reads that program<mark>. So at that level, they're not that different.
 
-Joel Spolsky made a similar point when [giving advice to college students](http://www.joelonsoftware.com/articles/CollegeAdvice.html) and Jeff Atwood [has admitted](http://blog.codinghorror.com/how-to-write-without-writing/) that his motivation for starting Stack Overflow was to trick people into becoming better communicators. Jeff has even repeated the following quote from Joel in multiple blog posts on CodingHorror.com:
+Joel Spolsky made a similar point when [giving advice to college students](http://www.joelonsoftware.com/articles/CollegeAdvice.html) and Jeff Atwood [has admitted](http://blog.codinghorror.com/how-to-write-without-writing/) that his motivation for starting Stack Overflow was to trick people into becoming better communicators. Jeff has even repeated the following quote from Joel in multiple blog posts on Coding Horror:
 
 ><i class="fa fa-quote-left"></i> The difference between a tolerable programmer and a great programmer is not how many programming languages they know, and it's not whether they prefer Python or Java. It's whether they can communicate their ideas.  
 >  
-> -- <cite>Joel Spolsky, <a href="http://www.joelonsoftware.com/articles/CollegeAdvice.html">"Advice for Computer Science College Students"</a></cite>
+> --- <cite>Joel Spolsky, <a href="http://www.joelonsoftware.com/articles/CollegeAdvice.html">"Advice for Computer Science College Students"</a></cite>
 
 
 

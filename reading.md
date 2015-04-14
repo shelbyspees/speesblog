@@ -4,19 +4,23 @@ title: Reading
 permalink: /reading/
 ---
 
-<aside><p>Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon. In no particular order.</p><p>Check out the <a href="{{ site.url }}/best_practices/2015/04/10/best-of.html">Best Of</a> post I wrote listing articles I've enjoyed.</p></aside>
+<aside><p>Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open soon. In no particular order.</p><p>Check out the <a href="{{ site.url }}/best_practices/2015/04/10/best-of.html">Best Of</a> post I wrote listing articles I've enjoyed.</p>
 
-* [Semi-Technical Reads](#technical)
-* [Working in Software](#career)
-* [Self-Improvement and Social Psychology](#psych)
-* [Health and Fitness](#health)
+<b>Book Categories:</b>
+<ul class="aside-list">
+    <li><a href="#top">Semi-Technical Reads</a></li>
+    <li><a href="#career">Working in Software</a></li>
+    <li><a href="#psych">Self-Improvement and Social Psychology</a></li>
+    <li><a href="#health">Health and Fitness</a></li>
+</ul>
+</aside>
 
 
 
 
 
 
-<h2 id="technical" class="anchor">Semi-Technical Reads</h2>
+<h2 id="technical" class="">Semi-Technical Reads</h2>
 
 {% for book in site.data.tech %}
 <table>
@@ -46,6 +50,16 @@ permalink: /reading/
 
 
 <h2 id="career" class="anchor">Working in Software</h2>
+
+<aside>
+<b>Book Categories:</b>
+<ul class="aside-list">
+    <li><a href="#top">Semi-Technical Reads</a></li>
+    <li><a href="#career">Working in Software</a></li>
+    <li><a href="#psych">Self-Improvement and Social Psychology</a></li>
+    <li><a href="#health">Health and Fitness</a></li>
+</ul>
+</aside>
 
 {% for book in site.data.software %}
 <table>
@@ -77,6 +91,16 @@ permalink: /reading/
 
 <h2 id="psych" class="anchor">Self-Improvement and Social Psychology</h2>
 
+<aside>
+<b>Book Categories:</b>
+<ul class="aside-list">
+    <li><a href="#top">Semi-Technical Reads</a></li>
+    <li><a href="#career">Working in Software</a></li>
+    <li><a href="#psych">Self-Improvement and Social Psychology</a></li>
+    <li><a href="#health">Health and Fitness</a></li>
+</ul>
+</aside>
+
 {% for book in site.data.psych %}
 <table>
   <tr>
@@ -106,6 +130,16 @@ permalink: /reading/
 
 
 <h2 id="health" class="anchor">Health and Fitness</h2>
+
+<aside>
+<b>Book Categories:</b>
+<ul class="aside-list">
+    <li><a href="#top">Semi-Technical Reads</a></li>
+    <li><a href="#career">Working in Software</a></li>
+    <li><a href="#psych">Self-Improvement and Social Psychology</a></li>
+    <li><a href="#health">Health and Fitness</a></li>
+</ul>
+</aside>
 
 Starting Strength
 

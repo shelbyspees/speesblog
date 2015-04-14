@@ -28,7 +28,7 @@ aside {
   border: solid 1px $grey-color-light;
   border-bottom: solid 1px $grey-color-light;
   border-radius: 3px;
-  margin-bottom: 10px
+  margin-bottom: 30px
 
 }
 
@@ -80,6 +80,10 @@ aside img {
 
 aside + aside {
     margin-top: 10px; 
+}
+
+.aside-list {
+  padding: 0;
 }
 
 mark {
