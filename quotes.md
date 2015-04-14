@@ -28,7 +28,7 @@ permalink: /quotes/
 
 <blockquote class="twitter-tweet" lang="en">
 	<p><i class="fa fa-quote-left"></i> When we procrastinate on our goals, we are basically putting off our lives.</p>
-	<p>--- <cite>Tim Pychyl</cite></p>
+	<p>--- <cite>Tim Pychyl, <a href="http://iprocrastinate.libsyn.com/">iProcrastinate Podcast</a></cite></p>
 	@speesbag <a href="https://twitter.com/speesbag/status/540690121356349440">December 5, 2014 <i class="fa fa-twitter"></i>
 </a>
 </blockquote>
