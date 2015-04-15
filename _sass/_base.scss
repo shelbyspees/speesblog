@@ -22,6 +22,7 @@ body {
 }
 
 aside {
+  width: 95%;
   color: $grey-color;
   padding: 10px 10px;
   background: lighten($grey-color-light, 7.5%);
@@ -154,14 +155,15 @@ figure {
 
 @media only screen and (min-width: 800px) {
   .wrapLeft {
-    max-width: 25%;
     float: left;
-    padding-right: 10px;
     margin-bottom: 0px;
   }
 
   figure {
     text-align: left;
+    max-width: 25%;
+    float: left;
+    padding-right: 20px;
   }
 
   figcaption {
