@@ -12,4 +12,4 @@ This site is my blog, built with [Jekyll](http://jekyllrb.com/). No ads, no prof
 
 I write decently. I code poorly. I write about code exhaustively.
 
-<aside name="inspiration" style="top: 180px;"><p>My layout was inspired in part by <a href="http://gameprogrammingpatterns.com/architecture-performance-and-games.html">this beautiful book</a>.</p></aside>
+<aside name="inspiration" style="top: 180px;"><p>My layout was inspired in part by <a href="http://gameprogrammingpatterns.com/architecture-performance-and-games.html"><i class="fa fa-book"></i> this beautiful book</a>.</p></aside>
