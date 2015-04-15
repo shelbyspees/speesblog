@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Guru Myth
+title: '97 Things: "The Guru Myth"'
 author: Originally by Ryan Brush
 category: leadership
 ---

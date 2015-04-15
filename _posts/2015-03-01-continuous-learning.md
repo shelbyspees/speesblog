@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continuous Learning
+title: '97 Things: "Continuous Learning"'
 author: Originally by Clint Shank
 category: learning
 ---

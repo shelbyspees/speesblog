@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn Foreign Languages
+title: '97 Things: "Learn Foreign Languages"'
 author: Originally by Klaus Marquardt
 category: learning
 ---

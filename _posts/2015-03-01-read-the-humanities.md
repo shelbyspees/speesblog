@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Read the Humanities
+title: '97 Things: "Read the Humanities"'
 author: Originally by Keith Braithwaite
 category: best_practices
 ---

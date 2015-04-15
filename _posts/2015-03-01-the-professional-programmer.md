@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Professional Programmer
+title: '97 Things: "The Professional Programmer"'
 author: Originally by Uncle Bob
 category: best_practices
 ---

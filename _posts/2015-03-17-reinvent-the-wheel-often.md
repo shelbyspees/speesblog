@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reinvent the Wheel Often
+title: '97 Things: "Reinvent the Wheel Often"'
 author: Originally by Jason P. Sage
 category: learning
 ---
