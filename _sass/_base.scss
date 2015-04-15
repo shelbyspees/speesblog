@@ -142,11 +142,36 @@ img {
 }
 
 .wrapLeft {
+    padding-right: 10px;
+    margin-bottom: 0px;
+    min-width: 0; 
+    margin: 0px auto;
+}
+
+figure {
+  text-align: center;
+}
+
+@media only screen and (min-width: 800px) {
+  .wrapLeft {
     max-width: 25%;
     float: left;
     padding-right: 10px;
     margin-bottom: 0px;
+  }
+
+  figure {
+    text-align: left;
+  }
+
+  figcaption {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
 }
+
 
 .wrapRight {
     max-width: 25%;
