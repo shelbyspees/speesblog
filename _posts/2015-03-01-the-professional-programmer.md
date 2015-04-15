@@ -7,7 +7,8 @@ category: best_practices
 
 Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Know*](http://www.amazon.com/Things-Every-Programmer-Should-Know-ebook/dp/B0039OVIAK/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=8-1&amp;qid=1427176231).
 
-[<i class="fa fa-list-alt"></i> Source](http://programmer.97things.oreilly.com/wiki/index.php/The_Professional_Programmer)
+[<i class="fa fa-list-alt"></i> Source.](http://programmer.97things.oreilly.com/wiki/index.php/The_Professional_Programmer) I took some liberties with the formatting.
+
 
 ---
 
