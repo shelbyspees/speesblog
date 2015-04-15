@@ -8,8 +8,9 @@ I'm reading [<i class="fa fa-book"></i> *Apprenticeship Patterns*](http://chimer
 
 In chapter 3, ["The Long Road,"](http://chimera.labs.oreilly.com/books/1234000001813/ch03.html#the_long_road) there's a great quote about embracing the journey to build that knowledge:
 
->For every step you take toward mastery, your destination moves two steps further away. Embrace mastery as a lifelong endeavor. Learn to love the journey.  
->--George Leonard, Mastery
+><i class="fa fa-quote-left"></i> For every step you take toward mastery, your destination moves two steps further away. Embrace mastery as a lifelong endeavor. Learn to love the journey.  
+>  
+>--- <cite>George Leonard, <a href="http://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560"><i class="fa fa-book"></i> Mastery</a></cite>
 
 This quote touches on quite a few clichés we've all encountered. [<i class="fa fa-list-alt"></i> "You don't know what you don't know,"](http://googleblog.blogspot.com/2014/09/you-dont-know-what-you-dont-know-how.html) and as you start learning about the things you don't know you find yourself facing this endless chasm of knowledge. To those who collect knowledge, it's overwhelming to think of all the things you'll never be able to wrap your head around. [(<i class="fa fa-list-alt"></i> An example I encountered recently.)](http://waitbutwhy.com/2014/05/fermi-paradox.html)
 

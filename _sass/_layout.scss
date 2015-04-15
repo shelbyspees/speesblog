@@ -264,3 +264,22 @@
         }
     }
 }
+
+
+.reading {
+    min-height: 140px;
+    margin-bottom: 30px;
+    float: left;
+}
+
+.reading-img {
+    padding-right: 20px;
+    min-width: 150px;
+    float: left;
+}
+
+@media only screen and (min-width: 800px) {
+    .reading {
+        min-width: 640px;
+    }
+}

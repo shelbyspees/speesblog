@@ -17,6 +17,23 @@ permalink: /reading/
 
 
 
+<h2 id="technical" class="">Semi-Technical Reads</h2>
+
+{% for book in site.data.tech %}
+
+<div class="reading">
+    <div class="reading-img">
+        <img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
+    </div>
+    <a href="{{ book.link }}"><b>{{ book.title }}</b></a>
+    {% if book.author %}<br>by {{ book.author }}{% endif %}
+    <br>{{ book.status }}
+    {% if book.description %}<br><br>{{ book.description }}{% endif %}
+</div>
+{% endfor %}
+
+
+
 
 
 
