@@ -28,14 +28,13 @@ aside {
   border: solid 1px $grey-color-light;
   border-bottom: solid 1px $grey-color-light;
   border-radius: 3px;
-  margin-bottom: 30px
-
+  margin-bottom: 30px;
+  float: left;
 }
 
 @media only screen and (min-width: 800px) {
   aside {
     border: none;
-
     font-size: $small-font-size;
     color: $grey-color;
     position: absolute;
@@ -114,10 +113,20 @@ ul, ol, dl, figure,
 /**
  * Images
  */
+
 img {
-    max-width: 150px;
-    vertical-align: middle;
+  width: 50%;
+  min-width: 200px;
 }
+
+@media only screen and (min-width: 800px) {
+  img {
+    min-width: 0;
+    width: 100%;
+    vertical-align: middle;
+  }
+}
+
 
 .wide {
     max-width: 100%;
