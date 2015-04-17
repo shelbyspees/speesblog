@@ -13,7 +13,7 @@
          <ul class="sidebar-post-list">
           {% for post in site.posts %}
             <li>
-              {{ post.date | date: "%b %d" }} <a href="{{ post.url }}">{{ post.title }}</a>
+              {{ post.date | date: "%b %d" }} <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
             </li>
           {% endfor %}
         </ul>
