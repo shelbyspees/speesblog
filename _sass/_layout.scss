@@ -190,20 +190,34 @@
     margin-left: 0;
     list-style: none;
 
-    > li {
-        margin-bottom: $spacing-unit/4;
+        > li {
+            margin-bottom: $spacing-unit/4;
+        }
     }
 }
-}
 
+@media screen and (max-width: 800px) {
+    #sidebar {
+        display: none;
+    }
+
+    #sidebar-list {
+        display: none;
+    }
+
+    #sidebar-post-list {
+        display: none;
+    }
+}
 
 
 /**
  * Page content
  */
+
 .page-content {
     padding: $spacing-unit 0;
-    margin: 70px auto 70px 220px; 
+    margin: 70px auto; 
     top: 30px;
 
     border-left: solid 1px #bbb;
@@ -219,6 +233,8 @@
 @media only screen and (min-width: 800px) {
   .page-content {
     padding-right: 300px; 
+    margin: 70px auto 70px 220px; 
+
   }
 }
 
