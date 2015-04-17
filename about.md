@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="textWrapLeft" src="{{ site.url }}/assets/shelby.jpg" alt="What's up"/>
+<img class="wrapLeft" src="{{ site.url }}/assets/shelby.jpg" alt="What's up"/>
 
 I'm Shelby. Take a look at my [portfolio site]({{ site.portfolio_url }}).
 
