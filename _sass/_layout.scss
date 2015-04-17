@@ -165,6 +165,37 @@
     }
 }
 
+/**
+ * Sidebar
+ */
+@media only screen and (min-width: 800px) {
+
+    #sidebar {
+        position: absolute;
+        top: 0; 
+        left: 0;
+        width: 260px;
+        background: lighten($grey-color-light, 5%);
+    }
+
+    #sidebar-list {
+        margin: 130px 20px 50px 20px;
+        width: 180px;
+        height: 100%;
+        color: black;
+        font-size: $small-font-size;
+    }
+
+    .sidebar-post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit/4;
+    }
+}
+}
+
 
 
 /**
@@ -172,7 +203,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-    margin: 70px auto; 
+    margin: 70px auto 70px 220px; 
     top: 30px;
 
     border-left: solid 1px #bbb;
