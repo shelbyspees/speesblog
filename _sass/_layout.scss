@@ -196,6 +196,8 @@
     }
 }
 
+
+
 @media screen and (max-width: 800px) {
     #sidebar {
         display: none;
@@ -343,5 +345,11 @@
         min-width: 150px;
         float: left;
         padding-bottom: 0;
+    }
+}
+
+.list-by-topic {
+    > li {
+        margin-bottom: $spacing-unit/4;
     }
 }
