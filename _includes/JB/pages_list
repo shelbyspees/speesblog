@@ -29,7 +29,7 @@ Usage:
       	{% if page.url == node.url %}
       	<li class="active">{{ node.date | date: "%b %d" }} <a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
       	{% else %}
-      	<li>{{ node.date | date: "%b %d" }} <a href="{{ node.url | prepend: site.baseurl }}">{{node.title}}</a></li>
+      	<li class="grey">{{ node.date | date: "%b %d" }} <a href="{{ node.url | prepend: site.baseurl }}">{{node.title}}</a></li>
       	{% endif %}
       {% endif %}
     {% endif %}
