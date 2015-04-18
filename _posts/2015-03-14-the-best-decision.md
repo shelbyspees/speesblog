@@ -30,7 +30,7 @@ Unlike most study abroad experiences you hear about, mine wasn't a dream-come-tr
 
 Within three cuts I knew I had made the right decision. Instead of making my face look chubby like I had expected, my pixie framed it in a really flattering way. This was a huge improvement over wearing it back in a ponytail.
 
-<figure>
+<figure class="wrap-left">
 	<img class="wrapLeft" style="padding-bottom: 10px; padding-right: 10px; " src="{{ site.url }}/assets/haircut-selfie.jpg"/>
     <figcaption>The day I cut my hair.<br>I spent two hours taking selfies like this.</figcaption>
 </figure>

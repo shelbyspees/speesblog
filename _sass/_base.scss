@@ -163,8 +163,11 @@ figure {
   figure {
     text-align: left;
     max-width: 25%;
-    float: left;
     padding-right: 20px;
+  }
+
+  figure.wrap-left {
+    float: left;
   }
 
   figcaption {
