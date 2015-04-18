@@ -172,14 +172,14 @@
 
     #sidebar {
         position: absolute;
-        top: 0; 
+        top: 130px; 
         left: 0;
         width: 260px;
         background: lighten($grey-color-light, 5%);
     }
 
     #sidebar-list {
-        margin: 130px 20px 50px 20px;
+        margin: 20px 20px 20px 20px;
         width: 180px;
         height: 100%;
         color: $grey-color-dark;

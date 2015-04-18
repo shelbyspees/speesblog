@@ -31,7 +31,7 @@ Usage:
       	{% else %}
       	<li>{{ node.date | date: "%b %d" }} <a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
       	{% endif %}
-      {% endif %}
+      {% endif %}x
     {% endif %}
   {% endfor %}
 {% endif %}
