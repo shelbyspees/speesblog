@@ -17,6 +17,11 @@ So not only did I go to high school with a bunch of hot rich geniuses, I also ge
 
 Why do I still use it then? Because I'm just as guilty as everyone else. I have to craft my public image. I have the same urge to keep up appearances. I'm certainly capable of refraining from comparing myself to the beautiful geniuses I went to high school with, but at a certain level [I crave the shame, the envy](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html).
 
+<aside>
+	<p>Actually I recently found a bikini that actually fits right for the first time since high school. This is the best I've looked in years.</p>
+	<p>Why do swimwear companies hate me so much??</p>
+</aside>
+
 Maybe it'll motivate me to get in the gym and actually work on that bikini body. I haven't been happy about a bikini pic since I was 15. 
 
 Wow, that's actually really sad. Nearly 10 years of being ashamed of my body. That's real motivation right there. It's time to end that.
