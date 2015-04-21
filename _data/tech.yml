@@ -46,7 +46,7 @@
   link: "http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena-ebook/dp/B00B8139Z8/ref=sr_1_1_twi_2_kin?ie=UTF8&qid=1427655079&sr=8-1&keywords=the+algorithm+design+manual"
   image: /assets/algo-design.jpg
   description: >
-  status: <i class="fa fa-ellipsis-h"></i> <em>Owned, Not Started</em>
+  status: <i class="fa fa-refresh"></i> In Progress
 
 - title: Pro Git
   author: Scott Chacon and Ben Straub
