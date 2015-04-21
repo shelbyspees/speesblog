@@ -3,9 +3,10 @@ layout: post
 title: Planning Meals
 category:
 ---
-<aside><p>Binge Eating Disorder <a href="http://www.bingeeatingdisorder.com/?mid=B000081&utm_medium=vanity&utm_source=vanity&utm_campaign=2015_ub_dtc_beddsecon_bed_t&utm_content=ub_bingeeatingdisorderisrealcom_vanity__aq&utm_term=billboard">is real.</a> It's not a joke, it's not made up.</p></aside>
 
 I used to have a problem with binge eating disorder. I suppose I still do. I'm in remission? Or something.
+
+<aside><p>Binge Eating Disorder <a href="http://www.bingeeatingdisorder.com/?mid=B000081&utm_medium=vanity&utm_source=vanity&utm_campaign=2015_ub_dtc_beddsecon_bed_t&utm_content=ub_bingeeatingdisorderisrealcom_vanity__aq&utm_term=billboard">is real.</a> It's not a joke, it's not made up.</p></aside>
 
 Lately I haven't had much of an appetite. This is not unhealthy in itself. It's nice that I don't associate a mild hunger pang with crushing despair at this point.
 

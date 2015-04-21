@@ -4,12 +4,12 @@ title: Practicing Mindfulness
 category: mindfulness
 ---
 
+Most people think, "My mind is mine." No one else has access. The mind is the most private domain as the center of one's personality.
+
 <aside>
 	<p>These are some notes I took while listening to the audiobook <a href="http://www.audible.com/pd/Self-Development/Practicing-Mindfulness-An-Introduction-to-Meditation-Audiobook/B00DDVQQLA"><i class="fa fa-book"></i> Practicing Mindfulness: An Introduction to Meditation.</a></p>
 	<p>It's definitely an audiobook I'm going to revisit at some point.</p>
 </aside>
-
-Most people think, "My mind is mine." No one else has access. The mind is the most private domain as the center of one's personality.
 
 If we lack awareness of how our mind functions, it leads to inattentiveness.
 
