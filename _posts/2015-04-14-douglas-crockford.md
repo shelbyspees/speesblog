@@ -51,7 +51,7 @@ While that's all well and good, computers don't buy your product. People do. If 
 >
 >I mentioned I wanted to have the hiring requirement that they had to have read Knuth and I couldn't do that because I couldn't find enough people who had. The other thing I wanted was that they be really literate in whatever language they write to other humans. <mark>I want people who can write, because we spend a lot of time writing to each other</mark>. We're writing email or documentation. We're writing plans. We're writing specifications. I want to know that the people on my team are capable of doing that, and that turns out to be a really difficult skill. So I would actually rather see people start as English majors than as math majors to get into programming. 
 
-Why is literacy important? Reading is learning. Writing is teaching, as I pointed out above. Any project you work on will involve other humans. Unfortunately we haven't perfected telepathy quite yet, which means you're going to have to open your mouth and talk at some point or at least type out a few words. The more effective you get at this important job requirement the more smoothly your projects will go.
+Why is literacy important? Reading is learning. Writing is teaching. Any project you work on will involve other humans. Unfortunately we haven't perfected telepathy quite yet, which means you're going to have to open your mouth and talk at some point or at least type out a few words. The more effective you get at this important job requirement the more smoothly your projects will go.
 
 
 
@@ -90,8 +90,8 @@ While I'm obviously very biased, I like Crockford's points here because I think 
 
 People who can communicate well can be very effective in effecting change in whatever role they play. And I believe every career path has a place for teaching. We need more great teachers in this world and that starts with encouraging people to build their communication skills.
 
-Trust me, in elementary school and middle school I literally could not get words on a page. I'd sit in silence staring at the page, mind completely blank. Free writing assignments were like pulling teeth for me. I cried my way through four years of honors and AP English classes in high school (my standardized test scores for reading comprehension were what roped me in).
+Trust me, in elementary school and middle school I literally could not get words on paper. I'd sit in silence staring at the page, mind completely blank. Free writing assignments were like pulling teeth for me. I cried my way through four years of honors and AP English classes in high school (my standardized test scores for reading comprehension were what roped me in).
 
-Two things helped change that: I began filling up notebooks with the boy-crazy stream-of-consciousness musings of a sixteen-year-old girl, and my 11th grade English teacher with skyscraping standards made us write timed essays every week. It turns out the more words you write the easier it becomes. By college I began getting compliments on my writing. In only a few years my writing abilities took a 180-degree turnaround.
+Two things helped change that: 1. I began filling up notebooks with the boy-crazy stream-of-consciousness musings of a sixteen-year-old girl, and 2. åmy 11th grade English teacher with skyscraping standards made us write timed essays every week. It turns out the more words you write the easier it becomes. By college I was getting compliments on my writing. In only a few years my writing abilities took a 180-degree turnaround.
 
 It's actually this experience building my writing skills that gives me the confidence that I can become a good programmer with practice. I'm glad I can maintain that growth mindset now.
