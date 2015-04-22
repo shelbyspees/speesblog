@@ -92,6 +92,6 @@ People who can communicate well can be very effective in effecting change in wha
 
 Trust me, in elementary school and middle school I literally could not get words on paper. I'd sit in silence staring at the page, mind completely blank. Free writing assignments were like pulling teeth for me. I cried my way through four years of honors and AP English classes in high school (my standardized test scores for reading comprehension were what roped me in).
 
-Two things helped change that: 1. I began filling up notebooks with the boy-crazy stream-of-consciousness musings of a sixteen-year-old girl, and 2. åmy 11th grade English teacher with skyscraping standards made us write timed essays every week. It turns out the more words you write the easier it becomes. By college I was getting compliments on my writing. In only a few years my writing abilities took a 180-degree turnaround.
+Two things helped change that: 1. I began filling up notebooks with the boy-crazy stream-of-consciousness musings of a sixteen-year-old girl, and 2. my 11th grade English teacher with skyscraping standards made us write timed essays every week. It turns out the more words you write the easier it becomes. By college I was getting compliments on my writing. In only a few years my writing abilities took a 180-degree turnaround.
 
 It's actually this experience building my writing skills that gives me the confidence that I can become a good programmer with practice. I'm glad I can maintain that growth mindset now.
