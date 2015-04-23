@@ -8,8 +8,16 @@ I'm in that place again. I'm excited about all the things I'm learning, but I'm 
 
 It's time to prioritize.
 
-Most important is school. I have a ton of reading and lectures to catch up on. I really want to make sure I wrap my head around JavaScript, since I'll probably need it for every job ever, as well as algorithms, since I'll probably need it for every job interview ever.
+Most important is school. I have a ton of reading and lectures to catch up on. I really want to make sure I wrap my head around JavaScript, since I'll probably need it for every job ever, as well as algorithms, since I'll probably need them for every job interview ever.
 
 I've been better about organizing my tasks. It's just a matter of sitting down to do them.
 
-<img class="" src="{{ site.url }}/assets/comp/wk4tasks.png"/>
+<img class="" src="/assets/comp/wk4tasks.png"/>
+
+It's been really annoying though since I feel like I don't have a good place to organize all the info I'm trying to keep track of. Evernote sorely lacks support for code, particularly syntax highlighting, so [I've been using GitHub's wiki functionality to organize my notes for my web development class.]({{ post.url 2015-04-06-wiki | prepend: site.baseurl }}) 
+
+I really want to migrate to my own wiki. I'm already looking at a [tutorial to build one with Rails](http://www.devx.com/webdev/Article/34200?trk=DXRSS_LATEST). I just have to sit down and do.
+
+Once I do that I can say that I know Rails a bit. That'd be a nice thing to have on my resume.
+
+And then I have about a million other books I want to read.
