@@ -12,7 +12,7 @@ Most important is school. I have a ton of reading and lectures to catch up on. I
 
 I've been better about organizing my tasks. It's just a matter of sitting down to do them.
 
-<img class="" src="/assets/comp/wk4tasks.png"/>
+<img class="" src="/assets/files/wk4tasks.png"/>
 
 It's been really annoying though since I feel like I don't have a good place to organize all the info I'm trying to keep track of. Evernote sorely lacks support for code, particularly syntax highlighting, so [I've been using GitHub's wiki functionality to organize my notes for my web development class.]({{ post.url 2015-04-06-wiki | prepend: site.baseurl }}) 
 
