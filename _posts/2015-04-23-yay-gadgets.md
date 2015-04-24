@@ -8,7 +8,7 @@ I got my Fitbit today!
 
 <aside>I got the <a href="https://www.fitbit.com/chargehr">Charge HR</a>.</aside>
 
-<img class="wide" src="/assets/files/fitbit.jpg"/>
+<img class="wide" src="{{ site.url }}/assets/files/fitbit.jpg"/>
 
 The other day I noticed my resting heart rate was like way high and I figure this way I can track everything and it'll keep me motivated to exercise and eat right.
 
