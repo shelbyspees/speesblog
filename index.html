@@ -9,7 +9,7 @@ layout: default
   <aside><p><b>Hi there.</b><br>I tend to write a lot of posts but I don't always polish them. Reach out to me on <a href="{{ site.twitter_url }}">Twitter <i class="fa fa-twitter"></i></a> if you find anything strange.</p></aside>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2 style="margin-bottom: 0px;"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
@@ -17,5 +17,20 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+  
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
 
 </div>
