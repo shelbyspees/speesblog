@@ -270,7 +270,11 @@ a {
 
 .social,
 .social:visited {
-  color: #828282;
+  color: $grey-color;
+}
+
+.no-page {
+  color: $grey-color;
 }
 
 
