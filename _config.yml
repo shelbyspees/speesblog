@@ -15,7 +15,7 @@ instagram_username: speesbag
 instagram_url: https://instagram.com/speesbag/
 timezone: -0800
 paginate: 20
-paginate_path: "/blog/page:num/"
+paginate_path: "/speesblog/page:num/"
 
 # Build settings
 markdown: kramdown
