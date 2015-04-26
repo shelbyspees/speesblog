@@ -198,7 +198,7 @@
 
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 799px) {
     #sidebar {
         display: none;
     }
@@ -238,6 +238,16 @@
     margin: 70px auto 70px 220px; 
 
   }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1000px) {
+  .page-content {
+    padding-right: 0px; 
+    margin: 70px auto 70px 220px; 
+  }
+  .vert-line {
+    border-right: none;
+}
 }
 
 .anchor {
