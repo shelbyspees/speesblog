@@ -56,7 +56,7 @@ If I make these little actions into a test where I actually fail if I don't comp
 
 Usually people recommend avoiding black-and-white thinking, but in this case I think I'll find it helpful. It literally just takes five minutes a day. Pass or fail. Do I really want to be a willpower failure?
 
-<aside>You should totally check out my <a href="https://www.beeminder.com/speesbag">Beeminder graphs.</a></aside>
+<aside>Btw, you should totally check out my <a href="https://www.beeminder.com/speesbag">Beeminder graphs.</a></aside>
 
 I've tried gamifying my attempts at self-improvement before. Notable examples include Fitocracy, Todoist, and Beeminder. Beeminder even puts my money on the line but I still find ways to fail. I guess I don't care that much about money.
 
