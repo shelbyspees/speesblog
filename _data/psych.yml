@@ -72,15 +72,24 @@
   author: Katty Kay and Claire Shipman
   link: "http://smile.amazon.com/gp/product/B00DB368AY/ref=kinw_myk_ro_title"
   image: /assets/theconfidencecode.jpg
-  description: 
-  status: <i class="fa fa-ellipsis-h"></i> <em>Owned, Not Started</em>
+  description: >
+    I thought this book would annoy me but I actually can't put it down. I'll probably finish it in less than two days.
+  status: <i class="fa fa-refresh"></i> In Progress
 
 - title: "How Remarkable Women Lead"
   author: Joanna Barsh, Susie Cranston, and Geoffrey Lewis
   link: "http://www.amazon.com/How-Remarkable-Women-Lead-Breakthrough-ebook/dp/B002PYFWAW/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid="
   image: /assets/remarkable-women.jpg
   description: >
-    Currently listening to the audiobook when I'm at the gym. The main theme I've gotten so far is that in order to be a leader, it's necessary to like yourself.
+    I have pretty thorough notes on this. Pretty soon I'll synthesize them into a review post.
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "Knowing Your Value"
+  author: Mika Brzezinski
+  link: "http://www.audible.com/pd/Business/Knowing-Your-Value-Audiobook/B004XDW50S"
+  image: /assets/knowingyourvalue.jpg
+  description: >
+    Definitely recommend the audiobook version. What I like about this book is that it really demonstrates how widespread the problem is of women who aren't being paid what they're worth. When I hear about the most successful women in the world having the same negotiation anxiety that I do, I don't feel like such a failure.
   status: <i class="fa fa-refresh"></i> In Progress
 
 - title: "59 Seconds: Think a Little, Change a Lot"
@@ -119,4 +128,14 @@
   description: >
     Check out his <a href="http://iprocrastinate.libsyn.com/">podcast</a>.
   status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "The Leadership Challenge, 4th ed."
+  author: "Kouzes & Posner"
+  link: "http://www.amazon.com/Leadership-Challenge-Extraordinary-Things-Organizations-ebook/dp/B008DM2MK8/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1432163188"
+  image: /assets/theleadershipchallenge.jpg
+  description: >
+    I read this book for the intro to leadership class back at UCSB. Now I'm trying to filter out the nuggets of advice so I can connect them to other books I read.
+  status: <i class="fa fa-refresh"></i> In Progress
+
+
 
