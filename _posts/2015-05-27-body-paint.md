@@ -148,7 +148,7 @@ Now back to Korra.
 
 <img class="wide" src="https://chicgeekspeaks.files.wordpress.com/2014/09/b4-trailer-099.png"/>
 
-She's strong, athletic, practical, low-maintenance, loves to fight. She has an attitude, an appetite, and a sense of humor.
+She's strong, athletic, practical, low-maintenance, stubborn, loves to fight. She has an attitude, an appetite, and a sense of humor.
 
 I love how muscular she is. Honestly she's my #fitspo. I could look like her if I built up a load of muscle and ended up around 160lbs.
 
