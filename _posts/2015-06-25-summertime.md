@@ -8,9 +8,11 @@ It was 100F out today. Sounds about right.
 
 I'm getting used to my internship. It's really great and I'm learning a ton. These first few weeks have been tough trying to wrap my head around the projects and actually being productive (rather than just consuming information). Now, though, I feel like by the end of the summer I'll have done something helpful if I just keep trying things and learning from my mistakes.
 
-Yesterday and today they had panel discussions with full-time employees who answered questions for the interns. The full-timers ranged from a few years at the company to over 50 years. I thought it was crazy that someone had been working there as long as my mom's been alive.
+Yesterday and today the company organized panel discussions with full-time employees who answered questions for the interns. The full-timers ranged from a few years at the company to over 50 years. I thought it was crazy that someone had been working there as long as my mom's been alive.
 
-The other interns are really chill. I'm sad that we'll only be working together for a few months. Maybe this time I'll try to stay friends with them beyond the summer. I'm working on being a better friend like that.
+The panelists talked a lot about finding mentors and leaving an impression on the people at the company. I definitely want to get better at building a network (basically being friends with work people) but at this early stage I think it's more important that I demonstrate my competence, mostly for my own sake. If I can really tap in to that brainpower I can produce some really good work.
+
+For now I've made a few friends with interns. The other interns are really chill. I'm sad that we'll only be working together for a few months. Maybe this time I'll try to stay friends with them beyond the summer. I'm working on being a better friend like that.
 
 ###Time
 
@@ -20,13 +22,15 @@ I just love sleep. It's the best feeling ever. I've been waking up at 4:00am to 
 
 After sitting on the 405 for an hour and a half I make it home and immediately change into pajamas. Yesterday I went to sleep at 7:00pm and woke up at 4:00am this morning. It was almost enough sleep for once.
 
-Unfortuately, my work schedule, commute, and powerful need for sleep tend to get in the way of other things I'd like to be doing, like exercise. I've been to the gym once per week since I started my internship. Since I'm so out of shape I end up needing even more sleep for several days after a good workout.
+Unfortuately, my work schedule, commute, and powerful need for sleep tend to get in the way of other things I'd like to be doing, like exercise. I've been to the gym about once per week since I started my internship. Since I'm so out of shape I end up needing even more sleep for several days after a good workout. Life is so hard.
 
-If it were up to me, I'd find a room to rent over there and skip the whole commute thing. But at this point, $200 a month on car payments plus $160 a month on gas is still way cheaper than paying $200 a month on car payments plus $800+ a month on rent. 
+If it were up to me, I'd find a room to rent over there and skip the whole commute thing. But at this point, $200 a month on car payments (paying more than the minimum) plus $160 a month on gas with a 30 mile commute each way is still way cheaper than paying $200 a month on car payments plus $800+ a month on rent five minutes from work.
+
+I suppose during the school year my time will be more valueable and I might find a way to move out again.
 
 At least now I can go places with a car that won't break down on me at the drop of a hat. I guess I really do value freedom.
 
-One thing about my time that I've noticed is that I can't afford to waste it. I've met a few people and gone on dates the past few months. After dealing with the rampant flakiness here in LA I decided I'm not going to tolerate it anymore. Don't make me wait, don't waste my time, if plans change then tell me. Don't leave me hanging. It's not that hard.
+So considering my crazy schedule, I can't afford to waste time. I've met a few people and gone on dates the past few months, but after dealing with the rampant flakiness here in LA I decided I'm not going to tolerate it anymore. Don't make me wait, don't waste my time, if plans change then tell me. Don't leave me hanging. It's not that hard.
 
 But now I'm mostly giving up on dating. Sleep is wayyy more important. I don't know how I'd survive with 4-6 hours of sleep a night in high school. Now I want 10+ hours no matter what kind of day I'm having.
 
