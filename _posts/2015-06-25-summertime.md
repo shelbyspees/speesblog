@@ -10,7 +10,7 @@ I'm getting used to my internship. It's really great and I'm learning a ton. The
 
 Yesterday and today the company organized panel discussions with full-time employees who answered questions for the interns. The full-timers ranged from a few years at the company to over 50 years. I thought it was crazy that someone had been working there as long as my mom's been alive.
 
-The panelists talked a lot about finding mentors and leaving an impression on the people at the company. I definitely want to get better at building a network (basically being friends with work people) but at this early stage I think it's more important that I demonstrate my competence, mostly for my own sake. If I can really tap in to that brainpower I can produce some really good work.
+The panelists talked a lot about finding mentors and leaving an impression on the people at the company. I definitely want to get better at building a network (basically being friends with work people) but at this early stage I think it's more important that I demonstrate my competence, mostly for my own sake. If I can really tap in to that brainpower I can produce some great work.
 
 For now I've made a few friends with interns. The other interns are really chill. I'm sad that we'll only be working together for a few months. Maybe this time I'll try to stay friends with them beyond the summer. I'm working on being a better friend like that.
 
