@@ -241,7 +241,7 @@
   }
 
   .vert-line {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit $spacing-unit;
     border-left: solid 1px #bbb;
     border-right: solid 1px #bbb;
     border-bottom: solid 1px #999;
