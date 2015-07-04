@@ -241,12 +241,12 @@
   }
 
   .vert-line {
-    padding: $spacing-unit $spacing-unit;
-    border-left: solid 1px #bbb;
-    border-right: solid 1px #bbb;
-    border-bottom: solid 1px #999;
-    border-top: solid 1px #bbb;
-    box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
+    padding: $spacing-unit*1.5 $spacing-unit*2;
+    // border-left: solid 1px #bbb;
+    // border-right: solid 1px #bbb;
+    // border-bottom: solid 1px #999;
+    // border-top: solid 1px #bbb;
+    // box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
   }
 }
 
