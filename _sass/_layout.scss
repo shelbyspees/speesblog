@@ -100,6 +100,8 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background: lighten($grey-color-light, 5%);
+
 }
 
 .footer-heading {
@@ -181,10 +183,7 @@
 
     #sidebar {
         position: absolute;
-        top: 130px; 
         left: 0;
-        width: 260px;
-        // background: lighten($grey-color-light, 5%);
     }
 
     #sidebar-list {
