@@ -32,6 +32,7 @@
 
 .site-nav {
     float: right;
+    padding-top: 10px;
 
     .menu-icon {
         display: none;
@@ -62,7 +63,7 @@
             width: 36px;
             height: 26px;
             line-height: 0;
-            padding-top: 10px;
+            padding-top: 5px;
             text-align: center;
 
             > svg {
