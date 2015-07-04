@@ -184,7 +184,7 @@
         top: 130px; 
         left: 0;
         width: 260px;
-        background: lighten($grey-color-light, 5%);
+        // background: lighten($grey-color-light, 5%);
     }
 
     #sidebar-list {
@@ -237,15 +237,12 @@
 @media only screen and (min-width: 800px) {
   .page-content {
     padding-right: 300px; 
-    margin: 70px auto 70px 220px; 
+    margin: $spacing-unit*2 auto $spacing-unit*2 $spacing-unit*8; 
   }
 
   .vert-line {
-    padding: $spacing-unit*1.5 $spacing-unit*2;
-    // border-left: solid 1px #bbb;
-    // border-right: solid 1px #bbb;
-    // border-bottom: solid 1px #999;
-    // border-top: solid 1px #bbb;
+    padding: $spacing-unit $spacing-unit;
+    // border: solid 1px #bbb;
     // box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
   }
 }
