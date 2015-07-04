@@ -227,7 +227,6 @@
  */
 
 .page-content {
-    padding: $spacing-unit 0;
     margin: 70px auto; 
 
     position: relative;
@@ -242,6 +241,7 @@
   }
 
   .vert-line {
+    padding: $spacing-unit 0;
     border-left: solid 1px #bbb;
     border-right: solid 1px #bbb;
     border-bottom: solid 1px #999;
