@@ -4,6 +4,8 @@ title: "ANTLR 4: How to Get Started"
 category: programming
 ---
 
+At my internship I'm developing a tool to translate legacy code to C++. ANTLR is going to help me do it.
+
 This is my first time using ANTLR or any parsing tool like it, and this is also my first time building a project in Java. Lots to learn. I'm writing this to help other people like me, with no background in computer languages or Java development, get started.
 
 The benefit of ANTLR 4 is that it automatically builds a lot of the Java files for you from your grammar, so you don't have to think about how to turn your grammar logic into Java logic. Once you get the hang of ANTLR's tokens and rules, the grammar part isn't too painful.
