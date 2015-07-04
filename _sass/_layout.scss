@@ -229,15 +229,9 @@
 .page-content {
     padding: $spacing-unit 0;
     margin: 70px auto; 
-    top: 30px;
 
-    border-left: solid 1px #bbb;
-    border-right: solid 1px #bbb;
-    border-bottom: solid 1px #999;
     position: relative;
-    box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
-    max-width: 640px;
-    border-top: solid 1px #bbb;
+    max-width: 800px;
     background-color: $background-color;
 }
 
@@ -256,6 +250,11 @@
   }
   .vert-line {
     border-right: none;
+    border-left: solid 1px #bbb;
+    border-right: solid 1px #bbb;
+    border-bottom: solid 1px #999;
+    border-top: solid 1px #bbb;
+    box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
 }
 }
 

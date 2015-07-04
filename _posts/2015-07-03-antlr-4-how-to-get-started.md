@@ -14,7 +14,7 @@ For me, understanding the Java has been the more painful part. ANTLR has some go
 
 I'm a fan of plain English.
 
-**Lexer:** the lexer's job is to look for *tokens* in your input. You define your tokens in your grammar (`.g4`) file. Token identifiers start with a capital letter, but I usually like to keep my tokens in all caps so they're easier to differentiate from rule identifiers
+**Lexer:** the lexer's job is to look for *tokens* in your input. You define your tokens in your grammar (`.g4`) file. Token identifiers start with a capital letter, but I usually like to keep my tokens in all caps so they're easier to differentiate from rule identifiers. This seems to be the convention.
 
 <aside>Just have to say that it's really awesome that <a href="http://pygments.org/docs/lexers/#lexers-for-parser-generators">Pygments</a> has an Antlr-Java lexer.</aside>
 
