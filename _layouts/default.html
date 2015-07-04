@@ -9,9 +9,9 @@
     {% include header.html %}
     <div id="sidebar">
       <div id="sidebar-list">
-        <h3><strong>speesblog</strong> all posts:</h3>
+        <h3><strong>speesblog</strong> posts:</h3>
         <ul class="sidebar-post-list">
-          {% for post in site.posts %}
+          {% for post in site.posts limit:30%}
             <li>
             {{ post.date | date: "%b %d" }} <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </li>
