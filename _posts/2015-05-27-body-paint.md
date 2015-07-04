@@ -118,8 +118,8 @@ Fourteen-year-old Katara is the first voice you hear every time you watch an epi
 
 >"Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked..."
 
-Katara is the first named character in the entire show as well as the first named bender.
-x
+Katara is the first named character in the entire show as well as the first named bender. 
+
 At the South Pole, Katara obviously has to layer:
 
 <img class="wide" src="http://images5.fanpop.com/image/photos/26800000/Katara-katara-26887951-720-480.png"/>
