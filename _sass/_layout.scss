@@ -239,7 +239,14 @@
   .page-content {
     padding-right: 300px; 
     margin: 70px auto 70px 220px; 
+  }
 
+  .vert-line {
+    border-left: solid 1px #bbb;
+    border-right: solid 1px #bbb;
+    border-bottom: solid 1px #999;
+    border-top: solid 1px #bbb;
+    box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
   }
 }
 
@@ -250,12 +257,7 @@
   }
   .vert-line {
     border-right: none;
-    border-left: solid 1px #bbb;
-    border-right: solid 1px #bbb;
-    border-bottom: solid 1px #999;
-    border-top: solid 1px #bbb;
-    box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
-}
+    }
 }
 
 .anchor {
