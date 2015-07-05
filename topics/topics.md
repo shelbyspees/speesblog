@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Topics
-group: navigation
+title: topics
 permalink: /topics/
 ---
 {% include JB/setup %}

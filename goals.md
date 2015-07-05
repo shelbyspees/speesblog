@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Goals
+title: goals
+permalink: /goals/
 ---
 
 <aside>
