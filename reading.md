@@ -10,7 +10,7 @@ permalink: /reading/
 <ul class="aside-list">
     <li><a href="#top">Semi-Technical Reads</a></li>
     <li><a href="#career">Working in Software</a></li>
-    <li><a href="#psych">Self-Improvement and Social Psychology</a></li>
+        <li><a href="#psych">Brains and People</a></li>
     <li><a href="#health">Health and Fitness</a></li>
 </ul>
 </aside>
@@ -26,7 +26,7 @@ permalink: /reading/
             <img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
         </div>
         <a href="{{ book.link }}"><b>{{ book.title }}</b></a>
-        {% if book.author %}<br>by {{ book.author }}{% endif %}
+        {% if book.author %}<br>{{ book.author }}{% endif %}
         <br>{{ book.status }}
         {% if book.description %}<br><br>{{ book.description }}{% endif %}
     </div>
@@ -56,7 +56,7 @@ permalink: /reading/
             <img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
         </div>
         <a href="{{ book.link }}"><b>{{ book.title }}</b></a>
-        {% if book.author %}<br>by {{ book.author }}{% endif %}
+        {% if book.author %}<br>{{ book.author }}{% endif %}
         <br>{{ book.status }}
         {% if book.description %}<br><br>{{ book.description }}{% endif %}
     </div>
@@ -86,7 +86,7 @@ permalink: /reading/
             <img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
         </div>
         <a href="{{ book.link }}"><b>{{ book.title }}</b></a>
-        {% if book.author %}<br>by {{ book.author }}{% endif %}
+        {% if book.author %}<br>{{ book.author }}{% endif %}
         <br>{{ book.status }}
         {% if book.description %}<br><br>{{ book.description }}{% endif %}
     </div>
