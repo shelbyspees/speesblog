@@ -10,7 +10,7 @@ If only I had felt this way back in 11th grade AP English Language. Would have s
 
 I have a huge long list of books I've read that I'm halfway through marking up and outlining review posts for. [You should see my Evernote.]({{ site.url }}{% post_url 2015-04-02-ignorance %})
 
-Ideally I'd write a summary/review post for each book on my [reading page](), but I'm not sure it'd be worth the time investment. I've already taken a bit of a hiatus from this blog because all the reading and analyzing started to feel like work on top of the actual work I need to get done.
+Ideally I'd write a summary/review post for each book on my [reading page]({{ site.url }}/reading), but I'm not sure it'd be worth the time investment. I've already taken a bit of a hiatus from this blog because all the reading and analyzing started to feel like work on top of the actual work I need to get done.
 
 I definitely feel like I want to document my learning process for each new topic I discover. Easier said than done. I'm in the middle of that with my recent (and unfinished as of this writing) ANTLR 4 walkthrough. As usual, I'm a starter but nowhere near a finisher.
 
