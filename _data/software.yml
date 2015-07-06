@@ -4,7 +4,7 @@
   image: /assets/facts-and-fallacies.jpg
   description: >
     This old-school classic really hits the nail on the head with its fifty-five facts and ten fallacies. Book review coming soon.
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
 
 - title: Code Complete, 2nd Ed.
   author: Steve McConnell

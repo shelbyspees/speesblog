@@ -72,9 +72,8 @@
   author: Katty Kay and Claire Shipman
   link: "http://smile.amazon.com/gp/product/B00DB368AY/ref=kinw_myk_ro_title"
   image: /assets/theconfidencecode.jpg
-  description: >
-    I thought this book would annoy me but I actually can't put it down. I'll probably finish it in less than two days.
-  status: <i class="fa fa-refresh"></i> In Progress
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
 
 - title: "How Remarkable Women Lead"
   author: Joanna Barsh, Susie Cranston, and Geoffrey Lewis
@@ -90,7 +89,7 @@
   image: /assets/knowingyourvalue.jpg
   description: >
     Definitely recommend the audiobook version. Book review coming soon.
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
 
 - title: "59 Seconds: Think a Little, Change a Lot"
   author: Richard Wiseman
@@ -134,8 +133,48 @@
   link: "http://www.amazon.com/Leadership-Challenge-Extraordinary-Things-Organizations-ebook/dp/B008DM2MK8/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1432163188"
   image: /assets/theleadershipchallenge.jpg
   description: >
-    I read this book for the intro to leadership class back at UCSB. Now I'm trying to filter out the nuggets of advice so I can connect them to other books I read.
+    I read this book for the intro to leadership class back at UCSB. Now I'm trying to filter out the nuggets of advice so I can connect them to other books I've read.
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+
+- title: "Making a Good Brain Great: The Amen Clinic Program"
+  author: "Daniel G. Amen"
+  link: "http://www.audible.com/pd/K-12-Educators/Making-a-Good-Brain-Great-Audiobook/B002V0KBG0"
+  image: /assets/makingagoodbrain.jpg
+  description: >
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It"
+  author: "Kelly McGonigal"
+  link: "http://www.audible.com/pd/Self-Development/The-Upside-of-Stress-Audiobook/B00UXU79J2"
+  image: /assets/upsideofstress.jpg
+  description: >
   status: <i class="fa fa-refresh"></i> In Progress
 
+- title: "The Addictive Brain"
+  author: "The Great Courses"
+  link: "http://www.audible.com/pd/Science-Technology/The-Addictive-Brain-Audiobook/B00TKLXYBW"
+  image: /assets/theaddictivebrain.jpg
+  description: >
+  status: <i class="fa fa-refresh"></i> In Progress
 
+- title: "Modern Romance: An Investigation"
+  author: "Aziz Ansari & Eric Klinenberg"
+  link: "http://www.audible.com/pd/Nonfiction/Modern-Romance-Audiobook/B00UKEQK82"
+  image: /assets/modernromance.jpg
+  description: >
+  status: <i class="fa fa-refresh"></i> In Progress
 
+- title: "Your Best Brain: The Science of Brain Improvement"
+  author: "The Great Courses"
+  link: "http://www.audible.com/pd/Science-Technology/Your-Best-Brain-The-Science-of-Brain-Improvement-Audiobook/B00P026HF0"
+  image: /assets/yourbestbrain.jpg
+  description: >
+  status: <i class="fa fa-refresh"></i> In Progress
+
+- title: "On Writing: A Memoir of the Craft"
+  author: "Stephen King"
+  link: "http://www.audible.com/pd/Bios-Memoirs/On-Writing-Audiobook/B002V1A0WE"
+  image: /assets/onwriting.jpg
+  description: >
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>

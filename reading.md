@@ -45,7 +45,7 @@ permalink: /reading/
     <ul class="aside-list">
         <li><a href="#top">Semi-Technical Reads</a></li>
         <li><a href="#career">Working in Software</a></li>
-        <li><a href="#psych">Self-Improvement and Social Psychology</a></li>
+        <li><a href="#psych">Brains and People</a></li>
         <li><a href="#health">Health and Fitness</a></li>
     </ul>
     </aside>
@@ -68,14 +68,14 @@ permalink: /reading/
 
 
 <div class="reading-container">
-    <h2 id="psych" class="anchor">Self-Improvement and Social Psychology</h2>
+    <h2 id="psych" class="anchor">Brains and People</h2>
 
     <aside>
     <b>Book Categories:</b>
     <ul class="aside-list">
         <li><a href="#top">Semi-Technical Reads</a></li>
         <li><a href="#career">Working in Software</a></li>
-        <li><a href="#psych">Self-Improvement and Social Psychology</a></li>
+        <li><a href="#psych">Brains and People</a></li>
         <li><a href="#health">Health and Fitness</a></li>
     </ul>
     </aside>
@@ -104,7 +104,7 @@ permalink: /reading/
     <ul class="aside-list">
         <li><a href="#top">Semi-Technical Reads</a></li>
         <li><a href="#career">Working in Software</a></li>
-        <li><a href="#psych">Self-Improvement and Social Psychology</a></li>
+        <li><a href="#psych">Brains and People</a></li>
         <li><a href="#health">Health and Fitness</a></li>
     </ul>
     </aside>
