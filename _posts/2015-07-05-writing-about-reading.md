@@ -14,4 +14,12 @@ I have a huge long list of books I've read that I'm halfway through marking up a
 
 Also, fun news! I updated the styling on my blog. It used to look like this:
 
+<aside>Hooray for <code>git checkout</code> for letting me go back and take a screenshot without undoing all my changes. Version control saves the day again!</aside>
+
+<img class="wide" src="{{ site.url }}/assets/files/oldcss.png"/>
+
+And now it looks like this:
+
+<img class="wide" src="{{ site.url }}/assets/files/newcss.png"/>
+
 
