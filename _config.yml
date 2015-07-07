@@ -11,12 +11,10 @@ links:
     url:          /
   - name:         about
     url:          /about
-  - name:         topics
-    url:          /topics
   - name:         reading
     url:          /reading
   - name:         portfolio
-    url:          http://shelbyspees/me
+    url:          http://shelbyspees.me
     external:     true
 highlighter:      pygments
 permalink:        pretty
@@ -24,3 +22,17 @@ markdown:         redcarpet
 redcarpet:
   extensions:
     - smart
+
+social:
+  - name:         twitter
+    url:          https://twitter.com/speesbag/
+    icon:         <i class="fa fa-twitter-square fa-lg"></i>
+    external:     true
+  - name:         instagram
+    url:          https://instagram.com/speesbag/
+    icon:         <i class="fa fa-instagram fa-lg"></i>
+    external:     true
+  - name:         github
+    url:          https://github.com/shelbyspees
+    icon:         <i class="fa fa-github-square fa-lg"></i>
+    external:     true

@@ -1,5 +1,9 @@
 <footer>
   <br />
   <br />
-  <img src="/images/scribble2.png" alt="scribble" /> 
+<div class="block">
+  {% for link in site.social %}
+    <a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">{{ link.icon }}</a>
+  {% endfor %}
+</div>
 </footer>
