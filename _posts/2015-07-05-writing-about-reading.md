@@ -21,6 +21,8 @@ But it's so much easier to write about writing. Meta-writing. Woah, that echoes 
 
 The refreshing thing about fiction is that there is no research, at least not at this stage. It's all in my head. My job is to unbury the story living in my mind and transfer it to the page as accurately as possible. Since it's just me and my blank text editor, I don't have to worry about getting distracted by the black hole of knowledge that is Wikipedia or any half-finished writing in Evernote calling my name.
 
+
+
 ---
 
 Also, fun news! I updated the styling on this blog. It used to look like this:
