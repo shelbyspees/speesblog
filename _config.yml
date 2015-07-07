@@ -1,5 +1,5 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
+title:            speesblog
+description:      my external brain.
 url:              # Site url.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -7,16 +7,16 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         About
+  - name:         home
+    url:          /
+  - name:         about
     url:          /about
-  - name:         Blog
-    url:          http://muan.co
-    external:     true
-  - name:         Email
-    url:          mailto:hello@muan.co
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/muan
+  - name:         topics
+    url:          /topics
+  - name:         reading
+    url:          /reading
+  - name:         portfolio
+    url:          http://shelbyspees/me
     external:     true
 highlighter:      pygments
 permalink:        pretty

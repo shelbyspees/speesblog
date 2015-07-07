@@ -23,7 +23,7 @@ permalink: /reading/
     {% for book in site.data.tech %}
     <div class="reading">
         <div class="reading-img">
-            <img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
+            <img class="book-cover" src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
         </div>
         <a href="{{ book.link }}"><b>{{ book.title }}</b></a>
         {% if book.author %}<br>{{ book.author }}{% endif %}
@@ -53,7 +53,7 @@ permalink: /reading/
     {% for book in site.data.software %}
     <div class="reading">
         <div class="reading-img">
-            <img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
+            <img class="book-cover" src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
         </div>
         <a href="{{ book.link }}"><b>{{ book.title }}</b></a>
         {% if book.author %}<br>{{ book.author }}{% endif %}
@@ -83,7 +83,7 @@ permalink: /reading/
     {% for book in site.data.psych %}
     <div class="reading">
         <div class="reading-img">
-            <img src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
+            <img class="book-cover" src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
         </div>
         <a href="{{ book.link }}"><b>{{ book.title }}</b></a>
         {% if book.author %}<br>{{ book.author }}{% endif %}
