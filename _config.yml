@@ -9,7 +9,6 @@ url:              http://shelbyspees.me/speesblog
 BASE_PATH: http://shelbyspees.me/speesblog
 baseurl: http://shelbyspees.me/speesblog
 
-
 links:
   - name:         home
     url:          /
