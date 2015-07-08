@@ -6,11 +6,7 @@ url:              http://shelbyspees.me/speesblog/
 # facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 # google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
-BASE_PATH: http://shelbyspees.me/speesblog
-host: http://shelbyspees.me
 baseurl: /speesblog
-
-servname: localhost:4000
 
 links:
   - name:         blog
