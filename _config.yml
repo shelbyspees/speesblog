@@ -11,11 +11,11 @@ baseurl: http://shelbyspees.me/speesblog
 
 links:
   - name:         home
-    url:          /
+    url:          {{ site.url }}/
   - name:         about
-    url:          /about
+    url:          {{ site.url }}{{ site.url }}/about
   - name:         reading
-    url:          /reading
+    url:          {{ site.url }}/reading
   - name:         portfolio
     url:          http://shelbyspees.me
     external:     true
