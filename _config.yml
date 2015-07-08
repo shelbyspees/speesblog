@@ -7,15 +7,16 @@ url:              http://shelbyspees.me/speesblog
 # google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 BASE_PATH: http://shelbyspees.me/speesblog
-baseurl: http://shelbyspees.me/speesblog
+host: http://shelbyspees.me
+baseurl: /speesblog
 
 links:
   - name:         home
-    url:          {{ site.url }}/
+    url:          /
   - name:         about
-    url:          {{ site.url }}{{ site.url }}/about
+    url:          /about
   - name:         reading
-    url:          {{ site.url }}/reading
+    url:          /reading
   - name:         portfolio
     url:          http://shelbyspees.me
     external:     true
