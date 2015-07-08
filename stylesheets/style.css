@@ -326,6 +326,10 @@ section.post, section > p {
   section.post li p, section > p li p {
     margin-bottom: 5px; }
 
+table {
+  font-size: 14px;
+}
+
 .highlight {
   margin: 0;
   padding: 0; }
