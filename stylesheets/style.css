@@ -20,9 +20,14 @@ img {
   border: none; }
 
 #go-back-home {
-  margin: 40px 0 0; }
+  margin: 40px 0 0;
+  }
   #go-back-home:hover {
     background-image: none; }
+
+#home-img {
+  border-radius: 7px;
+}
 
 .capitalize {
   text-transform: capitalize; }

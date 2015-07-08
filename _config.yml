@@ -21,7 +21,6 @@ links:
     url:          /speesblog/reading
   - name:         portfolio
     url:          http://shelbyspees.me
-    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
