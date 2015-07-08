@@ -1,6 +1,6 @@
 title:            speesblog
 description:      my external brain.
-url:              http://shelbyspees.me/speesblog
+url:              http://shelbyspees.me/speesblog/
 # signoff:          # Your name.
 # disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 # facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -8,15 +8,17 @@ url:              http://shelbyspees.me/speesblog
 
 BASE_PATH: http://shelbyspees.me/speesblog
 host: http://shelbyspees.me
-baseurl: /speesblog
+baseurl: http://localhost:4000
+
+servname: localhost:4000
 
 links:
-  - name:         home
-    url:          /
+  - name:         blog
+    url:          /speesblog
   - name:         about
-    url:          /about
+    url:          /speesblog/about
   - name:         reading
-    url:          /reading
+    url:          /speesblog/reading
   - name:         portfolio
     url:          http://shelbyspees.me
     external:     true
