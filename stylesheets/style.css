@@ -19,7 +19,7 @@ body {
 img {
   border: none; }
 
-img.book-cover {
+.book-cover {
   display: block;
   width: 200px;
   margin-left: 0;
