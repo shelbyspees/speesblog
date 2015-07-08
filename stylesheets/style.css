@@ -19,7 +19,7 @@ body {
 img {
   border: none; }
 
-img.book-cover {
+.book-cover {
   max-width: 200px;
 }
 
