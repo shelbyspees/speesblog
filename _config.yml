@@ -6,6 +6,8 @@ url:              http://shelbyspees.me/speesblog
 # facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 # google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
+BASE_PATH : http://shelbyspees.me/speesblog
+
 links:
   - name:         home
     url:          /
