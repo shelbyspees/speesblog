@@ -19,7 +19,7 @@ links:
     url:          http://shelbyspees.me
 highlighter:      pygments
 permalink:        pretty
-markdown:         redcarpet
+markdown:         kramdown
 redcarpet:
   extensions:
     - smart
