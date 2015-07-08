@@ -8,7 +8,7 @@ url:              http://shelbyspees.me/speesblog/
 
 BASE_PATH: http://shelbyspees.me/speesblog
 host: http://shelbyspees.me
-baseurl: http://localhost:4000
+baseurl: /speesblog
 
 servname: localhost:4000
 
