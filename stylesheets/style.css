@@ -23,7 +23,9 @@ img {
   display: block;
   width: 200px;
   margin-left: 0;
-  margin-right: auto;
+  margin-right: 15px;
+  margin-bottom: 30px;
+  float: left;
 }
 
 #go-back-home {
@@ -165,7 +167,6 @@ a, .as-link {
   text-decoration: none;
   color: #229099;
   line-height: 1.4em;
-  display: inline-block;
   vertical-align: baseline;
   zoom: 1;
   *display: inline;
@@ -379,3 +380,11 @@ img {
   margin-left: -340px; }
 .paging .right {
   margin-left: 320px; }
+
+div {
+
+}
+
+.reading {
+  display: inline-block;
+}
