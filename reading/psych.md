@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Semi-Technical Reads"
-permalink: /speesblog/reading/tech/
+title: "Brains and People"
+permalink: /speesblog/reading/psych/
 ---
 
 <div class="reading-container">
-{% for book in site.data.tech %}
+{% for book in site.data.psych %}
 <div class="reading">
     <div class="reading-img">
         <img class="book-cover" src="{{ site.url }}{{ book.image }}" alt="{{ book.title }}"/>
