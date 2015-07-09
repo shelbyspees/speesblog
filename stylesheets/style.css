@@ -16,6 +16,14 @@ body {
   body, body * {
     -webkit-font-smoothing: antialiased; }
 
+aside {
+  background-color: #f9f9f9;
+  font-size: 12px;
+  font-style: italic;
+  color: rgba(34, 144, 153, 0.7);
+  padding: 1px 60px;
+}
+
 img {
   border: none; }
 
