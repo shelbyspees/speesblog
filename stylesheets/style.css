@@ -163,7 +163,7 @@ footer {
 
 a, .as-link {
   text-decoration: none;
-  color: #269;
+  color: #229099;
   line-height: 1.4em;
   display: inline-block;
   vertical-align: baseline;
@@ -176,7 +176,6 @@ a, .as-link {
   -o-transition: color 0.3s;
   transition: color 0.3s; }
   a.main, a:hover, .as-link.main, .as-link:hover {
-    color: #1d5884;
     background-image: url(/images/line.png);
     background-repeat: repeat-x;
     background-position: left bottom; }
