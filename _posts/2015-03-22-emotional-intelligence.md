@@ -12,11 +12,11 @@ Here are some quotes from the book and I don't know, some comments I wrote surro
 
 ---
 
->IQ takes second position to emotional intelligence in determining outstanding job performance.
+><i class="fa fa-quote-left"></i> IQ takes second position to emotional intelligence in determining outstanding job performance. <i class="fa fa-quote-right"></i>
 
 This is especially true in intellectually-challenging fields. Anyone in these fields has already passed the IQ filter. What separates the mediocre workers from the outstanding ones in these fields is their emotional intelligence.
 
->This emotional part of the brain, neuroscience tells us, learns differently from the thinking brain.
+><i class="fa fa-quote-left"></i> This emotional part of the brain, neuroscience tells us, learns differently from the thinking brain. <i class="fa fa-quote-right"></i>
 
 By know we've heard how the prefrontal cortex and the amygdala work together to balance our instincts with rational thought. Both are equally important. The amygdala gives us pleasure and pain. The prefrontal cortex gives us long-term planning and higher-level decision making.
 
@@ -24,23 +24,23 @@ I won't pretend to know how the different parts of the brain interact, but we do
 
 Recent research has also shown that learning continues throughout adulthood and there is no major cut-off point where the brain stops making new neural connections. 
 
->...looking at the overall ratings for men and women, the strengths and weaknesses average out, so that in terms of total emotional intelligence, there are no sex differences.
+><i class="fa fa-quote-left"></i> ...looking at the overall ratings for men and women, the strengths and weaknesses average out, so that in terms of total emotional intelligence, there are no sex differences. <i class="fa fa-quote-right"></i>
 
 While men tend to be more confident and women tend to be more empathetic on average, we are more alike than we are different. All of these emotional competencies can be learned, and it's probably true that any existing gender differences were learned in the first place.
 
->Unlike IQ, which changes little after our teen years, emotional intelligence seems to be largely learned, and it continues to develop as we go through life and learn from our experiences--our competence in it can keep growing. . . . There is an old-fashioned word for this growth in emotional intelligence: maturity.
+><i class="fa fa-quote-left"></i> Unlike IQ, which changes little after our teen years, emotional intelligence seems to be largely learned, and it continues to develop as we go through life and learn from our experiences--our competence in it can keep growing. . . . There is an old-fashioned word for this growth in emotional intelligence: maturity. <i class="fa fa-quote-right"></i>
 
->More and more employers are complaining about the lack of social skills in new hires.
+><i class="fa fa-quote-left"></i> More and more employers are complaining about the lack of social skills in new hires. <i class="fa fa-quote-right"></i>
 
 Every employer I've come across has complained about how it's impossible to find good people. Usually those good people who do come around end up leaving sooner than the bad people, because they have access to more opportunities.
 
->In a national survey of what employers are looking for in entry-level workers, specific technical skills are now less important than the underlying ability to learn on the job. After that, employers listed:
+><i class="fa fa-quote-left"></i> In a national survey of what employers are looking for in entry-level workers, specific technical skills are now less important than the underlying ability to learn on the job. After that, employers listed:
 >
 >- Listening and oral communication
 >- Adaptability and creative responses to setbacks and obstacles
 >- Personal management, confidence, motivation to work toward goals, a sense of wanting to develop one's career and take pride in accomplishments
 >- Group and interpersonal effectiveness, cooperativeness and teamwork, skills at negotiating disagreements
->- Effectiveness in the organization, wanting to make a contribution, leadership potential
+>- Effectiveness in the organization, wanting to make a contribution, leadership potential <i class="fa fa-quote-right"></i>
 
 To summarize what employers are looking for in entry-level employers:
 

@@ -6,7 +6,7 @@ category: musings
 
 I wonder if my response to this question would fly in an interview.
 
->What is the best decision you ever made? How did you make it?
+><i class="fa fa-quote-left"></i> What is the best decision you ever made? How did you make it? <i class="fa fa-quote-right"></i>
 
 Cutting my hair short has been the best single decision I ever made. Anyone who knows me has heard it a dozen times. Better than going to college, better than picking up the violin, better than learning French or Japanese--mostly because those were less decisions and more opportunities. But cutting my hair, that was a decision. Such a stupid change, but it's had such a huge impact on my confidence. 
 

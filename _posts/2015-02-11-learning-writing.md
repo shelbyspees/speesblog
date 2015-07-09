@@ -23,6 +23,6 @@ The second was Tumblr, I guess. I'm not sure if I used Wordpress or Tumblr first
 
 <s>This blog is my favorite so far. I like being able to make new posts from Evernote, and format using Markdown. It's so simple and effortless. Postach.io should be thanking me for how much I recommend it to my friends. Thanking me monetarily.</s>
 
--->Update: Recently migrated to [Github Pages](https://pages.github.com/) using [Jekyll](http://jekyllrb.com/). It's great.
+<i class="fa fa-long-arrow-right"></i> Update: Recently migrated to [Github Pages](https://pages.github.com/) using [Jekyll](http://jekyllrb.com/). It's great.
 
 This blog really is just a place for my thoughts. I don't pretend that anyone will ever read it.

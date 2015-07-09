@@ -8,7 +8,7 @@ I'm reading [<i class="fa fa-book"></i> *Apprenticeship Patterns*](http://chimer
 
 In chapter 3, ["The Long Road,"](http://chimera.labs.oreilly.com/books/1234000001813/ch03.html#the_long_road) there's a great quote about embracing the journey to build that knowledge:
 
-><i class="fa fa-quote-left"></i> For every step you take toward mastery, your destination moves two steps further away. Embrace mastery as a lifelong endeavor. Learn to love the journey.  
+><i class="fa fa-quote-left"></i> For every step you take toward mastery, your destination moves two steps further away. Embrace mastery as a lifelong endeavor. Learn to love the journey. <i class="fa fa-quote-right"></i> 
 >  
 >--- <cite>George Leonard, <a href="http://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560"><i class="fa fa-book"></i> Mastery</a></cite>
 
@@ -24,7 +24,7 @@ Don't let your confidence depend on feeling smart. Your confidence should be fue
 
 As you get comfortable with not knowing, you'll find yourself getting better at asking [<i class="fa fa-list-alt"></i> smart questions](http://www.catb.org/esr/faqs/smart-questions.html). Actually, the real experts [<i class="fa fa-list-alt"></i> ask the most questions](http://blog.codinghorror.com/are-you-an-expert/):
 
->Being an expert isn't telling other people what you know. It's understanding what questions to ask, and flexibly applying your knowledge to the specific situation at hand. Being an expert means providing sensible, highly contextual direction.
+><i class="fa fa-quote-left"></i> Being an expert isn't telling other people what you know. It's understanding what questions to ask, and flexibly applying your knowledge to the specific situation at hand. Being an expert means providing sensible, highly contextual direction. <i class="fa fa-quote-right"></i>
 
 In that last post I just linked from Coding Horror, Jeff quotes James Bach's Google presentation on becoming a software testing expert. James phrases it like this:
 

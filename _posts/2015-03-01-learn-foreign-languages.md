@@ -26,5 +26,6 @@ Beyond communication with machine, self, and peers, a project has many stakehold
 If you talk to accountants, you need a basic knowledge of cost-center accounting, of tied capital, capital employed, et al. If you talk to marketing or lawyers, some of their jargon and language (and thus, their minds) should be familiar to you. <mark>All these domain-specific languages need to be mastered by someone in the project — ideally the programmers.</mark> Programmers are ultimately responsible for bringing the ideas to life via a computer.
 And, of course, life is more than software projects. As noted by [Charlemagne](http://en.wikipedia.org/wiki/Charlemagne), to know another language is to have another soul. For your contacts beyond the software industry, you will appreciate knowing foreign languages. To know when to listen rather than talk. To know that most language is without words.
 
->Whereof one cannot speak, thereof one must be silent.  
->-- Ludwig Wittgenstein
+><i class="fa fa-quote-left"></i> Whereof one cannot speak, thereof one must be silent. <i class="fa fa-quote-right"></i>
+>
+>--- Ludwig Wittgenstein

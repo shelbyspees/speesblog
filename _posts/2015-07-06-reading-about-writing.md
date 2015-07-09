@@ -9,3 +9,5 @@ I just finished listening to [Stephen King's *On Writing*](http://www.audible.co
 <img class="center" src="{{ site.url }}/assets/onwriting.jpg"/>
 
 I'll try to do all of them justice.
+
+*In progress.*

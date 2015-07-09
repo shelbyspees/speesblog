@@ -8,7 +8,7 @@ I would argue that diversity is inherently good. When a person is exposed to ide
 
 Every culture, every community has positive traits. Lessons learned from going through life in particular circumstances have built unique assumptions and values. A kind of scar tissue, to reference Jason Fried:
 
-<blockquote class="twitter-tweet" lang="en"><p>Policies are organizational scar tissue. They are codiﬁed overreactions to unlikely-to-happen-again situations.</p>&mdash; Jason Fried (@jasonfried) <a href="https://twitter.com/jasonfried/status/2758624714">July 21, 2009</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>Policies are organizational scar tissue. They are codiﬁed overreactions to unlikely-to-happen-again situations.</p>&mdash; Jason Fried (@jasonfried) <a href="https://twitter.com/jasonfried/status/2758624714">July 21, 2009 <i class="fa fa-twitter"></i></a></blockquote>
 
 Here Jason is specifically referring to unnecessary corporate policies, but this idea of scar tissue can apply to plenty of situations.
 

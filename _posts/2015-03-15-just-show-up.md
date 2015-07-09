@@ -8,9 +8,9 @@ category: mindfulness
 
 I love his podcast, and his blog is great for going back and reviewing what he discusses in the episodes. After rereading the post I decided it would be good to expand on his point with examples from my own experience.
 
->Depressed agents are different in important ways. We understand that their self-regulation is undermined somehow, their practical reasoning impaired, perhaps. Depression complicates our consideration of procrastination or weak-willed action. It's not only or "just" about putting one foot in front of the other.
+><i class="fa fa-quote-left"></i> Depressed agents are different in important ways. We understand that their self-regulation is undermined somehow, their practical reasoning impaired, perhaps. Depression complicates our consideration of procrastination or weak-willed action. It's not only or "just" about putting one foot in front of the other. <i class="fa fa-quote-right"></i>
 
->The thing is, a focus on simple self-regulation skills can help. The research indicates this important relation. . . . Little self-control “wins” around intentional action fuel us. It is truly “one foot in front of the other.” Just showing up.
+><i class="fa fa-quote-left"></i> The thing is, a focus on simple self-regulation skills can help. The research indicates this important relation. . . . Little self-control “wins” around intentional action fuel us. It is truly “one foot in front of the other.” Just showing up. <i class="fa fa-quote-right"></i>
 
 Seems pretty obvious. I've known this the entire past two months when my depression was threatening to come back in full force. And yet I completely disregarded it.
 
