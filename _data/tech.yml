@@ -27,14 +27,14 @@
   description: >
   status: <i class="fa fa-refresh"></i> In Progress
 
-- title: Ruby on Rails Tutorial
+- title: "Ruby on Rails Tutorial"
   author: Michael Hartl
   link: "https://www.railstutorial.org/book"
   image: /assets/ruby_on_rails_tutorial.png
   description: >
   status: <i class="fa fa-pause"></i> Paused
 
-- title: Code
+- title: "Code"
   author: Charles Petzold
   link: "http://smile.amazon.com/Code-Developer-Practices-Charles-Petzold-ebook/dp/B00JDMPOK2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1423800084&sr=1-1&keywords=code"
   image: /assets/code.jpg
@@ -48,21 +48,21 @@
   description: >
   status: <i class="fa fa-refresh"></i> In Progress
 
-- title: Introduction to Algorithms, 3rd Ed.
+- title: "Introduction to Algorithms, 3rd Ed."
   author: "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein"
   link: "http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1424666330&sr=8-1&keywords=intro+to+algorithms"
   image: /assets/algorithms.jpg
   description: >
   status: <i class="fa fa-refresh"></i> In Progress
 
-- title: The Algorithm Design Manual
+- title: "The Algorithm Design Manual"
   author: Steven S. Skiena
   link: "http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena-ebook/dp/B00B8139Z8/ref=sr_1_1_twi_2_kin?ie=UTF8&qid=1427655079&sr=8-1&keywords=the+algorithm+design+manual"
   image: /assets/algo-design.jpg
   description: >
   status: <i class="fa fa-pause"></i> Paused
 
-- title: Pro Git
+- title: "Pro Git"
   author: Scott Chacon and Ben Straub
   link: "http://git-scm.com/book/en/v2"
   image: /assets/progit.png
