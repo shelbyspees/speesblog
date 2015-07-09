@@ -19,6 +19,17 @@ body {
 img {
   border: none; }
 
+#go-back-home {
+  margin: 40px 0 0;
+  display: inline-block;
+  }
+  #go-back-home:hover {
+    background-image: none; }
+
+#home-img {
+  border-radius: 7px;
+}
+
 .book-cover {
   display: block;
   width: 200px;
@@ -26,16 +37,6 @@ img {
   margin-right: 15px;
   margin-bottom: 30px;
   float: left;
-}
-
-#go-back-home {
-  margin: 40px 0 0;
-  }
-  #go-back-home:hover {
-    background-image: none; }
-
-#home-img {
-  border-radius: 7px;
 }
 
 .capitalize {
