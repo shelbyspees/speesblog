@@ -27,6 +27,12 @@ aside {
 img {
   border: none; }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #go-back-home {
   margin: 40px 0 0;
   display: inline-block;
