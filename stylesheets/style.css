@@ -280,6 +280,8 @@ section.post {
   padding: 0; }
   section.post > * {
     padding: 0 60px; }
+  section.post > h1, h2, h3, h4, h5, h6, hr {
+    padding-top: 30px; }
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
     margin-left: 20px;
     padding: 0; }
@@ -305,6 +307,12 @@ section.post, section > p {
   line-height: 1.6em; }
   section.post *, section > p * {
     max-width: 100%; }
+
+  section.post h1, section.post h2, section.post hr {
+    padding-top: 30px; }
+  section > p h1, section > p h2, section > p hr {
+    padding-top: 30px; }
+
   section.post em strong, section > p em strong {
     background-color: #ffffee;
     padding: 0 2px; }
@@ -408,4 +416,8 @@ div {
 .reading {
   display: inline-block;
   width: 100%
+}
+
+.fa-quote-left, .fa-quote-right {
+  color: lightgray;
 }
