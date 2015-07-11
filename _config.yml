@@ -10,7 +10,7 @@ baseurl: /speesblog
 
 links:
   - name:         blog
-    url:          /speesblog
+    url:          /speesblog/
   - name:         about
     url:          /speesblog/about
   - name:         reading
