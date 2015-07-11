@@ -8,6 +8,8 @@ I just finished listening to Stephen King's On Writing and there are some killer
 
 <img class="center" src="{{ site.url }}/assets/onwriting.jpg"/>
 
+---
+
 #C.V.
 
 I don't want to dwell on the details of Stephen King's life. I wouldn't do him justice. You have to pay for the book and read it yourself. It's a hell of a story.
@@ -15,6 +17,8 @@ I don't want to dwell on the details of Stephen King's life. I wouldn't do him j
 What stood out to me the most wasn't the inspiration or the magic that created King's novels. There wasn't a lot of magic happening. It was the pure hard work. He worked his ass off, submitting stories all through high school and college. He collected all his rejection letters and hung them from a stake on his wall. He didn't cry and give up when publishers failed to hand him a life of success on a silver platter.
 
 The story of Stephen King isn't one of creative inspiration. It's one of blood, sweat, and determination. I'm sure he had a lot of latent talent (wow that's fun to type). I'm sure he was a top-notch wordsmith from the beginning. But his success came from the work, not the talent.
+
+---
 
 #What Writing Is
 
@@ -45,6 +49,8 @@ Magic. That's a strong word. I see where King is coming from though. The feeling
 The magic King mentions is also a type of synergy. It's not a perfect example, since synergy is usually when a group of people comes together and creates a whole greater than the sum of its parts. But isn't that what a story is? Something greater than the collection of words that form it?
 
 That's why you shouldn't worry about fancy vocabulary or perfect plot. What creates the story isn't these pieces, it's the magic gluing them together.
+
+---
 
 #On Writing
 

@@ -33,6 +33,11 @@ img {
   margin-right: auto;
 }
 
+.wide {
+  display: block;
+  width: 100%;
+}
+
 #go-back-home {
   margin: 40px 0 0;
   display: inline-block;
