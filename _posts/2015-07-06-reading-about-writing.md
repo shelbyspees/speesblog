@@ -32,7 +32,7 @@ One of King's main pieces of advice to aspiring writers is to use the tools at t
 
 You're not going to write a convincing story if you swap out half of your words with thesaurus equivalents. The words you find at Thesaurus.com aren't the words your brain is giving you---and I say that as someone who routinely uses a thesaurus to remember simple vocabulary during those tip-of-the-tongue moments that are hourly occurrences in my world.
 
-King argues that stories aren't something writers make up. The story already exists in its entirety deep in the writer's mind. The writer's job is to uncover this story--excavate it with the tools in his toolbox. Stay true to the story: you can't force it on the page with flowery language or cliché plot devices. The process is more like transcription. 
+King argues that stories aren't something writers make up. The story already exists in its entirety deep in the writer's mind. The writer's job is to uncover this story---excavate it with the tools in his toolbox. Stay true to the story: you can't force it on the page with flowery language or cliché plot devices. The process is more like transcription. 
 
 Here King advises writers to use the words as they arrive in their minds:
 

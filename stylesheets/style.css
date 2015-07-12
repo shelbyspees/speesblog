@@ -336,19 +336,6 @@ section.post, section > p {
       left: -3px; }
     section.post blockquote:after, section > p blockquote:after {
       right: -2px; }
-    section.post blockquote:before, section.post blockquote:after, section > p blockquote:before, section > p blockquote:after {
-      content: "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^";
-      font-size: 24px;
-      overflow: hidden;
-      position: absolute;
-      top: 0px;
-      bottom: 0px;
-      line-height: 0.4em;
-      word-break: break-all;
-      color: #d0dfda;
-      display: block;
-      width: 7px !important;
-      white-space: normal; }
   section.post li .highlight, section > p li .highlight {
     padding: 0 10px; }
   section.post li p, section > p li p {
