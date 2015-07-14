@@ -8,11 +8,11 @@ Today I finished [<i class="fa fa-book"></i> *Solving the Procrastination Puzzle
 
 It's a short listen/read but Pychyl does a great job of packing these condensed bits of information so you can use them right away. As a fan of his [podcast]() I know he's done his research, but Pychyl knows his audience. He didn't mess around. He wants you to **just get started.**
 
-<h2 class="anchor" id="title">Solving The Procrastination Puzzle</h2>
+#Solving The Procrastination Puzzle
 
-###<i class="fa fa-star"></i> All procrastination is delay, but not all delay is procrastination.
+##<i class="fa fa-star"></i> All procrastination is delay,<br>but not all delay is procrastination.
 
-<i class="fa fa-long-arrow-right"></i> Procrastination is *needless voluntary delay*
+Procrastination is *needless voluntary delay*.
 
 | Task | Feeling |
 | :--- | :--- |
@@ -22,24 +22,52 @@ It's a short listen/read but Pychyl does a great job of packing these condensed 
 
 <br>
 
-###<i class="fa fa-star"></i> Procrastination is failing to get on with life itself.
+##<i class="fa fa-star"></i> Procrastination is failing to get on<br>with life itself.
 
-<i class="fa fa-long-arrow-right"></i> People who score high in self-reports of procrastination also self-report lower achievement overall, more negative feelings, and even significantly more health problems.
+People who score high in self-reports of procrastination also self-report lower achievement overall, more negative feelings, and even significantly more health problems.
 
-<i class="fa fa-long-arrow-right"></i> When we procrastinate on our goals, we are our own worst enemy. We only have a finite amount of time to live.
+When we procrastinate on our goals, we are our own worst enemy. We only have a finite amount of time to live.
 
-| Task | Costs of Procrastination | Benefits of Timely Action |
-| :--- | :--- | :--- |
-| reading for school | - less likely to complete reading<br> - less prepared for exams<br> - lowered self-respect<br> - less prepared for career<br> - STRESS | - more likely to complete reading<br> - more knowledgeable<br> - improved ability to parse technical writing<br> - pride<br> - plants seeds for future ideas |
-| job applications | - STRESS<br> - less likely to get job<br> - possibly spend summer doing nothing<br> - resume stays empty | - worst case: they say no<br> - potentially find great opportunity, leading to knowledge, skills, resume, career advancement<br> - practice interviewing | 
+###Task: reading for school
+
+Costs of procrastination:
+
+- less likely to complete reading
+- less prepared for exams
+- lowered self-respect
+- less prepared for career
+- STRESS
+
+Benefits of timely action:
+
+- more likely to complete reading
+- more knowledgeable
+- improved ability to parse technical writing
+- pride
+- plants seeds for future ideas
+
+###Task: job applications
+
+Costs of procrastination:
+
+- STRESS
+- less likely to get job
+- possibly spend summer doing nothing
+- resume stays empty
+
+Benefits of timely action:
+
+- worst case: they say no
+- potentially find great opportunity, leading to knowledge, skills, resume, career advancement
+- practice interviewing
 
 <br>
 
-###<i class="fa fa-star"></i> I won't give in to feel good. Feeling good now comes at a cost.
+##<i class="fa fa-star"></i> I won't give in to feel good.<br>Feeling good now comes at a cost.
 
-<i class="fa fa-long-arrow-right"></i> We want to feel good now and we will do whatever it takes for immediate mood repair, usually at the expense of long-term goals.
+We want to feel good now and we will do whatever it takes for immediate mood repair, usually at the expense of long-term goals.
 
-<i class="fa fa-long-arrow-right"></i> *Task aversiveness:* feeling negative emotions when facing a task we intend to do but do not want to. Emotions include: 
+*Task aversiveness:* feeling negative emotions when facing a task we intend to do but do not want to. Emotions include: 
 
 - frustration
 - anger
@@ -49,7 +77,7 @@ It's a short listen/read but Pychyl does a great job of packing these condensed 
 - anxiety
 - guilt
 
-<i class="fa fa-long-arrow-right"></i> *Suck it up.* The first step at the moment of procrastination is to stay put.
+*Suck it up.* The first step at the moment of procrastination is to stay put.
 
 **IF** I feel negative emotions when I face the task at hand,<br>**THEN** I will stay put. (rather than stop, put it off, or run away)
 
@@ -57,27 +85,27 @@ The above if-then statement is called an [*implementation intention*](https://ww
 
 <br>
 
-###<i class="fa fa-star"></i> I won't feel more like doing it tomorrow.
+##<i class="fa fa-star"></i> I won't feel more like doing it tomorrow.
 
-<i class="fa fa-long-arrow-right"></i> We have a bias when we predict future mood (affective) states in relation to positive or negative events.
+We have a bias when we predict future mood (affective) states in relation to positive or negative events.
 
-<i class="fa fa-long-arrow-right"></i> *Focalism:* the tendency to underestimate the extent to which other events will influence our thoughts and feelings in the future.
+*Focalism:* the tendency to underestimate the extent to which other events will influence our thoughts and feelings in the future.
 
-<i class="fa fa-long-arrow-right"></i> *Presentism:* the tendency to put too much emphasis on the present in our prediction of the future.
+*Presentism:* the tendency to put too much emphasis on the present in our prediction of the future.
 
-<i class="fa fa-long-arrow-right"></i> We need to represent the future as though it were happening in the present. (But beware second-order procrastination, overplanning)
+We need to represent the future as though it were happening in the present. (But beware second-order procrastination, overplanning)
 
-<i class="fa fa-long-arrow-right"></i> Expect to be wrong and deal with it.
+Expect to be wrong and deal with it.
 
->My current motivational state does not need to match my intention in order to act
+><i class="fa fa-quote-left"></i> My current motivational state does not need to match my intention in order to act. <i class="fa fa-quote-right"></i>
 
-<i class="fa fa-long-arrow-right"></i> Expect that you will not feel overly enthused to get started when the time comes.
+Expect that you will not feel overly enthused to get started when the time comes.
 
 <br>
 
-###<i class="fa fa-star"></i> I need to be aware of my rationalizations.
+##<i class="fa fa-star"></i> I need to be aware of my rationalizations.
 
-<i class="fa fa-long-arrow-right"></i> Tendency to:
+Tendency to:
 
 1. discount future events in relation to short-term rewards
 2. underestimate the time things will take and overestimate how much we can do

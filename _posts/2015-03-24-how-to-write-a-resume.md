@@ -151,7 +151,7 @@ Most job-seekers make the mistake of listing the duties required of them at thei
 
 Here's the anatomy of a job description bullet:
 
-- **[Verb]-ed** -- Each line item should start with a verb in the simple past. This has the added benefit of maintaining parallelism, which is both morphologically pleasing and easier to mentally parse. Some good examples:
+- **[Verb]-ed** -- Each line item should start with an active verb in the simple past. This has the added benefit of maintaining parallelism, which is both morphologically pleasing and easier to mentally parse. Some good examples:
 	- Achieved
 	- Implemented
 	- Designed
@@ -175,6 +175,8 @@ Here's the anatomy of a job description bullet:
 	- Number of people
 	- Dollar amounts
 	- Time reduction
+
+Check out this example bullet:
 
 >- Refactored middle-tier codebase to remove repetition and redundancy, reducing average bug-fix time by 75%
 
@@ -206,7 +208,7 @@ Here's the anatomy of a job description bullet:
 
 <h2 class="anchor" id="projects">Projects</h2>
 
-This section is usually geared more toward students and new grads, since experienced professionals will have actual applicable experience to discuss in the section above. This is also a great way to show off your personality and interests. 
+This section is usually geared more toward students and new grads, since experienced professionals will have actual applicable experience to discuss in the section above. Projects are also a great way to show off your personality and interests. 
 
 >Project Name - Simple Description, Dates  
 >- Bullet  
