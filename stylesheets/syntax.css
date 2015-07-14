@@ -8,10 +8,10 @@ div.highlight .l { color: #ae81ff } /* Literal */
 div.highlight .n { color: #f8f8f2 } /* Name */
 div.highlight .o { color: #f92672 } /* Operator */
 div.highlight .p { color: #f8f8f2 } /* Punctuation */
-div.highlight .cm { color: #75715e } /* Comment.Multiline */
-div.highlight .cp { color: #75715e } /* Comment.Preproc */
-div.highlight .c1 { color: #75715e } /* Comment.Single */
-div.highlight .cs { color: #75715e } /* Comment.Special */
+div.highlight .cm { color: #A0A0A0 } /* Comment.Multiline */
+div.highlight .cp { color: #A0A0A0 } /* Comment.Preproc */
+div.highlight .c1 { color: #A0A0A0 } /* Comment.Single */
+div.highlight .cs { color: #A0A0A0 } /* Comment.Special */
 div.highlight .ge { font-style: italic } /* Generic.Emph */
 div.highlight .gs { font-weight: bold } /* Generic.Strong */
 div.highlight .kc { color: #66d9ef } /* Keyword.Constant */
