@@ -4,12 +4,14 @@ title: goals
 permalink: /goals/
 ---
 
-<aside>
-	<p>Just now realized that you can embed Beeminder graphs.</p>
-	<p>When I want to do more of something, like minutes of exercise, I enter the data for each day and the graph goes up. If I don't enter data (because I didn't exercise or because I forgot to enter it) the graph stays horizontal. I basically want to follow the yellow line.</p>
-	<p>I can edit the slope (steepness) of my goal path to increase or decrease the difficulty, usually with a week of buffer time before any changes go into effect.</p>
-	<p>If I go horizontal for too long then I crash into the yellow line, which is called derailment. When I derail, Beeminder charges my credit card a certain amount of money, usually starting at $5 and increasing the worse I get. A kind of motivation.</p>
-</aside>
+
+Just now realized that you can embed Beeminder graphs.
+
+When I want to do more of something, like minutes of exercise, I enter the data for each day and the graph goes up. If I don't enter data (because I didn't exercise or because I forgot to enter it) the graph stays horizontal. I basically want to follow the yellow line.
+
+I can edit the slope (steepness) of my goal path to increase or decrease the difficulty, usually with a week of buffer time before any changes go into effect.
+
+If I go horizontal for too long then I crash into the yellow line, which is called derailment. When I derail, Beeminder charges my credit card a certain amount of money, usually starting at $5 and increasing the worse I get. A kind of motivation.
 
 Click on each graph to see the detailed page with all the manually- or automatically-entered data. The checkmarks mean I'm in the clear. If there are numbers beneath the graph then I'm probably in trouble.
 

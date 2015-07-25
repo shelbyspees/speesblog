@@ -5,7 +5,7 @@ category: mindfulness
 ---
 [<i class="fa fa-list-alt"></i> Mark Manson wrote](http://markmanson.net/question) an insightful article over there on his blog.
 
->I was in love with the result — the image of me on stage, people cheering, me rocking out, pouring my heart into what I’m playing — but I wasn’t in love with the process.
+><i class="fa fa-quote-left"></i> I was in love with the result — the image of me on stage, people cheering, me rocking out, pouring my heart into what I’m playing — but I wasn’t in love with the process. <i class="fa fa-quote-right"></i>
 
 The gist is that basically anything worth doing is going to kind of suck at some point. Getting a beach bod requires diet and exercise. Getting perfect grades requires dedicated study. Building a business from scratch requires a shit ton of hard work.
 
