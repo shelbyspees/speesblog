@@ -104,9 +104,11 @@ Stay true to that story. That's what people want to read.
 
 ><i class="fa fa-quote-left"></i> **Write what you like, then imbue it with life and make it unique by blending in your own personal knowledge of life, friendship, relationships, sex, and work**. <i class="fa fa-quote-right"></i>
   
-The best stories are human stories. I'd even argue that the only truly great stories are humans stories. You can't create a story with a formula or an outline. The only way to write something resonant is to imbue it with life, with some of yourself.
+The best stories are human stories. I'd even argue that the only truly great stories are human stories. You can't create a story with a formula or an outline. The only way to write something resonant is to imbue it with life, with some of yourself.
 
 ><i class="fa fa-quote-left"></i> I distrust plot for two reasons: first, because our lives are largely plotless, even when you add in all our reasonable precautions and careful planning; and second, because I believe **plotting and the spontaneity of real creation aren’t compatible**. <i class="fa fa-quote-right"></i>
+
+##Description
 
 King discusses the evils of overdescription. It's easy to get carried away with long descriptions. As a writer you pat yourself on the back for being so clever.
   
@@ -140,13 +142,25 @@ But two authors whose use of characterization I really enjoy are   Robin Hobb ([
 
 Both authors put you inside the characters' heads, revealing their thoughts and perceptions of the events taking place in their world. These characters are flawed, interesting, perfectly imperfect.
 
-My 12th-grade-English level character analysis won't do me any favors here. My points are (1) the characters are the story, and (2) you should be reading more.
+My 12th-grade-English level character analysis won't do me any favors here. >My point is that the characters are the story. Also, you should be reading more.
 
 ##The Process
 
+King is adamant that the first draft should always be written with the door shut. Get the the story on paper first, let it sit for a few weeks (or months) to breathe, and the expose it to the world (and expose the world to it).
+
+He gives several reasons for this.
+
 ><i class="fa fa-quote-left"></i> The great thing about writing with the door shut is that you find yourself forced to concentrate on story to the exclusion of practically everything else. <i class="fa fa-quote-right"></i>
 
+This is partially about focus and avoiding distractions, but also about sitting down and cranking it out. It doesn't matter if it's complete shit the first time. Every story is going to be shit the first time. Throw down those first million words and then worry about being the next Shakespeare.
+
 ><i class="fa fa-quote-left"></i> Here’s something else—if no one says to you, “Oh Sam (or Amy)! This is wonderful!,” you are a lot less apt to slack off or to start concentrating on the wrong thing . . . *being wonderful,* for instance, instead of *telling the goddam story.* <i class="fa fa-quote-right"></i>
+
+Have you ever done this? You're working hard on something and then people start giving you positive feedback, so then you slack off? Or people tell you you're so smart, so if you start working hard it means you're not smart anymore?
+
+Avoid this kind of premature feedback at all costs. Your job is to transcribe the story as accurately as possible, and to throw down those first million words as soon as you can. The second draft is where you can start thinking about how awesome this story, and consequently you, are.
+
+As I discussed before, King wants you to stay true to the story as it exists buried in your head.
 
 ><i class="fa fa-quote-left"></i> What I want most of all is resonance, something that will linger for a little while in Constant Reader’s mind (and heart) after he or she has closed the book and put it up on the shelf. <i class="fa fa-quote-right"></i>
 
