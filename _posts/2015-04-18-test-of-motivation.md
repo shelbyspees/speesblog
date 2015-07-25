@@ -14,7 +14,7 @@ Weinberg then gives a dozen or so quotations from people who finally brought the
 
 ><i class="fa fa-quote-left"></i> ...I thought that if I can't do that for three months, perhaps I don't want to be a problem-solving leader after all.
 
-Weinberg points out that if his readers can't commit to five minutes a day of journaling, anything else he suggested would have been "a waste of [his] time."
+The author also points out that if his readers can't commit to five minutes a day of journaling, anything else he suggested would have been "a waste of [his] time."
 
 ><i class="fa fa-quote-left"></i> I recommend the journal as a <em>first</em> step to becoming a technical leader because it is such little commitment that there really is no valid excuse for not doing it.
 
