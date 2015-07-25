@@ -17,12 +17,12 @@ body {
     -webkit-font-smoothing: antialiased; }
 
 aside {
-  background-color: #f9f9f9;
-  font-size: 12px;
-  font-style: italic;
-  color: rgba(34, 144, 153, 0.7);
-  padding: 1px 60px;
-}
+    font-size: 12px;
+    text-align: right;
+    font-style: italic;
+    color: gray;
+    width: 50%;
+    margin: auto 0 auto auto;
 
 img {
   border: none; }
