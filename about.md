@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-Pretteh new blog.
+I'm Shelby. I hoard information. I've shared some of it here with you.
 
 <a href="/speesblog/goals">goals</a>
 
