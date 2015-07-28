@@ -2,7 +2,6 @@
 layout: post
 title: "Binary Search Tree Implementation"
 category: school
-published: false
 ---
 
 This time I'm going to discuss one way to implement the binary search tree in C. 
