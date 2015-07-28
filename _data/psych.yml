@@ -149,14 +149,14 @@
   link: "http://www.audible.com/pd/Self-Development/The-Upside-of-Stress-Audiobook/B00UXU79J2"
   image: /assets/upsideofstress.jpg
   description: >
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
 
 - title: "The Addictive Brain"
   author: "The Great Courses"
   link: "http://www.audible.com/pd/Science-Technology/The-Addictive-Brain-Audiobook/B00TKLXYBW"
   image: /assets/theaddictivebrain.jpg
   description: >
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
 
 - title: "Modern Romance: An Investigation"
   author: "Aziz Ansari & Eric Klinenberg"
