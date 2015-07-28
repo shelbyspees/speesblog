@@ -1,7 +1,7 @@
 ---
 layout: post
 title: For vs. While
-category: programming
+category: technologies
 ---
 
 Last night I was reading through the [Git source code](https://github.com/shelbyspees/git) and I saw a for-loop that started like this: `for(;;)`.

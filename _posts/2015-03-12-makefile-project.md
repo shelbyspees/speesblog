@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Makefile Project
-category: tools
+category: technologies
 ---
 
 Nearly six months later, I finally figured out how to compile and run my homework in Eclipse.
