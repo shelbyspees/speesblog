@@ -3,6 +3,7 @@ layout: post
 title: Learning. Writing.
 category: learning
 ---
+
 There's so much to learn.
 
 Should I write about the things I should be learning? Or should I just learn them? I like Jeff Atwood's advice. And [this article](https://sites.google.com/site/steveyegge2/you-should-write-blogs).

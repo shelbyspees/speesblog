@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finals Prep
-category: "data_structures"
+category: school
 ---
 
 It's time to start studying for finals. I'm going to post about each data structure I'm going to be tested on.

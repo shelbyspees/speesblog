@@ -1,6 +1,7 @@
 ---
 layout: post
 title: YAML and Liquid
+category: technologies
 ---
 
 I finally got around to trying to automate the population of my Reading page with the books on my list. 

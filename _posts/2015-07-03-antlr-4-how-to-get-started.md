@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ANTLR 4: How to Get Started"
-category: programming
+category: technologies
 ---
 
 At my internship I'm developing a tool to translate legacy code to C++. ANTLR is going to help me do it.

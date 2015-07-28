@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "AVL Tree Implementation"
-category: "data_structures"
+category: school
+published: false
 ---
 
 Work in progress.

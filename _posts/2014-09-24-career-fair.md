@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Career Fair
-category:
+category: career
 ---
+
 I went to a career fair today and it was awesome. It made me realize how much I've learned about careers in the real world since my time at UCSB.
 
 Until last year I completely disregarded any jobs that required some level of business acumen. I didn't want to do financial analysis, marketing, business planning, sales. And I had no idea what jobs were that real people did in the real world. 

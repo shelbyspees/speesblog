@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Cover Letter"
-category: job_hunting
+category: career
 ---
 
 Here's how I write my cover letters. 

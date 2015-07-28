@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview Questions: Part I"
-category: "job_hunting"
+category: career
 ---
 
 I answer interview questions for fun anyway, so I might as well make some posts with them.

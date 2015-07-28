@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Hospitality
-category:
+category: career
 ---
+
 Last week when I was feeling really down, I met this amazingly hot guy. 
 
 We totally clicked and I had to friend-zone him a little so I wouldn't be too intimidated to have a normal conversation with him. He's smart and muscley and he doesn't have an accent but he has this amazing flavor when he talks and I really hope I get to see him again. He's a bartender.

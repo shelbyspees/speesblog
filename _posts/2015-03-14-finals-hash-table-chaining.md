@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hash Table Chaining
-category: "data_structures"
+category: school
+published: false
 ---
 
 In hash tables with chaining, you have a dynamic array of pointers, where each pointer points to a linked list. The links in the linked list contain the values to be stored.

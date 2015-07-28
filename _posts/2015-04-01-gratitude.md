@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gratitude
-category: musings
+category: personal
 ---
 
 Today's April Fool's. I almost forgot for a second. Anyway, moving on.

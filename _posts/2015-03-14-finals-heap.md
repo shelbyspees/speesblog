@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Heap Implementation and Heap Sort
-category: data_structures
+category: school
+published: false
 ---
 
 I'm going to represent a heap using a dynamic array.

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Bag Abstract Data Type"
-category: "data_structures"
+category: school
+published: false
 ---
 
 The Bag abstract data type has probably the most widespread use, and is therefore probably the easiest to understand.

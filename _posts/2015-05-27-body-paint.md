@@ -15,15 +15,6 @@ This post may end up turning into me drooling over *[Avatar: Legend of Korra](ht
 <img class="wide" src="http://blogs-images.forbes.com/merrillbarr/files/2014/09/The-Legend-of-Korra-Book-3-27.png"/>
 
 
-
-
-
-
-
-
-
-
-
 ##What were they thinking?
 
 Last year Marvel hired [Milo Manara](http://www.milomanara.it/), the erotic artist, to draw cover art for some of their mainstream comics. This was a really stupid decision. You can read more about it [here](http://io9.com/check-out-spider-woman-1-starring-spider-womans-ass-1624535918), since they phrased it better than I can.
@@ -56,11 +47,6 @@ The article linked above expresses better than I can how frustrating it is to tr
 >One particularly irritating trope became ubiquitous: female characters being maimed, raped, and mangled in service of a male character’s plot. In the 1990s, comics writer Gail Simone gave this phenomenon the term “women in refrigerators,” referencing a 1994 Green Lantern story in which Green Lantern comes home to find his girlfriend’s mutilated remains stuffed inside his fridge.
 
 But I don't want to get too much into characterization and plot. Today I'm just here to talk about representations of women's bodies. 
-
-
-
-
-
 
 
 ##The Avatar Universe

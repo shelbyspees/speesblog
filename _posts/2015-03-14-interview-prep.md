@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interview Prep
-category: job_hunting
+category: career
 ---
 
 This is one way to prepare for behavioral interviews. It's not the best way, but I like it.

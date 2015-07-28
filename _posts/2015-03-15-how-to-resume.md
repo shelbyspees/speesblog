@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Resume"
-category: job_hunting
+category: career
 ---
 
 Copied from some advice I wrote out for a job-seeker.

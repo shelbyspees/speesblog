@@ -7,10 +7,6 @@ category: mindfulness
 Pulled directly from [<i class="fa fa-book"></i> *Working with Emotional Intelligence*](http://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman-ebook/dp/B000JMKTN2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1427167026) by Daniel Goleman.
 
 
-
-
-
-
 <h2 class="anchor" id="personal">Personal Competence</h2>
 
 These competencies determine how we manage ourselves.
@@ -38,11 +34,6 @@ Emotional tendencies that guide or facilitate reaching goals. (Chapter 6)
 * **Commitment:** Aligning with the goals of the group or organization
 * **Initiative:** Readiness to act on opportunities
 * **Optimism:** Persistence in pursuing goals despite obstacles and setbacks
-
-
-
-
-
 
 
 <h2 class="anchor" id="social">Social Competence</h2>

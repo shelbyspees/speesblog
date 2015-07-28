@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Iterate Faster
-category: "tools"
+category: learning
 ---
+
 I've read two of [Joel](http://www.joelonsoftware.com/AboutMe.html)'s books and two of [Jeff](http://blog.codinghorror.com/about-me/)'s books, plus various posts they've written that haven't been sold for money. And I've read posts from all over the internet about the software industry. I soak it up like a microfiber cloth.
 
 A theme I've been noticing in my life lately is how important it is to be able to iterate quickly. I don't mean for-loops. I mean being able to try something, get it wrong, and try again. Trial and error IS the learning process. This has been mentioned [again](http://blog.codinghorror.com/boyds-law-of-iteration/) and [again](http://blog.codinghorror.com/go-that-way-really-fast/) on Jeff's blog and [elsewhere](http://readwrite.com/2010/09/13/does-speed-trump-quality-for-startup-iteration):

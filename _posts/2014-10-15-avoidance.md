@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Avoidance
+category: mindfulness
 ---
 
 >"I'll do it later."

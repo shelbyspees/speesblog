@@ -1,8 +1,9 @@
 ---
 layout: post
 title: I have a problem
-category:
+category: mindfulness
 ---
+
 Why do I avoid? Surely it's not that I'm trying to prove how well I can do with the smallest amount of effort. But that's the way I've been doing things for like, ten years. 
 
 I don't even enjoy the time-wasting. But something about doing what I'm supposed to be doing makes me want to throw up. It makes my skin crawl. My mind flashes with memories and images of when I tried to better myself and failed. 

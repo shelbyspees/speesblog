@@ -3,6 +3,7 @@ layout: post
 title: My Heart Feels Funny
 category: personal
 ---
+
 My anxiety has been through the roof the past few weeks. I don't like making excuses for myself but it's been very hard to focus.
 
 My mom is having surgery on Friday. It'll be a complete hysterectomy to remove her uterine cancer. She was nervous at first but after she learned she'd be on a respirator instead of just having a breathing mask is when she got really scared. She's had severe asthma her whole life, and when she was younger she never had her wisdom teeth out because back then they didn't put people with asthma on respirators. Well, it's been thirty years since then. I'm sure surgeons know how to handle people with asthma now.

@@ -2,6 +2,7 @@
 layout: post
 title: Productive
 category: 
+published: false
 ---
 
 Wow I've never used the Evernote Android tablet app to write a note before. I could easily use this to write in bed or on a bike at the gym.

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Direction
-category:
+category: musings
 ---
+
 I just tweeted about the various careers I've had.
 
 The past six months or so I've been really struggling. Moving back home and losing my independence was a huge blow to my ego. It's absolutely a necessary sacrifice in order to set myself up for the next chapter in my life, but I hated losing the autonomy I had gotten so used to.

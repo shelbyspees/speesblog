@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Planning Meals
-category:
+category: health
+published: false
 ---
 
 I used to have a problem with binge eating disorder. I suppose I still do. I'm in remission? Or something.

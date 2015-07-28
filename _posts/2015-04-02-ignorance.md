@@ -20,8 +20,6 @@ I spent several months in the fall of 2013 doing the deep soul-searching that *7
 
 So when I came across these two sections in the "Emptying the Cup" chapter of *Apprenticeship Patterns*, I knew they'd make a great post here. I'm still working on my summary outline, but it's never too soon to delve deep in these topics.
 
-
-
 <br>
 
 The following quoted section is from my summary notes.

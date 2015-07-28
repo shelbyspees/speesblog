@@ -14,7 +14,7 @@ The panelists talked a lot about finding mentors and leaving an impression on th
 
 For now I've made a few friends with interns. The other interns are really chill. I'm sad that we'll only be working together for a few months. Maybe this time I'll try to stay friends with them beyond the summer. I'm working on being a better friend like that.
 
-###Time
+##Time
 
 Now that I'm working 40 hours a week with 2+ hours of commuting a day, I've been thinking a lot about how I spend my time. After work and commuting, the next most important thing for me is sleep. Having been underemployed the past few months after my last internship ended, my stamina is completely disappeared. I got used to sleeping in and taking naps whenever I felt I needed to (most of the time). 
 
@@ -34,7 +34,7 @@ So considering my crazy schedule, I can't afford to waste time. I've met a few p
 
 But now I'm mostly giving up on dating. Sleep is wayyy more important. I don't know how I'd survive with 4-6 hours of sleep a night in high school. Now I want 10+ hours no matter what kind of day I'm having.
 
-###Summer
+##Summer
 
 Hopefully I'll get some time to myself in these next few weeks. I find it so much easier to get up in the morning when there are no people/parentals around. I just want to be alone and do my thing. I mean, my dream home is a one-bedroom apartment that I don't have to share with anybody else.
 

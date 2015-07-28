@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Write a Resume"
-category: job_hunting
+category: career
 ---
 
 I'm so sick of seeing crappy resumes.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retreat Into Violin
-category: musings
+category: mindfulness
 ---
 
 For the past week or so I've been itching to play violin.

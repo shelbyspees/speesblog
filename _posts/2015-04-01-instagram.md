@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Instagram
+category: musings
 ---
 
 Lately I've been on my phone's Instagram app a lot. 

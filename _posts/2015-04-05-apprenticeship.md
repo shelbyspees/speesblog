@@ -9,7 +9,7 @@ I'm pretty much done reading [<i class="fa fa-book"></i> *Apprenticeship Pattern
 
 While reading this book I was simultaneously inspired and overwhelmed by the amount of learning I want to do. In order to maintain my sanity I'm going to list a few of the patterns I want to focus on and remember now until I build more of my technical skills, at which point I can reread the book for renewed inspiration.
 
-<h2 class="anchor" id="the-long-road">The Long Road</h2>
+##The Long Road
 
 I believe this is the most important pattern I can take away, especially at this early point in my career.
 
@@ -18,12 +18,7 @@ I have a shit-ton of hard work ahead of me. I'm going to have to learn and relea
 It's going to be crucial that I keep this pattern in mind.  
 **My career isn't a sprint, it's a marathon.**
 
-
-
-
-
-
-<h2 class="anchor" id="beginner-skills">Beginner Skills</h2>
+##Beginner Skills
 
 I want to combine several patterns here:
 
@@ -48,7 +43,7 @@ Should I hold off learning Java at this point?
 
 
 
-<h2 class="anchor" id="reflection">Reflection</h2>
+##Reflection
 
 A few patterns on this topic:
 
@@ -68,7 +63,7 @@ I'm attempting to do this with my coursework in a way that won't get me kicked o
 
 These last patterns are less relevant right this second but I might as well categorize them like I did the others.
 
-<h2 class="" id="motivation">Motivation</h2>
+##Motivation
 
 - Unleash Your Enthusiasm
 - Sustainable Motivations
@@ -78,7 +73,7 @@ These last patterns are less relevant right this second but I might as well cate
 - Rubbing Elbows
 
 
-<h2 class="anchor" id="skill-building">Skill Building</h2>
+##Skill Building
 
 - The White Belt
 - The Deep End
@@ -92,7 +87,7 @@ These last patterns are less relevant right this second but I might as well cate
 - Familiar Tools
 
 
-<h2 class="anchor" id="career-decisions">Career Decisions</h2>
+##Career Decisions
 
 - Craft Over Art
 - Draw Your Own Map

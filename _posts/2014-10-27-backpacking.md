@@ -3,6 +3,7 @@ layout: post
 title: Backpacking
 category: travel
 ---
+
 I haven't posted in a couple days. I'm pretty concerned about my school performance. 
 
 I have good reasons to be doing this. I actually like this stuff. This is how my brain works. I love finding patterns and exceptions. But I don't appreciate it. I'm not working hard. I'm already mentally rewarding myself for success I haven't reached yet. 

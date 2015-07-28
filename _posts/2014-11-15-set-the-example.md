@@ -13,3 +13,5 @@ This is a personal project meant purely for educational purposes, and if any toe
 (The way I approached this project means it's going to take me a long time to finish. I'm not in a hurry though. I might scale this down to a single-post book review with summaries instead of direct quotes.)
 
 ###Set the Example
+
+#In Progress

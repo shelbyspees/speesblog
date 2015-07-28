@@ -1,7 +1,8 @@
 ---
 layout: post
 title: I Hate Halloween
-category: 
+category: musings
+published: false
 ---
 
 I hate the pressure to go crazy. I never feel like going to parties. Or dressing up. Or bothering with any Halloween traditions at all. I've hated Halloween since my freshman year of college.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trees Overview"
-category: data_structures
+category: school
 ---
 
 No thanks, I don't like the stuff.
