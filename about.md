@@ -9,6 +9,8 @@ I'm Shelby. I hoard information. I've shared some of it here with you.
 
 [writing](http://shelbyspees.me/writing)
 
+<a href="/speesblog/topics">topics</a>
+
 ---
 
 <a href="http://github.com/muan/scribble" class="muted">built with Jekyll using Scribble theme</a>

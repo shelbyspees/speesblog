@@ -3,6 +3,7 @@ layout: page
 title: topics
 permalink: /topics/
 ---
+
 {% include JB/setup %}
 
 {% for category in site.categories %} 
@@ -12,4 +13,3 @@ permalink: /topics/
     {% include JB/pages_list %}
   </ul>
 {% endfor %}
-
