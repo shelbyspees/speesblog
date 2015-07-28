@@ -4,8 +4,6 @@ title: "How to be a Programmer: A Reference"
 category: career
 ---
 
-[Source.](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html)
-
 ##Beginner
 
 ###Personal Skills
@@ -36,3 +34,5 @@ category: career
 - Take Breaks when Stumped
 - How to Recognize When to Go Home
 - How to Deal with Difficult People
+
+[Source.](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html)
