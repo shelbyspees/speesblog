@@ -1,6 +1,6 @@
 ---
 layout: page
-title: topics
+title: posts by topic
 permalink: /topics/
 ---
 

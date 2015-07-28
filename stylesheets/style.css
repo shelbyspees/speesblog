@@ -107,7 +107,7 @@ ol, ol li {
   margin: 0; }
 
 .list-by-topic {
-  list-style: none; s}
+  list-style: none; }
 
 blockquote {
   margin: 0;
@@ -348,6 +348,13 @@ section.post, section > p {
 table {
   font-size: 14px;
 }
+
+th.topic-table {
+  font-weight: inherit;
+  width: 100px;
+  text-align: right;
+  padding-right: 10px; 
+  color: #ABABAB; }
 
 .highlight {
   margin: 0;
