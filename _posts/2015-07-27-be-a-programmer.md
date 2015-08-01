@@ -4,7 +4,13 @@ title: "How to be a Programmer: A Reference"
 category: career
 ---
 
-[Source](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html)
+I'm listing here the sections of Robert L. Read's 2002 essay ["How to be a Programmer"](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) because they can act as a sort of checklist for the growing software developer as she develops her skillset and career.
+
+To quote from Read's introduction:
+
+>The excellent books: The Pragmatic Programmer [Prag99], Code Complete [CodeC93], Rapid Development [RDev96], and Extreme Programming Explained [XP99] all teach computer programming and the larger issues of being a good programmer. The essays of Paul Graham[PGSite] and Eric Raymond[Hacker] should certainly be read before or along with this article. **This essay differs from those excellent works by emphasizing social problems and comprehensively summarizing the entire set of necessary skills as I see them.**
+
+Definitely go read [the original](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) when you get the chance.
 
 ##Beginner
 
