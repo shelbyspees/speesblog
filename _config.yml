@@ -10,7 +10,7 @@ baseurl:
 
 links:
   - name:         blog
-    url:          
+    url:          /
   - name:         about
     url:          /about
   - name:         reading
