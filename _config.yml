@@ -10,13 +10,13 @@ baseurl:
 
 links:
   - name:         blog
-    url:          /speesblog/
+    url:          
   - name:         about
-    url:          /speesblog/about
+    url:          /about
   - name:         reading
-    url:          /speesblog/reading
+    url:          /reading
   - name:         topics
-    url:          /speesblog/topics
+    url:          /topics
   - name:         portfolio
     url:          http://shelbyspees.me
 highlighter:      pygments
