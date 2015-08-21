@@ -7,7 +7,7 @@ I'm Shelby. I hoard knowledge. I've shared some of it here with you. Among other
 
 [writing](http://shelbyspees.me/writing)
 
-<a href="/speesblog/topics">topics</a>
+<a href="/topics">topics</a>
 
 ---
 
