@@ -1,16 +1,16 @@
-div.highlight, div.highlight code, div.highlight pre  { background: #29281e; border-radius: 7px; }
+div.highlight, div.highlight code, div.highlight pre  { background: #444; border-radius: 7px; }
 div.highlight code { padding: 0; }
-div.highlight .c { color: #75715e } /* Comment */
+div.highlight .c { color: #908B75 } /* Comment */
 div.highlight .err { color: #960050; background-color: #1e0010 } /* Error */
 div.highlight .k { color: #66d9ef } /* Keyword */
 div.highlight .l { color: #ae81ff } /* Literal */
 div.highlight .n { color: #f8f8f2 } /* Name */
 div.highlight .o { color: #f92672 } /* Operator */
 div.highlight .p { color: #f8f8f2 } /* Punctuation */
-div.highlight .cm { color: #75715e } /* Comment.Multiline */
-div.highlight .cp { color: #75715e } /* Comment.Preproc */
-div.highlight .c1 { color: #75715e } /* Comment.Single */
-div.highlight .cs { color: #75715e } /* Comment.Special */
+div.highlight .cm { color: #908B75 } /* Comment.Multiline */
+div.highlight .cp { color: #908B75 } /* Comment.Preproc */
+div.highlight .c1 { color: #908B75 } /* Comment.Single */
+div.highlight .cs { color: #908B75 } /* Comment.Special */
 div.highlight .ge { font-style: italic } /* Generic.Emph */
 div.highlight .gs { font-weight: bold } /* Generic.Strong */
 div.highlight .kc { color: #66d9ef } /* Keyword.Constant */

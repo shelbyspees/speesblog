@@ -43,7 +43,7 @@ blockquote {
 	vertical-align: top;
 }
 
-footer, .links {
+header, footer, .links {
 	color: rgba(128, 128, 128, 0.68);
 	font-weight: lighter;
 }
@@ -83,7 +83,7 @@ code {
 	font-size: 0.8em;
 	color: white;
 	padding: 2px 6px;
-	background: #29281e;
+	background: #444;
 	border-radius: 7px;
 }
 
