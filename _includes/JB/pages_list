@@ -30,7 +30,7 @@ Usage:
       	{% if page.url == node.url %}
       	<li class="active">
           <table>
-          <th class="topic-table">{{ node.date | date: "%d %b %Y" }}</th>
+          <td class="td-align"><small class="post-date">{{ node.date | date: "%d %b %Y" }}</small></td>
           <td><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></td>
           </table>
         </li>
@@ -38,7 +38,7 @@ Usage:
       	{% else %}
       	<li class="grey">
           <table>
-          <th class="topic-table">{{ node.date | date: "%d %b %Y" }}</th>
+          <td class="td-align"><small class="post-date">{{ node.date | date: "%d %b %Y" }}</small></td>
           <td><a href="{{ node.url | prepend: site.baseurl }}">{{node.title}}</a></td>
           </table>
         </li>
