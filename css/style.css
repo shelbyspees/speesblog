@@ -23,7 +23,7 @@ table {
 }
 
 blockquote {
-	background-color: rgba(211, 211, 211, 0.17);
+	background-color: rgba(68, 68, 68, 0.15);
     padding: 10px 40px;
     margin: 0;
     border-radius: 7px;
@@ -93,6 +93,7 @@ code {
 .paging a:hover {
 	opacity: 0.7;
 	background: none;
+	text-decoration: none;
 }
 .paging .left, .paging .right {
 	position: fixed;
