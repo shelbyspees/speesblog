@@ -8,11 +8,8 @@ body {
 	font-family: 'Open Sans', sans-serif;;
 }
 
-h1, h2, h3 {
-	line-height: 1.2em;
-}
-
-h2 { font-size: 1.3em;}
+h1, h2, h3 { line-height: 1.2em; font-size: -webkit-xxx-large; }
+h1 { padding-top: 45px; }
 
 strong {
     font-weight: 700;
