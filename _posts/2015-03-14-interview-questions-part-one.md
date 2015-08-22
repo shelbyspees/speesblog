@@ -6,21 +6,13 @@ category: career
 
 I answer interview questions for fun anyway, so I might as well make some posts with them.
 
-<br/>
-
 ***What is the best decision you ever made? How did you make it?***
 
 [Answered]({{ site.url }}{% post_url 2015-03-14-the-best-decision %}) in another post, although I'm not sure I'd say it in an interview.
 
-<br/>
-
 ***What is your greatest weakness?***
 
 [Answered]({{ site.url }}{% post_url 2014-10-18-biggest-weakness %}) in a very introspective, not-quite-professional way. I'll probably update my answer at some point.
-
-
-<br/>
-
 
 ***Where do you see yourself in five years time?***
 
@@ -32,19 +24,11 @@ I'm not sure at what point I'll be experienced enough to make architecture decis
 
 I also want to get involved in the open source community. I'd like to be known as a consistent contributor to the people working those projects. Open source work is actually really great for me because I care more about quality and process than about profit. I'm also a big fan of sharing my ideas publicly and building an online presence, as evidenced by this blog. Plus I think I can learn a lot about best practices from the more successful open source projects out there.
 
-<br/>
-
-
-
 ***Tell me about a time when you demonstrated good written communication skills.***
 
 Copy editing the menu at Pizza Cookery.
 
 This blog.
-
-
-
-<br/>
 
 ***Tell me about a time when you demonstrated good oral communication skills.***
 
