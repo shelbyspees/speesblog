@@ -18,12 +18,15 @@ strong {
     font-weight: 700;
 }
 
+table {
+	font-size: inherit;
+}
+
 .no-bullet {
     list-style: none;
 }
 
 .post-date {
-	font-size: inherit;
 	font-weight: lighter;
 }
 
@@ -39,4 +42,53 @@ a {
 
 a:hover {
 	text-decoration: underline;
+}
+
+img {
+	max-width: 100%;
+}
+
+img.half {
+	width: 50%;
+}
+
+pre {
+  overflow-x: auto;
+  width: 100%;
+  padding: 15px;
+  line-height: 1.2em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: lightgrey;
+}
+
+code {
+	font-size: 0.8em;
+	background-color: lightgrey;
+	padding: 2px 6px;
+}
+
+.paging a {
+	opacity: 0.25;
+}
+.paging a:hover {
+	opacity: 0.7;
+	background: none;
+}
+.paging .left, .paging .right {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	font-size: 60px;
+}
+.paging .left {
+	margin-left: -400px;
+}
+.paging .right {
+	margin-left: 380px;
+}
+
+footer {
+	font-size: initial;
 }

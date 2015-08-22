@@ -29,13 +29,13 @@ redcarpet:
 social:
   - name:         twitter
     url:          https://twitter.com/speesbag/
-    icon:         <i class="fa fa-twitter-square fa-lg"></i>
+    icon:         <i class="fa fa-twitter-square"></i>
     external:     true
   - name:         instagram
     url:          https://instagram.com/speesbag/
-    icon:         <i class="fa fa-instagram fa-lg"></i>
+    icon:         <i class="fa fa-instagram"></i>
     external:     true
   - name:         github
     url:          https://github.com/shelbyspees
-    icon:         <i class="fa fa-github-square fa-lg"></i>
+    icon:         <i class="fa fa-github-square"></i>
     external:     true
