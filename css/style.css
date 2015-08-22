@@ -31,6 +31,7 @@ article {
 
 .no-bullet {
     list-style: none;
+    padding: 0;
 }
 
 .post-date {
