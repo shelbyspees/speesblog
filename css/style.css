@@ -22,6 +22,13 @@ table {
 	font-size: inherit;
 }
 
+blockquote {
+	background-color: rgba(211, 211, 211, 0.17);
+    padding: 10px 40px;
+    margin: 0;
+    border-radius: 7px;
+}
+
 .no-bullet {
     list-style: none;
 }
@@ -31,8 +38,14 @@ table {
 }
 
 .td-align {
-	width: 100;
+	width: 120px;
 	text-align: right;
+	vertical-align: top;
+}
+
+footer, .links {
+	color: rgba(128, 128, 128, 0.68);
+	font-weight: lighter;
 }
 
 a {
@@ -46,6 +59,9 @@ a:hover {
 
 img {
 	max-width: 100%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
 
 img.half {
@@ -60,13 +76,15 @@ pre {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  background-color: lightgrey;
 }
 
 code {
+	font-family: 'Source Code Pro', monospace;
 	font-size: 0.8em;
-	background-color: lightgrey;
+	color: white;
 	padding: 2px 6px;
+	background: #29281e;
+	border-radius: 7px;
 }
 
 .paging a {
@@ -91,4 +109,9 @@ code {
 
 footer {
 	font-size: initial;
+}
+
+#home-img {
+	border-radius: 7px;
+	margin-left: 0;
 }

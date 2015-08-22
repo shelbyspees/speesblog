@@ -8,20 +8,16 @@
     {% include header.html %}
     <div id='container'>
       {% include links.html %}
-      <hr>
       {% include pages.html %}
-      <div class="content">
-        <section class='post'>
+        <article class='post'>
           <h1>
-            <div><small class="post-date">{{ page.date | date_to_string }}</small></div>
             {{ page.title }}
+            <div><small class="post-date">{{ page.date | date_to_string }}</small></div>
           </h1>
           {{ content }}
 
 
-        </section>
-      </div>
-      <hr> 
+        </article>
       {% include links.html %}
     </div>
     {% include footer.html %}

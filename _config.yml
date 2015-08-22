@@ -9,7 +9,7 @@ url:              http://speesbag.me
 baseurl: 
 
 links:
-  - name:         blog
+  - name:         posts
     url:          /
   - name:         about
     url:          /about

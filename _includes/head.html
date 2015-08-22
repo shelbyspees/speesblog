@@ -1,6 +1,9 @@
 <link href='{{ site.baseurl }}/favicon-paragraph.ico' rel='shortcut icon'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<link href='{{ site.baseurl }}/css/style.css' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link href='/css/style.css' rel='stylesheet' type='text/css' />
+<link href='/css/syntax.css' rel='stylesheet' type='text/css' />
+
 
 
 
@@ -9,8 +12,6 @@
 <!-- - -->
 <meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
 <meta content='text/html; charset=utf-8' http-equiv='content-type' />
-<meta content="http://muan.co/images/og.png" property="og:image" />
-<meta content="{{ site.facebook_appid }}" property="fb:app_id" />
 {% if page.date %}
   <meta content='{{ site.url }}{{ page.url }}' property='og:url' />
   <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
@@ -20,12 +21,3 @@
   <meta content="{{ site.description }}" property='og:description' />
   <meta content="blog" property="og:type" />
 {% endif %}
-<!-- - -->
-{% include ga.html %}
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=604714799556697";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
