@@ -9,7 +9,6 @@ body {
 }
 
 h1, h2, h3 { line-height: 1.2em; font-size: -webkit-xxx-large; }
-h1 { padding-top: 45px; }
 
 strong {
     font-weight: 700;
@@ -26,6 +25,10 @@ blockquote {
     border-radius: 7px;
 }
 
+article {
+	margin-bottom: 56px;
+}
+
 .no-bullet {
     list-style: none;
 }
@@ -38,6 +41,13 @@ blockquote {
 	width: 120px;
 	text-align: right;
 	vertical-align: top;
+}
+
+.book-cover {
+  display: block;
+  width: 200px;
+  margin-left: 0;
+  margin-right: auto;
 }
 
 header, footer, .links {

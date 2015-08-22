@@ -8,7 +8,7 @@ Books I've enjoyed in the past year or so, plus a few I'm hoping to crack open s
 
 Check out the <a href="{{ site.url }}best_practices/2015/04/10/best-of/">Best Of</a> post I wrote listing articles I've enjoyed.
 
-###lists
+##lists
 
 - <a href="{{ site.baseurl }}/reading/tech">Semi-Technical Reads</a>
 
