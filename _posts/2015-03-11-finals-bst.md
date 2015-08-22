@@ -84,16 +84,6 @@ Wait a second, computers don't have `left` and `right`. What could this possibly
 
 Well, let's look at a more full tree to understand the purpose of this better.
 
-
-
-
-
-
-
-
-
-
-
 <h3 class="anchor" id="contains">contains()</h3>
 
 <img class="wide" src="{{ site.url }}/assets/comp/bst-colors.png"/>
@@ -110,27 +100,31 @@ So now if we try to search for our original value of `17`, we go *left* of `42`,
 
 Let's look at the array version of the same sorted list:
 
-
-    [1, 10, 15, 16, 17, 19, 30, 42, 43, 45, 47, 50, 75, 90, 101] //count is 15
-
+{% highlight c %}
+[1, 10, 15, 16, 17, 19, 30, 42, 43, 45, 47, 50, 75, 90, 101] //count is 15
+{% endhighlight %}
 
 For a computer, iterating through this list to find `17` takes five comparisons, whereas our binary search tree only takes four. And what if we're searching for `101`? That takes fifteen comparisons, but the BST still only takes four. Significantly more efficient, don't you think?
 
 Here's the array visual of binary search for variety:
 
-    [1, 10, 15, 16, 17, 19, 30, 42, 43, 45, 47, 50, 75, 90, 101] //less than 42
-    [1, 10, 15, 16, 17, 19, 30] //greater than 16
-    [17, 19, 30] //less than 19
-    [17] //equal to 17, found it!
+{% highlight c %}
+[1, 10, 15, 16, 17, 19, 30, 42, 43, 45, 47, 50, 75, 90, 101] //less than 42
+[1, 10, 15, 16, 17, 19, 30] //greater than 16
+[17, 19, 30] //less than 19
+[17] //equal to 17, found it!
+{% endhighlight %}
 
 The number of elements gets cut in half with each comparison, which gives us O(log(n)) time.
 
 This is especially efficient when looking for a value not contained in the data, like `55`:
 
-    [1, 10, 15, 16, 17, 19, 30, 42, 43, 45, 47, 50, 75, 90, 101] //greater than 42
-    [43, 45, 47, 50, 75, 90, 101] //greater than 50
-    [75, 90, 101] //less than 90
-    [75] //less than 75, but 75 has no children
+{% highlight c %}
+[1, 10, 15, 16, 17, 19, 30, 42, 43, 45, 47, 50, 75, 90, 101] //greater than 42
+[43, 45, 47, 50, 75, 90, 101] //greater than 50
+[75, 90, 101] //less than 90
+[75] //less than 75, but 75 has no children
+{% endhighlight %}
 
 So in this case `contains(55)` would tell us "Nope, not in here."
 
@@ -174,17 +168,6 @@ int containsBST(struct BST * tree, TYPE val) {
 	return 0;
 }
 {% endhighlight %}
-
-
-
-
-
-
-
-
-
-
-
 
 <h3 class="anchor" id="add">add()</h3>
 
@@ -259,8 +242,10 @@ Say I wanted to add the value `55` to my tree after quickly learning it wasn't t
 
 The tree will always be sorted, but unfortunately it won't always be balanced. Let's go back to our sorted array for a more extreme illustration:
 
-    sortedArray = [1, 10, 15, 16, 17, 19, 30, 
-    	42, 43, 45, 47, 50, 75, 90, 101] //count is 15
+{% highlight c %}
+sortedArray = [1, 10, 15, 16, 17, 19, 30, 
+	42, 43, 45, 47, 50, 75, 90, 101] //count is 15
+{% endhighlight %}
 
 Imagine I wrote some code like this:
 
@@ -275,16 +260,6 @@ We would end up with a tree that looks like this:
 <img class="wide" src="{{ site.url }}/assets/comp/bst-unbalanced.png"/>
 
 Completely unbalanced. In this case, the `contains` function is no different from that of a dynamic array or linked list. You lose all the benefit of the binary search tree but you keep all the hassle of the recursive comparisons.
-
-
-
-
-
-
-
-
-
-
 
 <h3 class="anchor" id="remove">remove()</h3>
 
