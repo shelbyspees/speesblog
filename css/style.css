@@ -10,9 +10,13 @@ body {
 }
 
 h1, h2, h3 { 
-	margin: 0;
 	line-height: 1.2em; 
-	font-size: -webkit-xxx-large; 
+	font-size: -webkit-box-sizing; 
+}
+
+h1 { 
+	margin: 0;
+	font-size: -webkit-xxx-large;
 }
 
 strong {
