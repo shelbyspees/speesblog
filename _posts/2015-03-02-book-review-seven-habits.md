@@ -25,20 +25,7 @@ The thing about this book is that it intellectualizes and jargonizes the basics 
 The first three Habits are internal. Covey discusses the importance of transcending interpersonal dependence and reaching independence with help from the first three Habits. This section of the book really spoke to me.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="habit1">Habit 1: Be Proactive</h3>
+##Habit 1: Be Proactive
 
 The first Habit is at the top of the list for a reason. Nothing you want in life is going to come about unless you take action. It's the foundation of every other Habit on the list.
 
@@ -53,19 +40,7 @@ But we have such a hard time with it. Maybe we're good for a while, but then we 
 We will screw up. We will go off balance. It's important to take the steps necessary to regain that balance and maintain those streaks.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="habit2">Habit 2: Begin with the End in Mind</h3>
+##Habit 2: Begin with the End in Mind
 
 I think I've been imagining my own funeral since I was a kid, but it definitely became more vivid after trying the exercises in this chapter. You're supposed to imagine what you want people to say about you at your eulogy. The idea is that the person your loved ones describe at your eulogy is the person you want yourself to be.
 
@@ -73,18 +48,7 @@ Since my family and friends say nice things about me all the time, I had to dig 
 
 The word "End" and the funeral exercise for this Habit are a bit misleading. I won't really care what happens once I'm dead; I'll be dead. But I know there's a better version of myself that I'm capable of being. That motivates me.
 
-
-
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="habit3">Habit 3: Put First Things First</h3>
+##Habit 3: Put First Things First
 
 "But... you just told me to begin with the *end*. Now I'm supposed to start with what's *first*??" Yes.
 
@@ -102,20 +66,9 @@ You only have access to now. You can't change the past; you can't know the futur
 
 The "first" in Put First Things First is to take advantage of the opportunities that are immediately in front of you to make your life incrementally (or significantly) better. Doing the harder thing. As you continue to make these minor positive choices throughout your day, it'll become habitual. So the mindset Habits can help you build actual *habits*. Pretty great, huh?
 
----
-
 The next three Habits are external. Social. These have always been harder for me to wrap my head around than the first three. I'm just too introspective, I guess.
 
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="habit4">Habit 4: Think Win/Win</h3>
+##Habit 4: Think Win/Win
 
 So cliché, right? Everybody knows about compromise.
 
@@ -125,18 +78,7 @@ In mainstream understanding, "Win/Win" means I get a little of what I wanted and
 
 You've probably heard of this as being "creative" or "thinking outside the box." Those are important attitudes to have when interacting with others. 
 
-
-
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="habit5">Habit 5: Seek First to Understand, then to be Understood</h3>
+##Habit 5: Seek First to Understand, then to be Understood
 
 This Habit changed my entire perspective as an educator, and I think it'll have rippling effects throughout my entire career.
 
@@ -160,20 +102,7 @@ Listen. Ask questions. Ask for clarification. Paraphrase back to them. All of th
 
 Don't just wait for your chance to speak. Chances are you may have something different to say once you truly understand what the other person is talking about.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="habit6">Habit 6: Synergize</h3>
+##Habit 6: Synergize
 
 Oh, that word. The most [jargony](http://en.wikipedia.org/wiki/Synergy) of them all. What the heck does it mean?
 
@@ -191,17 +120,7 @@ As the most cynical non-religious person you've ever met, I would say that syner
 
 The problem with this Habit is that it's not something you can just do. But it comes about when you have all your other ducks in a row. The orchestra can't shine as an ensemble unless everyone practices their individual parts.
 
----
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="habit7">Habit 7: Sharpen the Saw</h3>
+##Habit 7: Sharpen the Saw
 
 The final Habit on the list is a nice package for all the other Habits to reside in. Sharpening the saw is about paying attention to the little things so you don't waste your time going in the wrong direction.
 

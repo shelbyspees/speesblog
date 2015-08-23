@@ -22,7 +22,7 @@ Or at least that's what I tell myself. Maybe all of this was an exercise in narc
 
 So it's entirely possible that each first date was just for my own entertainment. I love talking about myself (if you couldn't tell already) and on dates I could talk about myself while my ego was being stroked by male attention. And I'd usually get free food--although I always offered to pay. Twice. That's my protocol. If you insist after I ask "Are you sure?" then you get to enjoy whatever pleasure paying for me brings you.
 
-<h3 class="anchor" id="advice">Advice</h3>
+##Advice
 
 I really wanted to resist the advice and nagging I'd get from older women. I mean, what did my mom know about dating? She married her high school sweetheart! She'd say, "You can't give them everything right away. They have to work for it."
 
@@ -34,7 +34,7 @@ Back during my senior year at UCSB, my mom once told me that if I kept going out
 
 I guess now I can get a reputation by posting this but I honestly don't care. There's absolutely nothing wrong with enjoying the company of good-looking young men. 
 
-<h3 class="anchor" id="stigma">Stigma</h3>
+##Stigma
 
 Meeting people online does have a stigma, though. I got over it eventually. This past year when people asked me where I met my latest interest I'd say, "The internet. That's where I meet all of them." And it was true.
 
@@ -44,7 +44,7 @@ OkCupid was great because it filtered out everyone I had nothing in common with.
 
 But I've gotten in cars with strangers, gone to strangers' houses the first time I met them, gotten drunk with people before even learning their last name. When I tell people this they look at me like I'm crazy, but isn't my date in just as much danger as I am? Aren't I just as much of a threat? I mean, sure, men and women possess different anatomical features. But pharmacology has evened the playing field. It's 2015, people! Women can be creeps just as easily as men.
 
-<h3 class="anchor" id="the-goal">The Goal</h3>
+##The Goal
 
 So the real question is this: **What was I looking for?**
 

@@ -53,13 +53,6 @@ Do not include:
 >(999) 999-9999   
 >firstlast.github.io [OR] linkedin.com/in/firstlast
 
-
-
-
-
-
-
-
 <h2 class="anchor" id="objective"><s>Objective</s></h2>
 
 <s>Objective: To obtain a position in which I can utilize my skills...</s>
@@ -68,12 +61,6 @@ No. Stop. Don't include an objective. Instead, write a [great cover letter]({{ s
 ).
 
 You may come across a situation where it makes sense to include a summary. That's different.
-
-
-
-
-
-
 
 <h2 class="anchor" id="summary">Summary</h2>
 
@@ -99,14 +86,7 @@ Those last two points are the main reason why you'd include a summary, as oppose
 
 >Third-year computer science student experienced with Android application development seeking Software Developer Intern position for summer 2015 in the greater Los Angeles area. Available full-time from May 1st.
 
----
-
 If you're a student or recent graduate (<1 year after graduation), education goes next. Otherwise experience goes next.
-
-
-
-
-
 
 <h2 class="anchor" id="education">Education</h2>
 
@@ -127,12 +107,6 @@ Order of importance:
 >University of California, Santa Barbara  
 >GPA: 3.48  
 ><s>Minor in Education</s> (I leave this off nowadays since I have two degrees to fit in)
-
-
-
-
-
-
 
 <h2 class="anchor" id="experience">Experience</h2>
 
@@ -211,6 +185,7 @@ Check out this example bullet:
 This section is usually geared more toward students and new grads, since experienced professionals will have actual applicable experience to discuss in the section above. Projects are also a great way to show off your personality and interests. 
 
 >Project Name - Simple Description, Dates  
+>
 >- Bullet  
 >- Bullet
 
@@ -219,6 +194,7 @@ Bullets should be similar to those under Experience but probably shorter and wit
 For example:
 
 >**substitutions.io** - News Article Aggregator, March 2015 to present   
+>
 >- Deployed content aggregator website using Rails and AngularJS  
 >- Used regular expressions to find-and-replace common phrases with jokes  
 >- Based on XKCD comic #1288

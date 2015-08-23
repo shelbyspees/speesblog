@@ -20,7 +20,7 @@ I spent several months in the fall of 2013 doing the deep soul-searching that *7
 
 So when I came across these two sections in the "Emptying the Cup" chapter of *Apprenticeship Patterns*, I knew they'd make a great post here. I'm still working on my summary outline, but it's never too soon to delve deep in these topics.
 
-<br>
+##Speak up
 
 The following quoted section is from my summary notes.
 
@@ -42,11 +42,7 @@ The following quoted section is from my summary notes.
 >- Put the list where others can see it
 >- Refresh the list as your work changes
 
-<br>
-
----
-
-<h3 class="" id="list">The List</h3>
+##The List
 
 Uh oh. This is the hard part.
 
@@ -66,9 +62,7 @@ I'm putting all this pressure on myself because I'm graduating next year but tha
 
 **5\. How to come up with solutions to technical problems.** This is probably just another area where my lack of experience is at fault. The more I learn about computers and software, the more I'll learn about the ways people solve their problems. I don't have a problem doing research. I'm just overwhelmed by everything I have yet to learn.
 
----
-
-<br>
+##Get over it
 
 This quoted section is also from my summary notes.
 

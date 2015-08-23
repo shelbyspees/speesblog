@@ -18,9 +18,9 @@ One thing that was nice about Tokyo was the lockers in every train station. I do
 
 I wonder how minimal I can go.
 
-###Packing list:
+##Packing list:
 
-**Electronics**
+###Electronics
 
 - Laptop + case + charger + charger extension
 - Extension cord from Japan
@@ -35,7 +35,7 @@ I wonder how minimal I can go.
 
 I probably don't need my external hard drive since my Dropbox can hold a ton of photos. It's just one more thing to take up space and then lose.
 
-**Clothes**
+###Clothes
 
 - Underwear (14)
 - Tank tops (3)
@@ -55,14 +55,14 @@ I probably don't need my external hard drive since my Dropbox can hold a ton of 
 
 I can always buy more shirts, and I'll probably see shirts in Europe that I'll want anyway.
 
-**Shoes**
+###Shoes
 
 - Brown sandals
 - Black sandals
 - Toms
 - Nike Frees? (in which case I'll need socks)
 
-**Bags and Accessories**
+###Bags and Accessories
 
 - Brown backpack
 - Timbuk2 suitcase
@@ -72,7 +72,7 @@ I can always buy more shirts, and I'll probably see shirts in Europe that I'll w
 - Jewelry + travel jewelry box
 - Travel neck pillow?
 
-**Toiletries**
+###Toiletries
 
 Unfortunately these usually take up the most space.
 

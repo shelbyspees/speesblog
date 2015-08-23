@@ -8,9 +8,7 @@ I recently won a copy of [<i class="fa fa-book"></i> *Working with Emotional Int
 
 The book is great so far. I'm almost done with chapter 6, which is the last chapter in the section on self-mastery. 
 
-Here are some quotes from the book and I don't know, some comments I wrote surrounding the quotes.
-
----
+##Excerpts and comments
 
 ><i class="fa fa-quote-left"></i> IQ takes second position to emotional intelligence in determining outstanding job performance. <i class="fa fa-quote-right"></i>
 

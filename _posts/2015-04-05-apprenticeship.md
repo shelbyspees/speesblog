@@ -39,10 +39,6 @@ Practice is crucial though. I have [<i class="fa fa-book"></i> *Cracking the Cod
 
 Should I hold off learning Java at this point?
 
-
-
-
-
 ##Reflection
 
 A few patterns on this topic:
@@ -56,11 +52,6 @@ A few patterns on this topic:
 
 I'm attempting to do this with my coursework in a way that won't get me kicked out of school. Unfortunately I'm a starter and not quite a finisher so I end up with a lot of half-written explanations. I'm hoping to get those beautifully completed sooner than later.
 
-
-
-
-<br><br>
-
 These last patterns are less relevant right this second but I might as well categorize them like I did the others.
 
 ##Motivation
@@ -71,7 +62,6 @@ These last patterns are less relevant right this second but I might as well cate
 - Find Mentors
 - Kindred Spirits
 - Rubbing Elbows
-
 
 ##Skill Building
 
@@ -85,7 +75,6 @@ These last patterns are less relevant right this second but I might as well cate
 - Study the Classics
 - Dig Deeper
 - Familiar Tools
-
 
 ##Career Decisions
 

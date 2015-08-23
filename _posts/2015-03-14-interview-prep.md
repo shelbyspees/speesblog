@@ -14,23 +14,7 @@ An interview is not an exam. It's a business meeting. I encourage that you come 
 
 I recommend taking an hour to write down some information for each section the night before or day of your interview.
 
-Jump to:
-
-- <a href="#talking-points">Talking points</a>
-- <a href="#facts-about-company">Facts about the company, your interviewer, and the department/team/project</a>
-- <a href="#questions-to-ask">Questions to ask</a>
-- <a href="#other-tips">Other tips</a>
-
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="talking-points">Talking points</h3>
+##Talking points
 
 This is an abbreviated list of skills and accomplishments you want the interviewer to hear about. One good example can often be used to respond to a multitude of interview questions, since many interview questions have overlapping purposes.
 
@@ -62,17 +46,7 @@ How does your experience map to these questions? Do you have any honest-to-goodn
 
 Also, it's less about answering the question word-for-word and more about letting the interviewer discover what kind of person you are. So for the "difficulty with a coworker" question you can just talk about a disagreement on some decision that had to be made. It doesn't have to be dramatic. Honestly, drama is kind of a negative in this case.
 
-
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="facts-about-company">Facts about the company, your interviewer, and the department/team/project</h3>
+##Facts about the company, your interviewer, and the department/team/project
 
 These are some of the things you should have learned when you researched the company:
 
@@ -86,16 +60,7 @@ You don't have to write down all of them, but they're good question-fodder.
 
 How in-depth you research will depend on the kind of job you're applying for. Interns and entry-level applicants may find the business details to be a little over their heads, if only because they've never thought about it before.
 
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="questions-to-ask">Questions to ask</h3>
+##Questions to ask
 
 I've actually had interviews where the interviewers forgot to ask me if I had any questions. And I came prepared with questions. They were super embarrassed when I asked if it was ok to ask a question. It was cute.
 
@@ -154,15 +119,7 @@ I like asking this question because usually if the interviewer likes you, they'l
 
 This question also shows that you try to be aware of your shortcomings. Interviewers love modest job applicants, especially for entry-level positions. Plus, asking for feedback actually shows more confidence than strutting around like the king of the jungle.
 
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="other-tips">Other tips</h3>
+##Other tips
 
 You should already have all [these](https://www.themuse.com/advice/6-questions-that-will-ease-your-mind-before-the-interview) questions answered before you even start preparing:
 

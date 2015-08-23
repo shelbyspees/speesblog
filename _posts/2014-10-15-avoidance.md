@@ -5,11 +5,11 @@ category: mindfulness
 ---
 
 >"I'll do it later."
-
+>
 >"I'm so behind."
-
+>
 >"I could do this now but I'd rather..."
-
+>
 >"I have plenty of time."
 
 I discourage myself. I compare myself to others. Then I lie to myself. 
