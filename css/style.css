@@ -63,12 +63,13 @@ header, footer, .links {
 }
 
 a {
-	color: inherit;
+	color: #5CABA9;
 	text-decoration: none;
 }
 
 a:hover {
-	text-decoration: underline;
+    text-decoration: underline;
+    color: #444;
 }
 
 img {
