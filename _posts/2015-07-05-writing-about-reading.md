@@ -20,21 +20,3 @@ There are so many great quotes I've gathered. I can't let them sit unused in my 
 But it's so much easier to write about writing. Meta-writing. Woah, that echoes in the brain.
 
 The refreshing thing about fiction is that there is no research, at least not at this stage. It's all in my head. My job is to unbury the story living in my mind and transfer it to the page as accurately as possible. Since it's just me and my blank text editor, I don't have to worry about getting distracted by the black hole of knowledge that is Wikipedia or any half-finished writing in Evernote calling my name.
-
-
-
----
-
-Also, fun news! I updated the styling on this blog. It used to look like this:
-
-<aside>Hooray for <code>git checkout</code> for letting me go back and take a screenshot without undoing all my changes. Version control saves the day again!</aside>
-
-<img class="wide" src="{{ site.url }}/assets/files/oldcss.png"/>
-
-And now it looks like this:
-
-<img class="wide" src="{{ site.url }}/assets/files/newcss.png"/>
-
-I'm also pretty happy with the styling on my new writing blog. I'm sure I'll get sick of it pretty soon but it's nice that it's so different from my other sites.
-
-<img class="wide" src="{{ site.url }}/assets/files/writcss.png"/>

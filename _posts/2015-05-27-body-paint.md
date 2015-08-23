@@ -14,7 +14,6 @@ This post may end up turning into me drooling over *[Avatar: Legend of Korra](ht
 
 <img class="wide" src="http://blogs-images.forbes.com/merrillbarr/files/2014/09/The-Legend-of-Korra-Book-3-27.png"/>
 
-
 ##What were they thinking?
 
 Last year Marvel hired [Milo Manara](http://www.milomanara.it/), the erotic artist, to draw cover art for some of their mainstream comics. This was a really stupid decision. You can read more about it [here](http://io9.com/check-out-spider-woman-1-starring-spider-womans-ass-1624535918), since they phrased it better than I can.
@@ -48,7 +47,6 @@ The article linked above expresses better than I can how frustrating it is to tr
 
 But I don't want to get too much into characterization and plot. Today I'm just here to talk about representations of women's bodies. 
 
-
 ##The Avatar Universe
 
 I am a fan. Just putting that out there.
@@ -62,7 +60,6 @@ The creators of Avatar actually do a great job of drawing the characters to refl
 
 Firebending requires agility. Since you can't really block with fire, dodging becomes an important skill. Earthbending, on the other hand, requires stability. As the great Toph Beifong phrased it:
 
-
 >"Rock is a stubborn element. If you're going to move it, you've gotta be like a rock yourself."
 
 The reason why I bring this up is because it's important to consider how to approach the muscularity of an avatar. Each bending discipline requires developing different muscle groups and different instincts, similar to how different sports produce very different looking bodies in their athletes.
@@ -72,7 +69,6 @@ Pictured below, second on the right is Connie Price-Smith, olympic shot-put athl
 <a href="http://www.mymodernmet.com/profiles/blogs/howard-schatz-beverly-ornstein-athlete"><img class="wide" src="http://api.ning.com/files/DtcI2O2Ry7AkCy3juXInP4bVMvCfpP-1evv5zfKqdLm7gP07YBqX7UXp8r3h9jxlPXLQFAir4PZdCHkKjgfT*r0vdgkrmHZQ/1082134545.jpeg"/></a>
 
 Throwing around heavy shit builds solid muscle from top to bottom. Her body is pretty similar to Korra's, actually.
-
 
 Tai Lee is an interesting example of body design. An olympic-level gymnast and circus performer, she should have crazy core strength. Instead she's given soft breasts and a tiny waist.
 

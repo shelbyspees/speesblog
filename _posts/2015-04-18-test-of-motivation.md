@@ -29,8 +29,7 @@ Weinberg gives several great reasons for keeping a journal:
 
 All of these are things I could find beneficial.
 
-
-<br/>
+##Progress
 
 I've failed this test. On multiple occasions.
 
@@ -46,7 +45,7 @@ Plus, isn't it sad that I'm making all these excuses not to do something that'll
 
 I read all these books on self-improvement but I won't bother to take the tiniest initial baby step to get there. Literally I just need to do it. Then I won't be a failure.
 
-<br/>
+##Gamification
 
 I like tests. I like doing well on tests. I think this is a good way to approach getting things done in my life.
 
@@ -56,15 +55,13 @@ If I make these little actions into a test where I actually fail if I don't comp
 
 Usually people recommend avoiding black-and-white thinking, but in this case I think I'll find it helpful. It literally just takes five minutes a day. Pass or fail. Do I really want to be a willpower failure?
 
-<aside>Btw, you should totally check out my <a href="https://www.beeminder.com/speesbag">Beeminder graphs.</a></aside>
-
 I've tried gamifying my attempts at self-improvement before. Notable examples include Fitocracy, Todoist, and Beeminder. Beeminder even puts my money on the line but I still find ways to fail. I guess I don't care that much about money.
 
-<aside>So simple, and yet I didn't put it together until now. It's funny how things just hit you after like, forever.</aside>
+So simple, and yet I didn't put it together until now. It's funny how things just hit you after like, forever.
 
 What do I care about? Passing tests. I can just do it and get it done and then I won't be a failure! That's what it takes for me.
 
-<br/>
+##Willpower
 
 Now, while journaling would be helpful for me I think I'm going to design my willpower test using different criteria:
 

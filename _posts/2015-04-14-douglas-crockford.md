@@ -6,22 +6,9 @@ category: best_practices
 
 I've been (slowly) reading Peter Seibel's [<i class="fa fa-book"></i> *Coders at Work*](http://www.codersatwork.com/).
 
-<aside>
-<ul class="aside-list">
-	<li><a href="#roles">On Roles</a></li>
-	<li><a href="#literacy">On Literacy</a></li>
-	<li><a href="#hiring">On Hiring</a></li>
-	<li><a href="#thoughts">My Thoughts</a></li>
-</ul></aside>
-
 Chapter 3 is the interview with Douglas Crockford, author of [<i class="fa fa-book"></i> *JavaScript: The Good Parts*](http://www.amazon.com/JavaScript-Good-Parts-ebook/dp/B0026OR2ZY/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=) and famous for specifying and popularizing [JSON](http://en.wikipedia.org/wiki/JSON). I'd like to include some quotes from the book that stood out to me.
 
-
-
-
-
-
-<h2 class="anchor" id="roles">On Roles</h2>
+##On Roles
 
 >**Seibel:** Do you consider yourself a scientist, an engineer, an artist, a craftsman, or something else?
 >
@@ -39,11 +26,7 @@ It's clear that a few influential professionals think that programming is very c
 
 While that's all well and good, computers don't buy your product. People do. If you want your project to be a positive force for the people involved, you have to make it so that it's understandable by people. I'm including every layer of human that your software touches until it reaches the end user: you, your team, QA, management, sales, support, the user, you again when you go back to do maintenance.
 
-
-
-
-
-<h2 class="anchor" id="literacy">On Literacy</h2>
+##On Literacy
 
 >**Seibel:** So Djikstra had a famous paper, "On the cruelty of really teaching computing science," that basically said computer programming is a branch of applied math. Do you agree?
 >
@@ -53,14 +36,7 @@ While that's all well and good, computers don't buy your product. People do. If 
 
 Why is literacy important? Reading is learning. Writing is teaching. Any project you work on will involve other humans. Unfortunately we haven't perfected telepathy quite yet, which means you're going to have to open your mouth and talk at some point or at least type out a few words. The more effective you get at this important job requirement the more smoothly your projects will go.
 
-
-
-
-
-
-
-
-<h2 class="anchor" id="hiring">On Hiring</h2>
+##On Hiring
 
 >**Seibel:** When you're hiring programmers, how do you recognize the good ones?
 >
@@ -77,10 +53,7 @@ to a difficult problem, Crockford gives a nice solution to a gap I've noticed wh
 
 Non-technical interviewers ask behavioral questions to judge the candidate's personality and work style. Technical interviewers ask coding questions to test the candidate's technical knowledge. Shouldn't the candidate's prospective team have a chance to judge the candidate on both their technical knowledge and their softer traits (personality, communication, presentation skills)?
 
-
-
-
-<h2 class="anchor" id="thoughts">My Thoughts</h2>
+##My Thoughts
 
 While I'm obviously very biased, I like Crockford's points here because I think communication is just so important. We're humans, we can't read each others' minds. Literally everything that's ever been created has been the result of some sort of communication. Here's my thinking:
 
