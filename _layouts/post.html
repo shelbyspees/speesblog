@@ -7,17 +7,17 @@
   <body>
     {% include header.html %}
     <div id='container'>
-      {% include links.html %}
+      <p>{% include links.html %}</p>
       {% include pages.html %}
+      {% include older-newer.html %}
         <article class='post'>
           <h1>
             {{ page.title }}
             <div><small class="post-date">{{ page.date | date_to_string }}</small></div>
           </h1>
           {{ content }}
-
-
         </article>
+      {% include older-newer.html %}
       <p>{% include links.html %}</p>
     </div>
     {% include footer.html %}

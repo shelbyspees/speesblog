@@ -1,0 +1,12 @@
+<section class="older-newer">
+  {% if page.previous %}
+  <a href="{{ page.previous.url | prepend: site.baseurl }}">
+    ← Older
+  </a>
+  {% endif %}
+  {% if page.next %}
+  <a href="{{ page.next.url | prepend: site.baseurl }}">
+    Newer →
+  </a>
+  {% endif %}
+</section>
