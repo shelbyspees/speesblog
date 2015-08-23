@@ -142,3 +142,9 @@ footer {
 	border-radius: 7px;
 	margin-left: 0;
 }
+
+.twitter-tweet {
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
