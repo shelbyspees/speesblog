@@ -40,6 +40,10 @@ mark {
 	color: inherit;
 }
 
+.fa-quote-left, .fa-quote-right {
+	color: #FDFDFD;
+}
+
 .no-bullet {
     list-style: none;
     padding: 0;

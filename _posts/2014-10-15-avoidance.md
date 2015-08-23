@@ -4,19 +4,16 @@ title: Avoidance
 category: mindfulness
 ---
 
->"I'll do it later."
->
->"I'm so behind."
->
->"I could do this now but I'd rather..."
->
->"I have plenty of time."
+<blockquote>
+<p>"I'll do it later."</p>
+<p>"I'm so behind."</p>
+<p>"I could do this now but I'd rather..."</p>
+<p>"I have plenty of time."</p>
+</blockquote>
 
 I discourage myself. I compare myself to others. Then I lie to myself. 
 
----
-
-###Stress-Reducing Thoughts:
+##Stress-Reducing Thoughts:
 
 **Preparation:** "I can do this."
 
@@ -31,13 +28,9 @@ I discourage myself. I compare myself to others. Then I lie to myself.
 
 **Success:** "I'm pretty awesome."
 
----
-
 Reinforce success.
 
 Be aware of my feelings of avoidance. I don't have to be right or wrong.
-
----
 
 My motivation for success is this:
 
