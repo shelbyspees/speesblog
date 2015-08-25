@@ -7,7 +7,6 @@
   <body>
     {% include header.html %}
     <div id='container'>
-      <p>{% include links.html %}</p>
       {% include pages.html %}
       {% include older-newer.html %}
         <article class='post'>
@@ -18,7 +17,6 @@
           {{ content }}
         </article>
       {% include older-newer.html %}
-      <p>{% include links.html %}</p>
     </div>
     {% include footer.html %}
   </body>

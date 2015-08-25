@@ -138,6 +138,10 @@ code {
 	font-weight: lighter;
 }
 
+header {
+	min-height: 115px;
+}
+
 footer {
 	font-size: initial;
 }
