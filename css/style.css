@@ -145,6 +145,8 @@ footer {
 #home-img {
 	border-radius: 7px;
 	margin-left: 0;
+	margin-right: 30px;
+    float: left;
 }
 
 .twitter-tweet {
