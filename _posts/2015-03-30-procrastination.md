@@ -10,7 +10,7 @@ It's a short listen/read but Pychyl does a great job of packing these condensed 
 
 ##Solving The Procrastination Puzzle
 
-###<i class="fa fa-star"></i> All procrastination is delay,<br>but not all delay is procrastination.
+###<i class="fa fa-star"></i> All procrastination is delay, but not all delay is procrastination.
 
 Procrastination is *needless voluntary delay*.
 
@@ -20,9 +20,9 @@ Procrastination is *needless voluntary delay*.
 | job applications | My application isn't strong enough. I don't know what to say. I need to work on projects and solidify my knowledge. I'm not ready to interview |
 | assignments | I'll be fine when I get to it. I have plenty of time. |
 
-<br>
+ 
 
-###<i class="fa fa-star"></i> Procrastination is failing to get on<br>with life itself.
+###<i class="fa fa-star"></i> Procrastination is failing to get on with life itself.
 
 People who score high in self-reports of procrastination also self-report lower achievement overall, more negative feelings, and even significantly more health problems.
 
@@ -61,9 +61,9 @@ Benefits of timely action:
 - potentially find great opportunity, leading to knowledge, skills, resume, career advancement
 - practice interviewing
 
-<br>
+ 
 
-###<i class="fa fa-star"></i> I won't give in to feel good.<br>Feeling good now comes at a cost.
+###<i class="fa fa-star"></i> I won't give in to feel good. Feeling good now comes at a cost.
 
 We want to feel good now and we will do whatever it takes for immediate mood repair, usually at the expense of long-term goals.
 
@@ -79,11 +79,11 @@ We want to feel good now and we will do whatever it takes for immediate mood rep
 
 *Suck it up.* The first step at the moment of procrastination is to stay put.
 
-**IF** I feel negative emotions when I face the task at hand,<br>**THEN** I will stay put. (rather than stop, put it off, or run away)
+**IF** I feel negative emotions when I face the task at hand, **THEN** I will stay put. (rather than stop, put it off, or run away)
 
 The above if-then statement is called an [*implementation intention*](https://www.psychologytoday.com/blog/dont-delay/201001/implementation-intentions-facilitate-action-control), and Pychyl has done his research. These work great for replacing old habits with new, better ones. When I eventually revisit [<i class="fa fa-book"></i> *The Power of Habit*](http://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU/ref=sr_1_1_twi_2_kin?ie=UTF8&qid=1427831871&sr=8-1&keywords=the+power+of+habit) I'll probably talk about these again.
 
-<br>
+ 
 
 ###<i class="fa fa-star"></i> I won't feel more like doing it tomorrow.
 
@@ -101,7 +101,7 @@ Expect to be wrong and deal with it.
 
 Expect that you will not feel overly enthused to get started when the time comes.
 
-<br>
+ 
 
 ###<i class="fa fa-star"></i> I need to be aware of my rationalizations.
 
