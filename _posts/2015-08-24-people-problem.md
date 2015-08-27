@@ -23,3 +23,7 @@ I've read [<i class="fa fa-book"></i> *The 7 Habits of Highly Effective People*]
 
 I won't even discuss [<i class="fa fa-book"></i> *How to Win Friends and Influence People*](http://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_1_ha?s=digital-text&ie=UTF8&qid=1440473545&sr=1-1&keywords=how+to+win+friends+and+influence+people). To summarize the message: Try to give a shit about people besides yourself. I promise, your life will get easier.
 
+What does maturity look like? Let's try to put together some criteria.
+
+- Do what you say you're gonna do when you say you're gonna do it.
+- 
