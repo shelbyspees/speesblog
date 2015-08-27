@@ -17,10 +17,10 @@ Procrastination is *needless voluntary delay*.
 **Task:** reading for school   
 **Feeling:** I already made some progress. It's not urgent right now.
 
-**Task:**: job applications  
+**Task:** job applications  
 **Feeling:** My application isn't strong enough. I don't know what to say. I need to work on projects and solidify my knowledge. I'm not ready to interview
 
-**Task:**: assignments   
+**Task:** assignments   
 **Feeling:** I'll be fine when I get to it. I have plenty of time.
 
 ###<i class="fa fa-star"></i> Procrastination is failing to get on with life itself.
