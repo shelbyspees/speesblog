@@ -14,11 +14,14 @@ It's a short listen/read but Pychyl does a great job of packing these condensed 
 
 Procrastination is *needless voluntary delay*.
 
-| Task | Feeling |
-| :--- | :--- |
-| reading for school | I already made some progress. It's not urgent right now. |
-| job applications | My application isn't strong enough. I don't know what to say. I need to work on projects and solidify my knowledge. I'm not ready to interview |
-| assignments | I'll be fine when I get to it. I have plenty of time. |
+Task: reading for school   
+Feeling: I already made some progress. It's not urgent right now.
+
+Task: job applications  
+Feeling: My application isn't strong enough. I don't know what to say. I need to work on projects and solidify my knowledge. I'm not ready to interview
+
+Task: assignments   
+Feeling: I'll be fine when I get to it. I have plenty of time.
 
  
 
