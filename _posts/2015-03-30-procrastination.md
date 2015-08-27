@@ -8,9 +8,9 @@ Today I finished [<i class="fa fa-book"></i> *Solving the Procrastination Puzzle
 
 It's a short listen/read but Pychyl does a great job of packing these condensed bits of information so you can use them right away. As a fan of his [podcast]() I know he's done his research, but Pychyl knows his audience. He didn't mess around. He wants you to **just get started.**
 
-#Solving The Procrastination Puzzle
+##Solving The Procrastination Puzzle
 
-##<i class="fa fa-star"></i> All procrastination is delay,<br>but not all delay is procrastination.
+###<i class="fa fa-star"></i> All procrastination is delay,<br>but not all delay is procrastination.
 
 Procrastination is *needless voluntary delay*.
 
@@ -22,13 +22,13 @@ Procrastination is *needless voluntary delay*.
 
 <br>
 
-##<i class="fa fa-star"></i> Procrastination is failing to get on<br>with life itself.
+###<i class="fa fa-star"></i> Procrastination is failing to get on<br>with life itself.
 
 People who score high in self-reports of procrastination also self-report lower achievement overall, more negative feelings, and even significantly more health problems.
 
 When we procrastinate on our goals, we are our own worst enemy. We only have a finite amount of time to live.
 
-###Task: reading for school
+####Task: reading for school
 
 Costs of procrastination:
 
@@ -46,7 +46,7 @@ Benefits of timely action:
 - pride
 - plants seeds for future ideas
 
-###Task: job applications
+####Task: job applications
 
 Costs of procrastination:
 
@@ -63,7 +63,7 @@ Benefits of timely action:
 
 <br>
 
-##<i class="fa fa-star"></i> I won't give in to feel good.<br>Feeling good now comes at a cost.
+###<i class="fa fa-star"></i> I won't give in to feel good.<br>Feeling good now comes at a cost.
 
 We want to feel good now and we will do whatever it takes for immediate mood repair, usually at the expense of long-term goals.
 
@@ -85,7 +85,7 @@ The above if-then statement is called an [*implementation intention*](https://ww
 
 <br>
 
-##<i class="fa fa-star"></i> I won't feel more like doing it tomorrow.
+###<i class="fa fa-star"></i> I won't feel more like doing it tomorrow.
 
 We have a bias when we predict future mood (affective) states in relation to positive or negative events.
 
@@ -103,7 +103,7 @@ Expect that you will not feel overly enthused to get started when the time comes
 
 <br>
 
-##<i class="fa fa-star"></i> I need to be aware of my rationalizations.
+###<i class="fa fa-star"></i> I need to be aware of my rationalizations.
 
 Tendency to:
 
