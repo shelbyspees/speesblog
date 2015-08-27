@@ -12,8 +12,8 @@
         <article class='post'>
           <h1>
             {{ page.title }}
-            <div><small class="post-date">{{ page.date | date_to_string }}</small></div>
           </h1>
+          <span class="post-date">{{ page.date | date_to_string }}</span>
           {{ content }}
         </article>
       {% include older-newer.html %}

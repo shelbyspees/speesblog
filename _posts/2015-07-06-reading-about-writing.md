@@ -136,7 +136,7 @@ But two authors whose use of characterization I really enjoy are   Robin Hobb ([
 
 Both authors put you inside the characters' heads, revealing their thoughts and perceptions of the events taking place in their world. These characters are flawed, interesting, perfectly imperfect.
 
-My 12th-grade-English level character analysis won't do me any favors here. >My point is that the characters are the story. Also, you should be reading more.
+My 12th-grade-English level character analysis won't do me any favors here. My point is that the characters are the story. Also, you should be reading more.
 
 ##The Process
 
