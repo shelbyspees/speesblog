@@ -31,7 +31,7 @@ blockquote {
     padding: .2em 32px;
     margin: inherit;
     margin-bottom: 10px;
-    border-left: black;
+    border-left: #444;
     border-left-style: inset;
 }
 
