@@ -13,7 +13,7 @@ Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Kno
 
 ##Reinvent the Wheel Often by Jason P. Sage
 
-"Just use something that exists — it's silly to reinvent the wheel..."
+>"Just use something that exists — it's silly to reinvent the wheel..."
 
 Have you ever heard this or some variation thereof? Sure you have! Every developer and student probably hears comments like this frequently. Why though? Why is reinventing the wheel so frowned upon? Because, more often than not, existing code is working code. It has already gone through some sort of quality control, rigorous testing, and is being used successfully. Additionally, the time and effort invested in reinvention are unlikely to pay off as well as using an existing product or code base. Should you bother reinventing the wheel? Why? When?
 

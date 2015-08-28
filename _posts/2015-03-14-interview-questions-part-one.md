@@ -34,7 +34,7 @@ This blog.
 
 Sometimes in a meeting or another group setting, when one person is trying to ask a question or make a point and I can sense that the other person isn't quite understanding it, I'll try to gently clarify for both parties. It looks kind of like this:
 
-*Correct me if I'm misunderstanding this, but I think [speaker] is asking about how XYZ will blah blah.*
+>Correct me if I'm misunderstanding this, but I think [speaker] is asking about how XYZ will blah blah.
 
 And the times I've said things like this, often [speaker] will say something like, "Yes, Shelby said exactly what I'm trying to say."
 
