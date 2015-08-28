@@ -142,6 +142,10 @@ header {
 	min-height: 115px;
 }
 
+#home-link {
+	margin: 0;
+}
+
 footer {
 	font-size: initial;
 }
