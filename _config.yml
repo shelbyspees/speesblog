@@ -2,6 +2,7 @@ title:            speesblog
 description:      my external brain.
 url:              http://speesbag.me/
 baseurl:
+portfoliourl:     http://shelbyspees.com/
 
 links:
   - name:         posts
@@ -13,7 +14,7 @@ links:
   - name:         topics
     url:          /topics
   - name:         shelbyspees.com <i class="fa fa-external-link"></i>
-    url:          http://shelbyspees.com
+    url:          http://shelbyspees.com/
 
 highlighter:      pygments
 permalink:        pretty
@@ -23,6 +24,14 @@ redcarpet:
     - smart
 
 social:
+  - name:         linkedin
+    url:          http://linkedin.com/in/shelbyspees
+    icon:         <i class="fa fa-linkedin-square"></i>
+    external:     true
+  - name:         github
+    url:          https://github.com/shelbyspees
+    icon:         <i class="fa fa-github-square"></i>
+    external:     true
   - name:         twitter
     url:          https://twitter.com/speesbag/
     icon:         <i class="fa fa-twitter-square"></i>
@@ -30,8 +39,4 @@ social:
   - name:         instagram
     url:          https://instagram.com/speesbag/
     icon:         <i class="fa fa-instagram"></i>
-    external:     true
-  - name:         github
-    url:          https://github.com/shelbyspees
-    icon:         <i class="fa fa-github-square"></i>
     external:     true
