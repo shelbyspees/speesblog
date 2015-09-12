@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Semi-Technical Reads"
-permalink: /reading/tech/
+permalink: /tech/
 ---
 
 <div class="reading-container">
