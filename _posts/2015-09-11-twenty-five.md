@@ -15,7 +15,7 @@ Living alone has been my dream since middle school. I've always loved being home
 
 My face feels smiley. Ahaha.
 
-Honestly though, this past week has been seriously mind-blowing. I have an office. I have a career-type job. I have an apartment. I have real income. Six months ago I thought I'd be hustling for mediocre internships. Now I can say I work on awesome software tools that support global communication networks.
+Honestly though, this past week has been seriously mind-blowing. I have an office. I have a career-type job. I have an apartment. I have real income. Six months ago I thought I'd be hustling for mediocre internships at this point. Now I can say I work on awesome software tools that support global communication networks.
 
 My projects at work are interesting and challenging. My supervisors trust me to get things done. I'm constantly learning. I'm accomplishing really impressive things. Like, what?
 
@@ -29,7 +29,7 @@ Like, what? There's no way I could have supported myself working forty hours a w
 
 I'm still the same person now. But I'm valued. I'm full-time-with-benefits valued.  
 
-What really messes with me is that I'm not very different from my friends who are working 1x-2x as hard as me. Why am I so lucky? Is it just because I happened upon the right subreddit, the right job postings, the right major?
+What really messes with me is that I'm not very different from my friends who are working 1x-2x as hard as me. Why am I so lucky? Is it just because I happened upon the right [subreddit](http://www.reddit.com/r/cscareerquestions/), the right job postings, the right major?
 
 That's really the clincher. The major.
   
@@ -51,7 +51,9 @@ Something else I shouldn't ignore is my social life. I cancelled my end-of-summe
 
 And the relationship thing. Ugh. I'm entering my 'late' twenties. I wouldn't call them late, really. I feel like they came early. >.>
 
-Before this summer I had an excuse. I didn't want to get married until same-sex marriage was legal in all fifty states. Well I was living under a rock all through May and June so the supreme court decision totally snuck up on me. Now I have no excuse. I can marry whomever I want whenever I want. That is, if there's anyone who'd want to marry me.
+Before this summer I had an excuse. I didn't want to get married until same-sex marriage was legal in all fifty states. Well I was living under a rock all through May and June so the Supreme Court decision totally snuck up on me. 
+
+Now I have no excuse. I can marry whomever I want whenever I want. That is, if there's anyone who'd want to marry me.
 
 I'm such a commitment-phobe. I can't imagine any of my friends getting married or having kids. Especially not me. Not like I'm my friend, but you know.
 
