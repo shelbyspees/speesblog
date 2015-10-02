@@ -21,15 +21,23 @@ The main thing that's been hard for me, though, is getting handle on all the quo
 
 I've highlighted the crap out of a lot of these articles. This is the main reason why I use Evernote, actually. If I'm reading an article or a blog post online and I think, "Man, I wish I could highlight that," it gets clipped to Evernote immediately. Then just `control` + `command` + `H`. (Also, it's amazing that Evernote and Preview have the same keyboard shortcut for highlighting. It's the little things.)
 
-But it's not easy to collect those highlighted sections in a way that makes it easy to link back to the original article. Regular text lists aren't visual enough, which makes it hard to organize by topic. Even Scrivener---though I admit I'm still learning all the features---seemed to over-complicate my quote-collecting. In walks Trello.
+But until now I hadn't figured out a way to collect those highlighted sections so it's easy to link back to the original article. Regular text lists aren't visual enough, plus it's hard to organize by topic. Even Scrivener---though I admit I'm still learning all the features---seemed to over-complicate my quote-collecting.
+
+In walks Trello.
+
+![Trello Board](https://i.imgur.com/equrEFm.png)
 
 I've been resisting Trello for years. I couldn't find a use for it before. But I get it now. It's not a to-do list. It's not a task list. It's a hierarchy of ideas.
 
 There are a million ways to use Trello. My way probably isn't the most exciting but I'll show what I've done. 
 
-![Trello Board](https://i.imgur.com/equrEFm.png)
+The screenshot above is titled "Software Writing" because each list in the board was to be an outline for an article. (It's getting too big though so I might have to break it up somehow. I wanted to keep everything in this one board so I can just copy over all my quotes from Evernote into "New". Then I'll move them around among the lists depending on whatever topic they fit best. Breaking it up into separate boards will be hard since I don't have all the possible topics yet.)
 
-I called this board "Software Writing" because each list in the board was to be an outline for an article. (Actually I'm realizing it's getting too big so I might have to break it up. What's hard is that I want to keep everything in this one board for now so I can copy over all the quotes into "New" first and then move them around among the lists depending on whatever topic they fit best. This is especially important since I haven't figured out all the possible topics yet.) For each topic I'd populate it with quote-notes and then add my own notes to basically outline the entire article. Then once I felt I did the topic justice I'd copy the contents of the list over to a text file and round it out. I love outlines.
+![Trello zoomed out](http://i.imgur.com/KFMj4Oz.png)
+
+...Never mind I think I figured it out.
+
+For each topic I'd populate it with quote-notes and then add my own notes to basically outline the entire article. Then once I felt I did the topic justice I'd copy the contents of the list over to a text file and round it out. I love outlines.
 
 So far I have the following lists/topics:
 
