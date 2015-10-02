@@ -7,13 +7,13 @@ So lately there have been a lot of articles that I want to quote. Things about c
 
 Okay.
 
-##People # TODO
+## People # TODO
 
 One thing that I've encountered is that no technology, no methodology, nothing can substitute or supplement good people. You need quality people to create quality products, especially in software where it's all knowledge work. It's all thinking. Sure, you can automate things. But the only way to tell if you're going in the right direction is by trusting in those good people.
 
 In Reginald Braithwaite's book [*What I've Learned from Failure*](https://leanpub.com/shippingsoftware/read), Braithwaite tells the story of 
 
-##Features
+## Features
 
 Minimal iterations. Testing--unit tests, integration tests, user acceptance tests--for every iteration.
 
@@ -39,7 +39,7 @@ Braithwaite also posits that the real scare resource in these situations isn't d
 
 Bonus side-effect: By developing a complete product each step of the way you'll have tons of experience making the different technologies work together, or at least you'll find out right away when they don't. 
 
-##Goals
+## Goals
 
 How do you define a successful project? Here's a possible answer:
 
