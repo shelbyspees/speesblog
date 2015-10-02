@@ -54,7 +54,7 @@ So far I have the following lists/topics:
 
 My "New" list is where I'm dumping all my quotes until I move them to the appropriate topic. Basically when enough quotes share a topic that's not accounted for, I make a new list for it.
 
-By the way, I'm still on `A`. Yeah, I'm going alphabetically. Because this is the way I decided to do it. And a lot of these articles *haven't* been highlighted.
+By the way, I'm still on `A`. Yeah, I'm going alphabetically. Because this is the way I decided to do it. And a lot of these articles *haven't* been highlighted. I still have to read them.
   
 It's a process. By the end, though, I'll have the best collection of software career quotes you've ever seen in your life.
 
