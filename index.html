@@ -2,15 +2,16 @@
 layout: index
 ---
 
-<h1>posts</h1>
+<div class="col-sm-8 blog-main">
 
-<ul class="no-bullet">
   {% for post in site.posts %}
-  <li>
-  	<table>
-  		<td class="td-align"><span class="post-date" data-time="{{ post.date }}">{{ post.date | date_to_string }}</span></td>
-  		<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
-  	</table>
-  </li>
+    <div class="blog-post">
+      <h2 class="blog-post-title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      <p class="blog-post-meta">{{ post.date | date_to_string }}</p>
+      {{ post.excerpt }}
+    </div>
   {% endfor %}
-</ul>
+
+</div>

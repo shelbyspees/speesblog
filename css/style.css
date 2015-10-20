@@ -1,44 +1,187 @@
+/*
+ * Globals
+ */
+
 body {
-	margin: 40px auto;
-	max-width: 700px;
-	line-height: 1.6;
-	font-size: 18px;
-	color: #444;
-	background-color: #FDFDFD;
-	padding: 0 10px;
-	font-family: 'Open Sans', sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #555;
 }
 
-h1, h2, h3 {
-	line-height: 1.2em;
-	font-size: -webkit-box-sizing;
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin-top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #333;
 }
 
-h1 {
-	margin: 0;
-	font-size: -webkit-xxx-large;
+
+/*
+ * Override Bootstrap's default container.
+ */
+
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
 }
 
-strong {
-    font-weight: 700;
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
-table {
-	font-size: inherit;
+
+/*
+ * Masthead for nav
+ */
+
+.blog-masthead {
+  background-color: #428bca;
+  -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
+          box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
 }
 
-blockquote {
-    padding: .2em 32px;
-    margin: inherit;
-    margin-bottom: 10px;
-    border-left: #444;
-    border-left-style: inset;
+/* Nav links */
+.blog-nav-item {
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+  font-weight: 500;
+  color: #cdddeb;
+}
+.blog-nav-item:hover,
+.blog-nav-item:focus {
+  color: #fff;
+  text-decoration: none;
 }
 
-mark {
-	background-color: lightyellow;
-	color: inherit;
+/* Active state gets a caret at the bottom */
+.blog-nav .active {
+  color: #fff;
 }
+.blog-nav .active:after {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 0;
+  margin-left: -5px;
+  vertical-align: middle;
+  content: " ";
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid;
+  border-left: 5px solid transparent;
+}
+
+
+/*
+ * Blog name and description
+ */
+
+.blog-header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.blog-title {
+  margin-top: 30px;
+  margin-bottom: 0;
+  font-size: 60px;
+  font-weight: normal;
+}
+.blog-description {
+  font-size: 20px;
+  color: #999;
+}
+
+
+/*
+ * Main column and sidebar layout
+ */
+
+.blog-main {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* Sidebar modules for boxing content */
+.sidebar-module {
+  padding: 15px;
+  margin: 0 -15px 15px;
+}
+.sidebar-module-inset {
+  padding: 15px;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+.sidebar-module-inset p:last-child,
+.sidebar-module-inset ul:last-child,
+.sidebar-module-inset ol:last-child {
+  margin-bottom: 0;
+}
+
+
+/* Pagination */
+.pager {
+  margin-bottom: 60px;
+  text-align: left;
+}
+.pager > li > a {
+  width: 140px;
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 30px;
+}
+
+
+/*
+ * Blog posts
+ */
+
+.blog-post {
+  margin-bottom: 60px;
+}
+.blog-post-title {
+  margin-bottom: 5px;
+  font-size: 40px;
+}
+.blog-post-meta {
+  margin-bottom: 20px;
+  color: #999;
+}
+
+
+/*
+ * Footer
+ */
+
+.blog-footer {
+  padding: 40px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+/*
+ * CUSTOM SHIT
+ */
 
 .fa-quote-left, .fa-quote-right {
 	color: lightgray;
@@ -81,50 +224,6 @@ mark {
   padding-bottom: 30px;
 }
 
-header, footer, .links {
-	color: rgba(128, 128, 128, 0.68);
-	font-weight: lighter;
-}
-
-a {
-	color: #5CABA9;
-	text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-    color: #444;
-}
-
-img {
-	max-width: 100%;
-	display: block;
-    margin-left: auto;
-    margin-right: auto
-}
-
-img.half {
-	width: 50%;
-}
-
-pre {
-  overflow-x: auto;
-  width: 100%;
-  padding: 15px;
-  line-height: 1.2em;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-code {
-	font-family: 'Source Code Pro', monospace;
-	font-size: 0.8em;
-	color: white;
-	padding: 2px 6px;
-	background: #444;
-	border-radius: 7px;
-}
 
 .paging a {
 	opacity: 0.25;
@@ -153,27 +252,8 @@ code {
 	font-weight: lighter;
 }
 
-header {
-	min-height: 115px;
-}
-
-#home-link {
-	margin: 0;
-}
-
-footer {
-	font-size: initial;
-}
-
-#home-img {
-	border-radius: 7px;
-	margin-left: 0;
-	margin-right: 30px;
-    float: left;
-}
-
 .twitter-tweet {
 	display: block;
-    margin-left: auto;
-    margin-right: auto
+  margin-left: auto;
+  margin-right: auto
 }

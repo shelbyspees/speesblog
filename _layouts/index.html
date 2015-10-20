@@ -1,16 +1,26 @@
+<!DOCTYPE html>
 <html>
   <head>
     <meta content='{{ site.title }}' property='og:title' />
     <title>{{ site.title }}</title>
     {% include head.html %}
+<link href='/css/style.css' rel='stylesheet' type='text/css' />
   </head>
-  <body>
-    {% include header.html %}
-    <div id='container'>
-      <article class="content">
+  <body role="document">
+    <div class="blog-masthead">
+      {% include nav.html %}
+    </div>
+    <div class="container">
+      {% include header.html %}
+      <div class="row">
         {{ content }}
-      </article>
+        {% include sidebar.html %}
+      </div>
+
     </div>
     {% include footer.html %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   </body>
 </html>
