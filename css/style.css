@@ -6,15 +6,15 @@ body {
 	color: #444;
 	background-color: #FDFDFD;
 	padding: 0 10px;
-	font-family: 'Open Sans', sans-serif;;
+	font-family: 'Open Sans', sans-serif;
 }
 
-h1, h2, h3 { 
-	line-height: 1.2em; 
-	font-size: -webkit-box-sizing; 
+h1, h2, h3 {
+	line-height: 1.2em;
+	font-size: -webkit-box-sizing;
 }
 
-h1 { 
+h1 {
 	margin: 0;
 	font-size: -webkit-xxx-large;
 }
@@ -66,6 +66,21 @@ mark {
   margin-right: auto;
 }
 
+.reading-container {
+  padding-top: 30px;
+}
+
+.reading {
+  width: 100%;
+  overflow: auto;
+}
+
+.reading-img {
+  float: left;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
 header, footer, .links {
 	color: rgba(128, 128, 128, 0.68);
 	font-weight: lighter;
@@ -85,7 +100,7 @@ img {
 	max-width: 100%;
 	display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto
 }
 
 img.half {
@@ -160,5 +175,5 @@ footer {
 .twitter-tweet {
 	display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto
 }
