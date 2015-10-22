@@ -5,10 +5,8 @@ baseurl:
 portfoliourl:     http://shelbyspees.com/
 
 links:
-  - name:         posts
+  - name:         speesblog
     url:          /
-  - name:         about
-    url:          /about
   - name:         reading
     url:          /reading
   - name:         topics
@@ -22,6 +20,9 @@ markdown:         kramdown
 redcarpet:
   extensions:
     - smart
+
+sass:
+  sass_dir:       _sass
 
 social:
   - name:         linkedin
