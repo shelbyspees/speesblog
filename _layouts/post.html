@@ -1,14 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
-    <title>{{ page.title }} - {{ site.title }}</title>
-    {% include head.html %}
-  </head>
+  {% include head.html %}
   <body role="document">
-    <div class="blog-masthead">
       {% include nav.html %}
-    </div>
     <div class="container">
       {% include header.html %}
       <div class="row">
@@ -19,7 +13,7 @@
           <a href="{{ post.url }}">{{ post.title }}</a>
           </h2>
           {{ content }}
-        </div> <!-- .blog-posts -->
+        </div> <!-- .blog-post -->
       </div> <!-- .blog-main -->
         {% include sidebar.html %}
       </div> <!-- .row -->

@@ -1,7 +1,7 @@
 title:            speesblog.com
 description:      my external brain.
 url:              http://speesblog.com/
-baseurl:
+baseurl:          ""
 portfoliourl:     http://shelbyspees.com/
 
 links:
