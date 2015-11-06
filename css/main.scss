@@ -1,0 +1,19 @@
+---
+---
+@charset "utf-8";
+
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "bootstrap-compass",
+        "bootstrap",
+        "style"
+;
+
+$brand-primary:         #4C6275 !important;

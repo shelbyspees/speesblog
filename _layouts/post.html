@@ -1,23 +1,25 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
-    <title>{{ page.title }} - {{ site.title }}</title>
-    {% include head.html %}
-  </head>
-  <body>
-    {% include header.html %}
-    <div id='container'>
-      {% include pages.html %}
-      {% include older-newer.html %}
-        <article class='post'>
-          <h1>
-            {{ page.title }}
-          </h1>
-          <span class="post-date">{{ page.date | date_to_string }}</span>
+  {% include head.html %}
+  <body role="document">
+      {% include nav.html %}
+    <div class="container">
+      {% include header.html %}
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+
+        <div class="blog-post">
+          <h2 class="blog-post-title">
+          <a href="{{ page.url }}">{{ page.title }}</a>
+          </h2>
           {{ content }}
-        </article>
-      {% include older-newer.html %}
-    </div>
+        </div> <!-- .blog-post -->
+      </div> <!-- .blog-main -->
+        {% include sidebar.html %}
+      </div> <!-- .row -->
+    </div> <!-- .container -->
     {% include footer.html %}
+    <scrippt src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <scrit src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   </body>
 </html>
