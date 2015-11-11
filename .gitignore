@@ -1,2 +1,4 @@
 _site
 misc.txt
+.sass-cache
+_sass/bootstrap
