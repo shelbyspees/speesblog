@@ -14,7 +14,7 @@ I always envied boys growing up. They didn't have to worry about how their hair 
 
 My long, thick hair didn't cooperate no matter what I did. When I hit puberty, it decided to turn frizzy and wavy. If I tried blow-drying it, I'd look like this (but you know, significantly less confident. And with horrible skin):
 
-<img class="center" style="width: 100%;" src="http://blog.lokikoki.pl/wp-content/uploads/2010/11/frizzy-h.jpg"/>
+<img class="img-responsive" style="width: 100%;" src="http://blog.lokikoki.pl/wp-content/uploads/2010/11/frizzy-h.jpg"/>
 
 In 11th grade I'd wake up at 4:45am every day to shower, blow dry, flat iron, get dressed, do makeup, and then leave for school at 6:30am. I have no idea how I took seven APs in high school and graduated with a 3.92 GPA while doing all of this. Plus I was concertmaster of two orchestras, like a crazy woman. (Okay, yeah, humblebrag.)
 

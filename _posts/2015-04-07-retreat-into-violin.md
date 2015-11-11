@@ -6,7 +6,7 @@ category: mindfulness
 
 For the past week or so I've been itching to play violin.
 
-<img class="wide" src="{{ site.url }}/assets/files/violin2.jpg"/>
+<img class="img-responsive" src="{{ site.url }}/assets/files/violin2.jpg"/>
 
 I haven't picked up my violin since October, when I reorganized my room and [packed my backpack](http://shelbyspees.github.io/speesblog/travel/2014/10/27/backpacking.html) to see how little I can live with. I decided to stow away my binders of sheet music on a shelf in my closet and I started using my music stand as a clothes rack.
 
@@ -16,7 +16,7 @@ Over the weekend when I was working on my assignments I had the strongest urge t
 
 It was hard to find a good time though. I usually get my musical urges at inappropriate times, like late at night when my parents are asleep or right before I'm supposed to head into work.
 
-<img class="wide" src="{{ site.url }}/assets/files/violin1.jpg"/>
+<img class="img-responsive" src="{{ site.url }}/assets/files/violin1.jpg"/>
 
 So earlier today when I felt the same urge and I realized it was a good time, I finally pulled out my case and opened it up. I wasn't sure how much of my skills I'd lost, but once I put some music in front of me I was surprised how decent I sounded.
 

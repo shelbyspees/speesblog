@@ -58,7 +58,7 @@ void _initBST(struct BST * tree) {
 
 Here's a visualization of what this gives us:
 
-<img class="wide" src="{{ site.url }}/assets/comp/initBST.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/initBST.png"/>
 
 Everything in this image is a part of `tree`. 
 
@@ -68,7 +68,7 @@ Think of it like an empty lot. There's a building at 55 Main St. and a building 
 
 So now we have a value and we want to add it to the tree. The value is added in the form of a node, and in this case, it's going to become the root node. Say we add a node with the value `17`. (I won't discuss [applications of the BST]({{ site.url }}{% post_url 2015-03-11-finals-bag-adt %}#bst-bag) here, but assume we have a good reason for doing so.)
 
-<img class="wide" src="{{ site.url }}/assets/comp/init-addBST.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/init-addBST.png"/>
 
 Now the value that `root` holds is `17`. "But wait a second, doesn't `tree` point to `17`?" you ask. Well, `tree` points to `root`, and `root` is a `struct Node` object that holds the integer value `17`. Now's probably a good time to discuss the composition of a `struct Node` object.
 
@@ -86,7 +86,7 @@ Well, let's look at a more full tree to understand the purpose of this better.
 
 <h3 class="anchor" id="contains">contains()</h3>
 
-<img class="wide" src="{{ site.url }}/assets/comp/bst-colors.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/bst-colors.png"/>
 
 Obviously the computer doesn't see any of this, it's just an arbitrary categorization (like masculine and feminine in Romance languages). But it helps us define ways to organize the data.
 
@@ -94,7 +94,7 @@ Circled in yellow is the `root` node, currently holding the value `42`. All of t
 
 Isn't that neat? Even as you go down the subtree, the values of the left children of each node is less than the value at the node, and all the values of the right children are greater.
 
-<img class="wide" src="{{ site.url }}/assets/comp/bst-sub-colors.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/bst-sub-colors.png"/>
 
 So now if we try to search for our original value of `17`, we go *left* of `42`, *right* of `16`, and *left* of `19`. That's a lot of trouble for just finding one number, isn't it? Actually it isn't.
 
@@ -232,7 +232,7 @@ The nice thing about this `add` function is that you only have to go down the tr
 
 Say I wanted to add the value `55` to my tree after quickly learning it wasn't there thanks to my super fast `contains` function.
 
-<img class="wide" src="{{ site.url }}/assets/comp/bst-add-colors.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/bst-add-colors.png"/>
 
 - right at `42`
 - right at `50`
@@ -257,7 +257,7 @@ for (i = 0; i < count; i++) {
 
 We would end up with a tree that looks like this:
 
-<img class="wide" src="{{ site.url }}/assets/comp/bst-unbalanced.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/bst-unbalanced.png"/>
 
 Completely unbalanced. In this case, the `contains` function is no different from that of a dynamic array or linked list. You lose all the benefit of the binary search tree but you keep all the hassle of the recursive comparisons.
 

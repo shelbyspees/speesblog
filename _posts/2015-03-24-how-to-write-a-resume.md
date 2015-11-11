@@ -29,7 +29,7 @@ Jump to:
 >[Format](#format)
 
 
-<h2 class="anchor" id="header">Header</h2>
+<h2 class="" id="header">Header</h2>
 
 The header should always contain the following:
 
@@ -53,7 +53,7 @@ Do not include:
 >(999) 999-9999   
 >firstlast.github.io [OR] linkedin.com/in/firstlast
 
-<h2 class="anchor" id="objective"><s>Objective</s></h2>
+<h2 class="" id="objective"><s>Objective</s></h2>
 
 <s>Objective: To obtain a position in which I can utilize my skills...</s>
 
@@ -62,7 +62,7 @@ No. Stop. Don't include an objective. Instead, write a [great cover letter]({{ s
 
 You may come across a situation where it makes sense to include a summary. That's different.
 
-<h2 class="anchor" id="summary">Summary</h2>
+<h2 class="" id="summary">Summary</h2>
 
 Include:
 
@@ -88,7 +88,7 @@ Those last two points are the main reason why you'd include a summary, as oppose
 
 If you're a student or recent graduate (<1 year after graduation), education goes next. Otherwise experience goes next.
 
-<h2 class="anchor" id="education">Education</h2>
+<h2 class="" id="education">Education</h2>
 
 Order of importance:
 
@@ -108,7 +108,7 @@ Order of importance:
 >GPA: 3.48  
 ><s>Minor in Education</s> (I leave this off nowadays since I have two degrees to fit in)
 
-<h2 class="anchor" id="experience">Experience</h2>
+<h2 id="experience">Experience</h2>
 
 Definitely the most important section of your resume. Don't screw this up.
 
@@ -180,7 +180,7 @@ Check out this example bullet:
 
 
 
-<h2 class="anchor" id="projects">Projects</h2>
+<h2 id="projects">Projects</h2>
 
 This section is usually geared more toward students and new grads, since experienced professionals will have actual applicable experience to discuss in the section above. Projects are also a great way to show off your personality and interests. 
 
@@ -205,7 +205,7 @@ For example:
 
 
 
-<h2 class="anchor" id="skills">Skills</h2>
+<h2 class="" id="skills">Skills</h2>
 
 I usually do this section in a table of some sort. This way it's easy to line things up vertically.
 
@@ -227,7 +227,7 @@ I usually do this section in a table of some sort. This way it's easy to line th
 
 
 
-<h2 class="anchor" id="dont-include">Don't Include</h2>
+<h2 class="" id="dont-include">Don't Include</h2>
 
 - Objective
 - "References available upon request"
@@ -245,25 +245,19 @@ I usually do this section in a table of some sort. This way it's easy to line th
 
 
 
-<h2 class="anchor" id="examples">Examples</h2>
+<h2 class="" id="examples">Examples</h2>
 
 This first example helped me get the interview for my first internship. I wrote it about three months after I started my CS degree. I had a lot of cool experience that totally didn't relate to the positions I was applying for, so I made a section called "Activities" where I briefly summarized each one. Basically, it showed that I'd been busy.
 
-<img class="center" src="{{ site.url }}/assets/files/lines.png"/>
-
-<br>
+<img class="img-responsive" src="{{ site.url }}/assets/files/lines.png"/>
 
 This next resume, along with a heartfelt cover letter, got me to the first round of the Google Speech Evaluator application last summer for which I got to take a neat phonetic transcription test. I think I took too long on the test, but the hiring manager was really nice.
 
-<img class="center" src="{{ site.url }}/assets/files/june.png"/>
-
-<br>
+<img class="img-responsive" src="{{ site.url }}/assets/files/june.png"/>
 
 This is my most recent resume. I still don't have any useful skills or decent projects, but at least it's readable.
 
-<img class="center" src="{{ site.url }}/assets/files/march.png"/>
-
-<br>
+<img class="img-responsive" src="{{ site.url }}/assets/files/march.png"/>
 
 
 
@@ -273,8 +267,8 @@ This is my most recent resume. I still don't have any useful skills or decent pr
 
 
 
-<h2 class="anchor" id="format">Format</h2>
+<h2 class="" id="format">Format</h2>
 
 Here's an example of how to use tables to improve resume format. Note that the content here can use a lot more detail, and I changed some of the wording to anonymize this example so it might not make perfect sense.
 
-<img class="center" src="{{ site.url }}/assets/files/tables.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/files/tables.png"/>

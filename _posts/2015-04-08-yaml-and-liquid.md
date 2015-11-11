@@ -55,7 +55,7 @@ After pouring over the [Jekyll documentation]() for a while I finally put it tog
 
 It took me a while to shake out the initial bugs--mostly issues with too many or not enough quotation marks--and for a while my Reading page was stuck like this:
 
-<img class="wide" src="{{ site.url }}/assets/comp/bad-read.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/bad-read.png"/>
 
 <aside top="1950px">I'm having so much trouble formatting the code in this post. It's great that Liquid still plugs in variables if I want them formatted like code, but that means it's significantly harder to get my point across here.</aside>
 
@@ -89,7 +89,7 @@ And I went back into my `tech.yml` file and changed it to this:
 
 And it didn't work. When I open up my reading page I get this:
 
-<img class="wide" src="{{ site.url }}/assets/comp/nil-read.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/nil-read.png"/>
 
 Which is Ruby for "`site.in_progress` is returning `nil`, you dummy. I don't know what the heck you're trying to reference here but I'm pretty sure it doesn't exist."
 

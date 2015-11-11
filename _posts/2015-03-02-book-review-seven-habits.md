@@ -48,7 +48,7 @@ Habit 2 was about the bird's-eye view of how you want your life to be. Habit 3 i
 
 Putting first things first is about doing the things that are available to you now to get you closer to your Habit 2 Self. The Urgency vs. Importance matrix is super useful to understand here.
 
-<img class="wide" src="{{ site.url }}/assets/comp/urgency-importance.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/urgency-importance.png"/>
 
 These are just some token examples, but I want you to notice Quadrant II. Exercise, meditation, stretching, studying--the things I'm most likely to put off.
 
@@ -86,7 +86,7 @@ Of course not every student needed or wanted advice, but most were there to impr
 
 Here's an example of the repercussions of not following this guideline in the field of software:
 
-<img class="wide" src="{{ site.url }}/assets/comp/soft-comic.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/soft-comic.png"/>
 
 Understanding the market, understanding customer needs, that's what builds a legacy. Understanding stakeholders and constituents is what helps the most people. Understanding your loved ones gives you the most influence, and it gives you the ability to wield that influence like a paintbrush rather than a club.
 

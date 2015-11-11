@@ -25,7 +25,7 @@ In the dark of the night, I'm doomed to be attacked by my thoughts.
 
 Fix Reading page so that each book has the cover image on the left and the information on the right, like this:
 
-<img class="wide" src="{{ site.url }}/assets/comp/reading.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/reading.png"/>
 
 This is going to involve a lot of steps I think, unless I want to rewrite the entire page in pure HTML:
 

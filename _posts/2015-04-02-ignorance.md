@@ -12,7 +12,7 @@ Another way I'll approach a book is by breaking it down into an outline or summa
 
 My favorite way, the most time-consuming, is to treat it like a workbook. Most of these non-fiction self-improvement books I read have questions or exercises for each chapter. I have a whole notebook in Evernote dedicated to all the questions in [<i class="fa fa-book"></i> *Becoming a Technical Leader*](http://smile.amazon.com/gp/product/B004J4VV3I/ref=kinw_myk_ro_title), pictured below.
 
-<img class="wide" src="{{ site.url }}/assets/files/tech-leader-notes.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/files/tech-leader-notes.png"/>
 
 Obviously I haven't bothered to answer most of them yet. I did say this approach is time-consuming.
 

@@ -9,11 +9,11 @@ Once I figured out how to pull quotes from books and articles and discuss those 
   
 Let me check Evernote.
 
-![All notes](http://i.imgur.com/RexKtZO.png)
+<img class="img-responsive" alt="All notes" src="http://i.imgur.com/RexKtZO.png"/>
 
 I have 368 total notes in my Evernote. Let's say that half of them are somehow related to things I want to blog about. (I'm pretty sure it's more than half.) That's still 184 notes to go and reference. And I just spent the past several weeks cleaning out all the listicles and school assignments that I don't need Evernote to keep track of. I probably deleted over 100 notes I didn't need.
 
-![All tags](http://i.imgur.com/Kt4trh2.png)
+<img class="img-responsive" alt="All tags" src="http://i.imgur.com/Kt4trh2.png"/>
 
 Here are all my tags. Now, not all of my notes are tagged. I've done a great job of improving how I tag my notes but it's taken me a long time to make a system for myself. Tagging hasn't always been natural for me.
 
@@ -25,7 +25,7 @@ But until now I hadn't figured out a way to collect those highlighted sections s
 
 In walks Trello.
 
-![Trello Board](https://i.imgur.com/equrEFm.png)
+<img class="img-responsive" alt="Trello board" src="https://i.imgur.com/equrEFm.png"/>
 
 I've been resisting Trello for years. I couldn't find a use for it before. But I get it now. It's not a to-do list. It's not a task list. It's a hierarchy of ideas.
 
@@ -33,7 +33,7 @@ There are a million ways to use Trello. My way probably isn't the most exciting 
 
 The screenshot above is titled "Software Writing" because each list in the board was to be an outline for an article. (It's getting too big though so I might have to break it up somehow. I wanted to keep everything in this one board so I can just copy over all my quotes from Evernote into "New". Then I'll move them around among the lists depending on whatever topic they fit best. Breaking it up into separate boards will be hard since I don't have all the possible topics yet.)
 
-![Trello zoomed out](http://i.imgur.com/KFMj4Oz.png)
+<img class="img-responsive" alt="Trello zoomed out" src="http://i.imgur.com/KFMj4Oz.png"/>
 
 ...Never mind I think I figured it out.
 

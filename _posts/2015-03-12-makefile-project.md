@@ -10,7 +10,7 @@ I'm talking about [this whole mess]({{ site.url }}{% post_url 2015-02-22-iterate
 
 I hate this configuration stuff.
 
-<img class="wide" src="{{ site.url }}/assets/comp/eclipse-project.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/eclipse-project.png"/>
 
 What I was doing was making a ***New C Project***, but I should have been doing ***New Makefile Project with Existing Code***. Cause I had existing code with a makefile. That's what my professor gives us every week to fill in with our implementation code.
 
