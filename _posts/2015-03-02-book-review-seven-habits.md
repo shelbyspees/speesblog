@@ -4,15 +4,7 @@ title: "Book Review: The 7 Habits of Highly Effective People"
 category: mindfulness
 ---
 
-Years ago I read [<i class="fa fa-book"></i> *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change*](http://smile.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1423798461&sr=8-1&keywords=7+habits) by Stephen R. Covey, listed as follows:
-
-1. [Be Proactive](#habit1)
-2. [Begin with the End in Mind](#habit2)
-3. [Put First Things First](#habit3)
-4. [Think Win/Win](#habit4)
-5. [Seek First to Understand, then to be Understood](#habit5)
-6. [Synergize](#habit6)
-7. [Sharpen The Saw](#habit7)
+Years ago I read [<i class="fa fa-book"></i> *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change*](http://smile.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1423798461&sr=8-1&keywords=7+habits) by Stephen R. Covey.
 
 I am 100% convinced that these (capital-H) Habits are all it takes to live a happy, full successful life. Unfortunately the Habits aren't small simple actions like, "Brush your teeth everyday" or "Smile every time you make eye contact with somebody." The word "Habits" in the title is misleading, the book is more a collection of attitudes, mindsets, and ways to act. But if you take the time to understand where the book is trying to lead you, you'll find yourself closer to the kind of life you want to live.
 
