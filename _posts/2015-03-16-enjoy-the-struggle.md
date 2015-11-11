@@ -56,7 +56,7 @@ I do this all the time. That's what this blog is about. This is why I read books
 
 As long as you're careful not to let yourself plateau, it's okay or even good to enjoy that competence for a while. That way you can brace yourself for that next bout of learning. According to Gerald Weinberg in his book [<i class="fa fa-book"></i> *Becoming a Technical Leader*](http://www.amazon.com/Becoming-Technical-Leader-Gerald-Weinberg-ebook/dp/B004J4VV3I/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1426553246), skill growth basically looks like this:
 
-<img class="center" src="{{ site.url }}/assets/comp/skill1.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/skill1.png"/>
 
 Your competence is in the low slopes of the plateau, and significant growth only comes after a period of struggle. You have to allow for a lower quality of work while you're learning, but once you acquire the skill your effectiveness will jump quite a bit. That is, until your competence in that plateaus.
 

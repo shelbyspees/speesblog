@@ -9,15 +9,11 @@ Of course I can't get anything done sitting in a hospital waiting room with dayt
 
 In the dark of the night, I'm doomed to be attacked by my thoughts.
 
-<figure class="center" style="display: table;">
-	<iframe width="420" height="315" style="padding-bottom: 5px;" src="https://www.youtube.com/embed/Ocm8QdNR_d8" frameborder="0" allowfullscreen></iframe>
-	<figcaption class="bottom">(Yeah I've been listening to the *Anastasia* soundtrack on my commute. I had forgotten how great/cheesy the music is.)</figcaption>
-</figure>
+<div class="embed-responsive embed-responsive-4by3">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ocm8QdNR_d8" allowfullscreen></iframe>
+</div>
 
-
-
-
-<h2 class="anchor">Things to do:</h2>
+<h2 class="">Things to do:</h2>
 
 <h3 id="reading-page"><i class="fa fa-check-square-o"></i> Fix Reading page</h3>
 
@@ -42,11 +38,7 @@ This is going to involve a lot of steps I think, unless I want to rewrite the en
 
 It's 1:42am. I have my data structures final in ~32 hours. Two huge assignments due in 46 hours. Ugh tomorrow is going to suck.
 
-
-
-
-
-<h3 class="anchor" id="d-s-and-a"><i class="fa fa-square-o"></i> Super neat DS&A tutorial web app project</h3>
+<h3 class="" id="d-s-and-a"><i class="fa fa-square-o"></i> Super neat DS&A tutorial web app project</h3>
 
 This is way over my head at this point, but I like the idea and I'll learn a lot of cool stuff in the process.
 
@@ -75,16 +67,7 @@ Things I'll have to learn:
 
 I'm also thinking of adding grammar lessons in the languages I know. Once a teacher, always a teacher, amirite?
 
-
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="job-hunting"><i class="fa fa-square-o"></i> Posts on job hunting</h3>
+<h3 class="" id="job-hunting"><i class="fa fa-check-square-o"></i> Posts on job hunting</h3>
 
 I've read, saved, retweeted, analyzed dozens of articles on the job application process, from writing your LinkedIn header to deciding on what to wear the day of the interview. I don't want all that knowledge to go to waste. Plus what better way to procrastinate than to summarize the articles I methodically collected while--you guessed it--procrastinating.
 

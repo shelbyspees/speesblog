@@ -125,7 +125,7 @@ struct Student * getStudentbyID(struct BST studList, int studID) {
 
 Here's an example of a binary search tree with reasonably small integer values at each node:
 
-<img class="wide" src="{{ site.url }}/assets/comp/bst.png"/>
+<img class="img-responsive" src="{{ site.url }}/assets/comp/bst.png"/>
 
 [more to come]
 
