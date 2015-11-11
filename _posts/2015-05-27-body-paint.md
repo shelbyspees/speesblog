@@ -12,7 +12,7 @@ This started a few weeks ago when I read something that made me really angry. To
 
 This post may end up turning into me drooling over *[Avatar: Legend of Korra](http://www.nick.com/legend-of-korra/episodes/)*. Just a warning.
 
-<img class="wide" src="http://blogs-images.forbes.com/merrillbarr/files/2014/09/The-Legend-of-Korra-Book-3-27.png"/>
+<img class="img-responsive" src="http://blogs-images.forbes.com/merrillbarr/files/2014/09/The-Legend-of-Korra-Book-3-27.png"/>
 
 ##What were they thinking?
 
@@ -22,7 +22,7 @@ You don't hire erotic artists to create mainstream comic art, just like you don'
 
 And what do you get when you hire an erotic artist to make cover art? Erotic cover art that pisses off your fans. You can see Spider-Woman pictured on the left below. On the right is a male superhero in the same position.
 
-<img class="wide" src="http://www.nextquotidiano.it/wp-content/uploads/2014/11/spider-woman-marvel-manara-1.jpg"/>
+<img class="img-responsive" src="http://www.nextquotidiano.it/wp-content/uploads/2014/11/spider-woman-marvel-manara-1.jpg"/>
 
 Other complaints:
 
@@ -33,7 +33,7 @@ To make myself feel better I cover up her gross pouty face and pretend that she'
 
 [The Hawkeye Initiative](http://thehawkeyeinitiative.com/) is a Tumblr account that brilliantly depicts male superheroes in the same poses and outfits as female ones. Whatever you're doing, drop it and spend twenty minutes scrolling through that Tumblr. 
 
-<a href="http://thehawkeyeinitiative.com/"><img class="wide" src="http://36.media.tumblr.com/67ede2b797b7be380fe42953fdd1e8bc/tumblr_mu4kutf7c71rr5ii2o1_500.jpg"/></a>
+<a href="http://thehawkeyeinitiative.com/"><img class="img-responsive" src="http://36.media.tumblr.com/67ede2b797b7be380fe42953fdd1e8bc/tumblr_mu4kutf7c71rr5ii2o1_500.jpg"/></a>
 
 [This article on Marvel's female superhero renaissance](http://www.vulture.com/2015/05/marvels-female-superhero-renaissance.html?mid=twitter_nymag) discusses how the internet allows fans to communicate their interests to creators while also connecting content to wider audiences.
 
@@ -55,7 +55,7 @@ I'm going to start with a discussion of Korra. The show starts when she's 16, so
 
 The creators of Avatar actually do a great job of drawing the characters to reflect their talents. Mako (below, in the back) is a firebender so he's not going to need the kind of muscle mass that Bolin (in the front) has as an earthbender.
 
-<img class="wide" src="http://images.latintimes.com/sites/latintimes.com/files/2014/01/17/legend-korra.jpg
+<img class="img-responsive" src="http://images.latintimes.com/sites/latintimes.com/files/2014/01/17/legend-korra.jpg
 "/>
 
 Firebending requires agility. Since you can't really block with fire, dodging becomes an important skill. Earthbending, on the other hand, requires stability. As the great Toph Beifong phrased it:
@@ -66,35 +66,35 @@ The reason why I bring this up is because it's important to consider how to appr
 
 Pictured below, second on the right is Connie Price-Smith, olympic shot-put athlete.
 
-<a href="http://www.mymodernmet.com/profiles/blogs/howard-schatz-beverly-ornstein-athlete"><img class="wide" src="http://api.ning.com/files/DtcI2O2Ry7AkCy3juXInP4bVMvCfpP-1evv5zfKqdLm7gP07YBqX7UXp8r3h9jxlPXLQFAir4PZdCHkKjgfT*r0vdgkrmHZQ/1082134545.jpeg"/></a>
+<a href="http://www.mymodernmet.com/profiles/blogs/howard-schatz-beverly-ornstein-athlete"><img class="img-responsive" src="http://api.ning.com/files/DtcI2O2Ry7AkCy3juXInP4bVMvCfpP-1evv5zfKqdLm7gP07YBqX7UXp8r3h9jxlPXLQFAir4PZdCHkKjgfT*r0vdgkrmHZQ/1082134545.jpeg"/></a>
 
 Throwing around heavy shit builds solid muscle from top to bottom. Her body is pretty similar to Korra's, actually.
 
 Tai Lee is an interesting example of body design. An olympic-level gymnast and circus performer, she should have crazy core strength. Instead she's given soft breasts and a tiny waist.
 
-<img class="wide" src="http://img2.wikia.nocookie.net/__cb20150215160824/avatar/es/images/9/91/Ty_Lee_encantadora.png"/>
+<img class="img-responsive" style="width: 100%;" src="http://img2.wikia.nocookie.net/__cb20150215160824/avatar/es/images/9/91/Ty_Lee_encantadora.png"/>
 
 When I think about Tai Lee's muscle-to-weight ratio I'm not sure if it adds up.
 
-<img class="wide" src="http://images5.fanpop.com/image/photos/24900000/ty-lee-ty-lee-mai-zuko-and-azula-24947567-736-552.jpg"/>
+<img class="img-responsive" src="http://images5.fanpop.com/image/photos/24900000/ty-lee-ty-lee-mai-zuko-and-azula-24947567-736-552.jpg"/>
 
 Above it's clear she does have muscle in her legs.
 
-<img class="wide" src="http://vignette1.wikia.nocookie.net/avatar/images/1/1f/Ty_Lee's_acrobatics.png/revision/latest?cb=20140908142129"/>
+<img class="img-responsive" style="width: 100%;" src="http://vignette1.wikia.nocookie.net/avatar/images/1/1f/Ty_Lee's_acrobatics.png/revision/latest?cb=20140908142129"/>
 
 I guess the closest athlete to her body type would be a cheerleader, which actually matches her perky personality. See the similarities in her core, hips, and legs:
 
-<img class="wide" src="http://assets.houstontexans.com/assets/cheerleaders/Brandi-full-body_H1K3238.jpg"/>
+<img class="img-responsive" src="http://assets.houstontexans.com/assets/cheerleaders/Brandi-full-body_H1K3238.jpg"/>
 
 Although these aerial performers also have similar legs and arms to Tai Lee:
 
-<img class="wide" src="http://misslife.wpengine.netdna-cdn.com/wp-content/uploads/2012/10/cirque1a.jpg"/>
+<img class="img-responsive" src="http://misslife.wpengine.netdna-cdn.com/wp-content/uploads/2012/10/cirque1a.jpg"/>
 
 I'm going to conclude that Tai Lee is blessed with curves.
 
 What's also interesting is how the shows' creators chose to dress these athletic women and girls.
 
-<img class="wide" src="http://upload.wikimedia.org/wikipedia/en/f/fb/Katara.png"/>
+<img class="img-responsive" style="width: 100%;" src="http://upload.wikimedia.org/wikipedia/en/f/fb/Katara.png"/>
 
 Fourteen-year-old Katara is the first voice you hear every time you watch an episode of *Avatar: The Last Airbender*:
 
@@ -104,51 +104,51 @@ Katara is the first named character in the entire show as well as the first name
 
 At the South Pole, Katara obviously has to layer:
 
-<img class="wide" src="http://images5.fanpop.com/image/photos/26800000/Katara-katara-26887951-720-480.png"/>
+<img class="img-responsive" src="http://images5.fanpop.com/image/photos/26800000/Katara-katara-26887951-720-480.png"/>
 
 But later in the show she's forced to wear Fire Nation clothes so we get to see her body a bit more.
 
-<img class="wide" src="http://images4.fanpop.com/image/photos/21500000/Katara-katara-21593396-700-700.png"/>
+<img class="img-responsive" src="http://images4.fanpop.com/image/photos/21500000/Katara-katara-21593396-700-700.png"/>
 
 This is actually something fourteen-year-old me would have wanted to wear. And to go back to athletic body types, I feel like Katara has similar agility and strength to a volleyball player:
 
-<img class="wide" src="http://www.scottgoold.org/images/issues/jaqueline.jpg"/>
+<img class="img-responsive" src="http://www.scottgoold.org/images/issues/jaqueline.jpg"/>
 
 And these high school volleyball uniforms actually look like something she'd wear:
 
-<img class="wide" src="http://upload.wikimedia.org/wikipedia/commons/e/ec/High_school_women_volleyball_07.jpg"/>
+<img class="img-responsive" src="http://upload.wikimedia.org/wikipedia/commons/e/ec/High_school_women_volleyball_07.jpg"/>
 
 Considering the lack of technical athletic wear fabric in the show at the time, Katara's outfits are pretty damn practical.
 
 Speaking of technical fabrics, let's talk about airbender suits.
 
-<img class="wide" src="https://mlpforums.com/uploads/monthly_10_2014/blogentry-8039-0-80388500-1412407938.png"/>
+<img class="img-responsive" src="https://mlpforums.com/uploads/monthly_10_2014/blogentry-8039-0-80388500-1412407938.png"/>
 
 This is how you do form-fitting clothes. Aerodynamics. I don't think I need to expand on this.
 
 Now back to Korra.
 
-<img class="wide" src="https://chicgeekspeaks.files.wordpress.com/2014/09/b4-trailer-099.png"/>
+<img class="img-responsive" src="https://chicgeekspeaks.files.wordpress.com/2014/09/b4-trailer-099.png"/>
 
 She's strong, athletic, practical, low-maintenance, stubborn, loves to fight. She has an attitude, an appetite, and a sense of humor.
 
 I love how muscular she is. Honestly she's my #fitspo. I could look like her if I built up a load of muscle and ended up around 160lbs.
 
-<img class="wide" src="http://emertainmentmonthly.com/wp-content/uploads/2014/10/korra.png"/>
+<img class="img-responsive" src="http://emertainmentmonthly.com/wp-content/uploads/2014/10/korra.png"/>
 
 You can see that she has a really solid torso, but her hips are still relatively soft. She probably doesn't have visible abs.
 
 Why are her boobs so big? Genetics, plus her body fat percentage. She's constantly active and training (plus I'm sure she never experienced self-consciousness about her body growing up) so she has to have a super healthy appetite. She also has a ton of upper-body strength which will make her chest bigger as well.
 
-<img class="wide" src="http://www.cinemablend.com/images/sections/67870/The_Legend_of_Korra_67870.jpg"/>
+<img class="img-responsive" src="http://www.cinemablend.com/images/sections/67870/The_Legend_of_Korra_67870.jpg"/>
 
 Omg those arms.
 
 Also, while she's definitely gorgeous, the show's creators don't hide it when she's not feeling gorgeous.
 
-<img class="wide" src="http://loli.animeblogger.net/wp-content/uploads/korra021.png"/>
+<img class="img-responsive" src="http://loli.animeblogger.net/wp-content/uploads/korra021.png"/>
 
-<img class="wide" src="http://www.jamerkel.com/wp-content/uploads/The-Legend-of-Korra-Book-3-Finale-10.png"/>
+<img class="img-responsive" src="http://www.jamerkel.com/wp-content/uploads/The-Legend-of-Korra-Book-3-Finale-10.png"/>
 
 God, she kicks so much ass. I love Korra so much. I wish I had had a Korra in my life 20 years ago.
 
