@@ -18,7 +18,7 @@ So I hated English classes, I hated analyzing literature. I just wanted to read 
 
 It wasn't until my delicate disposition was insulted and assaulted by some really terrible fiction writing earlier this year---by someone who considers themselves a professional---that I realized I can do a lot better.
 
-This is all old news. I'm at the point where I feel I can learn what English majors learn. I can read and understand and analyze and criticize great literature. I can learn from the classics and the modern greats.
+This is all old news. Now I'm at the point where I feel I can learn what English majors learn. I can read and understand and analyze and criticize great literature. I can learn from the classics and the modern greats.
 
 The problem with being a new writer, though, is that your tastes are always going to be more refined than your skills.
 
