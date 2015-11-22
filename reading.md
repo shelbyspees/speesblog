@@ -10,8 +10,10 @@ Check out the <a href="{{ site.baseurl }}/best_practices/2015/04/10/best-of/">Be
 
 ##lists
 
-- <a href="{{ site.baseurl }}/tech">Semi-Technical Reads</a>
+- <a href="{{ site.baseurl }}/reading/tech">Semi-Technical Reads</a>
 
-- <a href="{{ site.baseurl }}/software">Working in Software</a>
+- <a href="{{ site.baseurl }}/reading/software">Working in Software</a>
 
-- <a href="{{ site.baseurl }}/psych">Brains and People</a>
+- <a href="{{ site.baseurl }}/reading/psych">Brains and People</a>
+
+- <a href="{{ site.baseurl }}/reading/writing">Books on Writing</a>

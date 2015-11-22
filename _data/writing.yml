@@ -1,0 +1,69 @@
+- title: "On Writing"
+  author: Stephen King
+  link: "http://www.amazon.com/Writing-Memoir-Craft/dp/B0000547HM/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1448181059&sr=8-1"
+  image: "http://ecx.images-amazon.com/images/I/51FaXWy9dpL._AA300_.jpg"
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "Stein On Writing"
+  author: Sol Stein
+  link: "http://www.amazon.com/Stein-Writing-Master-Techniques-Strategies/dp/B0002P0DAK/ref=mt_audio_download?_encoding=UTF8&me="
+  image: "http://ecx.images-amazon.com/images/I/41Fno84StrL._AA300_.jpg"
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "Writing Great Fiction: Storytelling Tips and Techniques"
+  author: The Great Courses
+  link: "http://www.audible.com/pd/Self-Development/Writing-Great-Fiction-Storytelling-Tips-and-Techniques-Audiobook/B00P026PZC"
+  image: "http://ecx.images-amazon.com/images/I/51a5Va1H0PL._SL300_.jpg"
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "Write Every Day: How to Write Faster, and Write More"
+  author: Cathy Yardley
+  link: "http://www.amazon.com/Write-Every-Day-Faster-Writing/dp/B00IX3EP20/ref=sr_1_1?ie=UTF8&qid=1448210865&sr=8-1&keywords=write+every+day"
+  image: "http://ecx.images-amazon.com/images/I/41wWjPR7KAL._AA300_.jpg"
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "Rock Your Plot: A Simple System for Plotting Your Novel"
+  author: Cathy Yardley
+  link: "http://www.amazon.com/Rock-Your-Plot-Simple-Plotting/dp/B00DI95884/ref=pd_sim_129_1?ie=UTF8&dpID=41OmvqYQnxL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=04HPZPB5X2F2J73TSP7D"
+  image: "http://ecx.images-amazon.com/images/I/41OmvqYQnxL._AA300_.jpg"
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "You Are a Writer (So Start Acting Like One)"
+  author: Jeff Goins
+  link: "http://www.amazon.com/You-Writer-Start-Acting-Like/dp/B00OVFMSRS/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1448211207&sr=1-1"
+  image: "http://ecx.images-amazon.com/images/I/41xZm2-CMXL._AA300_.jpg"
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+
+- title: "Analysis and Critique: How to Engage and Write about Anything"
+  author: The Great Courses
+  link: "http://www.audible.com/pd/Self-Development/Analysis-and-Critique-How-to-Engage-and-Write-about-Anything-Audiobook/B00D6OQUAG"
+  image: "http://ecx.images-amazon.com/images/I/414N55Tr5RL._SL300_.jpg"
+  description:
+  status: <i class="fa fa-refresh"></i> In Progress
+
+- title: "Conquering Writer's Block and Summoning Inspiration: Learn to Nurture a Lifestyle of Creativity"
+  author: K.M. Weiland
+  link: "http://www.audible.com/pd/Conquering-Writers-Block-and-Summoning-Inspiration-Audiobook/B00VKF6NLY"
+  image: "http://ecx.images-amazon.com/images/I/51kNnIx1RuL._SL300_.jpg"
+  description:
+  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
+
+- title: "Structuring Your Novel: Essential Keys for Writing an Outstanding Story"
+  author: K.M. Weiland
+  link: "http://www.audible.com/pd/Self-Development/Structuring-Your-Novel-Audiobook/B00QW53R1G"
+  image: "http://ecx.images-amazon.com/images/I/51mp6ggLsvL._SL300_.jpg"
+  description:
+  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
+
+- title: "Complete Creative Writing Course"
+  author: Chris Sykes
+  link: "http://www.audible.com/pd/Language-Instruction/Complete-Creative-Writing-Course-Audiobook/B00QJERSB0"
+  image: "http://ecx.images-amazon.com/images/I/511VC9SUSlL._SL300_.jpg"
+  description:
+  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>

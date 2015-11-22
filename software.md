@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Working in Software"
-permalink: /software/
+permalink: /reading/software/
 ---
 
 <div class="reading-container">

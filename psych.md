@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Brains and People"
-permalink: /psych/
+permalink: /reading/psych/
 ---
 
 <div class="reading-container">
