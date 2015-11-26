@@ -4,6 +4,10 @@ url:              http://speesblog.com/
 baseurl:          ""
 portfoliourl:     http://shelbyspees.com/
 
+include: ["_pages"]
+
+permalink: /:title/
+
 links:
   - name:         speesblog
     url:          /
