@@ -8,9 +8,11 @@
       <div class="row">
         <div class="col-sm-8 blog-main">
 
+        {% include older-newer.html %}
         <div class="blog-post">
-          <h2 class="blog-post-title">{{ page.title }}</h2>
+          <h2 class="blog-post-title">{{ page.title }}<br><small>{{ page.date }}</small></h2>
           {{ content }}
+          {% include older-newer.html %}
         </div> <!-- .blog-post -->
       </div> <!-- .blog-main -->
         {% include sidebar.html %}
