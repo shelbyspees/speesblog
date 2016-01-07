@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 'Short Story: "Barney the Chimpanzee"'
+title: '"Barney the Chimpanzee"'
 ---
 
 >Write the story of an anxious chimpanzee who stows away on a ship.
-
----
 
 Barney was cold. His fur was wet, matted against his skin. He moved his right leg and the blood rushed back like needles in his veins.
   
