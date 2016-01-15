@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Company Culture"
 permalink: "/company_culture/"
 ---
