@@ -171,10 +171,3 @@
   image: /assets/yourbestbrain.jpg
   description: >
   status: <i class="fa fa-refresh"></i> In Progress
-
-- title: "On Writing: A Memoir of the Craft"
-  author: "Stephen King"
-  link: "http://www.audible.com/pd/Bios-Memoirs/On-Writing-Audiobook/B002V1A0WE"
-  image: /assets/onwriting.jpg
-  description: >
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
