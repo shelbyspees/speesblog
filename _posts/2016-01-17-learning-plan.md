@@ -4,7 +4,9 @@ title: "Learning Plan"
 category: school
 ---
 
-I was dreading doing my homework all day today. Not for any particular reason, just because homework is something you dread. It's like being excited for the weekend and being unexcited to get up early for work Monday. Doesn't matter how much you love your job.
+I was dreading doing my homework all day today. Not for any particular reason, just because homework is something you dread. 
+
+It's like being excited for the weekend and being unexcited to get up early for work Monday. Doesn't matter how much you love your job.
 
 Anyway so I figured out that I have a few themes going on in some upcoming quarters.
 
