@@ -1,48 +1,25 @@
-- title: "Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness"
-  author: Jon Kabat-Zinn
-  link: "http://www.amazon.com/Full-Catastrophe-Living-Wisdom-Illness/dp/0385303122/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20"
-  image: /assets/fullcatastropheliving.jpg
-  description: >
-    I love the way he talks. Hugely influential in provoking mainstream awareness of the health benefits of meditation.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
-
-- title: "Wherever You Go, There You Are: Mindfulness Meditation In Everyday Life"
-  author: Jon Kabat-Zinn
-  link: "http://www.amazon.com/Wherever-You-There-Are-Mindfulness-ebook/dp/B0037B6QSY/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid="
-  image: /assets/whereveryougo.jpg
-  description:
-  status: <i class="fa fa-refresh"></i> In Progress
-
-- title: The Willpower Instinct
-  author: Kelly McGonigal, Ph.D.
-  link: "http://www.amazon.com/Willpower-Instinct-Self-Control-Works-Matters-ebook/dp/B005ERIRZE/ref=sr_1_1?ie=UTF8&qid=1423798366&sr=8-1&keywords=the+willpower+instinct"
-  image: /assets/thewillpowerinstinct.jpg
-  description: >
-    Solid breakdown of the research that shows how our brains handle impulsiveness, and why it's not always a bad thing. I definitely recommend the <a href="http://www.amazon.com/The-Willpower-Instinct-Self-Control-Matters/dp/B006TI7MNA/ref=tmm_aud_title_0?ie=UTF8&qid=1426227731&sr=1-1">audiobook</a>, and at ~$6 it's a steal. Book review coming eventually.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
-
 - title: "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change"
   author: Stephen R. Covey
   link: "http://smile.amazon.com/Habits-Highly-Effective-People-Anniversary-ebook/dp/B00GOZV3TM/ref=sr_1_1?ie=UTF8&qid=1423798461&sr=8-1&keywords=7+habits"
   image: /assets/sevenhabits.jpg
   description: >
     Check out my <a href="http://shelbyspees.me/speesblog/mindfulness/2015/03/02/book-review-seven-habits.html">book review here.</a>
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
-- title: How to Win Friends & Influence People
+- title: "How to Win Friends & Influence People"
   author: Dale Carnegie
   link: "http://smile.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_1?ie=UTF8&qid=1423798589&sr=8-1&keywords=how+to+win+friends+and+influence+people"
   image: /assets/howtowinfriends.jpg
   description: >
     I like Dale Carnegie because his writing smacks you upside the head and asks, "Why aren't you doing this, dummy?!" None of it is outside the scope of common sense, but really how common is it anyway?
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
-- title: How to Stop Worrying and Start Living
+- title: "How to Stop Worrying and Start Living"
   author: Dale Carnegie
   link: "http://smile.amazon.com/How-Stop-Worrying-Start-Living-ebook/dp/B003WIYCCY/ref=pd_sim_kstore_1?ie=UTF8&refRID=10NZZDZZJ7ZCE437W329"
   image: /assets/howtostopworrying.jpg
   description:
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-pause"></i> Paused
 
 - title: Working with Emotional Intelligence
   author: Daniel Goleman
@@ -50,53 +27,7 @@
   image: /assets/emotional-intelligence.jpg
   description: >
     I won this book in a raffle and proceeded to highlight the crap out of it. Book review coming soon.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
-
-- title: "Lean In: Women, Work, and the Will to Lead"
-  author: Sheryl Sandberg
-  link: "http://smile.amazon.com/gp/product/B009LMTDL0/ref=kinw_myk_ro_title"
-  image: /assets/leanin.jpg
-  description: >
-    While the premise that women aren't trying hard enough to break the glass ceiling is problematic, Sandberg makes a great point about men leaning in to the home. We want balance in all aspects of our lives.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
-
-- title: Womenomics
-  author: Katty Kay and Claire Shipman
-  link: "http://smile.amazon.com/gp/product/B002BD2V0G/ref=kinw_myk_ro_title"
-  image: /assets/womenomics.png
-  description: >
-    I liked this book because it discussed how promoting workplace equality for women depends on promoting domestic equality for men. Flex time for everyone and universal parental leave are some possible solutions.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
-
-- title: "The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know"
-  author: Katty Kay and Claire Shipman
-  link: "http://smile.amazon.com/gp/product/B00DB368AY/ref=kinw_myk_ro_title"
-  image: /assets/theconfidencecode.jpg
-  description:
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
-
-- title: "How Remarkable Women Lead"
-  author: Joanna Barsh, Susie Cranston, and Geoffrey Lewis
-  link: "http://www.amazon.com/How-Remarkable-Women-Lead-Breakthrough-ebook/dp/B002PYFWAW/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid="
-  image: /assets/remarkable-women.jpg
-  description: >
-    I have pretty thorough notes on this. Pretty soon I'll synthesize them into a review post.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
-
-- title: "Knowing Your Value"
-  author: Mika Brzezinski
-  link: "http://www.audible.com/pd/Business/Knowing-Your-Value-Audiobook/B004XDW50S"
-  image: /assets/knowingyourvalue.jpg
-  description: >
-    Definitely recommend the audiobook version. Book review coming soon.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
-
-- title: "59 Seconds: Think a Little, Change a Lot"
-  author: Richard Wiseman
-  link: "http://smile.amazon.com/gp/product/B002W8QXHW/ref=kinw_myk_ro_title"
-  image: /assets/59seconds.jpg
-  description:
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "Mindset: The New Psychology of Success"
   author: Carol Dweck
@@ -104,14 +35,29 @@
   image: /assets/mindset.jpg
   description: >
     I want to review this one soon. It had some of the best advice I've ever read.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+
+- title: The Willpower Instinct
+  author: Kelly McGonigal, Ph.D.
+  link: "http://www.amazon.com/Willpower-Instinct-Self-Control-Works-Matters-ebook/dp/B005ERIRZE/ref=sr_1_1?ie=UTF8&qid=1423798366&sr=8-1&keywords=the+willpower+instinct"
+  image: /assets/thewillpowerinstinct.jpg
+  description: >
+    Solid breakdown of the research that shows how our brains handle impulsiveness, and why it's not always a bad thing. I definitely recommend the <a href="http://www.amazon.com/The-Willpower-Instinct-Self-Control-Matters/dp/B006TI7MNA/ref=tmm_aud_title_0?ie=UTF8&qid=1426227731&sr=1-1">audiobook</a>, and at ~$6 it's a steal. Book review coming eventually.
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+
+- title: "The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It"
+  author: "Kelly McGonigal"
+  link: "http://www.audible.com/pd/Self-Development/The-Upside-of-Stress-Audiobook/B00UXU79J2"
+  image: /assets/upsideofstress.jpg
+  description: >
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "The Power of Habit: Why We Do What We Do in Life and Business"
   author: Charles Duhigg
   link: "http://smile.amazon.com/gp/product/B0055PGUYU/ref=kinw_myk_ro_title"
   image: /assets/thepowerofhabit.jpg
   description:
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "Quiet: The Power of Introverts in a World that Can't Stop Talking"
   author: Susan Cain
@@ -120,13 +66,20 @@
   description:
   status: <i class="fa fa-refresh"></i> In Progress
 
+- title: "59 Seconds: Think a Little, Change a Lot"
+  author: Richard Wiseman
+  link: "http://smile.amazon.com/gp/product/B002W8QXHW/ref=kinw_myk_ro_title"
+  image: /assets/59seconds.jpg
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+
 - title: "Solving the Procrastination Puzzle: A Concise Guide to Strategies for Change"
   author: Timothy A. Pychyl
   link: "http://www.amazon.com/Solving-Procrastination-Puzzle-Concise-Strategies-ebook/dp/B00DGZKJ3Y/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20"
   image: /assets/solvingtheprocrastinationpuzzle.jpg
   description: >
     Check out his <a href="http://iprocrastinate.libsyn.com/">podcast</a>.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "The Leadership Challenge, 4th ed."
   author: "Kouzes & Posner"
@@ -134,40 +87,86 @@
   image: /assets/theleadershipchallenge.jpg
   description: >
     I read this book for the intro to leadership class back at UCSB. Now I'm trying to filter out the nuggets of advice so I can connect them to other books I've read.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
+- title: "Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness"
+  author: Jon Kabat-Zinn
+  link: "http://www.amazon.com/Full-Catastrophe-Living-Wisdom-Illness/dp/0385303122/ref=cm_cr_if_orig_subj?ie=UTF8&linkCode=xm2&tag=audiblecom0f-20"
+  image: /assets/fullcatastropheliving.jpg
+  description: >
+    I love the way he talks. Hugely influential in provoking mainstream awareness of the health benefits of meditation.
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+
+- title: "Wherever You Go, There You Are: Mindfulness Meditation In Everyday Life"
+  author: Jon Kabat-Zinn
+  link: "http://www.amazon.com/Wherever-You-There-Are-Mindfulness-ebook/dp/B0037B6QSY/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid="
+  image: /assets/whereveryougo.jpg
+  description:
+  status: <i class="fa fa-pause"></i> Paused
 
 - title: "Making a Good Brain Great: The Amen Clinic Program"
   author: "Daniel G. Amen"
   link: "http://www.audible.com/pd/K-12-Educators/Making-a-Good-Brain-Great-Audiobook/B002V0KBG0"
   image: /assets/makingagoodbrain.jpg
   description: >
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
-
-- title: "The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It"
-  author: "Kelly McGonigal"
-  link: "http://www.audible.com/pd/Self-Development/The-Upside-of-Stress-Audiobook/B00UXU79J2"
-  image: /assets/upsideofstress.jpg
-  description: >
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "The Addictive Brain"
   author: "The Great Courses"
   link: "http://www.audible.com/pd/Science-Technology/The-Addictive-Brain-Audiobook/B00TKLXYBW"
   image: /assets/theaddictivebrain.jpg
   description: >
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "Modern Romance: An Investigation"
   author: "Aziz Ansari & Eric Klinenberg"
   link: "http://www.audible.com/pd/Nonfiction/Modern-Romance-Audiobook/B00UKEQK82"
   image: /assets/modernromance.jpg
   description: >
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-pause"></i> Paused
 
 - title: "Your Best Brain: The Science of Brain Improvement"
   author: "The Great Courses"
   link: "http://www.audible.com/pd/Science-Technology/Your-Best-Brain-The-Science-of-Brain-Improvement-Audiobook/B00P026HF0"
   image: /assets/yourbestbrain.jpg
   description: >
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-pause"></i> Paused
+
+- title: "Lean In: Women, Work, and the Will to Lead"
+  author: Sheryl Sandberg
+  link: "http://smile.amazon.com/gp/product/B009LMTDL0/ref=kinw_myk_ro_title"
+  image: /assets/leanin.jpg
+  description: >
+    While the premise that women aren't trying hard enough to break the glass ceiling is problematic, Sandberg makes a great point about men leaning in to the home. We want balance in all aspects of our lives.
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+
+- title: Womenomics
+  author: Katty Kay and Claire Shipman
+  link: "http://smile.amazon.com/gp/product/B002BD2V0G/ref=kinw_myk_ro_title"
+  image: /assets/womenomics.png
+  description: >
+    I liked this book because it discussed how promoting workplace equality for women depends on promoting domestic equality for men. Flex time for everyone and universal parental leave are some possible solutions.
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+
+- title: "The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know"
+  author: Katty Kay and Claire Shipman
+  link: "http://smile.amazon.com/gp/product/B00DB368AY/ref=kinw_myk_ro_title"
+  image: /assets/theconfidencecode.jpg
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+
+- title: "How Remarkable Women Lead"
+  author: Joanna Barsh, Susie Cranston, and Geoffrey Lewis
+  link: "http://www.amazon.com/How-Remarkable-Women-Lead-Breakthrough-ebook/dp/B002PYFWAW/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid="
+  image: /assets/remarkable-women.jpg
+  description: >
+    I have pretty thorough notes on this. Pretty soon I'll synthesize them into a review post.
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+
+- title: "Knowing Your Value"
+  author: Mika Brzezinski
+  link: "http://www.audible.com/pd/Business/Knowing-Your-Value-Audiobook/B004XDW50S"
+  image: /assets/knowingyourvalue.jpg
+  description: >
+    Definitely recommend the audiobook version. Book review coming soon.
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>

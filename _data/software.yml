@@ -4,7 +4,7 @@
   image: /assets/facts-and-fallacies.jpg
   description: >
     This old-school classic really hits the nail on the head with its fifty-five facts and ten fallacies. Book review coming soon.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: Code Complete, 2nd Ed.
   author: Steve McConnell
@@ -12,7 +12,7 @@
   image: /assets/codecomplete2.jpg
   description: >
     I have a great set of best practices checklists that were derived from this book, can't wait to read it in full.
-  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
+  status: <i class="fa fa-refresh"></i> In Progress
 
 - title: Becoming a Technical Leader
   author: Gerald Weinberg
@@ -20,7 +20,7 @@
   image: /assets/technicalleader.jpg
   description: >
     Applicable in any field. Book review coming soon-ish.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: Apprenticeship Patterns
   author: Dave Hoover and Adewale Oshineye
@@ -28,7 +28,7 @@
   image: /assets/apprenticeshippatterns.jpg
   description: >
     Great read, lots to discuss here. I'm a big fan of the growth mindset promoted in this O'Reilly advice tome.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: Joel on Software
   author: Joel Spolsky
@@ -36,14 +36,14 @@
   image: /assets/joel_on_software.jpg
   description: >
     Joel's <a href="http://www.joelonsoftware.com/">blog</a> is a classic.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"
   author: Joel Spolsky
   link: "http://smile.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/ref=asap_bc?ie=UTF8"
   image: /assets/smartandgetsthingsdone.jpg
   description:
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "Effective Programming: More Than Writing Code"
   author: Jeff Atwood
@@ -51,14 +51,14 @@
   image: /assets/effectiveprogramming.png
   description: >
     Check out his <a href="http://blog.codinghorror.com/">blog</a>.
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: How to Stop Sucking and Be Awesome Instead
   author: Jeff Atwood
   link: "http://smile.amazon.com/gp/product/B00BU3KPQU/ref=kinw_myk_ro_title"
   image: /assets/howtostopsucking.png
   description:
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: Coders At Work
   author: Peter Seibel
@@ -72,7 +72,7 @@
   link: http://smile.amazon.com/gp/product/B002RHN7RM/ref=kinw_myk_ro_title
   image: /assets/97-things.jpg
   description:
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "Behind Closed Doors: Secrets of Great Management"
   author: Johanna Rothman and Esther Derby
@@ -80,4 +80,4 @@
   image: /assets/behindcloseddoors.png
   description: >
     Reads more like a story than a career advice book.
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-pause"></i> Paused

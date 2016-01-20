@@ -3,14 +3,14 @@
   link: "https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference"
   image: /assets/antlr4.jpg
   description:
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "Language Implementation Patterns"
   author: Terence Parr
   link: "https://pragprog.com/book/tpdsl/language-implementation-patterns"
   image: /assets/langimp.jpg
   description:
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "TCP/IP For Dummies"
   author:
@@ -18,21 +18,21 @@
   image: /assets/tcp-ip.jpg
   description: >
     Gotta learn it somehow.
-  status: <i class="fa fa-pause"></i> Paused
+  status: <i class="fa fa-refresh"></i> In Progress
 
 - title: "JavaScript: The Good Parts"
   author: Douglas Crockford
   link: "http://smile.amazon.com/gp/product/B0026OR2ZY/ref=kinw_myk_ro_title"
   image: /assets/javascriptthegoodparts.jpg
   description: >
-  status: <i class="fa fa-refresh"></i> In Progress
+  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
 
 - title: "Ruby on Rails Tutorial"
   author: Michael Hartl
   link: "https://www.railstutorial.org/book"
   image: /assets/ruby_on_rails_tutorial.png
   description: >
-  status: <i class="fa fa-pause"></i> Paused
+  status: <i class="fa fa-refresh"></i> In Progress
 
 - title: "Code"
   author: Charles Petzold
@@ -46,7 +46,7 @@
   link: "http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=pd_sim_b_4?ie=UTF8&refRID=0EYRFHWN4DR7S6X7YAM6"
   image: /assets/crackingthecodinginterview.jpg
   description: >
-  status: <i class="fa fa-pause"></i> Paused
+  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
 
 - title: "Introduction to Algorithms, 3rd Ed."
   author: "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein"
@@ -60,11 +60,25 @@
   link: "http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena-ebook/dp/B00B8139Z8/ref=sr_1_1_twi_2_kin?ie=UTF8&qid=1427655079&sr=8-1&keywords=the+algorithm+design+manual"
   image: /assets/algo-design.jpg
   description: >
-  status: <i class="fa fa-pause"></i> Paused
+  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
 
 - title: "Pro Git"
   author: Scott Chacon and Ben Straub
   link: "http://git-scm.com/book/en/v2"
   image: /assets/progit.png
   description: >
-  status: <i class="fa fa-check-square-o"></i> <b>Completed</b>
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+
+- title: "The Linux Command Line"
+  author: "William E. Shotts, Jr."
+  link: "http://linuxcommand.org/tlcl.php"
+  image:
+  description: >
+  status: <i class="fa fa-refresh"></i> In Progress
+
+- title: "The Linux Programming Interface"
+  author: Michael Kerrisk
+  link: "http://man7.org/tlpi/"
+  image:
+  description: >
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
