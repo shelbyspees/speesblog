@@ -5,18 +5,18 @@ Usage:
   2) include JB/pages_list
   example:
     <ul>
-  	  {% assign pages_list = site.pages %}  
+  	  {% assign pages_list = site.pages %}
   	  {% include JB/pages_list %}
   	</ul>
-  	
-  Grouping: (optional): 
+
+  Grouping: (optional):
   	assign the 'group' variable to constrain the list to only pages/posts
   	in the given group. Note you must define the group manually in the page/post
   	meta-data to use this feature.
   	Grouping is mainly helpful for non-post pages.
   	If you want to group posts, it's easier/better to tag them, then pass the tagged posts array.
   	i.e. site.tags.cool_tag (this returns an array of posts tagged: cool_tag)
-  	
+
   This helper can be seen in use at: ../_layouts/default.html
 -->{% endcomment %}
 
@@ -30,7 +30,7 @@ Usage:
       	{% if page.url == node.url %}
       	<li class="active">
           <table>
-          <td class="td-align"><span class="post-date">{{ node.date | date: "%d %b %Y" }}</span></td>
+          <td class="list-by-topic"><span class="post-date">{{ node.date | date: "%d %b %Y" }}</span></td>
           <td><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></td>
           </table>
         </li>
@@ -38,7 +38,7 @@ Usage:
       	{% else %}
       	<li class="grey">
           <table>
-          <td class="td-align"><span class="post-date">{{ node.date | date: "%d %b %Y" }}</span></td>
+          <td class="list-by-topic"><span class="post-date">{{ node.date | date: "%d %b %Y" }}</span></td>
           <td><a href="{{ node.url | prepend: site.baseurl }}">{{node.title}}</a></td>
           </table>
         </li>
