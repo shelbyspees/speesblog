@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rejection
-category: best_practices
+category: musings
 ---
 
 /u/cuttlefishcrossbow quotes from *The Art and Science of Fencing*:

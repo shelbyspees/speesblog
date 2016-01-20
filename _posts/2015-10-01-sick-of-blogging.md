@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Sick of Blogging
+category: reading
 ---
 
 I guess it's not really regular blogging I'm sick of. It's the intense research-synthesis-blogging I'm trying to do.
 
 Once I figured out how to pull quotes from books and articles and discuss those in a way that doesn't totally suck, I decided I wanted to do that with all the nonfiction I care about. That's a lot.
-  
+
 Let me check Evernote.
 
 <img class="img-responsive" alt="All notes" src="http://i.imgur.com/RexKtZO.png"/>
@@ -29,7 +30,7 @@ In walks Trello.
 
 I've been resisting Trello for years. I couldn't find a use for it before. But I get it now. It's not a to-do list. It's not a task list. It's a hierarchy of ideas.
 
-There are a million ways to use Trello. My way probably isn't the most exciting but I'll show what I've done. 
+There are a million ways to use Trello. My way probably isn't the most exciting but I'll show what I've done.
 
 The screenshot above is titled "Software Writing" because each list in the board was to be an outline for an article. (It's getting too big though so I might have to break it up somehow. I wanted to keep everything in this one board so I can just copy over all my quotes from Evernote into "New". Then I'll move them around among the lists depending on whatever topic they fit best. Breaking it up into separate boards will be hard since I don't have all the possible topics yet.)
 
@@ -55,7 +56,7 @@ So far I have the following lists/topics:
 My "New" list is where I'm dumping all my quotes until I move them to the appropriate topic. Basically when enough quotes share a topic that's not accounted for, I make a new list for it.
 
 By the way, I'm still on `A`. Yeah, I'm going alphabetically. Because this is the way I decided to do it. And a lot of these articles *haven't* been highlighted. I still have to read them.
-  
+
 It's a process. By the end, though, I'll have the best collection of software career quotes you've ever seen in your life.
 
 Writing isn't something you can automate. It needs a brain in there somewhere. I'm hoping to synthesize and clarify these ideas put out there by other writers. Because it's easier than being creative.

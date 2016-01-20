@@ -1,7 +1,7 @@
 ---
 layout: post
 title: YAML Resume
-category: career
+category: technologies
 ---
 
 Finally got around to *parameterizing* the [resume page](http://shelbyspees.com/resume/) on my portfolio site.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: English Major
-category:
+category: reading
 ---
 
 Lately I've been on a learning spree. Nonfiction advice writing has kind of worn itself out though. It doesn't seem that there's much left to learn from the self-improvement genre at this point. I'll only improve by applying those lessons.

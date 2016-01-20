@@ -1,19 +1,20 @@
 ---
 layout: post
 title: '"Barney the Chimpanzee"'
+category: fiction
 ---
 
 >Write the story of an anxious chimpanzee who stows away on a ship.
 
 Barney was cold. His fur was wet, matted against his skin. He moved his right leg and the blood rushed back like needles in his veins.
-  
+
 He couldn't see outside the crate, but is that what rotting wood smelled like? Not that he'd know. This was the dirtiest he's been since the day he was born in Philadelphia Greens Veterinary Hospital, known for having the highest quality care in [some region].
 
 Jess wanted Barney free. He more or less understood that. He didn't understand why it was so important to completely uproot his safe, comfortable life, but Jess always knew what was best for him. Barney trusted that he'd be better off once he got settled in to his new home.
 
 Jess had managed to communicate that he'll have to be confined for a while before he gets to enjoy this new life...wherever.
 
-Barney had made sacrifices before. Last year there was a mistake in the feeding schedule that caused Barney to get twice as much food as usual. It took nearly three months for someone to notice the doubled meals. 
+Barney had made sacrifices before. Last year there was a mistake in the feeding schedule that caused Barney to get twice as much food as usual. It took nearly three months for someone to notice the doubled meals.
 
 Chimpanzees are supposed to maintain an appetite to match their energy and nutrient needs. At least, that's what Jess said. Apparently Barney's low-key lifestyle ("inactivity and boredom," Jess called it) suppressed the natural signal that told him when to stop eating. The food was good, it was there, why let it go to waste? he thought.
 
