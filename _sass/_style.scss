@@ -3,7 +3,8 @@
  */
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
   color: #555;
 }
 
@@ -14,7 +15,7 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
   margin-top: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: monospace;
   font-weight: normal;
   color: #333;
 }
@@ -54,8 +55,8 @@ a:hover {
   position: relative;
   display: inline-block;
   padding: 10px;
-  font-weight: 500;
   color: #ccc;
+  font-family: monospace
 }
 .blog-nav-item:hover,
 .blog-nav-item:focus {
@@ -127,20 +128,6 @@ a:hover {
   margin-bottom: 0;
 }
 
-
-/* Pagination */
-.pager {
-  margin-bottom: 60px;
-  text-align: left;
-}
-.pager > li > a {
-  width: 140px;
-  padding: 10px 20px;
-  text-align: center;
-  border-radius: 30px;
-}
-
-
 /*
  * Blog posts
  */
@@ -154,7 +141,6 @@ a:hover {
 }
 .blog-post-meta {
   margin-bottom: 20px;
-  color: #999;
 }
 
 
@@ -163,18 +149,13 @@ a:hover {
  */
 
 .blog-footer {
-  color: #999;
+  color: #ccc;
   border-top: 1px solid #e5e5e5;
+  font-family: monospace;
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
-
-
-
-
-
-
 
 
 
@@ -189,17 +170,6 @@ a:hover {
 .no-bullet {
     list-style: none;
     padding: 0;
-}
-
-.post-date {
-  font-weight: lighter;
-}
-
-.td-align {
-  width: 140px;
-  text-align: right;
-  vertical-align: top;
-  padding-right: 15px;
 }
 
 .book-cover {
@@ -222,28 +192,6 @@ a:hover {
   float: left;
   padding-right: 30px;
   padding-bottom: 30px;
-}
-
-
-.paging a {
-  opacity: 0.25;
-}
-.paging a:hover {
-  opacity: 0.7;
-  background: none;
-  text-decoration: none;
-}
-.paging .left, .paging .right {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  font-size: 60px;
-}
-.paging .left {
-  margin-left: -480px;
-}
-.paging .right {
-  margin-left: 460px;
 }
 
 .older-newer a {

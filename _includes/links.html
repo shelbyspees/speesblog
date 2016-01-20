@@ -1,8 +1,9 @@
 <div class="links">
   {% for link in site.links %}
-    <a class="blog-nav-item" target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">{{ link.name }}</a>
+    <a class="blog-nav-item" target="{% if link.external %}_blank{% else %}_top{% endif %}" href="{{ link.url }}">{{ link.name }}</a>
   {% endfor %}
+  |
   {% for link in site.social %}
-    <a class="blog-nav-item" target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">{{ link.icon }}</a>
+    <a class="blog-nav-item navbar-right" target="{% if link.external %}_blank{% else %}_top{% endif %}" href="{{ link.url }}">{{ link.icon }}</a>
   {% endfor %}
 </div>
