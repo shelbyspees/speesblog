@@ -6,7 +6,7 @@ permalink: /topics/
 
 {% include JB/setup %}
 
-{% for category in site.categories %}
+{% for category in site.categories reversed %}
   <h2 id="{{ category[0] }}-ref">
     {{ category[0] | join: "/" | replace: '_', ' ' }}
   </h2>
