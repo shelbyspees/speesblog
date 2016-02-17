@@ -25,9 +25,9 @@ INT_NUM : DIGIT+ ; //another token, all caps
 value //this is a (parser) rule, starts with a lowercase
     : INT_NUM
     ;
-{% endhighlight%}
+{% endhighlight %}
 
-**Parser:** the parser is basically how Java handles the parser rules you write in your grammar. For example, if my rule says 
+**Parser:** the parser is basically how Java handles the parser rules you write in your grammar. For example, if my rule says
 
 **Listener:** ANTLR automatically creates an interface for your grammar's listener based on the ParseTreeListener class
 

@@ -21,3 +21,6 @@ Check out the <a href="{{ site.baseurl }}/best_practices/2015/04/10/best-of/">Be
 As of January 2016 I'm actively reading:
 
 
+- [*The Linux Command Line*](http://linuxcommand.org/tlcl.php), William E. Shotts, Jr.
+- [*The Linux Programming Interface*](http://man7.org/tlpi/), Michael Kerrisk
+-
