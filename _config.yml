@@ -17,7 +17,7 @@ links:
     url:          /topics
 
 
-highlighter:      pygments
+highlighter:      rouge
 permalink:        pretty
 markdown:         kramdown
 redcarpet:
