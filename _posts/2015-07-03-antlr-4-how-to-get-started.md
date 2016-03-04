@@ -16,16 +16,14 @@ I'm a fan of plain English.
 
 **Lexer:** the lexer's job is to look for *tokens* in your input. You define your tokens in your grammar (`.g4`) file. Token identifiers start with a capital letter, but I usually like to keep my tokens in all caps so they're easier to differentiate from rule identifiers. This seems to be the convention.
 
-<aside>Just have to say that it's really awesome that <a href="http://pygments.org/docs/lexers/#lexers-for-parser-generators">Pygments</a> has an Antlr-Java lexer.</aside>
-
-{% highlight antlr-java %}
+``` java
 fragment DIGIT : [0-9] ; //this is a token, all caps
 INT_NUM : DIGIT+ ; //another token, all caps
 
 value //this is a (parser) rule, starts with a lowercase
     : INT_NUM
     ;
-{% endhighlight %}
+```
 
 **Parser:** the parser is basically how Java handles the parser rules you write in your grammar. For example, if my rule says
 

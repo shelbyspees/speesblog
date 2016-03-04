@@ -15,7 +15,8 @@ Of course I also wanted to simplify modifying the styling on my resume page, sim
 Here's the data for my Education section:
 
 
-<pre># education.yml
+<pre><code class="">
+# education.yml
 
 - title: 'Bachelor of Science, Computer Science'
   graduation: 'in progress'
@@ -27,7 +28,7 @@ Here's the data for my Education section:
   school: 'University of California, Santa Barbara'
   minor: 'Educational Studies minor'
   gpa: 'GPA: 3.48'
-</pre>
+</code></pre>
 
 ---
 

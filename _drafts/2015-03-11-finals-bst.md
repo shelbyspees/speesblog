@@ -4,7 +4,7 @@ title: "Binary Search Tree Implementation"
 category: school
 ---
 
-This time I'm going to discuss one way to implement the binary search tree in C. 
+This time I'm going to discuss one way to implement the binary search tree in C.
 
 I won't pretend that this is the best way or even a good way. This is just the way I have to know it for my final on Sunday. (Yes, I scheduled my final on a Sunday. That means I get to start spring break on Tuesday after my other final. It's not like I'm going to do anything fun on the Sunday before finals week.)
 
@@ -14,24 +14,24 @@ Here's the most basic functionality of a binary search tree:
 - [add](#add)
 - [remove](#remove)
 
-{% highlight c %}
+```c
 void add(value);
 int  contains(value); //1 for yes, 0 for no
 void remove(value);
-{% endhighlight %}
+```
 
 First let's look at the `struct` for a basic BST.
 
-{% highlight c %}
+```c
 struct BST {
 	struct Node * root;
 	int count;
 };
-{% endhighlight %}
+```
 
 We have a `root` node and a `count` variable. `count` represents the number of nodes on the tree, and `root` is the top node on the tree. Before we look at the structure of a `struct Node` object, let's see how we create a tree.
 
-{% highlight c %}
+```c
 //create new BST from scratch
 //return a tree with NULL root and zero nodes
 struct BST * newBST() {
@@ -41,28 +41,28 @@ struct BST * newBST() {
 	_initBST(tree);
 	return tree;
 }
-{% endhighlight %}
+```
 
 We allocate a pointer variable called `tree` that points to a `struct BST` object, and assert that it worked. By using a pointer, we can change the value of the members of the `struct BST` without passing them individually into the function being used to change those values. This is why pointers are cool.
 
 Then we call `_initBSTree` on `tree`. I'm using underscores to identify private functions. I think in Java you can do this with classes and things. I'll learn Java eventually.
 
-{% highlight c %}
+```c
 //call after allocating tree
 //initialize count and root node
 void _initBST(struct BST * tree) {
 	tree->count = 0;
 	tree->root = NULL;
 }
-{% endhighlight %}
+```
 
 Here's a visualization of what this gives us:
 
 <img class="img-responsive" src="{{ site.url }}/assets/comp/initBST.png"/>
 
-Everything in this image is a part of `tree`. 
+Everything in this image is a part of `tree`.
 
-`tree` exists, and it points to `root`, but `root` is actually nothing? How is that possible? Well, `root` is just the variable name for the memory location. There doesn't have to be anything at that memory location. 
+`tree` exists, and it points to `root`, but `root` is actually nothing? How is that possible? Well, `root` is just the variable name for the memory location. There doesn't have to be anything at that memory location.
 
 Think of it like an empty lot. There's a building at 55 Main St. and a building at 59 Main St., but 57 Main St. can still be an empty lot. If you try to send mail there, it'll bounce back. In computer terms that's called a `segmentation fault`, and we really don't like those.
 
@@ -72,13 +72,13 @@ So now we have a value and we want to add it to the tree. The value is added in 
 
 Now the value that `root` holds is `17`. "But wait a second, doesn't `tree` point to `17`?" you ask. Well, `tree` points to `root`, and `root` is a `struct Node` object that holds the integer value `17`. Now's probably a good time to discuss the composition of a `struct Node` object.
 
-{% highlight c %}
+```c
 struct Node {
 	TYPE val; //for now, 'TYPE' is going to be 'int'
 	struct Node * left;
 	struct Node * right;
 };
-{% endhighlight %}
+```
 
 Wait a second, computers don't have `left` and `right`. What could this possibly mean??
 
@@ -100,37 +100,37 @@ So now if we try to search for our original value of `17`, we go *left* of `42`,
 
 Let's look at the array version of the same sorted list:
 
-{% highlight c %}
+```c
 [1, 10, 15, 16, 17, 19, 30, 42, 43, 45, 47, 50, 75, 90, 101] //count is 15
-{% endhighlight %}
+```
 
 For a computer, iterating through this list to find `17` takes five comparisons, whereas our binary search tree only takes four. And what if we're searching for `101`? That takes fifteen comparisons, but the BST still only takes four. Significantly more efficient, don't you think?
 
 Here's the array visual of binary search for variety:
 
-{% highlight c %}
+```c
 [1, 10, 15, 16, 17, 19, 30, 42, 43, 45, 47, 50, 75, 90, 101] //less than 42
 [1, 10, 15, 16, 17, 19, 30] //greater than 16
 [17, 19, 30] //less than 19
 [17] //equal to 17, found it!
-{% endhighlight %}
+```
 
 The number of elements gets cut in half with each comparison, which gives us O(log(n)) time.
 
 This is especially efficient when looking for a value not contained in the data, like `55`:
 
-{% highlight c %}
+```c
 [1, 10, 15, 16, 17, 19, 30, 42, 43, 45, 47, 50, 75, 90, 101] //greater than 42
 [43, 45, 47, 50, 75, 90, 101] //greater than 50
 [75, 90, 101] //less than 90
 [75] //less than 75, but 75 has no children
-{% endhighlight %}
+```
 
 So in this case `contains(55)` would tell us "Nope, not in here."
 
 Here's the implementation of the `contains` function. We use a special `compare(a, b)` function to handle comparing things that aren't simple, like objects. The programmer using our BST can write their own `compare` function depending on the type of data they want to use.
 
-{% highlight c %}
+```c
 contains()
 	pass in pointer to tree and value to be found
 	point current node to tree->root
@@ -139,17 +139,17 @@ contains()
 		if value to be found == current->value
 			return 1 //success! found it
 
-		else 
+		else
 			if value to be found < cur->val,
-				point current node to left child 
+				point current node to left child
 			else //value to be found > cur->val
-				point current node to right child 
+				point current node to right child
 	}
 	else if current is NULL
 	return 0 //does not contain
-{% endhighlight %}
+```
 
-{% highlight c %}
+```c
 //return 1 if tree contains val, else return 0
 int containsBST(struct BST * tree, TYPE val) {
 	struct Node * cur = tree->root;
@@ -167,7 +167,7 @@ int containsBST(struct BST * tree, TYPE val) {
 	}
 	return 0;
 }
-{% endhighlight %}
+```
 
 <h3 class="anchor" id="add">add()</h3>
 
@@ -175,19 +175,19 @@ So how to we keep the tree sorted as we `add` and `remove` values? The short ans
 
 On the outside, our `add` function looks like this:
 
-{% highlight c %}
+```c
 //add value to tree
 void addBST(struct BST * tree, TYPE val) {
 	tree->root = _addNode(tree->root, val);
 	tree->count++;
 }
-{% endhighlight %}
+```
 
 Notice how we plug in the `tree`'s `root` instead of the tree itself in that internal `_addNode` function. That's your hint that we'll be using recursion, since the `root` is just like any other node in the tree.
 
 Here's the pseudocode for the `_addNode` function:
 
-{% highlight c %}
+```c
 _addNode
 	plug in current node and value to be added
 	if (current == NULL)
@@ -201,11 +201,11 @@ _addNode
 		//else current->value == value to be added
 
 	return pointer to current node
-{% endhighlight %}
+```
 
 And here's the implementation in C:
 
-{% highlight c %}
+```c
 //recursively look for empty child to find a place to add the node
 struct Node * _addNode(struct Node * cur, TYPE val) {
 	struct Node * newnode;
@@ -226,7 +226,7 @@ struct Node * _addNode(struct Node * cur, TYPE val) {
 	} // else cur->val == val
 	return cur;
 }
-{% endhighlight %}
+```
 
 The nice thing about this `add` function is that you only have to go down the tree. The tree will always be sorted. Let's see it in action.
 
@@ -238,22 +238,22 @@ Say I wanted to add the value `55` to my tree after quickly learning it wasn't t
 - right at `50`
 - left at `90`
 - left at `75`
-- no more children, create new node 
+- no more children, create new node
 
 The tree will always be sorted, but unfortunately it won't always be balanced. Let's go back to our sorted array for a more extreme illustration:
 
-{% highlight c %}
-sortedArray = [1, 10, 15, 16, 17, 19, 30, 
+```c
+sortedArray = [1, 10, 15, 16, 17, 19, 30,
 	42, 43, 45, 47, 50, 75, 90, 101] //count is 15
-{% endhighlight %}
+```
 
 Imagine I wrote some code like this:
 
-{% highlight c %}
+```c
 for (i = 0; i < count; i++) {
 	addBST(tree, sortedArray[i]);
 }
-{% endhighlight %}
+```
 
 We would end up with a tree that looks like this:
 
@@ -265,7 +265,7 @@ Completely unbalanced. In this case, the `contains` function is no different fro
 
 `remove` is similar to `add`
 
-{% highlight c %}
+```c
 //remove val from tree
 void removeBST(struct BST *tree, TYPE val) {
 	if (containsBST(tree, val)) {
@@ -273,11 +273,11 @@ void removeBST(struct BST *tree, TYPE val) {
 		tree->count--;
 	}
 }
-{% endhighlight %}
+```
 
 Like the `_addNode` function, the `_removeNode` function calls itself recursively, but to save trouble it checks that the value is contained in the tree first.
 
-{% highlight c %}
+```c
 //recursive helper function to remove a node from the tree
 struct Node *_removeNode(struct Node * cur, TYPE val) {
 	struct Node * temp;
@@ -296,7 +296,7 @@ struct Node *_removeNode(struct Node * cur, TYPE val) {
 		cur->right = _removeNode(cur->right,val); //val > cur->val, go right
 	return cur;
 }
-{% endhighlight %}
+```
 
 Oh man, this one is hard. I'm gonna have to break it down a lot more.
 

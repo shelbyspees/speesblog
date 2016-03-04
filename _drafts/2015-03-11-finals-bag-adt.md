@@ -6,7 +6,7 @@ category: school
 
 The Bag abstract data type has probably the most widespread use, and is therefore probably the easiest to understand.
 
-When I first encountered the Bag ADT, I thought, "Well this doesn't sound very computery." 
+When I first encountered the Bag ADT, I thought, "Well this doesn't sound very computery."
 
 A bag of marbles (the original metaphor I was presented with) randomly changes its order, but the simple Bag ADT doesn't really change its order, for the most part. (See [Binary Search Tree](#bst-bag) for an implementation of the Bag ADT that does change the order of its contents.)
 
@@ -18,42 +18,13 @@ How do you choose to use a Bag to contain your data? Here are the main functions
 * get the current `size` of the bag
 * look at element using an `iterator` (don't worry about this for now)
 
-You don't care about the order of the elements at all, just whether an element is contained in the data, basically. 
+You don't care about the order of the elements at all, just whether an element is contained in the data, basically.
 
 Think of a grocery list. You `add` items to the list as you remember to them down, and you cross items off (`remove` them from) the list as you pick them up at the store. In this case, you probably don't care about the `size` of your grocery list.
 
 Type-A personalities might go through the list and organize it by food group, or even plan their meals so that they can streamline their shopping trip, but you're not like that. No, you walk up and down each aisle and check your list to see if the food you're looking at is on the list. If you remember something you need during your shopping trip, you can add it to the list right then.
 
 That's how I think of a bag, more or less. Nitpickers might criticize that items that have been crossed off the list are different from items that have been removed, but who pays that much attention to their grocery list? If you're at the store and realize that a bag of almonds is too expensive, you'll cross it off whether you buy it or not.
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="dynarr-bag">Dynamic Array Bag</h3>
-
-[coming soon]
-
-
-
-
-
-
-
-
-<h3 class="anchor" id="ll-bag">Linked List Bag</h3>
-
-[coming soon]
-
-
-
-
-
-
-
 
 
 <h3 class="anchor" id="bst-bag">Binary Search Tree Bag</h3>
@@ -66,7 +37,7 @@ To touch on a much broader topic, this is why self-writing software is still man
 
 Anyway, binary search tree. So if you want to make it significantly quicker for your program to find a specific chunk of data in your bag, you have to make it easy for the computer to narrow it down on computer terms. We'll use integers as an example, because it's really easy for both humans and computers to compare integers.
 
-In high school my teachers would assign a unique student ID and sort the student list by ID rather than alphabetically. This allowed teachers to post grade results (in the form of a piece of paper on the wall) without students knowing everyone else's grades. 
+In high school my teachers would assign a unique student ID and sort the student list by ID rather than alphabetically. This allowed teachers to post grade results (in the form of a piece of paper on the wall) without students knowing everyone else's grades.
 
 | Student ID | Grade |
 | --- | --- |
@@ -81,13 +52,13 @@ In high school my teachers would assign a unique student ID and sort the student
 
 So imagine a simple data structure like this one:
 
-{% highlight c %}
+```c
 struct Student {
 	char * name;
 	int studID;
 	double grade; //percent
 };
-{% endhighlight %}
+```
 
 Using a binary search tree you could easily have the students sorted by `studID` and then retrieve the value of a student's `grade` by searching for their `studID`.
 
@@ -95,13 +66,13 @@ Assume we care about how long it takes for a program to find a specific element 
 
 The way a binary search tree works is by maintaining the sorted nature of the data. Each node in the tree has a left child and a right child. All the left children of the node are smaller than the value held by the node, and all the children to the right are greater than the value held by the node.
 
-So when trying to see whether the tree contains a specific value, the `contains` function first looks at the root/top node. If it matches the value being searched, it returns saying that the element was found successfully (`true` or `1`). 
+So when trying to see whether the tree contains a specific value, the `contains` function first looks at the root/top node. If it matches the value being searched, it returns saying that the element was found successfully (`true` or `1`).
 
 Otherwise, if the value it's searching for is greater than the value at the root node, it goes to the right child node. If it's less than the value at the root node, it goes to the left child. If there are no child nodes, `contains` returns saying that its search was unsuccessful (`false` or `0`).
 
 Here's an example program using the bag API:
 
-{% highlight c %}
+```c
 void printGrade(struct BST studList, int studID) {
 	if ( contains(studList, studID) ) {
 		struct Student * student = getStudentbyID(studList, studID);
@@ -111,31 +82,21 @@ void printGrade(struct BST studList, int studID) {
 		printf("The student ID is not in the list.");
 	}
 }
-{% endhighlight %}
+```
 
 And the `getGrade` function would look kind of like this:
 
-{% highlight c %}
+```c
 //precondition: studID is in the list
 struct Student * getStudentbyID(struct BST studList, int studID) {
 	struct Student * student = (struct Student *) malloc(sizeof(student));
 	struct Student //something something
 }
-{% endhighlight %}
+```
 
 Here's an example of a binary search tree with reasonably small integer values at each node:
 
 <img class="img-responsive" src="{{ site.url }}/assets/comp/bst.png"/>
-
-[more to come]
-
-
-
-
-
-
-
-
 
 <h3 class="anchor" id="avltree-bag">AVL Tree Bag</h3>
 

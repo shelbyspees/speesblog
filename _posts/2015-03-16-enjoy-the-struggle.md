@@ -8,8 +8,8 @@ I'm reading [<i class="fa fa-book"></i> *Apprenticeship Patterns*](http://chimer
 
 In chapter 3, ["The Long Road,"](http://chimera.labs.oreilly.com/books/1234000001813/ch03.html#the_long_road) there's a great quote about embracing the journey to build that knowledge:
 
-><i class="fa fa-quote-left"></i> For every step you take toward mastery, your destination moves two steps further away. Embrace mastery as a lifelong endeavor. Learn to love the journey. <i class="fa fa-quote-right"></i> 
->  
+><i class="fa fa-quote-left"></i> For every step you take toward mastery, your destination moves two steps further away. Embrace mastery as a lifelong endeavor. Learn to love the journey. <i class="fa fa-quote-right"></i>
+>
 >--- <cite>George Leonard, <a href="http://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560"><i class="fa fa-book"></i> Mastery</a></cite>
 
 This quote touches on quite a few clichés we've all encountered. [<i class="fa fa-list-alt"></i> "You don't know what you don't know,"](http://googleblog.blogspot.com/2014/09/you-dont-know-what-you-dont-know-how.html) and as you start learning about the things you don't know you find yourself facing this endless chasm of knowledge. To those who collect knowledge, it's overwhelming to think of all the things you'll never be able to wrap your head around. [(<i class="fa fa-list-alt"></i> An example I encountered recently.)](http://waitbutwhy.com/2014/05/fermi-paradox.html)
@@ -18,7 +18,7 @@ You can't let your confidence depend on being smart and knowledgeable. Not only 
 
 And dropping buzzwords isn't what makes you good.
 
-Further, pretending to know things that you don't only slows you down. While I understand that it's insanely difficult to ask the right kinds of questions when first encountering a new subject, especially while interacting with experts, it's important to dig for information. 
+Further, pretending to know things that you don't only slows you down. While I understand that it's insanely difficult to ask the right kinds of questions when first encountering a new subject, especially while interacting with experts, it's important to dig for information.
 
 Don't let your confidence depend on feeling smart. Your confidence should be fueled by your efforts.
 
@@ -28,28 +28,28 @@ As you get comfortable with not knowing, you'll find yourself getting better at 
 
 In that last post I just linked from Coding Horror, Jeff quotes James Bach's Google presentation on becoming a software testing expert. James phrases it like this:
 
->Level 0: I overcame obliviousness  
->Level 1: I overcame intimidation  
->Level 2: I overcame incoherence  
->Level 3: I overcame competence  
+>Level 0: I overcame obliviousness
+>Level 1: I overcame intimidation
+>Level 2: I overcame incoherence
+>Level 3: I overcame competence
 
 I have another way of phrasing this, and it's been something that's come up a lot as I learn more about software:
 
-{% highlight c %}
-10: PRINT "What's that?"  
-20: PRINT "You can DO that??"  
-30: PRINT "Oh that's easy."  
-40: GOTO  10 
-{% endhighlight %}
+```c
+10: PRINT "What's that?"
+20: PRINT "You can DO that??"
+30: PRINT "Oh that's easy."
+40: GOTO  10
+```
 
 No, pure knowledge isn't separates the wheat from the chaff in any industry, or in any aspect of life. The difference is attitude. As shown in my crappy Visual BASIC loop (I've never written a line of BASIC in my life), it's a never-ending cycle. The second you understand something, it introduces you to ten more things you've never heard of. It's incredibly easy to get overwhelmed, but the best learners and the real experts thrive on it.
 
 Of course, we're human. And I expect anyone bothering to read this to be a huge nerd. We love being smart and we love showing other people that we're smart. We hate being dumb in front of other people, especially other smart people we admire. That's why I do recommend that you [retreat into competence](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#retreat_into_competence), as discussed in chapter 2 of *Apprenticeship Patterns*:
 
->**Problem**  
+>**Problem**
 >As you are introduced to the vast reaches of your ignorance you are overwhelmed.
 >
->**Solution**  
+>**Solution**
 >Pull back, then launch forward like a stone from a catapult. Retreat briefly into your competence to regain your composure. Take some time to build something that you know how to build. Then use that experience to recognize how far you’ve come and how much you are currently capable of.
 
 I do this all the time. That's what this blog is about. This is why I read books like [<i class="fa fa-book"></i> *Working with Emotional Intelligence*](http://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman-ebook/dp/B000JMKTN2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1426551915) and random linguistics textbooks to procrastinate my schoolwork. When I'm overwhelmed by the hard stuff I'm trying to understand, retreating into what I'm good at helps me build my confidence, which in turn allows me to climb back on that learning horse for a while longer.

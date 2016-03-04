@@ -16,13 +16,11 @@ links:
   - name:         topics
     url:          /topics
 
-
-highlighter:      rouge
 permalink:        pretty
-markdown:         kramdown
-redcarpet:
-  extensions:
-    - smart
+
+markdown: kramdown
+kramdown:
+  input: GFM
 
 sass:
   sass_dir:       _sass

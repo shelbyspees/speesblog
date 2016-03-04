@@ -8,7 +8,7 @@ No thanks, I don't like the stuff.
 
 Oh wait a second, we're talking about data structures. I can get on board with this.
 
-The **tree** is an important data structure. It's like a big linked list with tons of links. We usually represent it with a *root* node at the top (which confuses people who are familiar with actual trees) and *child* nodes cascading down. Any node that doesn't have a child is called a *leaf* node. 
+The **tree** is an important data structure. It's like a big linked list with tons of links. We usually represent it with a *root* node at the top (which confuses people who are familiar with actual trees) and *child* nodes cascading down. Any node that doesn't have a child is called a *leaf* node.
 
 A simple visualization:
 
@@ -61,7 +61,7 @@ First, we're going to measure the height of `NULL` nodes as `-1`. See how I adde
 
 The above tree is still balanced because there are no sibling nodes with height difference greater than one.
 
-So what's an example of an *height-unbalanced* tree? 
+So what's an example of an *height-unbalanced* tree?
 
 <img class="img-responsive" src="{{ site.url }}/assets/comp/tree-unbalanced-height.png"/>
 
@@ -76,15 +76,15 @@ At an unbalanced node N, a double rotation is needed when:
 - N’s BF is positive and N’s right subtree’s BF is negative
 - N’s BF is negative and N’s left subtree’s BF is positive.
 
-{% highlight c %}
+```c
 struct AVLTree*  newAVLTree();
 void addAVLTree(struct AVLTree *tree, TYPE val);
 
 void treeSort (TYPE data[], int n) {…}
 void _treeSortHelper(AVLNode *cur, TYPE *data, int *count)
-{% endhighlight %}
+```
 
-{% highlight c %}
+```c
 void treeSort(TYPE data[], int n){
     int i; int count = 0;
 
@@ -99,9 +99,9 @@ void treeSort(TYPE data[], int n){
 	//call the helper function
     _treeSortHelper(tree->root, data, &count);
 }
-{% endhighlight %}
+```
 
-{% highlight c %}
+```c
 //count goes from 0 to n-1
 void _treeSortHelper(AVLNode *cur, TYPE *data, int *count){
      if (cur != NULL) {
@@ -111,7 +111,4 @@ void _treeSortHelper(AVLNode *cur, TYPE *data, int *count){
         _treeSortHelper(cur->right, data, count);
     }
 }
-{% endhighlight %}
-
-{% highlight c %}
-{% endhighlight %}
+```
