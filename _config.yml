@@ -1,5 +1,5 @@
 title:            speesblog.com
-description:      my external brain.
+description:      Shelby writes things.
 url:              http://speesblog.com/
 baseurl:          ""
 portfoliourl:     http://shelbyspees.com/
@@ -17,8 +17,7 @@ links:
     url:          /topics
 
 permalink:        pretty
-
-markdown: kramdown
+markdown:         kramdown
 kramdown:
   input: GFM
 
