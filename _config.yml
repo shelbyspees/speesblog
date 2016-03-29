@@ -9,7 +9,7 @@ include: ["_pages"]
 permalink: /:title/
 
 links:
-  - name:         speesblog
+  - name:         speesblog.com
     url:          /
   - name:         reading
     url:          /reading
