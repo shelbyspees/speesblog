@@ -8,7 +8,7 @@ I just finished listening to Stephen King's [On Writing](http://www.audible.com/
 
 <a href="http://www.audible.com/pd/Bios-Memoirs/On-Writing-Audiobook/B002V1A0WE"><img class="img-responsive center-block" src="{{ site.url }}/assets/onwriting.jpg"/></a>
 
-#C.V.
+# C.V.
 
 I don't want to dwell on the details of Stephen King's life. I wouldn't do him justice. You have to pay for the book and read it yourself. It's a hell of a story.
 
@@ -20,7 +20,7 @@ The story of Stephen King isn't one of creative inspiration. It's one of blood, 
 
 I wish I had the space and time to discuss every quote I found highlightable. Stephen King packs a lot of meaty advice into this book.
 
-##Toolbox
+## Toolbox
 
 ><i class="fa fa-quote-left"></i> Put your vocabulary on the top shelf of your toolbox, and don’t make any conscious effort to improve it. (You’ll be doing that as you read, of course . . . but that comes later.) **One of the really bad things you can do to your writing is to dress up the vocabulary, looking for long words because you’re maybe a little bit ashamed of your short ones**. This is like dressing up a household pet in evening clothes. The pet is embarrassed and the person who committed this act of premeditated cuteness should be even more embarrassed. <i class="fa fa-quote-right"></i>
 
@@ -44,7 +44,7 @@ You have to learn the rules first before you can break them effectively. This is
 
 ><i class="fa fa-quote-left"></i> Language does not always have to wear a tie and lace-up shoes. The object of fiction isn’t grammatical correctness but to make the reader welcome and then tell a story . . . to **make him/her forget, whenever possible, that he/she is reading a story at all.** <i class="fa fa-quote-right"></i>
 
-##Magic
+## Magic
 
 ><i class="fa fa-quote-left"></i> At its most basic we are only discussing a learned skill, but do we not agree that sometimes the most basic skills can create things far beyond our expectations? We are talking about tools and carpentry, about words and style . . . but as we move along, you’d do well to remember that we are also talking about magic. <i class="fa fa-quote-right"></i>
 
@@ -54,7 +54,7 @@ The magic King mentions is also a type of [*synergy*](https://en.wikipedia.org/w
 
 That's why you shouldn't worry about fancy vocabulary or perfect plot. What creates the story isn't these pieces---it's the magic gluing them together.
 
-#On Writing
+# On Writing
 
 ><i class="fa fa-quote-left"></i> If you want to be a writer, you must do two things above all others: **read a lot and write a lot**. There’s no way around these two things that I’m aware of, no shortcut. <i class="fa fa-quote-right"></i>
 
@@ -118,7 +118,7 @@ Clear, fresh imagery. There's always a time and place for literary devices. Just
 
 What are you waiting for?
 
-##Characters
+## Characters
 
 ><i class="fa fa-quote-left"></i> I think the best stories always end up being about the people rather than the event, which is to say character-driven. <i class="fa fa-quote-right"></i>
 
@@ -138,7 +138,7 @@ Both authors put you inside the characters' heads, revealing their thoughts and 
 
 My 12th-grade-English level character analysis won't do me any favors here. My point is that the characters are the story. Also, you should be reading more.
 
-##The Process
+## The Process
 
 King is adamant that the first draft should always be written with the door shut. Get the the story on paper first, let it sit for a few weeks (or months) to breathe, and the expose it to the world (and expose the world to it).
 
@@ -158,12 +158,12 @@ As I discussed before, King wants you to stay true to the story as it exists bur
 
 ><i class="fa fa-quote-left"></i> What I want most of all is resonance, something that will linger for a little while in Constant Reader’s mind (and heart) after he or she has closed the book and put it up on the shelf. <i class="fa fa-quote-right"></i>
 
-##Research and Back Story
+## Research and Back Story
 
 ><i class="fa fa-quote-left"></i> The most important things to remember about back story are that (a) everyone has a history and (b) most of it isn’t very interesting. Stick to the parts that are, and don’t get carried away with the rest. Long life stories are best received in bars, and only then an hour or so before closing time, and if you are buying. <i class="fa fa-quote-right"></i>
 
 ><i class="fa fa-quote-left"></i> Just don’t end up with the tail wagging the dog; remember that you are writing a novel, not a research paper. The story always comes first. <i class="fa fa-quote-right"></i>
 
-##Learning to Write
+## Learning to Write
 
 ><i class="fa fa-quote-left"></i> You don’t need writing classes or seminars any more than you need this or any other book on writing. <i class="fa fa-quote-right"></i>

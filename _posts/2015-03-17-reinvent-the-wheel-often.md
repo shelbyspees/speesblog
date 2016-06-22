@@ -11,7 +11,7 @@ Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Kno
 
 ---
 
-##Reinvent the Wheel Often by Jason P. Sage
+## Reinvent the Wheel Often by Jason P. Sage
 
 >"Just use something that exists — it's silly to reinvent the wheel..."
 

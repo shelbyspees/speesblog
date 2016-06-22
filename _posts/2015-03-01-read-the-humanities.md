@@ -11,7 +11,7 @@ Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Kno
 
 ---
 
-####"Read the Humanities" by Keith Braithwaite
+#### "Read the Humanities" by Keith Braithwaite
 
 In all but the smallest development project people work with people. In all but the most abstracted field of research people write software for people to support them in some goal of theirs. <mark>People write software with people for people. It's a people business.</mark> Unfortunately what is taught to programmers too often equips them very poorly to deal with people they work for and with. Luckily there is an entire field of study that can help.
 

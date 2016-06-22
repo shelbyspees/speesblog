@@ -12,7 +12,7 @@ I can't believe this book was published in the 90s. I guess hardware and softwar
 
 >**Fact 21:** For every 25 percent increase in problem complexity, there is a 100 percent increase in complexity of the software solution. That's not a condition to try to change (even though reducing complexity is always a desirable thing to do); that's just the way it is.
 
-####Discussion
+#### Discussion
 
 This is one of my favorite facts. It is a favorite because it is so little known, so compellingly important, and so clear in its explanation. We've already learned that software is very difficult to produce and maintain. This fact explains why that is so.
 

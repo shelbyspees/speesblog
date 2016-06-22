@@ -6,7 +6,7 @@ category: learning
 
 I pulled this from a [<i class="fa fa-list-alt"></i> Time article](http://ideas.time.com/2013/10/08/the-key-to-learning-knowing-how-learning-works/?iid=op-main-lead) a while back. Great advice for students and learners of all ages.
 
-###Tips and Techniques
+### Tips and Techniques
 
 * Draw pictures or diagrams to help you understand this subject.
 * Make up questions, try to answer about this subject.
@@ -22,7 +22,7 @@ I pulled this from a [<i class="fa fa-list-alt"></i> Time article](http://ideas.
 
 ---
 
-###For the lesson
+### For the lesson
 
 * What is the topic for today’s lesson?
 * What will be important ideas in today’s lesson?

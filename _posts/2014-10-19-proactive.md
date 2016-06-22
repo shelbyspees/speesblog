@@ -8,7 +8,7 @@ I wrote this list while considering Habit 1 from [The 7 Habits of Highly Effecti
 
 [Check out my book review.](http://shelbyspees.github.io/speesblog/2015/03/02/book-review-seven-habits.html)
 
-##Proactive Activities
+## Proactive Activities
 
 * Jogging
 * Gym
@@ -29,7 +29,7 @@ I wrote this list while considering Habit 1 from [The 7 Habits of Highly Effecti
 * Drinking water
 
 
-##Reactive Activities
+## Reactive Activities
 
 * Twitter
 * Blogging

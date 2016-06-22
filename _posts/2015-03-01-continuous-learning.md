@@ -11,7 +11,7 @@ Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Kno
 
 ---
 
-####"Continuous Learning" by Clint Shank
+#### "Continuous Learning" by Clint Shank
 
 We live in interesting times. As development gets distributed across the globe, you learn there are lots of people capable of doing your job. You need to keep learning to stay marketable. Otherwise, you'll become a dinosaur, stuck in the same job until, one day, you'll no longer be needed or your job gets outsourced to some cheaper resource.
 

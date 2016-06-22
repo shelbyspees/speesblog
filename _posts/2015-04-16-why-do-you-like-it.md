@@ -6,7 +6,7 @@ category: musings
 
 This question comes up a lot so I decided to post an answer I wrote down recently. I may update this in the future.
 
-##Why do you like to code/program?
+## Why do you like to code/program?
 
 Software combines so many things I find interesting. It's design, it's analysis, it's piecing together parts to make something new. It's in the big picture, it's in the details. I can dream and I can nitpick. I can create something new and useful out of almost literally nothing.
 

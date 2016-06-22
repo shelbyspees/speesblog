@@ -9,7 +9,7 @@ I'm pretty much done reading [<i class="fa fa-book"></i> *Apprenticeship Pattern
 
 While reading this book I was simultaneously inspired and overwhelmed by the amount of learning I want to do. In order to maintain my sanity I'm going to list a few of the patterns I want to focus on and remember now until I build more of my technical skills, at which point I can reread the book for renewed inspiration.
 
-##The Long Road
+## The Long Road
 
 I believe this is the most important pattern I can take away, especially at this early point in my career.
 
@@ -18,7 +18,7 @@ I have a shit-ton of hard work ahead of me. I'm going to have to learn and relea
 It's going to be crucial that I keep this pattern in mind.  
 **My career isn't a sprint, it's a marathon.**
 
-##Beginner Skills
+## Beginner Skills
 
 I want to combine several patterns here:
 
@@ -39,7 +39,7 @@ Practice is crucial though. I have [<i class="fa fa-book"></i> *Cracking the Cod
 
 Should I hold off learning Java at this point?
 
-##Reflection
+## Reflection
 
 A few patterns on this topic:
 
@@ -54,7 +54,7 @@ I'm attempting to do this with my coursework in a way that won't get me kicked o
 
 These last patterns are less relevant right this second but I might as well categorize them like I did the others.
 
-##Motivation
+## Motivation
 
 - Unleash Your Enthusiasm
 - Sustainable Motivations
@@ -63,7 +63,7 @@ These last patterns are less relevant right this second but I might as well cate
 - Kindred Spirits
 - Rubbing Elbows
 
-##Skill Building
+## Skill Building
 
 - The White Belt
 - The Deep End
@@ -76,7 +76,7 @@ These last patterns are less relevant right this second but I might as well cate
 - Dig Deeper
 - Familiar Tools
 
-##Career Decisions
+## Career Decisions
 
 - Craft Over Art
 - Draw Your Own Map

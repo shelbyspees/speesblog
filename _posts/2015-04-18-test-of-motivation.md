@@ -29,7 +29,7 @@ Weinberg gives several great reasons for keeping a journal:
 
 All of these are things I could find beneficial.
 
-##Progress
+## Progress
 
 I've failed this test. On multiple occasions.
 
@@ -45,7 +45,7 @@ Plus, isn't it sad that I'm making all these excuses not to do something that'll
 
 I read all these books on self-improvement but I won't bother to take the tiniest initial baby step to get there. Literally I just need to do it. Then I won't be a failure.
 
-##Gamification
+## Gamification
 
 I like tests. I like doing well on tests. I think this is a good way to approach getting things done in my life.
 
@@ -61,7 +61,7 @@ So simple, and yet I didn't put it together until now. It's funny how things jus
 
 What do I care about? Passing tests. I can just do it and get it done and then I won't be a failure! That's what it takes for me.
 
-##Willpower
+## Willpower
 
 Now, while journaling would be helpful for me I think I'm going to design my willpower test using different criteria:
 

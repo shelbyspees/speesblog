@@ -12,7 +12,7 @@ Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Kno
 
 ---
 
-####"The Professional Programmer" by Uncle Bob
+#### "The Professional Programmer" by Uncle Bob
 
 What is a professional programmer?
 The single most important trait of a professional programmer is personal responsibility. Professional programmers take responsibility for their career, their estimates, their schedule commitments, their mistakes, and their workmanship. A professional programmer does not pass that responsibility off on others.

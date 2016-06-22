@@ -12,9 +12,9 @@ To quote from Read's introduction:
 
 Definitely go read [the original](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) when you get the chance.
 
-##Beginner
+## Beginner
 
-###Personal Skills
+### Personal Skills
 
 - Learn to Debug
 - How to Debug by Splitting the Problem Space
@@ -29,7 +29,7 @@ Definitely go read [the original](http://samizdat.mines.edu/howto/HowToBeAProgra
 - How to Learn Design Skills
 - How to Conduct Experiments
 
-###Team Skills
+### Team Skills
 
 - Why Estimation is Important
 - How to Estimate Programming Time
@@ -43,9 +43,9 @@ Definitely go read [the original](http://samizdat.mines.edu/howto/HowToBeAProgra
 - How to Recognize When to Go Home
 - How to Deal with Difficult People
 
-##Intermediate
+## Intermediate
 
-###Personal Skills
+### Personal Skills
 
 - How to Stay Motivated
 - How to be Widely Trusted
@@ -59,14 +59,14 @@ Definitely go read [the original](http://samizdat.mines.edu/howto/HowToBeAProgra
 - Heavy Tools
 - How to Analyze Data
 
-###Team Skills
+### Team Skills
 - How to Manage Development Time
 - How to Manage Third-Party Software Risks
 - How to Manage Consultants
 - How to Communicate the Right Amount
 - How to Disagree Honestly and Get Away with It
 
-###Judgement
+### Judgement
 - How to Tradeoff Quality Against Development Time
 - How to Manage Software System Dependence
 - How to Decide is Software is Too Immature
@@ -76,21 +76,21 @@ Definitely go read [the original](http://samizdat.mines.edu/howto/HowToBeAProgra
 - How to Know When to Apply Fancy Computer Science
 - How to Talk to Non-Engineers
 
-##Advanced
+## Advanced
 
-###Technological Judgement
+### Technological Judgement
 
 - How to Tell the Hard From the Impossible
 - How to Utilize Embedded Languages
 - Choosing Languages
 
-###Compromising Wisely
+### Compromising Wisely
 
 - How to Fight Schedule Pressure
 - How to Understand the User
 - How to Get a Promotion
 
-###Serving Your Team
+### Serving Your Team
 
 - How to Develop Talent
 - How to Choose What to Work On

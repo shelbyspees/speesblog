@@ -11,14 +11,14 @@ Pulled directly from [<i class="fa fa-book"></i> *Working with Emotional Intelli
 
 These competencies determine how we manage ourselves.
 
-####Self-Awareness
+#### Self-Awareness
 Knowing one's internal states, preferences, resources, and intuitions. (Chapter 4)
 
 * **Emotional awareness:** Recognizing one's emotions and their effects
 * **Accurate self-assessment:** Knowing one's strengths and limits
 * **Self-confidence:** A strong sense of one's self-worth and capabilities
 
-####Self-Regulation
+#### Self-Regulation
 Managing one's internal states, impulses, and resources. (Chapter 5)
 
 * **Self-control:** Keeping disruptive emotions and impulses in check
@@ -27,7 +27,7 @@ Managing one's internal states, impulses, and resources. (Chapter 5)
 * **Adaptability:** Flexibility in handling change
 * **Innovation:** Being comfortable with novel ideas, approaches, and new information
 
-####Motivation
+#### Motivation
 Emotional tendencies that guide or facilitate reaching goals. (Chapter 6)
 
 * **Achievement drive:** Striving to improve or meet a standard of excellence
@@ -40,7 +40,7 @@ Emotional tendencies that guide or facilitate reaching goals. (Chapter 6)
 
 These competencies determine how we handle relationships.
 
-####Empathy
+#### Empathy
 Awareness of others' feelings, needs, and concerns. (Chapter 7)
 
 * **Understanding others:** Sensing others' feelings and perspectives, and taking an active interest in their concerns
@@ -48,7 +48,7 @@ Awareness of others' feelings, needs, and concerns. (Chapter 7)
 * **Service orientation:** Anticipating, recognizing, and meeting customers' needs
 * **Political awareness:** Reading a group's emotional currents and power relationships
 
-####Social Skills
+#### Social Skills
 Adeptness at inducing desirable responses in others. (Chapters 8 and 9)
 
 * **Influence:** Weilding effective tactics for persuasion

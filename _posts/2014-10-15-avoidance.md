@@ -13,7 +13,7 @@ category: mindfulness
 
 I discourage myself. I compare myself to others. Then I lie to myself. 
 
-##Stress-Reducing Thoughts:
+## Stress-Reducing Thoughts:
 
 **Preparation:** "I can do this."
 

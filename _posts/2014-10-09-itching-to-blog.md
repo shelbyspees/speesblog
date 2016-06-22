@@ -12,6 +12,6 @@ The deeper I get into my CS coursework the more I resist letting go of the meage
 
 Tech companies need more compassionate, thoughtful problem-solvers. I hope to join the ranks soon.
 
-###Update:
+### Update:
 
 I should [be careful]({{ site.url }}{% post_url 2015-02-23-soft-skills %}), though.

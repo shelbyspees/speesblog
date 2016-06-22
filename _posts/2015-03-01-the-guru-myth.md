@@ -11,7 +11,7 @@ Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Kno
 
 ---
 
-####"The Guru Myth" by Ryan Brush 
+#### "The Guru Myth" by Ryan Brush 
 
 Anyone who has worked in software long enough has heard questions like this:
 

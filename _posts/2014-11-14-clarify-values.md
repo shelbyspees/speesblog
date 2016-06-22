@@ -8,7 +8,7 @@ This is the first post in a series meant to summarize the principles of *[The Le
 
 This is a personal project meant purely for educational purposes, and if any toes have been stepped on feel free to reach out to me on Twitter.
 
-##Clarify Values
+## Clarify Values
 
 Among the most admired leaders, one quality stands out above all else: strong beliefs about matters of principle. Great leaders have unwavering commitment to a clear set of values. 
 
@@ -18,7 +18,7 @@ To earn and sustain personal credibility, you must first be able to clearly arti
 
 The greater the clarity of, belief in, and passion for our personal standards of excellence, the greater the probabillity we'll act in concert with them.
 
-###Find your voice
+### Find your voice
 
 If the words you speak are not your words but someone else's, you will not, in the long term, be able to be consistent in word and deed. You will not have the integrity to lead.
 
@@ -30,7 +30,7 @@ If the words you speak are not your words but someone else's, you will not, in t
 
 ***Say it in your own words:*** Words send signals and hidden assumptions about how someone views the world. You have a responsibility to your constituents to express yourself in an authentic manner.
 
-###Affirm shared values
+### Affirm shared values
 
 ***Shared values are an organization's promises:*** A leader's promise is really an organization's promise. Shared values are the internal compasses that enable people to act both independently and interdependently.
 

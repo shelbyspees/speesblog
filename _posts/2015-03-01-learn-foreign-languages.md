@@ -11,7 +11,7 @@ Reposted from [<i class="fa fa-book"></i> *97 Things Every Programmer Should Kno
 
 ---
 
-####"Learn Foreign Languages" by Klaus Marquardt
+#### "Learn Foreign Languages" by Klaus Marquardt
 
 Programmers need to communicate. A lot.
 

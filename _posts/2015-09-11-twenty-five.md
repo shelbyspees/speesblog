@@ -67,4 +67,4 @@ This has been my dream since 7th grade. I don't know how to feel. Just, shock.
 
 Btw tonight is Friday. Just like every other day that ends in 'y', it's Beyoncé Worship Day. How does one worship Queen Bey? Listening, dancing, singing, appreciating, feeling. She makes me feel so many things. Maybe that's the wine though. Mmm.
 
-![Beyoncé](http://i.imgur.com/zBVJn77.jpg)
+<img class="img-responsive" src="http://i.imgur.com/zBVJn77.jpg" alt-text="Beyoncé"/>

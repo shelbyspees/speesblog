@@ -32,4 +32,18 @@ My past posts can be a bit negative and sad so I want to get these new posts out
 
 <i class="fa fa-square-o"></i> Being happy by myself
 
+<i class="fa fa-square-o"></i> Waking up with Twitter
+
+
+
+Past posts in progress:
+
+- [Software Development is R&D](/software/2016/04/22/software-development-is-r-d/)
+- [Self-care](/health/2016/03/14/self-care/)
+- [YAML Resume](/technologies/2016/01/06/yaml-resume/)
+- [ANTLR 4: How to Get Started](/technologies/2015/07/03/antlr-4-how-to-get-started/) (move to shelbyspees.com?)
+
+
+
+
 
