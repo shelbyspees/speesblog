@@ -14,4 +14,4 @@ Tech companies need more compassionate, thoughtful problem-solvers. I hope to jo
 
 ### Update:
 
-I should [be careful]({{ site.url }}{% post_url 2015-02-23-soft-skills %}), though.
+I should [be careful](), though. #TODO fix url - soft skills
