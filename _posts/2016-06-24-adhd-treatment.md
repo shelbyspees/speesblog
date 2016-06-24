@@ -43,11 +43,11 @@ Remember all my posts about motivation and willpower?
 
 Focusing on willpower ***wasn't working.***
 
-My brain activity is just **different** and I didn't have control over that. 
+My brain activity is just *different* and I didn't have control over that. 
 
-Sure, I've developed really powerful coping mechanisms which have helped reach the success I've been able to reach so far. I won't lie, I've done a lot compared to most 25 year olds. I've been very fortunate but I've also hustled.
+Sure, I've developed really powerful coping mechanisms to reach the success I've been able to reach so far. I won't lie, I've done a lot compared to most 25 year olds. I've been very fortunate and I've also hustled.
 
-But my entire life people saw my potential, and people have seen that I wasn't reaching it. So much feedback from teachers, friends, family, my parents. "Stop procrastinating" and "You're not an A student" and "Why don't you just do the work?"
+But my entire life people have seen my potential and that I wasn't reaching it. So much feedback from teachers, friends, family, my parents: "Stop procrastinating" and "You're not an A student" and "Why don't you just do the work?"
 
 The world told me I wasn't applying myself. I felt lazy and stupid and stuck.
 
