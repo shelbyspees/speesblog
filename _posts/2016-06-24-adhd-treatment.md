@@ -10,7 +10,7 @@ I started my ADHD medication last month in May, and it was like black and white.
 
 My impulsiveness was almost completely gone. I wasn't spending hundreds of dollars a week on shit I didn't need. Yes, I will readily admit to my irresponsible behavior. I have to keep reminding myself: it's a symptom.
 
-I couldn't tackle all my problems at once no matter how hard I tried.
+I couldn't tackle these problems on my own no matter how hard I tried. And I tried.
 
 ## Willpower
 
@@ -43,17 +43,17 @@ Remember all my posts about motivation and willpower?
 
 Focusing on willpower ***wasn't working.***
 
-My brain activity is just *different* and I didn't have control over that. 
+My brain activity is just *different* and I don't have control over that. 
 
-Sure, I've developed really powerful coping mechanisms to reach the success I've been able to reach so far. I won't lie, I've done a lot compared to most 25 year olds. I've been very fortunate and I've also hustled.
+Sure, I have really powerful coping mechanisms. I've had to develop them to reach the success I've been able to reach. I won't lie, I've done a lot compared to most 25 year olds. I've been very fortunate and I've also hustled.
 
-But my entire life people have seen my potential and that I wasn't reaching it. So much feedback from teachers, friends, family, my parents: "Stop procrastinating" and "You're not an A student" and "Why don't you just do the work?"
+But throughout my entire life, people have seen my potential and known that I wasn't reaching it. So much feedback from teachers, friends, family, my parents: "Stop procrastinating" and "You're not an A student" and "Why don't you just do the work?"
 
 The world told me I wasn't applying myself. I felt lazy and stupid and stuck.
 
-## Self-hate
+## History lesson
 
-It turns out that I'm not lazy. I'm not stupid. Again (I remind myself), my brain is *different*.
+It turns out that I'm not lazy. I'm not stupid. Again--I remind myself)--my brain is *different*.
 
 My irresponsible shopping, eating, TV watching, and other compulsive habits were a reaction. I was being actively self-destructive in response to a lifetime of feeling lazy and stupid and stuck.
 
@@ -62,21 +62,94 @@ My irresponsible shopping, eating, TV watching, and other compulsive habits were
   <p>Like with all ableist slurs, I challenge you to reconsider what you're trying to say about a person when "lazy" is the word that comes to mind.</p>
 </aside>
 
-My struggle to focus and be productive--I've consistently struggled since first grade--became unbearable when I landed the job and life I've always dreamed of and STILL couldn't get things done.
+My struggle to focus and be productive--consistent since first grade--became unbearable when I landed the job and life I've always dreamed of. Everything was falling into place, but for some reason I STILL couldn't get things done.
 
 I asked myself:
 
-> I love this work. I love this job. I love this life. It's everything I ever wanted. Why is it so hard???
+> *I love this work. I love this job. I love this life. It's everything I ever wanted. Why is it so hard???*
 
-It was hard because had almost no control over my brain, and that made me hate myself. I wanted control over something, anything. So I'd purposely act irresponsibly.
+It was hard because had so little control over my brain that it made me hate myself. I knew logically what needed to happen but I still didn't do it. I'd remind myself of the terrible consequences of not doing the thing while not doing it and nothing changed, I still wouldn't do it.
+
+I'd twist my own arm and open the textbook or IDE or Word document and stare at it for 20 or 40 minutes with just white noise as thoughts.
+
+All through elementary school and middle school I needed extensions on essays and projects. For timed writes I'd turn in blank pieces of paper with just my name and the ever-changing date at the top and a few spots where my tears had fallen on the page. Maybe I'd get in a weak, messy sentence or two.
+
+Why did nobody suspect a learning disability? I guess things were different in the 90s and early 2000s. I was gifted so obviously I couldn't have a learning disability. I did well on tests so I just needed to apply myself for work like projects and essays. It just takes willpower.
+
+I always got the advice.
+
+> Start working on it earlier before the due date.  
+> Make an outline.  
+> Schedule time in your day to study.  
+> Make a to-do list.  
+> Use the pomodoro method.  
+> Give yourself breaks.  
+> Give yourself rewards.  
+> Just force yourself to get the work done.
+
+I read all the self-improvement books and motivational websites I could get my hands on.
+
+Why couldn't I be like a Sim? Put tasks on my calendar and I just do them. Whenever I put things on my calendar I'd feel increasingly guilty as time slipped by and nothing happened. I'd get depressed, which was counterproductive.
+
+There were periods when the advice worked, and over the years I developed amazing coping mechanisms and accomplished some really cool things.
+
+But I could never scratch the underlying problem--a problem I knew was there but couldn't identify. Since I couldn't identify it, I had no way to solve it. I was stuck.
+
+## Self-hate
+
+More and more I felt like I was losing grip on my life. The wall I hit in 2010 in Bordeaux was the first time in my life I truly felt helpless.
+
+Feeling helpless made me feel worthless. If I can't take charge of my own stupid brain for school, how was I going to accomplish anything in life? How will I ever have a career? I can't keep this up forever.
+
+On top of feeling worthless, I felt like a crazy person. Why was it so easy for other people and so hard for me?
+
+I always believed in mind over matter. That with the right attitude I can accomplish anything. I knew logically what I needed to do, and I knew logically that I was able to do it all. But for some reason it wasn't happening.
+
+I started gaslighting myself, which spiraled me into my first severe depressed episode.
+
+> *I'm imagining things, there's nothing really wrong with me. I'm just being lazy. I just need to get on top of my shit.*
+
+Even though I was crying for six hours a day for two months, I scoffed when my host mom suggested I was depressed.
+
+> *No, I just need to get my act together. I'm perfectly capable of handling everything on my plate.*
+
+That's gaslighting.
+
+Fast forward to 2015. My life magically fell into place when I got my amazing job and apartment. Everything was going right, I knew I was supposed to be happy. But I still felt terrible all the time.
+
+> *I shouldn't be depressed, why am I depressed? I know what work I need to do, why aren't I getting it done? I like this work! Why can't I think? What's wrong with me?*
+
+Getting out of bed every day felt like death. It took me at least two hours to be able to accomplish anything productive in the mornings. I've never been a morning person but this was the worst it's ever been.
+
+Casual conversation was hard. I had good ideas but I had so much trouble expressing them. It was impossible for me to tell stories without getting sidetracked or skipping around, which is pretty confusing to listen to. I could only tell a story straight through after rehearsing it a dozen times or writing the entire thing down.
+
+My social confidence was shot. I've always thought I was just terrible at telling stories.
+
+I consistently struggled to make my point in discussions. This has always been the case, actually. I gave up expressing my opinions long ago. Even when I became more confident in my ideas, I failed to get my point across. It's common to interrupt a conversation partner, but I couldn't recover from conversational interruptions the way others could.
+
+My brain was a paradox. I knew I was smart but I never sounded smart. I couldn't share my ideas even I knew I was right.
+
+I'm a great teacher and I can explain things well, but unless it was something I'd taught many times before or rehearsed I'd still get stuck mid-sentence.
+
+Last year I got new reading glasses because I was struggling to read for school. Even though I had no problem reading novels or twitter or text messages, textbooks and software docs were blurry. I'd read the same sentence 20 times without making sense of it. I'd get to the bottom of a page and realize I didn't retain any of what I just read.
+
+The glasses didn't make a difference. I thought my eyes were causing the blurriness, but really it was my brain that was blurry.
+
+All of these are *classic* symptoms of ADHD, but it was completely off my radar. 
+
+I was still struggling in spite of my blessed circumstances. Once again I felt helpless, which once again made me feel worthless.
+
+I wanted control over something, anything. So I'd purposely act irresponsibly.
 
 When mental health professionals describe anorexia, OCD, and other mental illness, they stress that the behavior associated with these illnesses is about control. 
 
 Mentally ill people often find illogical ways to feel like they have control over their illogical world ([1](http://www.counselling-directory.org.uk/counsellor-articles/when-the-sun-breaks-down-eating-disorders-and-the-issue-of-control), [2](http://psychcentral.com/lib/obsessive-compulsive-disorder-and-uncertainty/), see also: [poverty brain](http://www.theatlantic.com/business/archive/2013/11/your-brain-on-poverty-why-poor-people-seem-to-make-bad-decisions/281780/)).
 
-I indulged every day. Clothes and makeup I didn't need. Dining out when I could have cooked at home. Four or five pints of ice cream a week. I gained 30lbs between February 2015 and February 2016, 15 of which happened in December and January.
+I indulged every day. Clothes and makeup I didn't need. Dining out when I could have cooked at home. Four or five pints of ice cream a week. I gained thirty pounds between February 2015 and February 2016. Half of those pounds happened in December and January.
 
-My self-preservation instinct was gone. I'd gotten so depressed that in January and February, I was thinking about being dead pretty much all day every day. I wasn't planning anything and I understood logically that these thoughts were scary. I made sure to reach out to Becca and Minna when I felt especially bad.
+My self-preservation instinct was gone. I'd gotten so depressed that by January and February I was thinking about being dead pretty much all the time.
+
+I wasn't planning anything. I understood logically that these thoughts are scary. I made sure to reach out to Becca and Minna when I felt especially bad.
 
 <aside>
   <p>Seriously, Becca and Minna have been so relentlessly wonderful the past three-plus years. I absolutely would not be where I am today without their all-day-every-day love and support, especially via text. I honestly feel like they've saved my life countless times. I'll never be able to repay them for that.</p>
@@ -90,15 +163,19 @@ But honestly, I just didn't want to be around anymore. I went through the motion
 
 I knew logically that I have potential to do great things, but I felt stuck and powerless. I knew logically that I'm likeable and fun and wonderful to be around and that people love me, but I just hated myself. I felt like the good things in my life were wasted on me.
 
-Last year, Becca asked me why I hate myself so much. I didn't know how to answer the question. Does there need to be a reason? I've always hated myself. That's just my natural orientation. Wasn't it the human condition to hate oneself?
+Last year, Becca asked me why I hate myself so much. I didn't know how to answer the question. 
 
-I mean, I'm a little extreme because I'm genetically predisposed to severe depression. But I'm far from the only person who thinks like this. It's the happy people who are the weird ones.
+> *Does there need to be a reason? I've always hated myself. That's just my natural orientation. Wasn't it the human condition to hate oneself?*
+>
+>*I mean, I'm a little extreme because I'm genetically predisposed to severe depression. But I'm far from the only person who thinks like this. It's the happy people who are the weird ones.*
+
+No, Shelby, they're not the weird ones.
 
 ## Treatment
 
-Over the past year I've regularly complained that I wished I could "turn off my brain so I can just *think*!"
+Over the past year I've wished that I could "turn off my brain so I can just *think*!"
 
-Then I started ADHD medication and that's exactly what happened.
+When I started ADHD treatment, that's exactly what happened.
 
 No more background thoughts. No more constant stream of *I hate myself I hate myself I hate myself*.
 
@@ -114,17 +191,7 @@ Suddenly--SO SUDDENLY--I was getting things done. I was starting and finishing t
 
 I was STOKED.
 
-I could finally be good at this amazing job I have. I already loved my job but it was so frustrating not being as productive as I knew I could be. I just wanted to work and do a good job but it was so hard.
-
-Why was it so hard? Getting out of bed every day felt like death. I had good ideas but I had so much trouble expressing them. It was impossible for me to tell stories without getting sidetracked or skipping around, which is pretty confusing to listen to. I could only tell a story straight through after rehearsing it a dozen times or writing the entire thing down.
-
-I consistently struggled to make my point in discussions. I gave up expressing my opinions long ago. Even when I got more confident in my ideas I failed to get my point across. It's common for people to interrupt their conversation partner, but I couldn't recover from conversational interruptions the way others could.
-
-I knew I was pretty smart but I couldn't sound smart or share my ideas. I thought I was just terrible at telling stories. I was a great teacher and I could explain things well, but I'd still get stuck mid-sentence unless it was something I'd taught many times before or rehearsed.
-
-Last year I got new reading glasses because I was struggling to read for school. Even though I had no problem reading novels or twitter or text messages, textbooks and software docs were blurry.
-
-I'd read the same sentence 20 times, or I'd get to the bottom of a page and realize I didn't retain any of what I just read. These are *classic* symptoms of ADHD but it was completely off my radar. I thought my eyes were causing the blurriness, but really it was my brain that was blurry.
+I could finally be good at this amazing job I have. I already loved my job but it was so frustrating not being as productive as I knew I could be.
 
 Now when I read technical books and articles, I just absorb it all the first time. Like, what? I already knew I loved thinking about this stuff but you mean to tell me I can just learn it? Just like that? I don't have to fight with it for months and months before it clicks?
 
