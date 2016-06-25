@@ -53,7 +53,7 @@ The world told me I wasn't applying myself. I felt lazy and stupid and stuck.
 
 ## History lesson
 
-It turns out that I'm not lazy. I'm not stupid. Again--I remind myself)--my brain is *different*.
+It turns out that I'm not lazy. I'm not stupid. Again--I remind myself--my brain is *different*.
 
 My irresponsible shopping, eating, TV watching, and other compulsive habits were a reaction. I was being actively self-destructive in response to a lifetime of feeling lazy and stupid and stuck.
 
@@ -72,11 +72,11 @@ It was hard because had so little control over my brain that it made me hate mys
 
 I'd twist my own arm and open the textbook or IDE or Word document and stare at it for 20 or 40 minutes with just white noise as thoughts.
 
-All through elementary school and middle school I needed extensions on essays and projects. For timed writes I'd turn in blank pieces of paper with just my name and the ever-changing date at the top and a few spots where my tears had fallen on the page. Maybe I'd get in a weak, messy sentence or two.
+All through elementary school and middle school I needed extensions on essays and projects. For timed writes I'd turn in blank pieces of paper with just my name and the ever-changing date at the top and a few spots where tears had fallen on the page. Maybe I'd get in a weak, messy sentence or two.
 
-Why did nobody suspect a learning disability? I guess things were different in the 90s and early 2000s. I was gifted so obviously I couldn't have a learning disability. I did well on tests so I just needed to apply myself for work like projects and essays. It just takes willpower.
+Why did nobody suspect a learning disability? I guess things were different in the 90s and early 2000s. I was gifted. Obviously I couldn't have a learning disability. I did well on tests. I just needed to apply myself for work like projects and essays. It just takes willpower.
 
-I always got the advice.
+I always got the same advice.
 
 > Start working on it earlier before the due date.  
 > Make an outline.  
@@ -89,11 +89,13 @@ I always got the advice.
 
 I read all the self-improvement books and motivational websites I could get my hands on.
 
-Why couldn't I be like a Sim? Put tasks on my calendar and I just do them. Whenever I put things on my calendar I'd feel increasingly guilty as time slipped by and nothing happened. I'd get depressed, which was counterproductive.
+If only I could be like a Sim. Put tasks on my calendar and I'll just do them.
 
-There were periods when the advice worked, and over the years I developed amazing coping mechanisms and accomplished some really cool things.
+Nope, I put tasks on my calendar and they just go unfinished or often unstarted. I'd feel increasingly guilty as time slipped by and nothing happened. This just made me depressed, which is counterproductive.
 
-But I could never scratch the underlying problem--a problem I knew was there but couldn't identify. Since I couldn't identify it, I had no way to solve it. I was stuck.
+There were periods when the advice worked, and over the years I developed amazing coping mechanisms and accomplished some really cool things. But then they stopped working and I'd go back to being frustrated and depressed and steeped in self-loathing.
+
+Coping mechanisms and productivity tools were a band-aid. I could never scratch the underlying problem--a problem I knew was there but couldn't identify. Since I couldn't identify it, I had no way to solve it. I was stuck.
 
 ## Self-hate
 
