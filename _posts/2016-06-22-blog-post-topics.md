@@ -14,11 +14,11 @@ My past posts can be a bit negative and sad so I want to get these new posts out
 
 <i class="fa fa-square-o"></i> Looking forward and visualizing balance
 
+<i class="fa fa-square-o"></i> My parents are awesome
+
 <i class="fa fa-square-o"></i> How Soylent may have saved me
 
 <i class="fa fa-check-square-o"></i> [ADHD treatment makes me no longer hate myself](/mental_health/2016/06/24/adhd-treatment/)
-
-<i class="fa fa-square-o"></i> Briefly mourning the past 15 years of my life
 
 <i class="fa fa-square-o"></i> Dr. Austin *Making Space* highlights
 
