@@ -91,17 +91,17 @@ I read all the self-improvement books and motivational websites I could get my h
 
 If only I could be like a Sim. Put tasks on my calendar and I'll just do them.
 
-Nope, I put tasks on my calendar and they just go unfinished or often unstarted. I'd feel increasingly guilty as time slipped by and nothing happened. This just made me depressed, which is counterproductive.
+Nope, I put tasks on my calendar and they just go unfinished. Often unstarted. I'd feel increasingly guilty as time slipped by and nothing happened. Guilt just made me depressed. Guilt is counterproductive.
 
-There were periods when the advice worked, and over the years I developed amazing coping mechanisms and accomplished some really cool things. But then they stopped working and I'd go back to being frustrated and depressed and steeped in self-loathing.
+There were periods when the advice worked, and over the years I developed amazing coping mechanisms and accomplished some really cool things. But soon they'd stop working and I'd go back to being frustrated and depressed and steeped in self-loathing.
 
 Coping mechanisms and productivity tools were a band-aid. I could never scratch the underlying problem--a problem I knew was there but couldn't identify. Since I couldn't identify it, I had no way to solve it. I was stuck.
 
 ## Self-hate
 
-More and more I felt like I was losing grip on my life. The wall I hit in 2010 in Bordeaux was the first time in my life I truly felt helpless.
+More and more I felt like I was losing grip on my life. The wall I hit in 2010 in Bordeaux was the first time I felt truly helpless.
 
-Feeling helpless made me feel worthless. If I can't take charge of my own stupid brain for school, how was I going to accomplish anything in life? How will I ever have a career? I can't keep this up forever.
+Feeling helpless made me feel worthless. If I can't take charge of my own stupid brain for school, how was I going to accomplish anything in life? How will I ever have a career? I can't keep this act up forever.
 
 On top of feeling worthless, I felt like a crazy person. Why was it so easy for other people and so hard for me?
 
@@ -111,7 +111,7 @@ I started gaslighting myself, which spiraled me into my first severe depressed e
 
 > *I'm imagining things, there's nothing really wrong with me. I'm just being lazy. I just need to get on top of my shit.*
 
-Even though I was crying for six hours a day for two months, I scoffed when my host mom suggested I was depressed.
+Even though I was crying six hours a day for probably two months, I scoffed when my host mom suggested I was depressed.
 
 > *No, I just need to get my act together. I'm perfectly capable of handling everything on my plate.*
 
@@ -129,7 +129,7 @@ My social confidence was shot. I've always thought I was just terrible at tellin
 
 I consistently struggled to make my point in discussions. This has always been the case, actually. I gave up expressing my opinions long ago. Even when I became more confident in my ideas, I failed to get my point across. It's common to interrupt a conversation partner, but I couldn't recover from conversational interruptions the way others could.
 
-My brain was a paradox. I knew I was smart but I never sounded smart. I couldn't share my ideas even I knew I was right.
+My brain was a paradox. I knew I was smart but I never sounded smart. I couldn't share my ideas even when I knew I was right.
 
 I'm a great teacher and I can explain things well, but unless it was something I'd taught many times before or rehearsed I'd still get stuck mid-sentence.
 
