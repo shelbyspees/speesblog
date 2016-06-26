@@ -34,6 +34,10 @@ My past posts can be a bit negative and sad so I want to get these new posts out
 
 <i class="fa fa-square-o"></i> Waking up with Twitter
 
+<i class="fa fa-square-o"></i> Reddit credit
+
+<i class="fa fa-square-o"></i> @femme_esq: Advice on picking a man to marry
+
 <i class="fa fa-square-o"></i> [Self-care](/health/2016/03/14/self-care/)
 
 <i class="fa fa-square-o"></i> [YAML Resume](/technologies/2016/01/06/yaml-resume/)
