@@ -44,11 +44,11 @@ What I failed to realize was that my behavior is saying something even worse:
 
 > *"I'll take anybody even if they're not going to be my boyfriend."*
 
-This isn't what I want.
+This isn't what I want. This is bad.
 
 I don't mean that it's bad in the Puritan abstinance-only way like I'm such a skanky ho* for allowing these non-boyfriends to be intimate with me.
 
-\* Note: There's no such thing as a "slut"/"ho"/"skank", there are just people who really enjoy sex. ([1](http://www.theatlantic.com/health/archive/2014/05/theres-no-such-thing-as-a-slut/371773/) [2](http://www.thecrimson.com/column/hot-and-bothered/article/2015/11/18/slut-existence-hot-bothered/) [3](https://francoistremblay.wordpress.com/2013/08/13/slut-shaming-does-not-exist-because-there-is-no-such-thing-as-a-slut/))
+<aside>*I'd like to assert that there's no such thing as a "slut," "ho," "skank," etc., there are just people who really enjoy sex. (see also: <a href="http://www.theatlantic.com/health/archive/2014/05/theres-no-such-thing-as-a-slut/371773/">1</a> <a href="http://www.thecrimson.com/column/hot-and-bothered/article/2015/11/18/slut-existence-hot-bothered/">2</a> <a href="https://francoistremblay.wordpress.com/2013/08/13/slut-shaming-does-not-exist-because-there-is-no-such-thing-as-a-slut/">3</a>)</aside>
 
 If I didn't want a relationship then this wouldn't be a problem. It's a problem because I want one thing and I'm behaving as if I'm ok with something completely different and incompatible.
 
@@ -58,24 +58,18 @@ That brings me to my second point:
 
 This isn't untrue. It's actually a fairly positive attitude to have. I deserve someone who wants to date me as I am.
 
-I'm smart and fun and likable and I get attached very easily. I should be dating someone who's going to appreciate me and make me as happy as I'll make them.
+I'm smart and fun and likable and I get attached very easily. I should be dating someone who's going to appreciate me and make me as happy as I'll make them. Maybe even someone who's as crazy about me as I'll be about them. I've never had that before.
 
 Unfortunately, I have that irrational fear of seeming too serious. Because of this I have repeatedly failed to communicate my wants and needs when getting to know someone new.
 
-Communication is important, folks. Failure to communicate is mutually assured destruction. So many problems could be avoided if people just opened their damn mouths early enough.
+Communication is important, folks. Failure to communicate is mutually assured destruction. So many problems could be avoided if people just opened their damn mouths early enough. But of course, I've been a coward. I don't open my damn mouth and say what I want. I tolerate the mediocre crumbs of attention until it hits me: *"I deserve better."*
 
-But of course, I've been a coward. I don't open my damn mouth and say what I want. I tolerate the mediocre crumbs of attention until the moment I realize: "I deserve better."
+At that point I'm able to smother the feelings and push them out. I complain to my friends about how he's not different and why is it so hard to meet someone *mature*? But how can I expect to date someone mature if I'm not being mature? How can I expect someone better if I'm not being better? Why should I expect something different if I keep doing the same thing?
 
-At that point I'm able to smother the feelings and push them out. I complain to my friends about how he's not different and why is it so hard to meet someone *mature*?
+I don't deserve better until I *am* better. Until I'm up front with my potential partners about my wants and needs. Until I stop wasting time tolerating the situationships I don't actually want. Until I start using that time for some much-needed self-care.
 
-Except I'm not being mature. I'm not being better. Why should I expect something different if I keep doing the same thing?
+That last part is so important. The kind of person I want to be with isn't going to want to be with me. Well, they're not if I'm somebody who tolerates shitty situationships and acts like an idiot and doesn't try to be better.
 
-I don't deserve better until I *am* better. Until I'm up front with my potential partners about my wants and needs.
-
-It's a waste of time to tolerate the situationships I don't actually want. That's time I should be using to take care of myself.
-
-That last part is so important. The kind of person I want to be with isn't going to want to be with me if I'm somebody who tolerates situationships and acts like an idiot and doesn't try to be better.
-
-So really, when I say "I deserve better," it's not just from potential partners.
+So I realized that when I say "I deserve better," I don't just deserve better from potential partners.
 
 I deserve better from myself.
