@@ -8,9 +8,11 @@ There have been a lot of themes in my dating life. One that I've been thinking a
 
 I'm frustrated. I'm sick of dating. I don't think it's unreasonable for me to feel this way. But it's certainly not attractive to constantly rant about how much men suck. (At least, not to the guys I'd like to date. Among friends it's different. Men are the worst, amirite?)
 
-It's counterproductive to want to date a positive person when I'm carrying around so much negativity.
+It's illogical to try to date a positive person when I'm carrying around so much negativity. Positive people purposely don't surround themselves with that kind of negativity. If I want to date a positive person, I need to be a positive person.
 
-These two assertions come up a lot:
+So in trying to be a positive person--at least about my mediocre love life--I wanted to identify the negative themes that get repeated each time I break things off with somebody.
+
+These two come up a lot:
 
 1. "He was an idiot"
 2. "I deserve better"
