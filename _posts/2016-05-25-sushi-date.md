@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sushi Date
-category: personal
+category: dating
 ---
 
 I usually don't like to make fun of people. Ok, yeah I do, but not publicly. But I learned a lesson about dating this past week and I think it's an important story to share.

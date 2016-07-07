@@ -8,7 +8,7 @@ ADHD treatment makes me no longer hate myself.
 
 I started my ADHD medication last month in May, and it was like black and white. I could think about work for longer than 15 minutes straight? Is this how other people are all the time?
 
-My impulsiveness was almost completely gone. I wasn't spending hundreds of dollars a week on shit I didn't need. Yes, I will readily admit to my irresponsible behavior. I have to keep reminding myself: it's a symptom.
+My impulsiveness was almost completely gone. I stopped spending hundreds of dollars a week on shit I don't need. Yes, I will readily admit to my irresponsible behavior. I have to keep reminding myself: it's a symptom.
 
 I couldn't tackle these problems on my own no matter how hard I tried. And I tried.
 

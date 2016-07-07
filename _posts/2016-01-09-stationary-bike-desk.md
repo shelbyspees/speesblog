@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stationary Bike Desk
+category: health
 ---
 
 When I type I actually start pedaling faster cause I'm leaning forward.

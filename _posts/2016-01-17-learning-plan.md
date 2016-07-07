@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Plan"
-category: learning
+category: school
 ---
 
 I was dreading doing my homework all day today. Not for any particular reason, just because homework is something you dread.

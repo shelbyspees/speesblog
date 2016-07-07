@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rejection
-category: musings
+category: career
 ---
 
 /u/cuttlefishcrossbow quotes from *The Art and Science of Fencing*:

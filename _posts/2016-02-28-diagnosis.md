@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diagnosis"
-category: health
+category: mental_health
 ---
 
 I haven't been writing much at all lately. I think I want to take this opportunity to clearly spell out what's going on inside my head right now. **Content warning: mental illness.**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Update: Resolution"
-category:
+category: mental_health
 ---
 
 Three months into the year and I'm thinking about what's changed--and what hasn't. CW: mental illness, self-harm.
