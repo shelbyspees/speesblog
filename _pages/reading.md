@@ -16,4 +16,4 @@ Check out the <a href="{{ site.baseurl }}/best_practices/2015/04/10/best-of/">Be
 
 - <a href="{{ site.baseurl }}/reading/psych">Brains and People</a>
 
-- <a href="{{ site.baseurl }}/reading/writing">Books on Writing</a>s
+- <a href="{{ site.baseurl }}/reading/writing">Books on Writing</a>

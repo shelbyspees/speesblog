@@ -12,6 +12,13 @@ permalink: /reading/writing/
 
 <div class="reading-container">
   {% for book in site.data.writing %}
-  {% include booklist.html %}
-  {% endfor %}
+    <div class="reading">
+      <div class="reading-img">
+          <img class="book-cover" src="{{ book.image }}" alt="{{ book.title }}"/>
+      </div>
+      <a href="{{ book.link }}"><b>{{ book.title }}</b></a>
+      {% if book.author %}<br>{{ book.author }}{% endif %}
+      <br>{{ book.status }}
+    </div>
+{% endfor %}
 </div>
