@@ -24,7 +24,7 @@ My past posts can be a bit negative and sad so I want to get these new posts out
 
 <i class="fa fa-square-o"></i> My parents are awesome
 
-<i class="fa fa-square-o"></i> Reparations: repaying America's debt (commenting on [*The Case for Reparations](http://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/))
+<i class="fa fa-square-o"></i> Reparations: repaying America's debt (commenting on [*The Case for Reparations*](http://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/))
 
 <i class="fa fa-square-o"></i> Ableism and intellectual laziness
 
@@ -34,9 +34,7 @@ My past posts can be a bit negative and sad so I want to get these new posts out
 
 <i class="fa fa-square-o"></i> Valuing the arts, humanities, and social sciences
 
-<i class="fa fa-square-o"></i> Subscribing to alternative media (follow up to *Valuing the arts...*)
-
-<i class="fa fa-square-o"></i> Supporting makers with patreon, etc.
+<i class="fa fa-square-o"></i> Supporting makers and subscribing to alternative media (follow up to *Valuing the arts...*)
 
 <i class="fa fa-square-o"></i> How Soylent may have saved me
 
