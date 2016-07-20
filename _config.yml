@@ -13,8 +13,6 @@ links:
     url:          /
   - name:         reading
     url:          /reading
-  - name:         topics
-    url:          /topics
 
 permalink:        pretty
 markdown:         kramdown
