@@ -59,7 +59,7 @@
   link: "http://www.audible.com/pd/Self-Development/Structuring-Your-Novel-Audiobook/B00QW53R1G"
   image: "http://ecx.images-amazon.com/images/I/51mp6ggLsvL._SL300_.jpg"
   description:
-  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
+  status: <i class="fa fa-refresh"></i> In Progress
 
 - title: "Complete Creative Writing Course"
   author: Chris Sykes

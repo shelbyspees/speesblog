@@ -1,3 +1,17 @@
+- title: "Pro Git"
+  author: Scott Chacon and Ben Straub
+  link: "http://git-scm.com/book/en/v2"
+  image: /assets/progit.png
+  description:
+  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+
+- title: "The Hitchhiker’s Guide to Python"
+  author: Kenneth Reitz
+  link: http://docs.python-guide.org/en/latest/
+  image: "https://images-na.ssl-images-amazon.com/images/I/51vFW423D5L._SX379_BO1,204,203,200_.jpg"
+  description:
+  status: <i class="fa fa-refresh"></i> In Progress
+
 - title: "The Definitive ANTLR 4 Reference"
   author: Terence Parr
   link: "https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference"
@@ -18,67 +32,39 @@
   image: /assets/tcp-ip.jpg
   description: >
     Gotta learn it somehow.
-  status: <i class="fa fa-refresh"></i> In Progress
-
-- title: "JavaScript: The Good Parts"
-  author: Douglas Crockford
-  link: "http://smile.amazon.com/gp/product/B0026OR2ZY/ref=kinw_myk_ro_title"
-  image: /assets/javascriptthegoodparts.jpg
-  description: >
-  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
+  status: <i class="fa fa-pause"></i> Paused
 
 - title: "Ruby on Rails Tutorial"
   author: Michael Hartl
   link: "https://www.railstutorial.org/book"
   image: /assets/ruby_on_rails_tutorial.png
-  description: >
-  status: <i class="fa fa-refresh"></i> In Progress
+  description:
+  status: <i class="fa fa-pause"></i> Paused
 
 - title: "Code"
   author: Charles Petzold
   link: "http://smile.amazon.com/Code-Developer-Practices-Charles-Petzold-ebook/dp/B00JDMPOK2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1423800084&sr=1-1&keywords=code"
   image: /assets/code.jpg
-  description: >
+  description:
   status: <i class="fa fa-pause"></i> Paused
-
-- title: "Cracking the Coding Interview: 150 Programming Questions and Solutions"
-  author: Gayle Laakmann McDowell
-  link: "http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=pd_sim_b_4?ie=UTF8&refRID=0EYRFHWN4DR7S6X7YAM6"
-  image: /assets/crackingthecodinginterview.jpg
-  description: >
-  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
 
 - title: "Introduction to Algorithms, 3rd Ed."
   author: "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein"
   link: "http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1424666330&sr=8-1&keywords=intro+to+algorithms"
   image: /assets/algorithms.jpg
-  description: >
+  description:
   status: <i class="fa fa-pause"></i> Paused
-
-- title: "The Algorithm Design Manual"
-  author: Steven S. Skiena
-  link: "http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena-ebook/dp/B00B8139Z8/ref=sr_1_1_twi_2_kin?ie=UTF8&qid=1427655079&sr=8-1&keywords=the+algorithm+design+manual"
-  image: /assets/algo-design.jpg
-  description: >
-  status: <i class="fa fa-ellipsis-h"></i> <em>Not Started</em>
-
-- title: "Pro Git"
-  author: Scott Chacon and Ben Straub
-  link: "http://git-scm.com/book/en/v2"
-  image: /assets/progit.png
-  description: >
-  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
 
 - title: "The Linux Command Line"
   author: "William E. Shotts, Jr."
   link: "http://linuxcommand.org/tlcl.php"
-  image:
-  description: >
-  status: <i class="fa fa-refresh"></i> In Progress
+  image: http://linuxcommand.org/images/51vgLTkNsIL._SL500_AA300_.jpg
+  description:
+  status: <i class="fa fa-pause"></i> Paused
 
 - title: "The Linux Programming Interface"
   author: Michael Kerrisk
   link: "http://man7.org/tlpi/"
-  image: ""
-  description: >
-  status: <i class="fa fa-check-square-o"></i> <b>Read</b>
+  image: http://man7.org/tlpi/cover/TLPI-front-cover.png
+  description:
+  status: <i class="fa fa-pause"></i> Paused
