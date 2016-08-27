@@ -8,25 +8,33 @@ Now that things are going well for me, I have to be careful not to bite off more
 
 Somehow I manage to do that every year in the fall. I think it's something about having a September birthday. I think, *I'm this age now so I should be able to handle it.* But I can't. I always drop the ball somewhere.
 
-In my post on visualizing normal, I mentioned how I can only get up early when I think about doing it for several days before. I can only cook a decent dinner when I imagine myself doing it the whole day. I can only give a good, natural presentation when I've mentally laughed off all the mistakes I might make.
+In a [previous post](), I explained the trouble I have getting up in the morning. I can only get up early when I do the math and then visualize my entire morning routine. I can only cook a decent dinner when I imagine myself doing it the whole day. I can only give a good presentation when I've mentally laughed off all the mistakes I might make.
 
 Now I'm more aware of my need and ability to do this. I'm also doing better because of my medication. I've always been big on planning, but for the first time in ages I feel confident about 
 
 ## Future self
 
-[Tim Pychyl]() of the [iProcrastinate Podcast]() asserts that those who procrastinate have a poor relationship with their future selves. This has absolutely been true for me.
+[Tim Pychyl]() is a psychology professor who runs the [IProcrastinate Podcast](). He says that procrastinators have a poor relationship with their future selves. This is my reality.
 
-It seems this poor future relationship is common among people who experience a lot of mental, emotional, financial, or physical instability (see [poverty brain]() as one important example). Having experienced all four at different points in my life--sometimes simultaneously--I know that trying to delay gratification amid such instability can feel like torture.
+People experiencing any mental, emotional, financial, or physical instability will often struggle with this. [Poverty brain]() is another important example of a poor relationship with one's future self.
 
-This brings up a huge point about intersectionality: people who are underprivileged in one or more areas have a harder time delaying gratification than "normal" people (people with privilege). People in poverty are more likely to be overweight and have health problems (here's one [citation]()).
+I've experienced all four of these struggles in my life, sometimes all at once. Trying to delay gratification amid such instability can feel like torture.
 
-When you have the triple burden of poverty, obesity, and health problems, short-term gratification is the only kind of gratification you get. It's common to hear criticism of poor people for buying iPhones and Xboxes, but should a poor person have to live like the Amish to get societal approval? Give them a fucking break.
+This brings up a huge point about intersectionality. 
 
-This is why I'll one again push for "lazy" to be considered an ableist slur. This is why we don't blame the poor for their problems, just like we don't blame alcoholics or addicts for their disease. I'm a socialist, ok? As a society we should be making things better, easier, more accessible for all human beings.
+Underprivileged people already have a harder time delaying gratification than "normal" people. Poverty puts you at risk for weight gain and health problems (here's one [citation]()).
 
-Many people (in my experience, usually upper-middle class white men) will still blame and deride someone for being fat. It's as if they've never encountered the [reams of research]() showing that shame and criticism don't help people lose weight.
+Imagine the triple burden of poverty, obesity, and health problems. Short-term gratification is the only kind of gratification you get.
 
-People much more knowledgeable about the intersection of socioeconomic, ethnoracial, health, and other disadvantages (and corresponding privileges) can do this amazingly complex subject much more justice than I can here in my weak blog post. But you should know that it's important and all these things interact with each other.
+The criticism of poor people for buying iPhones and Xboxes is counterproductive. Should a poor person have to live like the Amish to get societal approval? Give them a break.
+
+This is why I'll once again push to label for "lazy" as an ableist slur. This is why we don't blame the poor for their problems. The poor are victims the same way alcoholics or addicts are victims of their disease.
+
+I'm a socialist, ok? As a society we should be making things better, easier, more accessible for all human beings.
+
+Many people will still blame and deride someone for being fat. In my experience, the derision usually comes from upper-middle class white men. [Reams of research]() show that shame and criticism don't help people lose weight. Have they never encountered it?
+
+Others are much more knowledgeable about socioeconomic, ethnoracial, health, and other disadvantages. They can do this complex subject much more justice than I can here in my weak blog post. But you should know that it's important and all these things interact with each other.
 
 <aside>
   <p>If you're interested in learning more about intersectional analysis, here are some good reads:</p>
@@ -35,4 +43,4 @@ People much more knowledgeable about the intersection of socioeconomic, ethnorac
   </ul>
 </aside>
 
-Tim Pychyl explains that people who procrastinate have a warped view of their future self. They think their future self will be much more capable at accomplishing the task at hand than their present self. 
+As Tim Pychyl explains, people who procrastinate have a warped view of their future self. It's as if the future self will more capable at accomplishing the task at hand than their present self. 
