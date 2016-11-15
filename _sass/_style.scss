@@ -6,18 +6,16 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   color: #555;
+
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  padding: 0 10px
 }
 
-h1, .h1,
-h2, .h2,
-h3, .h3,
-h4, .h4,
-h5, .h5,
-h6, .h6 {
-  margin-top: 0;
-  font-family: monospace;
-  font-weight: normal;
-  color: #333;
+h1, h2, h3 {
+  line-height: 1.2
 }
 
 a {
@@ -39,7 +37,6 @@ aside {
   border-radius: 15px;
 }
 
-
 /*
  * Override Bootstrap's default container.
  */
@@ -50,34 +47,19 @@ aside {
   }
 }
 
-/*
- * Masthead for nav
- */
-
-.blog-masthead {
-  background-color: #555;
-  -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
-          box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
-}
-
 /* Nav links */
 .blog-nav-item {
   position: relative;
   display: inline-block;
   padding: 10px;
   color: #ccc;
-  font-family: monospace
 }
+
 .blog-nav-item:hover,
 .blog-nav-item:focus {
-  color: #fff;
   text-decoration: none;
 }
 
-/* Active state gets a caret at the bottom */
-.blog-nav .active {
-  color: #fff;
-}
 .blog-nav .active:after {
   position: absolute;
   bottom: 0;
@@ -92,7 +74,6 @@ aside {
   border-left: 5px solid transparent;
 }
 
-
 /*
  * Blog name and description
  */
@@ -101,17 +82,18 @@ aside {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
 .blog-title {
   margin-top: 30px;
   margin-bottom: 0;
   font-size: 60px;
   font-weight: normal;
 }
+
 .blog-description {
   font-size: 20px;
   color: #999;
 }
-
 
 /*
  * Main column and sidebar layout
@@ -122,21 +104,6 @@ aside {
   line-height: 1.5;
 }
 
-/* Sidebar modules for boxing content */
-.sidebar-module {
-  padding: 15px;
-  margin: 0 -15px 15px;
-}
-.sidebar-module-inset {
-  padding: 15px;
-  background-color: #f5f5f5;
-  border-radius: 4px;
-}
-.sidebar-module-inset p:last-child,
-.sidebar-module-inset ul:last-child,
-.sidebar-module-inset ol:last-child {
-  margin-bottom: 0;
-}
 
 /*
  * Blog posts
@@ -145,29 +112,29 @@ aside {
 .blog-post {
   margin-bottom: 60px;
 }
+
 .blog-post-title {
   margin-bottom: 5px;
   font-size: 40px;
 }
+
 .blog-post-meta {
   margin-bottom: 20px;
 }
-
 
 /*
  * Footer
  */
 
 .blog-footer {
+  font-size: smaller;
   color: #ccc;
   border-top: 1px solid #e5e5e5;
-  font-family: monospace;
 }
+
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
-
-
 
 /*
  * CUSTOM SHIT
@@ -178,8 +145,8 @@ aside {
 }
 
 .no-bullet {
-    list-style: none;
-    padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
 .book-cover {
