@@ -61,7 +61,7 @@ Lists expand and collapse.
       <div class="panel-body">
         <p class="text-muted">
           <small>
-            (Shout out to the <a href="http://www.writingexcuses.com/season001/"><i>Writing Excuses</i> podcast</a> with Brandon Sanderson, Dan Wells, and Howard Taylor. I'm only on season 2 but I already love these guys.)
+            (Shout out to the <a href="http://www.writingexcuses.com/season001/"><i>Writing Excuses</i> podcast</a>!)
           </small>
         </p>
 
