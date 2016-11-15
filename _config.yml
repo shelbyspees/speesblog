@@ -24,8 +24,8 @@ sass:
 
 social:
   - name:         shelbyspees.com
-    url:          http://shelbyspees.com/
-    icon:         shelbyspees.com <i class="fa fa-external-link"></i>
+    url:          http://shelbyspees.com/resume
+    icon:         <i class="fa fa-th-list"></i>
     external:     true
   - name:         linkedin
     url:          http://linkedin.com/in/shelbyspees
