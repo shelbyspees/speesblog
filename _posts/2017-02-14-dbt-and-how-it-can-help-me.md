@@ -30,4 +30,6 @@ The concepts in DBT are pretty straightforward but it's very difficult in practi
 
 Now imagine trying to meditate on a roller coaster or during a wrestling match. That's what it feels like trying to use these skills in the midst of an overwhelming emotional episode.
 
-So we practice the skills in less stressful contexts and after a while it becomes automatic, like how your posture gradually improves from lifting weights. With these new skills, the overwhelming emotions become less overwhelming and it's easier to work toward that big goal, building a life worth living.
+So we practice the skills in less stressful contexts and after a while it becomes automatic, like how your posture gradually improves from lifting weights.
+
+With these new skills, the overwhelming emotions become less overwhelming and it's easier to work toward that big goal, building a life worth living.
