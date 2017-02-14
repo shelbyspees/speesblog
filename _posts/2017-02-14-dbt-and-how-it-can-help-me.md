@@ -32,4 +32,4 @@ Now imagine trying to meditate on a roller coaster or during a wrestling match. 
 
 So we practice the skills in less stressful contexts and after a while it becomes automatic, like how your posture gradually improves from lifting weights.
 
-With these new skills, the overwhelming emotions become less overwhelming and it's easier to work toward that big goal, building a life worth living.
+With these new skills, the overwhelming emotions become less overwhelming and it's easier to work toward that big goal: Building a life worth living.
