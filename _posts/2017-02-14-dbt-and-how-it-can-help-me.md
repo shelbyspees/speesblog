@@ -7,7 +7,7 @@ DBT stands for [dialectical behavior therapy](https://en.wikipedia.org/wiki/Dial
 
 A [dialectic](https://en.wikipedia.org/wiki/Dialectic) is a philosophy concept dealing with opposite ideas that can be simultaneously true. The opposites in DBT are *acceptance* and *change*.
 
-Radical acceptance in DBT teaches to "acknowledge your present situation, whatever it is, without judging the events or criticizing yourself." The change comes in the form of learning new skills and changing behaviors in order to work toward your goals. The ultimate goal in DBT is "building a life worth living."
+Radical acceptance in DBT teaches to "acknowledge your present situation, whatever it is, without judging the events or criticizing yourself." The change comes in the form of learning new skills and changing behaviors in order to work toward your goals. The ultimate goal in DBT is *building a life worth living*.
 
 The [Dialectical Behavior Therapy Skills Workbook](https://www.amazon.com/Dialectical-Behavior-Therapy-Skills-Workbook-ebook/dp/B0041D8UWM/ref=mt_kindle?_encoding=UTF8&me=) explains that DBT is "extraordinarily effective at helping people manage overwhelming emotions."
 
