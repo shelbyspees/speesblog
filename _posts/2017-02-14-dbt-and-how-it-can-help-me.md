@@ -3,9 +3,11 @@ layout: post
 title: DBT and how it can help me
 ---
 
-DBT stands for [dialectical behavior therapy](https://en.wikipedia.org/wiki/Dialectical_behavior_therapy). A [dialectic](https://en.wikipedia.org/wiki/Dialectic) is a philosophy concept dealing with opposite ideas that can be simultaneously true.
+DBT stands for [dialectical behavior therapy](https://en.wikipedia.org/wiki/Dialectical_behavior_therapy).
 
-The opposites in DBT are *acceptance* and *change*. Radical acceptance in DBT teaches to "acknowledge your present situation, whatever it is, without judging the events or criticizing yourself." The change comes in the form of learning new skills and changing behaviors in order to work toward your goals. The ultimate goal in DBT is "building a life worth living."
+A [dialectic](https://en.wikipedia.org/wiki/Dialectic) is a philosophy concept dealing with opposite ideas that can be simultaneously true. The opposites in DBT are *acceptance* and *change*.
+
+Radical acceptance in DBT teaches to "acknowledge your present situation, whatever it is, without judging the events or criticizing yourself." The change comes in the form of learning new skills and changing behaviors in order to work toward your goals. The ultimate goal in DBT is "building a life worth living."
 
 The [Dialectical Behavior Therapy Skills Workbook](https://www.amazon.com/Dialectical-Behavior-Therapy-Skills-Workbook-ebook/dp/B0041D8UWM/ref=mt_kindle?_encoding=UTF8&me=) explains that DBT is "extraordinarily effective at helping people manage overwhelming emotions."
 
@@ -18,6 +20,7 @@ I am one of these people. While I can be very logical and practical at times, I'
 My personal theory is that the hypersensitivity is just another trait, or maybe it's an aspect of my ADHD. More importantly, I'm pretty sure this hypersensitivity is what makes me so prone to depression. It's [widely accepted](http://highlysensitive.org/highly-sensitive-people-and-depression-overstimulation-may-lead-to-depression/) that highly sensitive people, especially artists, writers, and musicians, experience depression at a higher rate than the average population.
 
 DBT teaches skills to help people manage these overwhelming emotions:
+
 - distress tolerance
 - mindfulness
 - emotion regulation
