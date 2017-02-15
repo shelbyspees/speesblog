@@ -4,13 +4,13 @@ title: "How to be a Programmer: A Reference"
 category: career
 ---
 
-I'm listing here the sections of Robert L. Read's 2002 essay ["How to be a Programmer"](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) because they can act as a sort of checklist for the growing software developer as she develops her skillset and career.
+I've listed the sections of Robert L. Read's 2002 essay ["How to be a Programmer"](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) as a reference.
 
-To quote from Read's introduction:
+It can act as a sort of checklist for the growing software developer as she develops her skillset and career. Definitely go read [the original essay](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) and the linked resources below when you get the chance. To quote from Read's introduction:
 
->The excellent books: The Pragmatic Programmer [Prag99], Code Complete [CodeC93], Rapid Development [RDev96], and Extreme Programming Explained [XP99] all teach computer programming and the larger issues of being a good programmer. The essays of Paul Graham[PGSite] and Eric Raymond[Hacker] should certainly be read before or along with this article. **This essay differs from those excellent works by emphasizing social problems and comprehensively summarizing the entire set of necessary skills as I see them.**
+> The excellent books: [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE/ref=mt_kindle?_encoding=UTF8&me=), [Code Complete](https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1487199763&sr=1-1&keywords=code+complete), [Rapid Development](https://www.amazon.com/Rapid-Development-Developer-Best-Practices-ebook/dp/B00JDMPOB6/ref=pd_sim_351_10?_encoding=UTF8&psc=1&refRID=TC8R4Y9G2RRKNMX88ZSY), and [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1487199808&sr=1-1&keywords=extreme+programming+explained) all teach computer programming and the larger issues of being a good programmer. The essays of [Paul Graham](http://www.paulgraham.com/articles.html) and [Eric Raymond](http://www.catb.org/esr/writings/) should certainly be read before or along with this article. ***This essay differs from those excellent works by emphasizing social problems and comprehensively summarizing the entire set of necessary skills as I see them.***
 
-Definitely go read [the original](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) when you get the chance.
+Over time I may add links to additional resources on these topics.
 
 ## Beginner
 
