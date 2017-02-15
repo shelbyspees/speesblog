@@ -171,7 +171,7 @@ I wanted control over something, anything. So I'd act irresponsibly on purpose.
 
 Mental health professionals often discuss control re: anorexia, OCD, and other mental illness. Mentally ill people often find illogical ways to feel like they have control over their illogical world ([1](http://www.counselling-directory.org.uk/counsellor-articles/when-the-sun-breaks-down-eating-disorders-and-the-issue-of-control), [2](http://psychcentral.com/lib/obsessive-compulsive-disorder-and-uncertainty/), see also: [poverty brain](http://www.theatlantic.com/business/archive/2013/11/your-brain-on-poverty-why-poor-people-seem-to-make-bad-decisions/281780/)).
 
-I needed some level of control control. So I'd indulge every day. Clothes and makeup I didn't need. Dining out when I could cook at home. Four or five pints of ice cream a week. I gained thirty pounds between February 2015 and February 2016. Half of those pounds happened December to January.
+I needed some level of control. So I'd indulge every day. Clothes and makeup I didn't need. Dining out when I could cook at home. Four or five pints of ice cream a week. I gained thirty pounds between February 2015 and February 2016. Half of those pounds happened December to January.
 
 My self-preservation instinct was gone. I became so depressed. By January and February I was thinking about being dead pretty much all the time.
 
